@@ -1,0 +1,1057 @@
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "低频重复经颅磁刺激联合虚拟现实技术训练治疗脑卒中偏瘫运动功能障碍的研究",
+    "状态": "正常",
+    "发表期刊": "中国康复",
+    "刊发时间": "2024-07-25",
+    "引用量": "2",
+    "下载量": "310",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李强",
+            "author_addresses": [
+                "衡水市人民医院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "杜雪松",
+            "author_addresses": [
+                "衡水学院体育系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张梅",
+            "author_addresses": [
+                "衡水市人民医院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "39 ",
+    "期(Issue)": "07",
+    "摘要": " 目的:探讨低频重复经颅磁刺激(rTMS)联合虚拟现实(VR)技术训练在脑卒中偏瘫患者中的应用效果。方法:选取108例脑卒中偏瘫患者，随机分为rTMS、VR组、联合组，每组各36例。3组均采取常规综合治疗，在此基础上，rTMS组给予低频rTMS,VR组给予VR技术训练，联合组给予rTMS联合VR技术训练，干预时间均为4周。比较3组干预前后身体压力中心摆动指标(身体摆动长度、摆动面积、平均速度)、稳定极限(LOS)、Fugl-Meyer运动功能评价量表(FMA)和Barthel指数评定量表(BI)、患肢身体成分相关指标(浮肿指数、肌肉力量、骨骼肌指数)、脑血流量(CBF)、美国国立卫生研究院卒中量表(NIHSS)、蒙特利尔认知评估量表(MoCA)、里弗米德行为记忆试验评价表(RBMT)评分变化情况。结果:治疗4周后，3组患者睁眼时、闭眼时身体摆动长度、摆动面积、平均速度较前均降低，且联合组低于VR组，VR组低于rTMS组(均P&lt;0.05);3组LOS结果均升高，且联合组高于VR组，VR组高于rTMS组(均P&lt;0.05);3组FMA、BI评分均升高，且联合组高于VR组，VR组高于rTMS组(均P&lt;0.05);3组浮肿指数均降低，且联合组、VR组均低于rTMS组(均P&lt;0.05),3组上肢肌肉力量、骨骼肌指数均升高，且联合组、VR组高于rTMS组(均P&lt;0.05);3组CBF均升高，且联合组高于rTMS组，rTMS组高于VR组(均P&lt;0.05);3组NIHSS评分均降低，且联合组低于rTMS组，rTMS组低于VR组；3组MoCA、RBMT评分均升高，且联合组高于rTMS组，rTMS组高于VR组(均P&lt;0.05)。结论:rTMS联合VR技术训练能改善脑卒中偏瘫患者运动功能，提高身体稳定性，恢复神经认知功能及脑血流量，提高患者生活自理能力。",
+    "关键词": [
+        "重复经颅磁刺激",
+        "VR技术训练",
+        "脑卒中偏瘫",
+        "运动功能障碍",
+        "脑血流量"
+    ],
+    "基金资助": [
+        "河北省卫健委2020年度医学科学研究课题计划(20200403)"
+    ],
+    "专辑": "医药卫生科技",
+    "专题": "临床医学;神经病学",
+    "分类号": "R743.3;R493",
+    "页码": "387-392",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:19:41",
+    "论文唯一代码": "ZLKF202407001"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "晋察冀战线剧社发展简史",
+    "状态": "正常",
+    "发表期刊": "大众文艺",
+    "刊发时间": "2024-07-25",
+    "引用量": "0",
+    "下载量": "39",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘光展",
+            "author_addresses": [
+                "衡水学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李洁",
+            "author_addresses": [
+                "河北省群众艺术馆"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "14",
+    "摘要": " 晋察冀根据地一分区是我党先驱杨成武将军领导的晋察冀最早建立、战斗最强、地跨河北和察哈尔省的著名敌后分战区。一分区的宣传机构为战线剧社，是由红军时期走来的思想宣传队伍。战线剧社是紧紧跟随杨成武整个革命生涯的宣传部队，从瑞金到长征，从延安到晋察冀，从解放战争到新中国建立。其具有一定的思想宣传能力，对我党革命事业有一定作用，创作的作品丰富了我党我军和群众的文化生活，是晋察冀根据地思想文化宣传队伍中的典范。",
+    "关键词": [
+        "晋察冀",
+        "一分区",
+        "战线剧社"
+    ],
+    "基金资助": [
+        "2021-2022年度河北省高等教育教学改革研究与实践项目,课题编号：2021GJJG534",
+        "衡水学院2021年度教育教学改革研究与实践项目,项目编号：jg2021003"
+    ],
+    "专辑": "哲学与人文科学",
+    "专题": "戏剧电影与电视艺术;中国近现代史",
+    "分类号": "J809.2;K269.5",
+    "页码": "7-9",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:19:48",
+    "论文唯一代码": "DZLU202414003"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "刘仕伟/中国画",
+    "状态": "正常",
+    "发表期刊": "文艺理论与批评",
+    "刊发时间": "2024-07-24",
+    "引用量": "0",
+    "下载量": "20",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘仕伟",
+            "author_addresses": [
+                "衡水学院美术学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "04",
+    "摘要": " &lt;正&gt;~~",
+    "关键词": [],
+    "基金资助": [],
+    "专辑": "哲学与人文科学",
+    "专题": "美术书法雕塑与摄影",
+    "分类号": "J222",
+    "页码": "200-201",
+    "页数": "2",
+    "爬取时间": "2025-03-26 06:19:57",
+    "论文唯一代码": "WAVE202404028"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "基于D-S证据理论的多智能体系统冲突数据融合机制研究",
+    "状态": "正常",
+    "发表期刊": "重庆大学学报",
+    "刊发时间": "2024-07-19 10:28",
+    "引用量": "0",
+    "下载量": "325",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王娜",
+            "author_addresses": [
+                "衡水学院数学与计算机科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘静渝",
+            "author_addresses": [
+                "重庆大学大数据与软件学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李皓然",
+            "author_addresses": [
+                "中国电子科技集团公司第二十九研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "夏晓峰",
+            "author_addresses": [
+                "重庆大学大数据与软件学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "xiaxiaofeng@cqu.edu.cn"
+        }
+    ],
+    "年份": "2025",
+    "卷(Volume)": "48 ",
+    "期(Issue)": "02",
+    "摘要": " 多智能体信息融合（multi-agent information fusion,MAIF）系统主要面向多个智能体之间的信息融合、调节、交流和矛盾处理。研究针对数据高度冲突条件下的D-S证据理论失效问题，提出一种将重构的基本概率分配和信念熵相结合的多智能体系统冲突数据融合方法。该方法使用重构的基本概率分配和信念熵修正证据的可靠性，获得更合理的证据，使用Dempster组合规则将证据进行融合得到结果，在2个实验中均得到了超过90%的置信度。实验表明了该方法的有效性，提高了MAIF系统辨识过程的精度。",
+    "关键词": [
+        "基本概率分配",
+        "熵",
+        "D-S证据理论",
+        "多智能体",
+        "信息融合"
+    ],
+    "基金资助": [
+        "成都市区域科技创新合作项目（2023-YF11-00018-HZ）",
+        "国家自然科学基金（62372075）~~"
+    ],
+    "专辑": "工程科技Ⅱ辑;信息科技",
+    "专题": "自动化技术",
+    "分类号": "TP18",
+    "页码": "22-34",
+    "页数": "13",
+    "爬取时间": "2025-03-26 06:20:05",
+    "论文唯一代码": "FIVE202502003"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "TC4钛合金铣削温度参数自适应控制方法研究",
+    "状态": "正常",
+    "发表期刊": "工具技术",
+    "刊发时间": "2024-07-16",
+    "引用量": "0",
+    "下载量": "127",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘浩",
+            "author_addresses": [
+                "衡水学院机电研究所"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "58 ",
+    "期(Issue)": "07",
+    "摘要": " 传统的钛合金铣削温度参数PID控制方法无法实时反馈钛合金铣削过程中的温度变化情况，影响实际的铣削温度控制，降低钛合金铣削加工精度。对此，设计一种TC4钛合金铣削温度参数自适应控制方法，在铣削过程中建立TC4钛合金温度热模型，分析钛合金热产生区域，计算TC4钛合金不同变形区产生的能量，得到TC4钛合金铣削速度与温度之间的变化模型。基于热焓修正复合神经网络，在自适应温度控制中赋值系统参数以减少控制振动，得到铣削温度参数自适应控制框图，制定自适应模糊逼近调节规则对照表，完成TC4钛合金铣削温度参数自适应控制方法的研究。结果表明，与传统控制方法相比，设计的方法抗干扰能力更好，响应速度较快，跟随误差更小，即鲁棒性更强。",
+    "关键词": [
+        "TC4钛合金",
+        "铣削温度",
+        "自适应控制"
+    ],
+    "基金资助": [
+        "河北省高等学校科学技术研究项目(QN2018331)",
+        "衡水市科技计划项目(2019011014Z)"
+    ],
+    "专辑": "工程科技Ⅱ辑;工程科技Ⅰ辑",
+    "专题": "金属学及金属工艺",
+    "分类号": "TG54",
+    "页码": "138-141",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:20:11",
+    "论文唯一代码": "GJJS202407024"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "植物乳杆菌体外发酵藜麦水不溶性膳食纤维对肠道菌群及产短链脂肪酸的影响",
+    "状态": "正常",
+    "发表期刊": "食品科学",
+    "刊发时间": "2024-07-15",
+    "引用量": "5",
+    "下载量": "2311",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘心仪",
+            "author_addresses": [
+                "河北科技大学食品与生物学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "陈孟涵",
+            "author_addresses": [
+                "河北科技大学食品与生物学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李培实",
+            "author_addresses": [
+                "河北科技大学食品与生物学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张东东",
+            "author_addresses": [
+                "河北科技大学食品与生物学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "任媛媛",
+            "author_addresses": [
+                "河北科技大学食品与生物学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "史晨杉",
+            "author_addresses": [
+                "河北科技大学食品与生物学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "臧明伍",
+            "author_addresses": [
+                "中国肉类食品综合研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "张爱霞",
+            "author_addresses": [
+                "河北省农林科学院生物技术与食品科学研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 9,
+            "author_name": "韩俊华",
+            "author_addresses": [
+                "河北科技大学食品与生物学院",
+                "河北省湿地保护与绿色发展协同创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "teach2003@126.com"
+        },
+        {
+            "author_order": 10,
+            "author_name": "吴荣荣",
+            "author_addresses": [
+                "衡水学院生命科学学院",
+                "河北省湿地保护与绿色发展协同创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "rpkxw@126.com"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "45 ",
+    "期(Issue)": "13",
+    "摘要": " 为探究体外发酵藜麦水不溶性膳食纤维和外源添加乳酸菌对肠道菌群及短链脂肪酸（short-chain fatty acids,SCFAs）的影响，本研究采用粪便滤液和植物乳杆菌对藜麦水不溶性膳食纤维进行体外发酵，通过气相色谱测定产生的SCFAs含量，并通过16S rDNA测序分析菌群结构和丰度的变化。结果表明，藜麦水不溶性膳食纤维和植物乳杆菌的添加能够改变肠道菌群的结构和丰度。在门水平上，添加藜麦水不溶性膳食纤维和植物乳杆菌发酵12 h后都能够增加拟杆菌门的丰度；在属水平上，藜麦水不溶性膳食纤维增加了有益菌（普雷沃氏菌属）的丰度。与粪便滤液体外发酵藜麦水不溶性膳食纤维相比，外源添加植物乳杆菌组显著增加了SCFAs的产量。综上所述，植物乳杆菌体外发酵藜麦水不溶性膳食纤维能显著改变肠道菌群的丰富度和多样性，并且能够促进SCFAs的产生，有利于肠道健康。",
+    "关键词": [
+        "膳食纤维",
+        "体外发酵",
+        "肠道菌群",
+        "短链脂肪酸"
+    ],
+    "基金资助": [
+        "河北省湿地保护与绿色发展协同创新中心开放基金项目（2023hbxczx1-5）",
+        "河北省农林科学院科技创新专项（2022KJCXZX-SSS-1）"
+    ],
+    "专辑": "工程科技Ⅰ辑;基础科学",
+    "专题": "生物学;轻工业手工业",
+    "分类号": "TS201.3",
+    "页码": "138-145",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:20:23",
+    "论文唯一代码": "SPKX202413001"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "基于场景理论的武强木版年画数字文创设计路径",
+    "状态": "正常",
+    "发表期刊": "上海包装",
+    "刊发时间": "2024-07-15",
+    "引用量": "0",
+    "下载量": "175",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "高原",
+            "author_addresses": [
+                "衡水学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "07",
+    "摘要": " 京津冀协同发展背景下，依据场景理论提出具体的数字文创设计路径，以特定节日为切入点，提炼武强木版年画的文化内容并进行数字文创设计，以期为武强木版年画的传承与创新提供新的方法和路径。",
+    "关键词": [
+        "武强木版年画",
+        "数字文创设计",
+        "场景理论",
+        "文化IP"
+    ],
+    "基金资助": [
+        "河北省教育厅科学研究项目资助（SQ2024241）",
+        "河北省非物质文化遗产专项课题（2023FYZX01）",
+        "衡水学院校级课题（2023SKY02）"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "工业通用技术及设备",
+    "分类号": "TB472",
+    "页码": "130-133",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:20:32",
+    "论文唯一代码": "SHBZ202407029"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "玉米LysM基因家族的全基因组鉴定及表达模式分析",
+    "状态": "正常",
+    "发表期刊": "玉米科学",
+    "刊发时间": "2024-07-15",
+    "引用量": "0",
+    "下载量": "147",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "周贺",
+            "author_addresses": [
+                "河北农业大学生命科学学院/河北省农业微生物生物信息利用技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "孟岩",
+            "author_addresses": [
+                "河北农业大学生命科学学院/河北省农业微生物生物信息利用技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "尤龙腾",
+            "author_addresses": [
+                "河北农业大学生命科学学院/河北省农业微生物生物信息利用技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "魏淑珍",
+            "author_addresses": [
+                "衡水学院/河北省湿地生态与保护重点实验室/河北省湿地保护与绿色发展协同创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "巩校东",
+            "author_addresses": [
+                "河北农业大学生命科学学院/河北省农业微生物生物信息利用技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "谷守芹",
+            "author_addresses": [
+                "河北农业大学生命科学学院/河北省农业微生物生物信息利用技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "刘玉卫",
+            "author_addresses": [
+                "河北农业大学生命科学学院/河北省农业微生物生物信息利用技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "32 ",
+    "期(Issue)": "05",
+    "摘要": " 为揭示LysM基因家族在玉米生长发育及抗病中的作用，利用生物信息学方法对玉米LysM基因家族成员进行鉴定，并对其蛋白理化性质、亚细胞定位、系统发育关系、基因启动子区的顺式作用元件、组织表达以及大斑病菌侵染过程中的表达模式进行分析。结果表明，在玉米中共存在11个ZmLysM家族成员。通过生物信息学分析发现，ZmLysMs蛋白在质膜、叶绿体、胞外均有分布；ZmLysMs成员与单子叶植物水稻和小麦具有较近的亲缘关系；ZmLysMs成员的启动子序列存在多个激素响应、逆境胁迫响应和光响应元件；10个ZmLysMs成员在不同组织中表达，其中ZmLysM1、ZmLysM4和ZmLysM6呈组成性表达模式，ZmLysM10只在根组织中表达。ZmLysM2、ZmLysM6和ZmLysM7在玉米大斑病菌侵染后差异表达，推测其可能在响应大斑病菌侵染过程中发挥作用。",
+    "关键词": [
+        "玉米",
+        "LysM",
+        "发育",
+        "胁迫",
+        "表达模式"
+    ],
+    "基金资助": [
+        "国家自然科学基金项目(31671983)",
+        "河北省省属高校基本科研业务费研究项目(KY2021042)",
+        "河北省中央引导地方科技发展资金项目(216Z2902G)",
+        "现代农业产业技术体系专项(CARS-02)"
+    ],
+    "专辑": "农业科技",
+    "专题": "农作物",
+    "分类号": "S513",
+    "页码": "23-31",
+    "页数": "9",
+    "爬取时间": "2025-03-26 06:20:41",
+    "论文唯一代码": "YMKX202405002"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "红梨园中土壤及红梨叶片中重金属含量的研究",
+    "状态": "正常",
+    "发表期刊": "河北果树",
+    "刊发时间": "2024-07-15",
+    "引用量": "0",
+    "下载量": "25",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李晓英",
+            "author_addresses": "衡水学院生命科学学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘瑞云",
+            "author_addresses": "衡水学院生命科学学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王子叶",
+            "author_addresses": "衡水学院生命科学学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "袁东泽",
+            "author_addresses": "衡水学院生命科学学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "张叶",
+            "author_addresses": "衡水学院生命科学学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "张子涵",
+            "author_addresses": "衡水学院生命科学学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "郭静娴",
+            "author_addresses": "衡水学院生命科学学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "吴世凯",
+            "author_addresses": "衡水学院生命科学学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "wushikai@hsnc.edu.cn"
+        },
+        {
+            "author_order": 9,
+            "author_name": "王芳芳",
+            "author_addresses": "衡水学院生命科学学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 10,
+            "author_name": "梁魁景",
+            "author_addresses": "衡水学院生命科学学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "03",
+    "摘要": " 本试验选取武罗现代农业园红梨园为研究区对红梨园区中不同树龄、不同深度的土壤和叶片中铜、锌、铅、镉的含量进行研究。结果表明成龄园和幼龄园中铜在上层土（0～20 cm）和下层土（30～50 cm）中分布较均匀，土壤中铜含量大于叶片中铜含量；锌、镉含量分布都较不均匀，其中上层土（0～20 cm）&gt;下层土（30～50 cm）&gt;叶片；铅的分布也较不均匀，其下层土（30～50 cm）&gt;上层土（0～20 cm）&gt;叶片。成龄园和幼龄园中重金属含量并无明显差异。",
+    "关键词": [
+        "红梨园",
+        "土壤",
+        "叶片",
+        "重金属"
+    ],
+    "基金资助": [
+        "河北省现代农业产业技术体系建设专项资金（HBCT2024170403）",
+        "衡水学院高层次人才科研启动基金项目：藻类固定化技术在生态和农业领域的应用研究（2021GC14）"
+    ],
+    "专辑": "农业科技;工程科技Ⅰ辑",
+    "专题": "环境科学与资源利用;园艺",
+    "分类号": "X53;X173;S661.2",
+    "页码": "5-6",
+    "页数": "2",
+    "爬取时间": "2025-03-26 06:20:50",
+    "论文唯一代码": "HBGS202403003"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "3种中草药浸提液对梨黑斑病菌的拮抗筛选",
+    "状态": "正常",
+    "发表期刊": "河北果树",
+    "刊发时间": "2024-07-15",
+    "引用量": "0",
+    "下载量": "58",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "谢雨",
+            "author_addresses": [
+                "河北科技师范学院园艺学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王芳芳",
+            "author_addresses": [
+                "衡水学院生命科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "hsxy_ff01@163.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张世栋",
+            "author_addresses": [
+                "深州市农业农村局"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "侯晓杰",
+            "author_addresses": [
+                "衡水学院生命科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "宫俊良",
+            "author_addresses": [
+                "衡水市桃城区蔬菜技术推广站"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "03",
+    "摘要": " 本文采用菌丝生长速率法，以三七、铁皮石斛、小球藻3种中草药为试材，研究中草药单剂和复合剂配方对梨黑斑病病原菌菌丝生长的拮抗效果，以期筛选出抑菌效果最佳的浸提液单剂和复合剂。结果表明：单剂中小球藻在浓度为100 mg/mL时抑菌效果最好，与其他处理有显著差异，其抑菌率为68%，且随着浓度的降低，抑菌效果越差；其次为三七、铁皮石斛。复合剂中铁皮石斛、三七、小球藻（体积比1∶2∶3）浓度为100 mg/mL时，对梨黑斑病菌的抑制作用最好，抑菌率为69%，且小球藻比例越高，抑菌效果就越明显，其次分别为三七、铁皮石斛。由此可知复合剂中起决定作用的中草药从高到低为：小球藻&gt;三七&gt;铁皮石斛；而3种中草药配比相同时抑菌效果最弱，可能是因其抑菌效果相互抵消造成的。由此可知小球藻是防治梨黑斑病病菌潜在的植物资源，具有很大的研发前景。",
+    "关键词": [
+        "梨黑斑病",
+        "浸提液",
+        "中草药",
+        "拮抗"
+    ],
+    "基金资助": [
+        "2023年度衡水学院校级课题项目（2023ZRY18）2023年度衡水学院校级课题项目（2023ZRY11）",
+        "河北省现代农业产业技术体系梨产业创新团队建设衡水综合试验推广站项目（HBCT2024170403）"
+    ],
+    "专辑": "农业科技",
+    "专题": "植物保护;园艺",
+    "分类号": "S436.612.14",
+    "页码": "20-21+23",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:21:08",
+    "论文唯一代码": "HBGS202403009"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "“诸侯不再娶”与“惠公再娶”之间的理论张力分析",
+    "状态": "正常",
+    "发表期刊": "蚌埠学院学报",
+    "刊发时间": "2024-07-10",
+    "引用量": "0",
+    "下载量": "48",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "崔锁江",
+            "author_addresses": [
+                "衡水学院董仲舒与传统文化研究中心"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "13 ",
+    "期(Issue)": "04",
+    "摘要": " 春秋时代诸侯婚姻制度主要包括嫡夫人制、媵妾制、不再娶制。《公羊传》提出“诸侯不再娶”的义理，维护了嫡夫人制与嫡子继承制，防止出现废立之事。春秋多次出现因诸侯再娶造成的争位现象，《春秋》对此以不书进行避讳。《公羊传》提出“子以母贵、母以子贵”的理论进行灵活处理，后世学者肯定了“诸侯不再娶”的理论价值，这对于现代一夫一妻婚姻制度有所启示。",
+    "关键词": [
+        "《公羊传》",
+        "《春秋》",
+        "诸侯",
+        "惠公再娶",
+        "诸侯不再娶"
+    ],
+    "基金资助": [
+        "河北省社会科学发展研究课题(20230201021)",
+        "河北省教育厅人文社会科学研究重大课题攻关项目(ZD202328)"
+    ],
+    "专辑": "基础科学;社会科学Ⅱ辑;哲学与人文科学",
+    "专题": "中国古代史",
+    "分类号": "K225.04",
+    "页码": "20-26",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:21:16",
+    "论文唯一代码": "BBXY202404004"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "基于KANO-AHP的京津冀旅游文创产品评价指标体系构建",
+    "状态": "正常",
+    "发表期刊": "天工",
+    "刊发时间": "2024-07-05",
+    "引用量": "1",
+    "下载量": "121",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "高原",
+            "author_addresses": [
+                "衡水学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "19",
+    "摘要": " 基于KANO-AHP构建了包含27个指标的京津冀旅游文创产品需求评价体系，涵盖了美学设计、地域文化、品牌价值等多个维度。利用AHP层次分析法得出的各指标综合权重，为后续的文创设计与改进提供了量化依据。研究不仅为京津冀旅游文创产品的设计与开发提供了理论支持和实践指导，也为其他地域文旅协同提供了可借鉴的方法和思路。",
+    "关键词": [
+        "旅游文创产品",
+        "KANO模型",
+        "层次分析法(AHP)",
+        "需求指标评价体系",
+        "京津冀地区"
+    ],
+    "基金资助": [
+        "河北省教育厅科学研究项目（SQ2024241）",
+        "河北省非物质文化遗产专项课题（2023FYZX01）",
+        "衡水学院校级课题（2023SKY02）"
+    ],
+    "专辑": "哲学与人文科学;经济与管理科学",
+    "专题": "文化;旅游;文化经济",
+    "分类号": "F592.7;G124",
+    "页码": "46-49",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:21:23",
+    "论文唯一代码": "TGTG202419013"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "剂量表面积直方图对前列腺癌患者放射治疗后急性直肠炎的预测价值",
+    "状态": "正常",
+    "发表期刊": "解放军医学杂志",
+    "刊发时间": "2024-07-01 09:42",
+    "引用量": "0",
+    "下载量": "84",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "赵鑫",
+            "author_addresses": [
+                "河北北方学院附属第一医院放疗科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "杨梅柳",
+            "author_addresses": [
+                "衡水学院生命科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "zjkxhtl@126.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "郝晓慧",
+            "author_addresses": [
+                "河北北方学院附属第一医院放疗科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "魏天雄",
+            "author_addresses": [
+                "河北北方学院附属第一医院放疗科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "张琪",
+            "author_addresses": [
+                "河北北方学院附属第一医院放疗科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "常浩宇",
+            "author_addresses": [
+                "河北北方学院附属第一医院放疗科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "武秀霞",
+            "author_addresses": [
+                "河北北方学院附属第一医院放疗科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2025",
+    "卷(Volume)": "50 ",
+    "期(Issue)": "01",
+    "摘要": " 目的 评价剂量表面积直方图（DSH）对前列腺癌（PCa）患者急性放射性直肠炎（RP）的预测价值。方法 本研究为前瞻性随机对照临床研究。收集2018年1月-2023年1月河北北方学院附属第一医院放疗科收治的380例PCa患者，采用抽签法随机分为观察组（n=200）与对照组（n=180）。采用DSH评价观察组直肠剂量分布，剂量体积直方图（DVH）评价对照组直肠剂量分布。采用受试者操作特征（ROC）曲线评价两种计划评价工具对急性RP的预测效能。结果 两组年龄、RPS评分、体重指数（BMI）等临床资料比较差异均无统计学意义（P&gt;0.05）。两组急性RP级别比较差异无统计学意义（P&gt;0.05）。两组S<sub>40</sub>与V<sub>40</sub>、S<sub>50</sub>与V<sub>50</sub>、S<sub>60</sub>与V<sub>60</sub>、S<sub>70</sub>与V<sub>70</sub>、S<sub>78</sub>与V<sub>78</sub>比较差异均有统计学意义（P&lt;0.001）。S<sub>40</sub>、S<sub>50</sub>、V<sub>40</sub>、V<sub>50</sub>预测各级急性RP的曲线下面积（AUC）≤0.700，提示低等效能（P&lt;0.001）,S<sub>60</sub>、V<sub>60</sub>预测各级急性RP的AUC为0.700～0.900，提示中等效能（P&lt;0.001）,S<sub>70</sub>、S<sub>78</sub>、V<sub>70</sub>、V<sub>78</sub>预测各级急性RP的AUC&gt;0.900，提示高等效能（P&lt;0.001）。结论 DSH对PCa患者直肠毒性的预测效能与DVH较为相似，在未来放射治疗计划设计中可弥补DVH的不足或单独用于计划评价。",
+    "关键词": [
+        "剂量表面积直方图",
+        "前列腺癌",
+        "直肠毒性",
+        "预测"
+    ],
+    "基金资助": [
+        "河北省医学科学研究课题计划项目(20241010)~~"
+    ],
+    "专辑": "医药卫生科技",
+    "专题": "泌尿科学;肿瘤学",
+    "分类号": "R737.25",
+    "页码": "44-49",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:21:31",
+    "论文唯一代码": "JFJY202501007"
+}

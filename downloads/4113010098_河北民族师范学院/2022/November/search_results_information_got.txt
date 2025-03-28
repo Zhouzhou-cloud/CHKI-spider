@@ -1,0 +1,855 @@
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "以成果为导向的学习活动教学设计",
+    "状态": "正常",
+    "发表期刊": "高教发展与评估",
+    "刊发时间": "2022-11-30",
+    "引用量": "71",
+    "下载量": "2923",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "孙海民",
+            "author_addresses": [
+                "河北民族师范学院数学与计算机科学学院",
+                "河北省文化旅游大数据技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "蔡永华",
+            "author_addresses": [
+                "河北民族师范学院数学与计算机科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李秀云",
+            "author_addresses": [
+                "河北民族师范学院数学与计算机科学学院",
+                "河北省文化旅游大数据技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "玄友珍",
+            "author_addresses": [
+                "河北民族师范学院附属中学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "38 ",
+    "期(Issue)": "06",
+    "摘要": " 以学习活动为中心的教学设计理论认为教学系统是由学习活动构成的，学习活动是教学设计的基本单位。学习活动为成果导向教育理念在课堂教学层面落地提供了实现方式，它有助于实现学习成果的持久性、深度性；对学习活动及其学习行为评价的量化，有助于实现学习成果的过程性评价。为此，基于活动理论的学习活动理论、学习活动结构理论和学习行为理论，是成果导向教育理念的学习活动教学设计的理论基础。构建学习活动模型、学习活动结构模型和C-I-S学习行为分类的过程中，课堂教学以学习成果为中心，学习过程以学习活动为中心，学习评价以学习行为为中心。",
+    "关键词": [
+        "OBE理念",
+        "学习成果",
+        "课堂教学",
+        "教学设计",
+        "学习行为"
+    ],
+    "基金资助": [
+        "2018-2019年河北省高等教育教学改革研究与实践项目“CDIO理念下地方本科高校计算机科学与技术专业软件开发课程群建设”（2018GJJG499）",
+        "第二批河北省新工科研究与实践项目“面向承德大数据产业急需的现代产业学院建设探索与实践”（2020GJXGK052）",
+        "2020-2021年度河北省高等教育教学改革研究与实践项目“新工科背景下大数据专业集群建设的实践课程模式改革与实践”（2020GJJG386）"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "教育理论与教育管理",
+    "分类号": "G420",
+    "页码": "99-111+123-124",
+    "页数": "15",
+    "爬取时间": "2025-03-26 05:56:15",
+    "论文唯一代码": "JTGY202206010"
+}
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "磷酸钒锂正极材料粒径控制与电化学性能研究",
+    "状态": "正常",
+    "发表期刊": "电源技术",
+    "刊发时间": "2022-11-20",
+    "引用量": "1",
+    "下载量": "316",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "陈鸿利",
+            "author_addresses": [
+                "河北民族师范学院",
+                "承德市钒钛材料清洁生产工程技术研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王静钰",
+            "author_addresses": [
+                "河北民族师范学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "徐悦",
+            "author_addresses": [
+                "河北民族师范学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "李梦瑶",
+            "author_addresses": [
+                "河北民族师范学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "孔嘉莉",
+            "author_addresses": [
+                "河北民族师范学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "46 ",
+    "期(Issue)": "11",
+    "摘要": " 采用Li<sub>2</sub>CO<sub>3</sub>、V<sub>2</sub>O<sub>5</sub>、NH<sub>4</sub>H<sub>2</sub>PO<sub>4</sub>为主要原料，以蔗糖、柠檬酸为混合碳源，无水乙醇为分散剂，经球磨制得前驱体，在N<sub>2</sub>保护下高温烧制，得到碳包覆磷酸钒锂正极材料。进行了球磨时长与前驱体粒径对比、气氛烧制时长与目标材料粒径对比、目标材料粒径与电化学性能的对比研究。系列XRD、SEM、粒径表征以及比容量、循环和倍率等电化学测试表明，在一定球料比以及转速下，球磨时长9 h，前驱体粒径分布较理想；800℃气氛烧制时长16 h，目标材料粒径分布更理想，且材料的比容量、循环性能、倍率性能等综合电化学性能更好。",
+    "关键词": [
+        "磷酸钒锂",
+        "正极材料",
+        "粒径控制",
+        "比容量",
+        "倍率性能"
+    ],
+    "基金资助": [
+        "河北民族师范学院2021年度重大招标项目(ZD2021001)"
+    ],
+    "专辑": "工程科技Ⅱ辑;工程科技Ⅰ辑",
+    "专题": "无机化工",
+    "分类号": "TQ131.11",
+    "页码": "1242-1244",
+    "页数": "3",
+    "爬取时间": "2025-03-26 05:56:49",
+    "论文唯一代码": "DYJS202211006"
+}
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "基于拓扑优化的军用单兵外骨骼装备设计研究",
+    "状态": "正常",
+    "发表期刊": "包装工程",
+    "刊发时间": "2022-11-20",
+    "引用量": "6",
+    "下载量": "986",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张帆",
+            "author_addresses": [
+                "北京理工大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "高越",
+            "author_addresses": [
+                "北京理工大学",
+                "河北民族师范学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "巩超",
+            "author_addresses": [
+                "北京理工大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "22",
+    "摘要": " 目的 以构建人机协调、轻量化的外骨骼设计为目标，探索拓扑优化在军用单兵外骨骼设计领域的应用和方法。方法 通过分析外骨骼装备的使用需求和现有装备的设计特点，结合人体工学和运动学理论提出军用单兵外骨骼装备的设计方向，将拓扑优化方法引入外骨骼装备前期造型设计阶段，建立以形态结构优化为先导的设计流程，并应用于军用单兵外骨骼装备设计。结果 基于人体运动自由度和步态，设计了具备拓扑优化造型的军用单兵外骨骼装备。装备部件经过优化后，在结构性能较为理想的同时，自重显著降低、装备可穿戴性好，且能够提供有效的负重辅助和可观的运动助力，达到了设计预定指标。结论 拓扑优化设计方法能够满足人机协调运动机构和高比强度造型结构的外骨骼装备设计要求；基于该方法设计的单兵外骨骼装备具有良好的军事应用前景。",
+    "关键词": [
+        "军用单兵外骨骼",
+        "拓扑优化",
+        "人机协调",
+        "轻量化设计"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "武器工业与军事技术",
+    "分类号": "TJ5",
+    "页码": "1-8",
+    "页数": "8",
+    "爬取时间": "2025-03-26 05:57:09",
+    "论文唯一代码": "BZGC202222001"
+}
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "河北省公共卫生人才队伍建设问题及对策研究——以承德市卫生人才队伍建设为例",
+    "状态": "正常",
+    "发表期刊": "数据",
+    "刊发时间": "2022-11-15",
+    "引用量": "3",
+    "下载量": "265",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "鞠安琪",
+            "author_addresses": [
+                "河北民族师范学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李夏",
+            "author_addresses": [
+                "河北民族师范学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王佳慧",
+            "author_addresses": [
+                "河北民族师范学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "郭霖川",
+            "author_addresses": [
+                "河北民族师范学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "梁海燕",
+            "author_addresses": [
+                "承德高新区凤凰山小学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "11",
+    "摘要": " 健康中国发展这一战略对基层公共卫生工作带来了新的挑战与机遇，优秀的公共卫生人才队伍是基层公共卫生工作持续健康发展的保障。承德市疾病预防控制中心是基层公共卫生工作的主要承担单位，本文通过问卷调查和访谈方式，发现它存在人员结构比例失衡、培训规划不完整、人员激励机制不健全等问题。因此针对以上问题，提出了提高公卫人才质量、降低职称评定难度、完善公卫培训体系、创新公卫培训模式、提升公卫薪酬待遇、健全公卫绩效机制等对策，为河北省其他城市基层公共卫生队伍高质量建设提供借鉴。",
+    "关键词": [
+        "公共卫生",
+        "人才队伍",
+        "队伍建设"
+    ],
+    "基金资助": [
+        "2022年度河北省人力资源和社会保障研究课题：后疫情时代河北省公共卫生人才队伍建设问题及对策研究——以承德市卫生人才队伍建设为例（JRS-2022-3117）"
+    ],
+    "专辑": "社会科学Ⅱ辑;医药卫生科技",
+    "专题": "医药卫生方针政策与法律法规研究",
+    "分类号": "R197.1",
+    "页码": "58-60",
+    "页数": "3",
+    "爬取时间": "2025-03-26 05:57:25",
+    "论文唯一代码": "BJTJ202211017"
+}
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "民族音乐文化在高校音乐教育教学中的传承与发展",
+    "状态": "正常",
+    "发表期刊": "民族高等教育研究",
+    "刊发时间": "2022-11-15",
+    "引用量": "5",
+    "下载量": "192",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "丹珠尔",
+            "author_addresses": "河北民族师范学院音乐与舞蹈学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "包苏丹",
+            "author_addresses": "河北民族师范学院音乐与舞蹈学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "10 ",
+    "期(Issue)": "06",
+    "摘要": " 作为中华优秀传统文化中的重要组成部分的民族音乐文化，不仅承载着中华民族的历史文化、艺术特色、社会价值和精神追求，还具有历史悠久、形式多样和内容丰富等特色，其影响广泛、深远。中国传统文化土壤培育了独具特色的民族音乐文化，在世界音乐文化领域占有重要地位，为人类文明的进步做出了卓越贡献。民族音乐文化依托的民族音乐学作为高校音乐教育的主干课程，既包含中国传统音乐（包括中国民族民间音乐）知识，又涵盖现代音乐技能，对国家实施素质教育产生积极影响。在高校音乐教育中融入民族音乐文化元素，有利于民族音乐学课堂教学和实践环节的改革创新。对保护、传承我国非物质文化遗产、助推社会主义精神文明建设、铸牢中华民族共同体意识、促进各民族交往交流交融等具有较强现实意义。",
+    "关键词": [
+        "高校音乐教育",
+        "民族音乐学",
+        "民族音乐文化",
+        "传承与发展"
+    ],
+    "基金资助": [
+        "2020年度国家民委课题“民族音乐文化传承发展研究”（项目编号：2020—GMD—091）的阶段性成果"
+    ],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学",
+    "专题": "音乐舞蹈;高等教育",
+    "分类号": "J60-4;G642.4",
+    "页码": "82-86",
+    "页数": "5",
+    "爬取时间": "2025-03-26 05:57:35",
+    "论文唯一代码": "MGJY202206015"
+}
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "生物质炭的制备及其在重金属污染农田土壤修复中的应用",
+    "状态": "正常",
+    "发表期刊": "现代化农业",
+    "刊发时间": "2022-11-15",
+    "引用量": "5",
+    "下载量": "1240",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "薛忠财",
+            "author_addresses": [
+                "河北民族师范学院资源与环境科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王冶",
+            "author_addresses": [
+                "河北民族师范学院资源与环境科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "孙继朝",
+            "author_addresses": [
+                "河北江尚环境治理集团有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "赵秋国",
+            "author_addresses": [
+                "河北江尚环境治理集团有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "邓朝文",
+            "author_addresses": [
+                "承德市矿产资源评审中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "11",
+    "摘要": " 生物质炭是不同生物质原料在限氧条件下经过高温热解后的固体产物,由于其表面积较大、吸附能力较强,已经被作为一种绿色可再生的新型环境功能材料,在重金属污染土壤的修复中得到广泛的应用,取得了一定的研究成果。本文基于我国重金属污染农田安全利用与修复的背景,对生物质炭的制备工艺以及其在土壤修复中的应用现状进行了综述,总结了影响生物质炭对重金属污染土壤修复效果的主要因素,对今后的研究方向进行了展望。",
+    "关键词": [
+        "生物质炭",
+        "重金属污染",
+        "土壤修复",
+        "应用潜力"
+    ],
+    "基金资助": [
+        "河北民族师范学院校级科研项目(ST2021001)",
+        "河北省重点研发计划项目(21326401D21327409D)"
+    ],
+    "专辑": "农业科技;工程科技Ⅰ辑",
+    "专题": "环境科学与资源利用",
+    "分类号": "X53",
+    "页码": "15-19",
+    "页数": "5",
+    "爬取时间": "2025-03-26 05:57:45",
+    "论文唯一代码": "XDHY202211004"
+}
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "基于OBE的科学教育专业《环境科学》教学改革探索",
+    "状态": "正常",
+    "发表期刊": "云南化工",
+    "刊发时间": "2022-11-15",
+    "引用量": "0",
+    "下载量": "194",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "孙艳文",
+            "author_addresses": "河北民族师范学院化学与化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "陈震",
+            "author_addresses": "河北民族师范学院化学与化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "867456899@qq.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王晓忠",
+            "author_addresses": "河北民族师范学院化学与化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张伟亚",
+            "author_addresses": "河北民族师范学院化学与化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "李泽贤",
+            "author_addresses": "河北民族师范学院化学与化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "49 ",
+    "期(Issue)": "11",
+    "摘要": " 《环境科学》是科学教育专业的一门专业核心课。以科学教育专业为例，分析了《环境科学》改革的必要性，基于OBE教学理念，从教学目标、教学内容、教学方法、学习评价体系和课程思政等方面对《环境科学》进行了改革探索，旨在提高课程达成度，提高科学教育专业学生在小学科学教学中与环境教育相关的专业素养和综合能力。",
+    "关键词": [
+        "《环境科学》课程",
+        "OBE教学理念",
+        "科学教育专业"
+    ],
+    "基金资助": [
+        "2021-2022年校级教育教学改革研究与实践项目“基于OBE理念的科学教育专业环境科学课程教学改革与实践”(2021XJJG21638)"
+    ],
+    "专辑": "工程科技Ⅰ辑;社会科学Ⅱ辑",
+    "专题": "环境科学与资源利用;高等教育",
+    "分类号": "X1-4;G652.0",
+    "页码": "179-181",
+    "页数": "3",
+    "爬取时间": "2025-03-26 05:57:55",
+    "论文唯一代码": "YNHG202211050"
+}
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "地铁车站装饰设计中美术元素符号的应用",
+    "状态": "正常",
+    "发表期刊": "城市轨道交通研究",
+    "刊发时间": "2022-11-10",
+    "引用量": "0",
+    "下载量": "86",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "吴丹萍",
+            "author_addresses": "河北民族师范学院美术与设计学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "杨连术清",
+            "author_addresses": "河北民族师范学院美术与设计学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "25 ",
+    "期(Issue)": "11",
+    "摘要": " &lt;正&gt;地铁是市民出行中不可或缺的公共交通工具。一些城市的地铁线网四通八达,为市民出行提供了极大的便利。每个城市的地铁车站在有效满足客运功能需求的同时,也会利用多元化的装饰设计,为乘客们带来风格迥异、各具特色的视觉盛宴。在地铁车站的装饰设计中,不同美术元素符号都有着特殊的意义。本文通过对美术元素符号的简要介绍,分析美术元素符号在地铁车站装饰设计中的应用以及应用原则,期冀为地铁车站装饰设计的未来发展提供更多可能性。",
+    "关键词": [],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "铁路运输;建筑科学与工程",
+    "分类号": "U231.4;TU921",
+    "页码": "173-174",
+    "页数": "2",
+    "爬取时间": "2025-03-26 05:58:02",
+    "论文唯一代码": "GDJT202211047"
+}
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "发达国家科技人才发展战略的启示——以河北省为例",
+    "状态": "正常",
+    "发表期刊": "人才资源开发",
+    "刊发时间": "2022-11-10",
+    "引用量": "1",
+    "下载量": "296",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张永利",
+            "author_addresses": [
+                "河北师范大学",
+                "河北民族师范学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "房健",
+            "author_addresses": [
+                "河北民族师范学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "21",
+    "摘要": " &lt;正&gt;人才是科技创新的载体和根基，是各层面、各领域提升发展主动权和竞争主导权的核心要素，是第一战略资源。党的十九大明确提出，人才是实现民族振兴、赢得国际竞争主动的战略资源，将“人才强国战略”视为七大战略的核心支撑；2021年召开的中央人才工作会议首次将人才工作提升到中央层面，将人才工作推向历史新高度。目前，河北省正处于加快建设现代化经济强省、美丽河北的关键期，面对激烈的竞争形势、",
+    "关键词": [],
+    "基金资助": [
+        "河北省创新能力提升计划项目“河北省激发人才创新创造活力研究”,项目编号：21557613D"
+    ],
+    "专辑": "经济与管理科学;社会科学Ⅱ辑",
+    "专题": "人才学与劳动科学",
+    "分类号": "C964.2",
+    "页码": "12-15",
+    "页数": "4",
+    "爬取时间": "2025-03-26 05:58:09",
+    "论文唯一代码": "XZRG202221005"
+}
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "生涯规划视域下高校毕业生“慢就业”生成逻辑与干预机制",
+    "状态": "正常",
+    "发表期刊": "人才资源开发",
+    "刊发时间": "2022-11-10",
+    "引用量": "3",
+    "下载量": "499",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "史明杰",
+            "author_addresses": [
+                "河北民族师范学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "吴坤泽",
+            "author_addresses": [
+                "承德市双桥区石洞子沟街道办事处"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "21",
+    "摘要": " &lt;正&gt;党的十九大报告指出，就业是最大的民生，要坚持就业优先战略和积极就业政策，实现更高质量和更充分就业。促进就业，特别是高校毕业生就业，是实现经济持续健康发展和社会大局稳定的重要保障。当前，高校毕业生就业形势严峻，2022年高校毕业生人数达到1076万，就业竞争更加激烈。然而，与就业难相对应的却是当代大学生的慢就业现象，这种相对矛盾的现象在“00后”毕业生中有越来越明显和强化的趋势，给毕业生就业工作带来新的挑战。根据2022年高校毕业生就业去向调查显示，",
+    "关键词": [],
+    "基金资助": [
+        "2022年度河北省人力资源和社会保障研究课题“生涯规划视域下高校‘慢就业’群体的职业决策形成与干预机制研究”,项目编号：JRS-2022-1087"
+    ],
+    "专辑": "经济与管理科学;社会科学Ⅱ辑",
+    "专题": "人才学与劳动科学;高等教育;宏观经济管理与可持续发展",
+    "分类号": "F249.2;G647.38",
+    "页码": "45-47",
+    "页数": "3",
+    "爬取时间": "2025-03-26 05:58:26",
+    "论文唯一代码": "XZRG202221018"
+}
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "信息化时代互联网发展对城乡居民旅游消费的影响——基于结构异质性的分析",
+    "状态": "正常",
+    "发表期刊": "商业经济研究",
+    "刊发时间": "2022-11-07",
+    "引用量": "4",
+    "下载量": "916",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "姜欣言",
+            "author_addresses": "河北民族师范学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王强",
+            "author_addresses": "河北民族师范学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "21",
+    "摘要": " 本文基于结构异质性视角，采用我国2019-2021年的经验数据，就信息化时代背景下互联网发展对我国城乡居民旅游消费的影响效应进行了实证研究。研究发现，互联网发展对我国城乡居民旅游消费具有显著的正向赋能作用，但相比较而言，互联网发展对城镇居民旅游消费的边际促进作用更强。互联网发展对城乡居民旅游消费的影响效应受到受教育程度异质性、区域异质性和年龄结构异质性的影响。受教育程度在互联网发展对城镇居民旅游消费影响中的中介效应更强，东部地区互联网发展对城乡居民旅游消费的正向赋能效应最强，中部地区次之，西部地区相对最弱。青年群体在互联网发展对城乡居民旅游消费影响中的中介效应最强，中年群体次之，老年群体相对最弱。",
+    "关键词": [
+        "信息化时代",
+        "互联网发展",
+        "年龄结构",
+        "旅游消费",
+        "异质性"
+    ],
+    "基金资助": [],
+    "专辑": "经济与管理科学",
+    "专题": "经济体制改革;旅游;信息经济与邮政经济",
+    "分类号": "F49;F592;F126.1",
+    "页码": "46-49",
+    "页数": "4",
+    "爬取时间": "2025-03-26 05:58:49",
+    "论文唯一代码": "SYJJ202221010"
+}
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "分布式子空间局部链接随机向量函数链接网络",
+    "状态": "正常",
+    "发表期刊": "深圳大学学报(理工版)",
+    "刊发时间": "2022-11-04 16:09",
+    "引用量": "3",
+    "下载量": "81",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "于万国",
+            "author_addresses": [
+                "河北民族师范学院数学与计算机科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "袁镇濠",
+            "author_addresses": [
+                "深圳大学计算机与软件学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "陈佳琪",
+            "author_addresses": [
+                "深圳大学计算机与软件学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "何玉林",
+            "author_addresses": [
+                "人工智能与数字经济广东省实验室(深圳)"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "39 ",
+    "期(Issue)": "06",
+    "摘要": " 为解决随机向量函数链接（random vector functional link,RVFL）网络处理大规模数据分类时表现出的泛化能力差和计算复杂度高的问题，基于Spark框架设计与实现一种分布式子空间局部链接的RVFL(distributed RVFL with subspace-based local connections,DRVFL-SLC)网络．利用弹性分布式数据集（resilient distributed dataset,RDD）的分区并行性，对存于Hadoop分布式文件系统（Hadoop distributed file system,HDFS）的大规模数据集进行随机样本划分（random sample partition,RSP）操作，保证每个RSP数据块对应RDD的1个分区．其中，RSP数据块是在给定的显著性水平下与大数据保持概率分布一致性的数据子集．在分布式环境下对包含多个分区的RDD调用mapPartitions转换算子并行高效地训练对应的最优RVFL-SLC网络．利用collect执行算子将RDD每个分区对应的最优RVFL-SLC网络进行高效率地渐近融合获得DRVFLSLC网络以实现对大数据分类问题的近似求解．在部署了6个计算节点的Spark集群上，基于8个百万条记录的大规模数据集对DRVFL-SLC网络的可行性和有效性进行了验证．结果表明，DRVFL-SLC网络拥有很好的加速比、可扩展性以及规模增长性，同时能够获得比在单机上利用全量数据训练的RVFL-SLC网络更好的泛化表现．",
+    "关键词": [
+        "人工智能",
+        "随机向量函数链接网络",
+        "子空间局部链接",
+        "随机样本划分",
+        "Hadoop分布式文件系统"
+    ],
+    "基金资助": [
+        "深圳市基础研究计划资助面上项目（JCYJ20210324093609026）~~"
+    ],
+    "专辑": "工程科技Ⅱ辑;信息科技",
+    "专题": "自动化技术",
+    "分类号": "TP181",
+    "页码": "675-683",
+    "页数": "9",
+    "爬取时间": "2025-03-26 05:59:01",
+    "论文唯一代码": "SZDL202206009"
+}

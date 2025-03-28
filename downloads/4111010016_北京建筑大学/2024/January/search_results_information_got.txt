@@ -1,0 +1,5949 @@
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "丙烯酸乳液改性氯氧镁水泥的性能及其机理研究",
+    "状态": "正常",
+    "发表期刊": "建筑材料学报",
+    "刊发时间": "2024-01-31 08:21",
+    "引用量": "1",
+    "下载量": "602",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李晓晴",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "卞立波",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "bianlibo@bucea.edu.cn"
+        },
+        {
+            "author_order": 3,
+            "author_name": "丁林娜",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张璐",
+            "author_addresses": [
+                "北京市首发天人生态景观有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "魏霞",
+            "author_addresses": [
+                "北京国建联信认证中心有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "27 ",
+    "期(Issue)": "06",
+    "摘要": " 基于有机聚合物乳液的吸附及络合作用，采用丙烯酸乳液（AE）对氯氧镁水泥（MOC）进行改性，对改性后的MOC工作性能、力学性能、耐水性能及微观结构进行研究，揭示AE对MOC的改性机理.结果表明：AE在MOC中的分散作用可增大MOC的流动度；AE在水泥颗粒及水化产物表面形成的膜结构在抑制5·1·8相晶体生长的同时，还改变了晶体形态，对MOC的凝结时间及强度产生了影响；AE不仅降低了MOC内部有害孔的体积分数，还在MOC内部形成了膜结构，在这两者共同作用下，5·1·8相晶体的水解得以延缓，Mg(OH)2晶体的生成量减少，从而改善了MOC的耐水性能.",
+    "关键词": [
+        "氯氧镁水泥",
+        "丙烯酸乳液",
+        "力学性能",
+        "耐水性能",
+        "微观结构"
+    ],
+    "基金资助": [
+        "“：十四五”国家重点研发计划项目（2022YFC3803400）"
+    ],
+    "专辑": "工程科技Ⅱ辑;工程科技Ⅰ辑",
+    "专题": "无机化工",
+    "分类号": "TQ172.1",
+    "页码": "479-486",
+    "页数": "8",
+    "爬取时间": "2025-03-26 02:34:11",
+    "论文唯一代码": "JZCX202406001"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "求解约束优化问题的改进蛇优化算法",
+    "状态": "正常",
+    "发表期刊": "计算机工程与应用",
+    "刊发时间": "2024-01-30 19:07",
+    "引用量": "2",
+    "下载量": "691",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "梁昔明",
+            "author_addresses": [
+                "北京建筑大学理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "史兰艳",
+            "author_addresses": [
+                "北京建筑大学理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "1932830042@qq.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "龙文",
+            "author_addresses": [
+                "贵州财经大学数学与统计学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "60 ",
+    "期(Issue)": "10",
+    "摘要": " 结合外点罚函数法与改进蛇优化算法求解约束优化问题，得到一种新的求解约束优化问题的算法WDFSO。算法WDFSO首先通过外点罚函数法将约束优化问题转化为一系列界约束优化问题，然后运用基于变异质心的对立学习策略与种群分类策略改进的蛇优化算法对所得界约束优化问题进行求解，进而获得所求约束优化问题的解。为验证算法WDFSO的有效性，选取CEC2006中19个标准约束优化问题进行数值实验，并使用Wilcoxon秩和检验来证明算法的显著性。实验结果表明，与对比算法相比，算法WDFSO求解约束优化问题具有更高的收敛精度和更好的稳定性。最后应用算法WDFSO求解两个工程约束优化问题，结果表明算法WDFSO求解性能更好。",
+    "关键词": [
+        "约束优化问题",
+        "外点罚函数法",
+        "蛇优化算法",
+        "对立学习",
+        "种群分类策略",
+        "数值实验"
+    ],
+    "基金资助": [
+        "国家自然科学基金（12361106）",
+        "贵州省自然科学基金重点项目（黔科合基础-ZK[2003]重点003）",
+        "中央支持地方科研创新团队项目（PXM2013＿014210＿000173）",
+        "北京建筑大学2021年校级教育科学研究项目（Y2113）"
+    ],
+    "专辑": "信息科技",
+    "专题": "自动化技术",
+    "分类号": "TP18",
+    "页码": "76-87",
+    "页数": "12",
+    "爬取时间": "2025-03-26 02:34:24",
+    "论文唯一代码": "JSGG202410006"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "复杂供应链网络中断风险传播趋势建模与仿真",
+    "状态": "正常",
+    "发表期刊": "复杂系统与复杂性科学",
+    "刊发时间": "2024-01-30 12:43",
+    "引用量": "0",
+    "下载量": "2249",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王红春",
+            "author_addresses": "北京建筑大学城市经济与管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "周子祥",
+            "author_addresses": "北京建筑大学城市经济与管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "",
+    "卷(Volume)": "No record",
+    "期(Issue)": "No record",
+    "摘要": " 当前供应链风险传播相关研究在企业状态设置及企业间状态影响关系的刻画层面存在局限，将供应链网络映射至元胞空间，补充考虑中断风险下节点企业运营能力的状态差异以及邻居间元胞状态的相互影响关系，对中断风险传播规则加以改进，构建一种基于元胞自动机和SEIRD传染病模型的风险传播趋势仿真模型。根据多场景仿真及研究拓展的结果，分析了供应链网络中断风险传播进程推进的潜在原因，以及市场热度、市场竞争程度、风险预警及控制、政府宏观调控等对传播趋势的影响作用。研究结论可为供应链中断风险管理决策提供策略参考。",
+    "关键词": [
+        "供应链管理",
+        "元胞自动机",
+        "传染病模型",
+        "中断风险传播",
+        "系统仿真"
+    ],
+    "基金资助": [
+        "国家自然科学基金（61772062）",
+        "北京建筑大学2023年度硕士研究生创新项目（PG2023111）"
+    ],
+    "专辑": "经济与管理科学",
+    "专题": "企业经济",
+    "分类号": "F274",
+    "页码": "",
+    "页数": "9",
+    "爬取时间": "2025-03-26 02:34:52",
+    "论文唯一代码": "FZXT20240126003"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "非线性块系岩体动力响应及在巷道防冲支护中的应用",
+    "状态": "正常",
+    "发表期刊": "力学学报",
+    "刊发时间": "2024-01-30 09:47",
+    "引用量": "3",
+    "下载量": "197",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "姜宽",
+            "author_addresses": [
+                "北京工业大学城市建设学部",
+                "西澳大学土木、环境与采矿工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "戚承志",
+            "author_addresses": [
+                "北京建筑大学北京未来城市设计高精尖中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "qichengzhi65@163.com"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "56 ",
+    "期(Issue)": "04",
+    "摘要": " 随着煤矿开采深度的增加,冲击地压灾害日趋严重,亟需采用新方法、新理论加以防治.摆型波是在深部岩体工程中发现的新型非线性波,其使岩体出现相对分离和相对压实的不同运动状态,与冲击地压灾害的发生密切相关.针对岩体中软弱结构层的非线性变形特征,引入双曲线模型建立块系岩体中摆型波传播的非线性动力模型,研究软弱层的物理力学性质(最大闭合量、初始刚度和阻尼)对块系岩体动力响应的影响.进一步,基于块系围岩与支护系统互馈作用的理论模型,在无初始地应力和考虑初始地应力的情况下研究巷道支护系统的刚度、让位能力和阻尼耗能作用对巷道顶板动力响应的影响,分析支护系统的受力情况,为新型防冲吸能巷道液压支架设备的吸能让位行为提供理论依据.研究结果表明:基于双曲线模型建立的块系岩体的非线性动力模型能够限制岩块间软弱层的最大变形量.冲击载荷越大,增大软弱层最大闭合量时岩块的加速度降低程度越显著.增加支护系统刚度,增强支护系统让位能力和阻尼耗能能力,均可有效降低巷道顶板的加速度幅值,减轻巷道围岩对支护系统的冲击力,有效保护巷道结构.",
+    "关键词": [
+        "块系岩体",
+        "摆型波",
+        "双曲线模型",
+        "冲击地压",
+        "巷道支护",
+        "初始地应力"
+    ],
+    "基金资助": [
+        "国家自然科学基金(51774018,12172036)",
+        "长江学者和创新团队发展计划(IRT＿17R06)",
+        "2022年国家建设高水平大学公派研究生项目(202206540052)资助"
+    ],
+    "专辑": "基础科学;工程科技Ⅰ辑",
+    "专题": "矿业工程",
+    "分类号": "TD353",
+    "页码": "1057-1067",
+    "页数": "11",
+    "爬取时间": "2025-03-26 02:35:09",
+    "论文唯一代码": "LXXB202404014"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "乡村风景线模式研究——以北京市延庆区长城文化风景线为例",
+    "状态": "正常",
+    "发表期刊": "北京规划建设",
+    "刊发时间": "2024-01-29 20:29",
+    "引用量": "0",
+    "下载量": "219",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "崔湛晨",
+            "author_addresses": "北京建筑大学建筑与城市规划学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张大玉",
+            "author_addresses": "北京建筑大学建筑与城市规划学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "周迦瑜",
+            "author_addresses": "北京建筑大学建筑与城市规划学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "",
+    "卷(Volume)": "No record",
+    "期(Issue)": "No record",
+    "摘要": " 近年来，随着乡村振兴战略的提出，乡村规划建设全局观正逐渐形成，不再聚焦于单一“点”的提升，而是追求“串点成线，连线成面”的乡村全局发展，但由于我国乡村绿道建设起步较晚，受重视程度不够且一味沿用城市绿道规划建设体系，导致建设成果与乡村的实际情况脱节。在此背景下，以北京市延庆区长城文化风景线为研究对象，通过“绿道贯通”“强化特色”“节点激活”三大构建策略搭建乡村风景线，旨在深度挖掘符合乡村发展的绿道模式，揭示乡村风景线模式构建的内在机制，以期为当前中国乡村绿道系统的持续性规划建设提供整体性的策略借鉴，进而推动我国乡村绿道的深入研究和绿道规划理论的发展。",
+    "关键词": [
+        "乡村振兴",
+        "乡村绿道",
+        "乡村风景线模式",
+        "可持续性规划",
+        "多元价值"
+    ],
+    "基金资助": [
+        "国家自然科学基金（项目编号：51878021）"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU982.29",
+    "页码": "",
+    "页数": "10",
+    "爬取时间": "2025-03-26 02:35:22",
+    "论文唯一代码": "GHJS20240126001"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "后马克思主义的现实意义与研究论述",
+    "状态": "正常",
+    "发表期刊": "今古文创",
+    "刊发时间": "2024-01-29",
+    "引用量": "0",
+    "下载量": "123",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李佳桐",
+            "author_addresses": [
+                "北京建筑大学马克思主义学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "07",
+    "摘要": " 后马克思主义思潮的兴起具有浓烈的时代色彩。它是特定时代下的产物，也是马克思主义理论在近现代的延伸与发展。本文论证后马克思主义思潮的相关理论和社会影响，并在充分讨论其产生时代背景的前提下，对相关现象和理论的发展进行系统总结与论述。通过分析思潮的内涵和本质，总结历史经验，我们能够更好地找到马克思主义与现实情况相结合的“最大公约数”，为马克思主义中国化提供更强大的理论依据。同时，在全球化浪潮中持续推进后马克思主义思潮的理论影响，为马克思主义在中国的进一步落地提供理论依据与帮助，更好地平衡马克思主义在当代中国的发展实际和理论关系。",
+    "关键词": [
+        "后马克思主义",
+        "思潮",
+        "理论革新",
+        "时代变革",
+        "资本主义社会"
+    ],
+    "基金资助": [],
+    "专辑": "哲学与人文科学;社会科学Ⅰ辑",
+    "专题": "哲学;马克思主义",
+    "分类号": "A81;B089.1",
+    "页码": "76-78",
+    "页数": "3",
+    "爬取时间": "2025-03-26 02:35:33",
+    "论文唯一代码": "JGWC202407024"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "傍山濒湖 慈溪市观海卫鸣鹤古镇",
+    "状态": "正常",
+    "发表期刊": "室内设计与装修",
+    "刊发时间": "2024-01-29",
+    "引用量": "0",
+    "下载量": "72",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "范霄鹏",
+            "author_addresses": "北京建筑大学建筑与城市规划学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "许员硕",
+            "author_addresses": "北京建筑大学建筑与城市规划学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "02",
+    "摘要": " &lt;正&gt;浙东宁绍平原东端的慈溪,地处杭州湾的南岸和东海之滨,因丘陵、平原、水网滩涂的地形,而呈现自南向北的地形走势。河湖连通丘陵与大海,丰富的自然资源和便捷的交通,支撑人群从事渔业农耕生产和贸易,吸引人群选择傍山濒湖处枕河而聚居。观海卫的鸣鹤因地灵而成聚、因人杰而得名,为拥有千年历史的古镇。",
+    "关键词": [],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU982.29",
+    "页码": "134-137",
+    "页数": "4",
+    "爬取时间": "2025-03-26 02:35:43",
+    "论文唯一代码": "SNSJ202402030"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "基于Potree结构的建筑物激光点云与BIM点云的变化检测",
+    "状态": "正常",
+    "发表期刊": "科学技术与工程",
+    "刊发时间": "2024-01-28",
+    "引用量": "2",
+    "下载量": "202",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘慧",
+            "author_addresses": [
+                "北京建筑大学电气与信息工程学院",
+                "建筑大数据智能处理方法研究北京市重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘宇航",
+            "author_addresses": [
+                "北京建筑大学电气与信息工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "钟晨",
+            "author_addresses": [
+                "应急管理部沈阳消防研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "24 ",
+    "期(Issue)": "03",
+    "摘要": " 建筑变化检测可对建筑管理及决策提供有力支持。目前建筑变化检测的难点是完成检测任务所需计算成本高。为了提高检测效率，提出一种基于Potree结构的建筑物激光点云与建筑信息模型(building information modelling, BIM)点云的变化检测方法。该方法将实时获取的激光点云，与建设初期规划的BIM进行比较，检测和识别出二者之间的差异，作为建筑变化检测的结果。实验结果表明，与基于可修改嵌套八叉树结构方法比较，本文提出的方法在保证完整性、准确度等不损失的情况下，在时间复杂度上降低了22.05%。",
+    "关键词": [
+        "建筑变化检测",
+        "三维点云",
+        "BIM",
+        "Potree结构"
+    ],
+    "基金资助": [
+        "国家重点研发计划(2020YFC1522804)"
+    ],
+    "专辑": "工程科技Ⅱ辑;基础科学;信息科技",
+    "专题": "自然地理学和测绘学;建筑科学与工程;计算机软件及计算机应用",
+    "分类号": "TP391.41;P225.2;TU198",
+    "页码": "1176-1183",
+    "页数": "8",
+    "爬取时间": "2025-03-26 02:35:55",
+    "论文唯一代码": "KXJS202403036"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "隧道花岗岩弃渣水泥稳定基层路用性能研究",
+    "状态": "正常",
+    "发表期刊": "西部交通科技",
+    "刊发时间": "2024-01-28",
+    "引用量": "1",
+    "下载量": "51",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "蒋永祥",
+            "author_addresses": [
+                "中交投资有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "马耀举",
+            "author_addresses": [
+                "中交投资有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "马进学",
+            "author_addresses": [
+                "中交投资有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "郭德宁",
+            "author_addresses": [
+                "中交投资有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "陈浩",
+            "author_addresses": [
+                "北京建筑大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "01",
+    "摘要": " 文章针对遵秦高速公路隧道花岗岩弃渣的资源化利用以及其在基层应用的可行性等问题,分析了隧道花岗岩弃渣碎石的级配组成、压碎值、针片状含量等物理性能,并通过重型击实试验确定隧道花岗岩弃渣水泥稳定基层（以下简称“水泥稳定弃渣”）的最大干密度和最佳含水率:通过测试强度、回弹模量、抗冻性能以及干、温缩特性等路用性能,并与水泥稳定片麻岩、石灰岩进行对比,优化水泥稳定弃渣的各项配合比。结果表明:隧道花岗岩弃渣碎石的级配良好,水泥稳定弃渣的劈裂强度和7 d无侧限抗压强度分别为0.45 MPa和5.13 Ma,集料种类对水泥稳定碎石的力学性能影响较小:28 d试件冻融循环后抗压强度损失为97%～98%,具有良好的抗冻性:隧道花岗岩弃渣的温缩性能优于水泥稳定片麻岩、石灰岩;当水泥稳定弃渣最佳水泥用量为4%、最大干密度为2.334 g/cm<sup>3</sup>、最佳含水量为4.8%时,满足基层材料的技术要求。",
+    "关键词": [
+        "道路工程",
+        "隧道花岗岩弃渣",
+        "水泥稳定碎石",
+        "路用性能",
+        "耐久性"
+    ],
+    "基金资助": [
+        "河北省遵秦高速科技示范工程项目“隧道开挖花岗岩弃渣在高速路建设中的应用技术研究”(编号:RP2021003700)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "公路与水路运输",
+    "分类号": "U414",
+    "页码": "99-102",
+    "页数": "4",
+    "爬取时间": "2025-03-26 02:36:10",
+    "论文唯一代码": "XBJT202401061"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "预氯化输水对表面停留性有机物及混凝除藻的影响",
+    "状态": "正常",
+    "发表期刊": "环境工程学报",
+    "刊发时间": "2024-01-26",
+    "引用量": "2",
+    "下载量": "150",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "倪蓉",
+            "author_addresses": [
+                "北京建筑大学,环境与能源工程学院",
+                "中国科学院生态环境研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "姜元承",
+            "author_addresses": [
+                "中国科学院生态环境研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李海燕",
+            "author_addresses": [
+                "北京建筑大学,环境与能源工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王茜",
+            "author_addresses": [
+                "中国科学院生态环境研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "张长禄",
+            "author_addresses": [
+                "中国科学院生态环境研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "吴佳萍",
+            "author_addresses": [
+                "中国科学院生态环境研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "谢琤琤",
+            "author_addresses": [
+                "中持新概念环境发展宜兴有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "张明顺",
+            "author_addresses": [
+                "北京建筑大学,环境与能源工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 9,
+            "author_name": "戚菁",
+            "author_addresses": [
+                "中国科学院生态环境研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "jingqi@rcees.ac.cn"
+        },
+        {
+            "author_order": 10,
+            "author_name": "胡承志",
+            "author_addresses": [
+                "中国科学院生态环境研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "18 ",
+    "期(Issue)": "01",
+    "摘要": " 针对预氯化这一常用的预氧化方法，考察了表面停留性有机物(S-AOM)在这一过程中对铜绿微囊藻起到的关键作用。同时，探讨了表面停留性有机物及藻的氧化应激对混凝除藻效果的影响。结果表明，预氯化过程可实现适度预氯化的最佳氯投加量，适度预氯化可以在实现脱附S-AOM的同时不损伤藻细胞，强化后续混凝除藻的效果。此外，经过适度预氯化后的藻细胞在远程输水过程中可能会发生程序性死亡，胞内有机物不断泄漏，这仍会对水厂混凝除藻效果产生不利影响。因此，预氧化后藻细胞发生程序性死亡是预氯化强化混凝工艺需要考虑的关键因素。",
+    "关键词": [
+        "表面停留性有机物",
+        "预氯化",
+        "除藻",
+        "混凝"
+    ],
+    "基金资助": [
+        "国家自然科学基金资助项目(52170014,51820105011)",
+        "长江生态环境保护修复联合研究第二期(2022-LHYJ-02-0303)"
+    ],
+    "专辑": "工程科技Ⅰ辑;工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU991.2",
+    "页码": "130-138",
+    "页数": "9",
+    "爬取时间": "2025-03-26 02:36:35",
+    "论文唯一代码": "HJJZ202401014"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "基于Android的无线节点式地震仪监控系统设计",
+    "状态": "正常",
+    "发表期刊": "仪表技术与传感器",
+    "刊发时间": "2024-01-25",
+    "引用量": "1",
+    "下载量": "258",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王怀秀",
+            "author_addresses": "北京建筑大学电气与信息工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "肖胜涛",
+            "author_addresses": "北京建筑大学电气与信息工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "01",
+    "摘要": " 针对无线节点式地震勘探仪器工作过程中实时监测能力不足的问题，设计了基于Android平台的监控系统。系统采用WiFi无线通信技术，基于TCP或UDP协议实现Android移动设备与分布式采集节点的通讯，完成对采集节点的采集控制、实时数据传输、状态监测；通过引入第三方图标库实现采集数据的多种可视化显示；采用SQLite数据库加文件系统形式实现采集数据的存储与回放。该系统能够有效提高地震勘探工作数据采集的可靠性，解决无线节点式地震仪器“盲采”式工作数据质量不佳问题。经测试，系统实时性强、可靠性高，能够满足实际地震勘探监控需求。",
+    "关键词": [
+        "节点式地震仪",
+        "Android平台",
+        "无线通信",
+        "实时监控",
+        "地震勘探"
+    ],
+    "基金资助": [
+        "国家重点研发计划支持项目(2018YFC0807806)",
+        "北京建筑大学2022年度研究生创新项目(PG2022090)"
+    ],
+    "专辑": "工程科技Ⅱ辑;基础科学",
+    "专题": "地质学;地球物理学",
+    "分类号": "P631.43",
+    "页码": "36-40+63",
+    "页数": "6",
+    "爬取时间": "2025-03-26 02:37:04",
+    "论文唯一代码": "YBJS202401007"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "低碳视角下北京西四北二条3号院更新改造与能耗模拟研究",
+    "状态": "正常",
+    "发表期刊": "建筑节能(中英文)",
+    "刊发时间": "2024-01-25",
+    "引用量": "2",
+    "下载量": "609",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张曼",
+            "author_addresses": [
+                "北京建筑大学建筑与城市规划学院",
+                "北京建筑大学建筑遗产研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "zhangman@bucea.edu.cn"
+        },
+        {
+            "author_order": 2,
+            "author_name": "曹雪萦",
+            "author_addresses": [
+                "北京建筑大学建筑与城市规划学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "汤羽扬",
+            "author_addresses": [
+                "北京建筑大学建筑与城市规划学院",
+                "北京建筑大学建筑遗产研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "52 ",
+    "期(Issue)": "01",
+    "摘要": " 通过实地调研北京老城西四北头条至八条历史文化街区的四合院传统民居，并与居民开展改造诉求访谈，在提升人居环境的基础上探索合适的改造策略，借助EnergyPlus能耗模拟研究改造前后能耗变化，达到老城民居低碳节能改造的目的，并分析其在探索中国典型四合院民居的能源性能改善方法的意义。研究结果表明，改造后的民居全年耗能18 960.21 kW·h,平均每平方米供暖能耗为19.64 kW·h/（m<sup>2</sup>·a）。改造后的各房屋围护结构系数均发生变化，如建筑外墙传热系数优化为0.259 W/（m<sup>2</sup>·K）,屋顶传热系数优化为0.181 W/（m<sup>2</sup>·K）,楼板传热系数优化为0.131 W/（m<sup>2</sup>·K）,外窗传热系数优化为1.1 W/（m<sup>2</sup>·K）,符合北京当前对于住宅节能的相关规范。如果一套保温性能更好的四合院传统民居能够在城市更新进程中作为一个组成部分传承下来，将有助于中国老城历史片区传统风貌保护与传统建筑低碳节能优化。",
+    "关键词": [
+        "城市更新",
+        "北京老城四合院",
+        "能源性能",
+        "EnergyPlus"
+    ],
+    "基金资助": [
+        "国家自然科学基金重点项目(51938002)",
+        "2019年度中国建设教育协会教育教学科研立项(2019006)",
+        "北京市教委科研项目科技计划面上项目(KM202010016017)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU241.5;TU111.195",
+    "页码": "109-113+148",
+    "页数": "6",
+    "爬取时间": "2025-03-26 02:37:18",
+    "论文唯一代码": "FCYY202401017"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "外掺料对C40透水混凝土性能的影响及机理分析",
+    "状态": "正常",
+    "发表期刊": "新型建筑材料",
+    "刊发时间": "2024-01-25",
+    "引用量": "4",
+    "下载量": "193",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "扈士凯",
+            "author_addresses": [
+                "建筑材料工业技术监督研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "任强伟",
+            "author_addresses": [
+                "建筑材料工业技术监督研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "2571563373@qq.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李崇智",
+            "author_addresses": [
+                "北京建筑大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "陈志纯",
+            "author_addresses": [
+                "建筑材料工业技术监督研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "韩磊",
+            "author_addresses": [
+                "建筑材料工业技术监督研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "陈嘉宇",
+            "author_addresses": [
+                "建筑材料工业技术监督研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "杨凌霄",
+            "author_addresses": [
+                "建筑材料工业技术监督研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "51 ",
+    "期(Issue)": "01",
+    "摘要": " 通过研究聚丙烯酸酯乳液掺量对透水混凝土抗压、抗折强度及透水系数的影响，确定其最佳掺量；采用SEM和XRD分析了透水混凝土的微观形貌和物相组成。研究了2种促凝剂对透水混凝土抗压强度、切片孔隙率的影响，并得出不同促凝剂的增强机理。研究了新型纳米材料（CNFs）对透水混凝土浆体流变性能及综合性能的影响。结果表明：聚合物乳液能在水泥浆体内部形成聚合物膜，对透水混凝土力学性能及透水功能均有改善；B组、C组促凝剂掺入后透水混凝土的7 d抗压强度明显提高，较未掺时最高分别提高了65.4%、77.0%;CNFs的掺入可使浆体呈剪切稀化现象，可用于调节浆体的触变性能，同时可显著提高透水混凝土的抗压强度，掺量0.15%时28 d抗压强度最高，较未掺时提高了56.8%。",
+    "关键词": [
+        "流变性",
+        "孔隙率",
+        "纳米纤维素",
+        "聚合物乳液",
+        "机理分析"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "公路与水路运输",
+    "分类号": "U414",
+    "页码": "39-44+58",
+    "页数": "7",
+    "爬取时间": "2025-03-26 02:37:42",
+    "论文唯一代码": "XXJZ202401008"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "改进Mask R-CNN的无人机影像建筑物提取",
+    "状态": "正常",
+    "发表期刊": "北京测绘",
+    "刊发时间": "2024-01-25",
+    "引用量": "0",
+    "下载量": "109",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "方超",
+            "author_addresses": [
+                "北京建筑大学测绘与城市空间信息学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "廖运茂",
+            "author_addresses": [
+                "北京建筑大学测绘与城市空间信息学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "刘飞",
+            "author_addresses": [
+                "北京建筑大学测绘与城市空间信息学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "pntrc@cumt.edu.cn"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王坚",
+            "author_addresses": [
+                "北京建筑大学测绘与城市空间信息学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "赵小平",
+            "author_addresses": [
+                "北京工业职业技术学院建筑与测绘工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "38 ",
+    "期(Issue)": "01",
+    "摘要": " 从无人机影像中自动提取建筑物对城乡规划和管理至关重要，然而，在复杂背景干扰和建筑物外观变化很大的情况下给实例提取带来挑战。因此，提出一种改进的Mask区域卷积神经网络（R-CNN）方法用于无人机影像的建筑物自动实例提取。改进方法以ResNet-101作为特征提取网络，在特征融合网络方面，通过添加自底向上的路径增强整个特征层次的定位能力，同时在特征融合中加入空洞空间金字塔池化模块（ASPP）来提高多尺度能力与改善模型性能。在自制建筑物数据集上的综合实验结果表明，与原始的Mask R-CNN方法相比，改进方法的mAP值提高了2.6%，能够很好地实现无人机影像建筑物实例提取。",
+    "关键词": [
+        "建筑物提取",
+        "Mask R-CNN",
+        "路径融合",
+        "空洞空间金字塔池化模块"
+    ],
+    "基金资助": [
+        "北京建筑大学“双塔计划”项目（JDYC20220825）,北京建筑大学青年教师科研能力提升计划（X21021)"
+    ],
+    "专辑": "基础科学;工程科技Ⅱ辑",
+    "专题": "自然地理学和测绘学;建筑科学与工程",
+    "分类号": "P23;TU198",
+    "页码": "97-101",
+    "页数": "5",
+    "爬取时间": "2025-03-26 02:38:06",
+    "论文唯一代码": "BJCH202401015"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "高校仪器设备采购与开放共享关联路径实践——以三向六自由度地震模拟振动台系统为例",
+    "状态": "正常",
+    "发表期刊": "实验技术与管理",
+    "刊发时间": "2024-01-24 07:21",
+    "引用量": "2",
+    "下载量": "325",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李莹",
+            "author_addresses": "北京建筑大学国有资产与实验室管理处",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "杨赛",
+            "author_addresses": "北京建筑大学国有资产与实验室管理处",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "焦驰宇",
+            "author_addresses": "北京建筑大学国有资产与实验室管理处",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "刘蔚",
+            "author_addresses": "北京建筑大学国有资产与实验室管理处",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "张国伟",
+            "author_addresses": "北京建筑大学国有资产与实验室管理处",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "姚瑭琦",
+            "author_addresses": "北京建筑大学国有资产与实验室管理处",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "41 ",
+    "期(Issue)": "02",
+    "摘要": " 采购与开放共享作为仪器设备管理的两个重要环节，二者之间相互影响、相互作用，通过开放共享意识前移、优化采购阶段工作，可实现提升采购质量和开放共享效益水平的双重目标。该文以三向六自由度地震模拟振动台系统为例，以高质量采购为起点，以提升开放共享质量为目标，通过加强顶层设计、强化采购论证、明确采购参数、加强采购实施计划等方式，构建采购与开放共享的关联路径，实现采购与开放共享的双向促进提升，塑造了完整的生态系统，为高校的教学、科研和人才培养提供全面支持。",
+    "关键词": [
+        "关联路径",
+        "采购效率",
+        "开放共享"
+    ],
+    "基金资助": [
+        "首都科技条件平台2022年度北京建筑大学绩效考核后补助实施项目（Z23003）"
+    ],
+    "专辑": "基础科学;社会科学Ⅱ辑",
+    "专题": "高等教育",
+    "分类号": "G647",
+    "页码": "277-283",
+    "页数": "7",
+    "爬取时间": "2025-03-26 02:38:25",
+    "论文唯一代码": "SYJL202402037"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "气体压力能发电系统模糊PI模型预测控制",
+    "状态": "正常",
+    "发表期刊": "控制工程",
+    "刊发时间": "2024-01-23 18:32",
+    "引用量": "0",
+    "下载量": "251",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "左明鑫",
+            "author_addresses": [
+                "北京建筑大学电气与信息工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "魏东",
+            "author_addresses": [
+                "北京建筑大学电气与信息工程学院",
+                "建筑大数据智能处理方法研究北京市重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "weidong@bucea.edu.cn"
+        },
+        {
+            "author_order": 3,
+            "author_name": "熊亚选",
+            "author_addresses": [
+                "北京建筑大学环境与能源工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "赵若辰",
+            "author_addresses": [
+                "北京建筑大学电气与信息工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "",
+    "卷(Volume)": "No record",
+    "期(Issue)": "No record",
+    "摘要": " 在天然气、内燃机所产生的废气和高炉煤气等气体的传输过程中，调压系统需要将气体由高压调节到用户侧的低压状态，其中的压力能可以通过膨胀机带动发电机工作进行回收，此时用户侧压力会受到用气负荷等随机扰动的影响，而由于发电机自身具有非线性，且传统直接转矩控制中滞环比较器与开关表非线性较强，造成控制器设计困难，导致发电机转矩波动较大。为此，设计、开发了气体压力能回收发电控制系统，在发电机转速控制回路设计模糊PI控制器，以实现PI参数自适应整定；同时设计了发电机转矩控制回路模型预测控制器，基于使发电机转矩和磁链稳定的优化目标进行电压矢量计算，以提高控制策略的效率，并通过延时补偿改善控制性能和鲁棒性。搭建气体压力能回收实验平台，利用压缩机调节空气压力模拟气体压力变化，基于上述策略，采用DSP28335设计、开发了气体压力能回收发电控制器。实验结果表明，所提出的控制策略与传统直接转矩控制策略相比，在用户侧压力波动的情况下，发电机转矩和转速波动范围大幅减少，提升了发电质量。",
+    "关键词": [
+        "模糊PI控制",
+        "模型预测控制",
+        "直接转矩控制",
+        "永磁同步发电机",
+        "能量回收"
+    ],
+    "基金资助": [
+        "北京市属高校高水平创新团队建设计划项目（IDHT20190506）",
+        "住房城乡建设部科学技术项目（研究开发项目）（2019-K-120）",
+        "促进高校内涵发展定额项目—研究生创新项目（PG2022083）"
+    ],
+    "专辑": "工程科技Ⅱ辑;信息科技",
+    "专题": "电力工业;自动化技术",
+    "分类号": "TM619;TP273",
+    "页码": "",
+    "页数": "11",
+    "爬取时间": "2025-03-26 02:38:53",
+    "论文唯一代码": "JZDF20240118002"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "新兴交叉专业中融入大数据和人工智能的BIM技术教学实践",
+    "状态": "正常",
+    "发表期刊": "高等建筑教育",
+    "刊发时间": "2024-01-22",
+    "引用量": "0",
+    "下载量": "479",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "周小平",
+            "author_addresses": "北京建筑大学电气与信息工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王蒙蒙",
+            "author_addresses": "北京建筑大学电气与信息工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王佳",
+            "author_addresses": "北京建筑大学电气与信息工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "杨娜",
+            "author_addresses": "北京建筑大学电气与信息工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "33 ",
+    "期(Issue)": "01",
+    "摘要": " BIM(Building Information Modeling，建筑信息模型)是智慧城市基础设施数字化的关键技术，其人才缺失严重制约了建筑业转型升级、智慧城市建设和数字经济发展。而现有的BIM课程及教学体系主要面向建筑设计与施工管理，已无法满足国家、行业和市场对大数据、人工智能等新一代信息技术和“建筑+城市”BIM复合型人才的需要。为此，构建了面向BIM技术的教学平台，设计了面向大数据和人工智能的BIM应用的综合教学方案，在建筑电气与智能化国家一流专业进行了教学实践，学生课程体验值较高，达到了提升BIM教学水平的目的，为同类专业在BIM复合型人才培养方面提供了参考。",
+    "关键词": [
+        "BIM技术",
+        "大数据",
+        "人工智能",
+        "教学体系"
+    ],
+    "基金资助": [
+        "北京建筑大学研究生教育教学质量提升项目（J202007）北京建筑大学市属高校基本科研业务费项目（X20116）"
+    ],
+    "专辑": "社会科学Ⅱ辑;工程科技Ⅱ辑;信息科技",
+    "专题": "建筑科学与工程;高等教育;计算机软件及计算机应用",
+    "分类号": "G642.4;TU17-4",
+    "页码": "93-101",
+    "页数": "9",
+    "爬取时间": "2025-03-26 02:39:12",
+    "论文唯一代码": "JANE202401012"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "支座用石墨烯/导电炭黑橡胶材料的制备与性能",
+    "状态": "正常",
+    "发表期刊": "东南大学学报(自然科学版)",
+    "刊发时间": "2024-01-20",
+    "引用量": "3",
+    "下载量": "336",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "吴宜峰",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张啸天",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王浩",
+            "author_addresses": [
+                "东南大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "李爱群",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院",
+                "东南大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "张瑞君",
+            "author_addresses": [
+                "东南大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "张恒源",
+            "author_addresses": [
+                "东南大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "刘跃庭",
+            "author_addresses": [
+                "衡水震泰隔震器材有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "54 ",
+    "期(Issue)": "01",
+    "摘要": " 以石墨烯和特制导电炭黑为功能填料，溴化丁基橡胶(BIIR)为基胶，制备出阻尼性能较好的导电橡胶材料.针对石墨烯/导电炭黑10种不同的组分，开展了力学性能、动态力学性能与电阻率测试实验，探究了加入石墨烯与导电炭黑对BIIR性能的影响规律.结果表明，导电炭黑对BIIR材料有补强效果，石墨烯/导电炭黑协同并用可以有效提高BIIR的阻尼性能与导电性能.在每100 g总胶料中添加40 g导电炭黑时，BIIR/导电炭黑复合材料的拉伸强度与撕裂强度分别达到20.28 MPa和45.66 kN/m.当导电炭黑和石墨烯并用组分的质量比为40∶10时，BIIR/导电炭黑/石墨烯复合橡胶材料最大损耗因子提升至0.5,电阻率为3 646Ω·cm.复合材料的导电炭黑和石墨烯组分最优质量比为40∶5.制备得到的新型复合材料具有较好的力学性能、阻尼性能与导电性能，可为隔震支座用高阻尼导电橡胶的制备提供参考.",
+    "关键词": [
+        "溴化丁基橡胶",
+        "石墨烯",
+        "导电炭黑",
+        "导电橡胶",
+        "隔震支座"
+    ],
+    "基金资助": [
+        "国家自然科学基金资助项目(51908024)",
+        "北京市教育委员会科研计划资助项目(KM202310016012)",
+        "北京建筑大学研究生创新资助项目(PG2023039)"
+    ],
+    "专辑": "工程科技Ⅱ辑;工程科技Ⅰ辑",
+    "专题": "有机化工",
+    "分类号": "TQ333",
+    "页码": "44-49",
+    "页数": "6",
+    "爬取时间": "2025-03-26 02:39:29",
+    "论文唯一代码": "DNDX202401006"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "本土方法和工匠精神的重建——关于“本土设计”思想的演变和发展",
+    "状态": "正常",
+    "发表期刊": "建筑学报",
+    "刊发时间": "2024-01-20",
+    "引用量": "6",
+    "下载量": "637",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "金秋野",
+            "author_addresses": [
+                "北京建筑大学建筑与城市规划学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "01",
+    "摘要": " &lt;正&gt;2023年11月20日下午，中国建筑设计研究院有限公司本土设计研究中心(以下简称“本土中心”) 20年展览暨崔愷院士《本土设计Ⅲ》和《本土设计Ⅳ》新书发布活动在中国院BIM楼隆重举行。伴随着中国经济腾飞和世界影响力的逐步扩大，本土中心在20年时间里完成了200多个海内外设计作品，出版了10多本著作，举办或参加了60多次展览，成为中国建筑界一个现象级的学术研究和设计实践机构。笔者躬逢其盛，将结合这次展览和前后4本《本土设计》著作(图1)，对本土中心的理论与实践作出评述。",
+    "关键词": [],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU201",
+    "页码": "1-5",
+    "页数": "5",
+    "爬取时间": "2025-03-26 02:39:38",
+    "论文唯一代码": "JZXB202401001"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "知识图谱辅助历史建筑信息模型自动化建构",
+    "状态": "正常",
+    "发表期刊": "测绘科学",
+    "刊发时间": "2024-01-20",
+    "引用量": "1",
+    "下载量": "328",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "吴锐",
+            "author_addresses": [
+                "北京建筑大学测绘与城市空间信息学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "黄明",
+            "author_addresses": [
+                "北京建筑大学测绘与城市空间信息学院",
+                "代表性建筑与古建筑数据库教育部工程中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "huangming@bucea.edu.cn"
+        },
+        {
+            "author_order": 3,
+            "author_name": "杨玉涛",
+            "author_addresses": [
+                "北京建工四建工程建设有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "49 ",
+    "期(Issue)": "01",
+    "摘要": " 针对激光雷达及倾斜摄影技术应用于历史建筑数字化保护过程中，获得的三维点云数据存在缺失、疏密不一和数据异常，且点云拟合生成的三维模型不可拆解等问题，提出了一种基于知识图谱建构及推理技术的历史建筑信息模型自动生成方法。先根据建筑营造技艺规则，建构建筑各构件自身及相互间的数据结构和空间拓扑关系知识图谱，再结合已知点云数据科学推理缺失构件信息，最后补全构件参数，完成模型自动化搭建。对比目前主流的基于点云数据逆向人工建模方法，该方法建模速度更快、模型构件可拆解、参数信息更完整。通过山西晋祠圣母殿大木作实验结果表明，该方法获得的参数化模型能够全面真实展示建筑的结构信息和传统营造技艺，为历史建筑数字化保护提供重要的技术手段。",
+    "关键词": [
+        "知识图谱",
+        "知识推理",
+        "本体",
+        "晋祠圣母殿大木作",
+        "HBIM"
+    ],
+    "基金资助": [
+        "国家自然科学基金面上项目(42171416)"
+    ],
+    "专辑": "基础科学;工程科技Ⅱ辑",
+    "专题": "自然地理学和测绘学;建筑科学与工程",
+    "分类号": "P204;TU-87",
+    "页码": "163-180",
+    "页数": "18",
+    "爬取时间": "2025-03-26 02:39:57",
+    "论文唯一代码": "CHKD202401016"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "附有几何自约束的激光跟踪仪四元数光束法平差",
+    "状态": "正常",
+    "发表期刊": "测绘科学",
+    "刊发时间": "2024-01-20",
+    "引用量": "0",
+    "下载量": "82",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "苗学策",
+            "author_addresses": [
+                "深圳综合粒子设施研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "罗涛",
+            "author_addresses": [
+                "深圳综合粒子设施研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "齐志军",
+            "author_addresses": [
+                "深圳综合粒子设施研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "丁克良",
+            "author_addresses": [
+                "北京建筑大学测绘与城市空间信息学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "dkliang@bucea.edu.cn"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "49 ",
+    "期(Issue)": "01",
+    "摘要": " 为了提高激光跟踪仪多站测量数据处理方法的整体误差控制能力，研究数据内部存在的约束条件，基于四元数坐标转换原理，结合激光跟踪仪测量场景与数据特性，提出一种附有几何自约束的激光跟踪仪四元数光束法平差方法。将四元数坐标转换引入常规激光跟踪仪光束法平差中，替换传统涉及三角函数的坐标转换方法，并结合各测站观测同名点组间的距离不变这一数据内部的几何约束条件，建立几何自约束方程作为限制条件进行附有限制条件的间接平差解算。在实测数据上与传统激光跟踪仪数据处理方法进行坐标差值比对，结果表明，相比常规光束法平差平面精度提高28%,高程精度处于同一水平，整体点位精度优于0.050 mm,整体误差控制较好，能够在一定程度上控制测量空间范围内的误差分布，为准直测量等激光跟踪仪测量应用场景提供数据处理与误差控制方法参考。",
+    "关键词": [
+        "几何自约束",
+        "光束法平差",
+        "四元数坐标转换",
+        "激光跟踪仪"
+    ],
+    "基金资助": [
+        "北京建筑大学重点教研项目(DG2431351B)"
+    ],
+    "专辑": "基础科学",
+    "专题": "自然地理学和测绘学",
+    "分类号": "P207.2",
+    "页码": "33-40",
+    "页数": "8",
+    "爬取时间": "2025-03-26 02:40:08",
+    "论文唯一代码": "CHKD202401004"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "粉胶比对煤直接液化残渣复合改性沥青胶浆及混合料低温性能的影响",
+    "状态": "正常",
+    "发表期刊": "材料导报",
+    "刊发时间": "2024-01-19 13:36",
+    "引用量": "1",
+    "下载量": "468",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "季节",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院",
+                "北京建筑大学北京节能减排与城乡可持续发展省部共建协同创新中心",
+                "北京建筑大学北京市城市交通基础设施建设工程技术研究中心",
+                "北京建筑大学住房城乡建设部建筑垃圾资源化工程技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "jijie@bucea.edu.cn"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张梓源",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院",
+                "北京建筑大学北京节能减排与城乡可持续发展省部共建协同创新中心",
+                "北京建筑大学北京市城市交通基础设施建设工程技术研究中心",
+                "北京建筑大学住房城乡建设部建筑垃圾资源化工程技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "文龙",
+            "author_addresses": [
+                "清华大学土木工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "尤鹏超",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院",
+                "北京建筑大学北京节能减排与城乡可持续发展省部共建协同创新中心",
+                "北京建筑大学北京市城市交通基础设施建设工程技术研究中心",
+                "北京建筑大学住房城乡建设部建筑垃圾资源化工程技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "马童",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院",
+                "北京建筑大学北京节能减排与城乡可持续发展省部共建协同创新中心",
+                "北京建筑大学北京市城市交通基础设施建设工程技术研究中心",
+                "北京建筑大学住房城乡建设部建筑垃圾资源化工程技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "黄昶惟",
+            "author_addresses": [
+                "北京城建集团国际事业部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "38 ",
+    "期(Issue)": "22",
+    "摘要": " 本工作旨在探究粉胶比对煤直接液化残渣(Direct coal liquefaction residue, DCLR)复合改性沥青胶浆及混合料低温性能的影响。设计了四种粉胶比(0.6、0.8、1.0、1.2)下三种沥青胶浆及混合料(SK-90沥青胶浆及混合料、DCLR改性沥青胶浆及混合料、DCLR复合改性沥青胶浆及混合料),采用弯曲蠕变劲度(BBR)试验、低温小梁试验、半圆弯曲(SCB)试验、接触角试验进行性能评价。试验结果表明：相比于DCLR改性沥青胶浆及混合料，DCLR复合改性沥青胶浆临界破坏温度显著降低，混合料破坏应变提升较大，基本上达到SK-90沥青胶浆及混合料的低温性能水平。综合各种试验结果，三种混合料粉胶比为1.0时的低温性能最优。尤其是DCLR复合改性沥青混合料在粉胶比为1.0时，表现出更好的低温应力松弛能力，较强的抗开裂能力与抗裂缝发展能力。但其受粉胶比变化敏感性较强，当粉胶比增加到1.2时，混合料低温抗开裂能力与抗裂缝发展能力显著降低。",
+    "关键词": [
+        "道路工程",
+        "煤直接液化残渣",
+        "粉胶比",
+        "沥青胶浆",
+        "沥青混合料",
+        "低温性能"
+    ],
+    "基金资助": [
+        "国家自然科学基金(52078025)",
+        "国家重点研发计划(2021YFB2601200)",
+        "北京市属高等学校高水平科研创新团队建设支持计划项目(BPHR20220109)",
+        "北京建筑大学研究生创新项目(PG2023043)~~"
+    ],
+    "专辑": "工程科技Ⅰ辑;工程科技Ⅱ辑",
+    "专题": "公路与水路运输",
+    "分类号": "U414",
+    "页码": "182-188",
+    "页数": "7",
+    "爬取时间": "2025-03-26 02:40:21",
+    "论文唯一代码": "CLDB202422022"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "基于U-net改进的臂丛神经超声图像分割方法",
+    "状态": "正常",
+    "发表期刊": "浙江工业大学学报",
+    "刊发时间": "2024-01-19",
+    "引用量": "2",
+    "下载量": "284",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王传涛",
+            "author_addresses": [
+                "北京建筑大学机电与车辆工程学院",
+                "北京建筑安全监测工程技术研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘思宇",
+            "author_addresses": [
+                "北京建筑大学机电与车辆工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张锦华",
+            "author_addresses": [
+                "北京建筑大学机电与车辆工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "蔡昊轩",
+            "author_addresses": [
+                "北京建筑大学机电与车辆工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "52 ",
+    "期(Issue)": "01",
+    "摘要": " 臂丛神经阻滞麻醉是外科手术中常用的麻醉方法之一，其关键的步骤是识别臂丛神经结构，超声因无创、实时的特点已成为识别神经结构的重要手段，由于臂丛神经超声图像中含有大量噪声且对比度低，传统的分割方法很难达到理想的分割效果。因此，提出了一种基于U-net网络模型改进的臂丛神经超声图像分割方法。首先，在编码器部分引入了高效通道注意力网络(ECA-Net),以抑制无关信息并且增加对分割目标的权重；然后，在跳跃连接部分加入了不同膨胀率的空洞卷积，以融合神经结构的多尺度信息，解决神经结构形态不一的问题；最后，为了验证笔者模型的有效性，在Kaggle超声神经分割竞赛数据集上进行评估。实验结果表明：笔者模型在Dice相似系数和交并比(IoU)上分别达到了0.724 6和0.641 3,相较于Segnet, U-net和U-net++网络模型具有更优的分割效果。",
+    "关键词": [
+        "图像分割",
+        "臂丛神经",
+        "U-net",
+        "注意力机制",
+        "空洞卷积"
+    ],
+    "基金资助": [
+        "北京青年拔尖人才培育计划项目(CIT&TCD201704052)"
+    ],
+    "专辑": "工程科技Ⅱ辑;医药卫生科技;信息科技",
+    "专题": "临床医学;计算机软件及计算机应用",
+    "分类号": "TP391.41;R445.1",
+    "页码": "52-57+67",
+    "页数": "7",
+    "爬取时间": "2025-03-26 02:40:30",
+    "论文唯一代码": "ZJGD202401007"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "基于流固耦合的厢式中置轴挂车联合仿真",
+    "状态": "正常",
+    "发表期刊": "浙江工业大学学报",
+    "刊发时间": "2024-01-19",
+    "引用量": "1",
+    "下载量": "98",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "周庆辉",
+            "author_addresses": [
+                "北京建筑大学机电与车辆工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "邱宇航",
+            "author_addresses": [
+                "北京建筑大学机电与车辆工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "苏永元",
+            "author_addresses": [
+                "中公高远(北京)汽车检测技术有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "52 ",
+    "期(Issue)": "01",
+    "摘要": " 厢式货车的迎风面积较大，在强风天气高速行驶有很大安全隐患，结构参数是影响车辆空气动力学的因素之一。基于Fluent和TruckSim单向耦合的方法，建立厢式中置轴挂车的空气动力学和多体动力学流固耦合联合仿真模型。通过计算流体动力学(Computational fluid dynamics, CFD)对厢式中置轴挂车进行气动特性分析，运用多体动力学模型进行侧风稳定性验证。利用可实现k—ε湍流模型进行数值模拟，得到厢式中置轴挂车双力矩中心处的气动系数曲线。建立气动系数的数学模型作为联合仿真的接口，仿真结果表明挂车与牵引车车厢之间的间隙对挂车气动特性有一定影响。以横摆角速度和侧向加速度作为评价指标，发现当车速为80 km/h时，间隙越大车辆越不稳定；当车速为40 km/h时，间隙越大可有效提高车辆的行驶稳定性。因此，提出用可伸缩牵引杆来解决中置轴挂车行驶稳定性的方法。研究结果可为考虑空气动力学设计的多节车厢类挂车提供参考。",
+    "关键词": [
+        "车辆空气动力学",
+        "厢式中置轴挂车",
+        "侧风稳定性",
+        "数值模拟"
+    ],
+    "基金资助": [
+        "国家自然科学基金青年基金资助项目(51905028)",
+        "住房和城乡建设部科研计划项目(2022-K-079)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "汽车工业",
+    "分类号": "U469.52",
+    "页码": "68-76",
+    "页数": "9",
+    "爬取时间": "2025-03-26 02:40:46",
+    "论文唯一代码": "ZJGD202401009"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "不同曲线半径下轨底坡与轮径差最佳匹配研究",
+    "状态": "正常",
+    "发表期刊": "浙江工业大学学报",
+    "刊发时间": "2024-01-19",
+    "引用量": "0",
+    "下载量": "193",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "朱爱华",
+            "author_addresses": "北京建筑大学城市轨道交通车辆服役性能保障北京市重点实验室",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "孟宇轩",
+            "author_addresses": "北京建筑大学城市轨道交通车辆服役性能保障北京市重点实验室",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张帆",
+            "author_addresses": "北京建筑大学城市轨道交通车辆服役性能保障北京市重点实验室",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "杨建伟",
+            "author_addresses": "北京建筑大学城市轨道交通车辆服役性能保障北京市重点实验室",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "郭宇轩",
+            "author_addresses": "北京建筑大学城市轨道交通车辆服役性能保障北京市重点实验室",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "52 ",
+    "期(Issue)": "01",
+    "摘要": " 为了研究不同曲线半径下地铁车辆动力学性能最优的轨底坡与轮径差最佳匹配，运用SIMPACK软件建立了地铁车辆动力学仿真模型，设置9种轨底坡工况和5种轮径差工况，以轮轨横向力、轮对横移量、脱轨系数、轮重减载率和轮轨磨耗指数作为车辆动力学性能的评价指标，以4种不同C型曲线半径作为研究对象，分析45种轨底坡和轮径差耦合工况下各指标的变化规律。采用熵权法对各指标进行加权求和处理，得到不同工况下的车辆动力学性能综合得分，最终分析得出车辆在不同半径曲线下轨底坡和轮径差的最佳匹配。研究结果表明：在300,400,500,600 m这4种曲线半径下，外轨轨底坡、内轨轨底坡和轮径差最优匹配方案分别为(1/20,1/40,+1),(1/20,1/40,+1),(1/30,1/30,-1),(1/40,1/30,-1)。",
+    "关键词": [
+        "轨底坡",
+        "轮径差",
+        "动力学性能",
+        "车轮磨耗",
+        "熵权法"
+    ],
+    "基金资助": [
+        "国家自然科学基金资助项目(51975038)",
+        "北京市自然科学基金资助项目(KZ202010016025)",
+        "北京建筑大学研究生创新项目(PG2022133)的支持"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "铁路运输",
+    "分类号": "U270.11",
+    "页码": "77-85",
+    "页数": "9",
+    "爬取时间": "2025-03-26 02:41:09",
+    "论文唯一代码": "ZJGD202401010"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "人脸关键点检测研究综述",
+    "状态": "正常",
+    "发表期刊": "计算机工程与应用",
+    "刊发时间": "2024-01-18 12:53",
+    "引用量": "5",
+    "下载量": "1265",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张晓行",
+            "author_addresses": "北京建筑大学电气与信息工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "田启川",
+            "author_addresses": "北京建筑大学电气与信息工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "tianqichuan@163.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "廉露",
+            "author_addresses": "北京建筑大学电气与信息工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "谭润",
+            "author_addresses": "北京建筑大学电气与信息工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "60 ",
+    "期(Issue)": "12",
+    "摘要": " 随着计算机视觉等技术的快速发展，人机交互、医疗辅助、安防监控等领域迅速崛起，人脸关键点检测作为其中一项重要任务备受关注，它可以在图像或视频中定位和检测人脸关键点，具有很高的实用价值。通过对人脸关键点检测方法研究现状的梳理和分析，将其分为传统的人脸关键点检测方法和基于深度学习的人脸关键点检测方法；对比分析了各类方法的原理及优缺点，介绍常用数据集和评价指标，全面评估了重点方法在不同数据集上的性能表现；归纳人脸关键点检测应用领域，展望其未来发展方向。",
+    "关键词": [
+        "人脸关键点检测",
+        "深度学习",
+        "传统人脸关键点检测"
+    ],
+    "基金资助": [
+        "北京建筑大学研究生教育教学质量提升项目（J2022012）北京建筑大学教育教学研究项目（Y2130）北京建筑大学混合式课程建设项目（YC23019）"
+    ],
+    "专辑": "信息科技",
+    "专题": "计算机软件及计算机应用;自动化技术",
+    "分类号": "TP391.41;TP18",
+    "页码": "48-60",
+    "页数": "13",
+    "爬取时间": "2025-03-26 02:41:22",
+    "论文唯一代码": "JSGG202412004"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "基于同步挤压小波变换和Transformer的轴承故障诊断模型",
+    "状态": "正常",
+    "发表期刊": "机电工程",
+    "刊发时间": "2024-01-18 11:31",
+    "引用量": "5",
+    "下载量": "1111",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张向宇",
+            "author_addresses": "北京建筑大学机电与车辆工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王衍学",
+            "author_addresses": "北京建筑大学机电与车辆工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "wangyanxue@bucea.edu.cn"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "41 ",
+    "期(Issue)": "06",
+    "摘要": " 针对采用神经网络对滚动轴承进行故障诊断时，故障信息利用不充分，特征提取困难的问题，提出了一种基于同步挤压小波变换(SST)-Transformer的滚动轴承智能故障诊断方法。首先，以同步挤压小波变换作为信号处理模块，将一维振动信号转为时频图；接着，设计了一种最大程度保留故障信息的时频图分割方式，将时频图分割为一系列图像块序列；然后，将序列输入到具有强大的处理序列数据能力的Transformer模型中，进行了特征提取；最后，将特征数据输入分类器进行了分类，对比了不同的时频图分割方式的诊断效果，并将SST-Transformer模型与基准算法相比较。研究结果表明：相较于其他分割方式，基于SST-Transformer的滚动轴承智能故障诊断方法的诊断准确率提升了3.45%,并大幅提升了模型训练的收敛速度；相比于其他基准算法，该方法的平均准确率至少提升了1.05%。该方法有较高的诊断准确率和较好的稳定性。",
+    "关键词": [
+        "故障智能诊断",
+        "神经网络",
+        "故障特征提取",
+        "注意力机制",
+        "深度学习",
+        "同步挤压小波变换",
+        "Transformer模型"
+    ],
+    "基金资助": [
+        "国家自然科学基金资助项目(52275079,51875032)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "机械工业",
+    "分类号": "TH133.3;TP183",
+    "页码": "1011-1019",
+    "页数": "9",
+    "爬取时间": "2025-03-26 02:41:30",
+    "论文唯一代码": "JDGC202406007"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "截面旋转及朝向对建筑周边行人风环境的影响",
+    "状态": "正常",
+    "发表期刊": "建筑结构",
+    "刊发时间": "2024-01-18 11:24",
+    "引用量": "0",
+    "下载量": "209",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "徐晓达",
+            "author_addresses": [
+                "中冶建筑研究总院有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "曾滨",
+            "author_addresses": [
+                "中冶建筑研究总院有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "杨庆山",
+            "author_addresses": [
+                "重庆大学土木学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "许庆",
+            "author_addresses": [
+                "中冶建筑研究总院有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "张石",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "54 ",
+    "期(Issue)": "06",
+    "摘要": " 基于风洞试验和风环境评估理论对方形、矩形、椭圆形等基本形体及其相应截面旋转形体的超高层建筑周边行人风环境进行研究，分析了不同朝向及不同旋转角度下建筑周边行人风环境的舒适性和安全性。结果表明：朝向变化对方形截面建筑行人风环境影响较小，对矩形及椭圆形等双轴不等长截面建筑影响较大，将短边垂直于主导风向可以显著改善建筑周边行人风环境；截面旋转改变了朝向变化对建筑行人风环境的影响规律，旋转建筑与基本截面建筑的行人风环境分布随朝向的增加呈现相反的变化趋势；截面旋转不利于方形截面建筑周边行人风环境分布；对于矩形和椭圆形截面建筑，截面旋转可以减小朝向的变化对行人风环境的影响。研究成果探明了截面旋转角度及朝向变化对基本形体超高层建筑周边行人风环境的影响规律。",
+    "关键词": [
+        "行人风环境",
+        "超高层建筑",
+        "截面旋转",
+        "朝向"
+    ],
+    "基金资助": [
+        "国家自然科学基金项目(52108431)",
+        "北京建筑大学青年教师科研能力提升计划资助(X21071)"
+    ],
+    "专辑": "工程科技Ⅱ辑;基础科学",
+    "专题": "气象学;建筑科学与工程",
+    "分类号": "TU119;TU97",
+    "页码": "133-140",
+    "页数": "8",
+    "爬取时间": "2025-03-26 02:42:20",
+    "论文唯一代码": "JCJG202406018"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "MG公司仓储管理系统企业应用效果研究",
+    "状态": "正常",
+    "发表期刊": "价值工程",
+    "刊发时间": "2024-01-18",
+    "引用量": "3",
+    "下载量": "1178",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李鑫",
+            "author_addresses": [
+                "北京建筑大学城市经济与管理学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "02",
+    "摘要": " 随着传统企业陆续进入到了工业4.0时代，传统物流仓储能否快速开展智能化、信息化成为企业提升竞争力的核心关键。本文以MG公司为研究对象，先查阅相关文献了解仓储管理系统相关概念与理论知识，结合MG公司企业现状，对比分析WMS上线前仓库存在的问题以及WMS上线后的效果，得出了WMS系统能够实现出入库单据的快速响应和货物的快速周转、提高库内的操作效率和库存准确度等应用效果的结论。",
+    "关键词": [
+        "WMS",
+        "仓储问题",
+        "仓储优化效果"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑;经济与管理科学;工程科技Ⅰ辑;信息科技",
+    "专题": "轻工业手工业;计算机软件及计算机应用;工业经济;企业经济",
+    "分类号": "TP315;F274;F426.8",
+    "页码": "79-81",
+    "页数": "3",
+    "爬取时间": "2025-03-26 02:42:29",
+    "论文唯一代码": "JZGC202402025"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "考虑弱势群体疏散行为特征的高层住院楼疏散仿真及优化",
+    "状态": "正常",
+    "发表期刊": "科学技术与工程",
+    "刊发时间": "2024-01-18",
+    "引用量": "3",
+    "下载量": "424",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘晓然",
+            "author_addresses": [
+                "北京建筑大学理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "丰慧",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "13552952434@163.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "曾德民",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张略淼",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "24 ",
+    "期(Issue)": "02",
+    "摘要": " 为有效提高高层住院楼内人员安全疏散效率，选取某综合医院高层住院楼为研究对象，重点考虑高层住院楼内弱势群体疏散行为特征，结合视域分析法对住院楼内部空间进行适弱化分析，应用AnyLogic软件对建筑内部人员开展多情景疏散仿真。结果表明，进行紧急疏散时，建筑内的空间布局会诱使疏散压力集中在建筑内某一区域；依据住院楼内人员的生理和行为特征进行分类，将不同类别人员组合并进行分梯疏散，最优方案下整体疏散效率提高了15.95%。可见考虑弱势群体的疏散行为特征，对人员进行合理的分组分梯疏散能有效提高高层住院楼整体疏散效率。",
+    "关键词": [
+        "高层住院楼",
+        "空间句法",
+        "弱势群体",
+        "疏散行为",
+        "Anylogic",
+        "分组分梯"
+    ],
+    "基金资助": [
+        "国家自然科学基金(51908025,52278472)",
+        "中国地震局工程力学研究所基本科研业务费专项(2021EEEVL0212)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU998.1",
+    "页码": "715-722",
+    "页数": "8",
+    "爬取时间": "2025-03-26 02:42:41",
+    "论文唯一代码": "KXJS202402031"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "颗粒活性炭-纳滤处理二级出水中有机物膜污染机制研究",
+    "状态": "正常",
+    "发表期刊": "中国环境科学",
+    "刊发时间": "2024-01-17 09:31",
+    "引用量": "1",
+    "下载量": "401",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "孙丽华",
+            "author_addresses": [
+                "北京建筑大学,城市雨水系统与水环境教育部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "sunlihuashd@163.com"
+        },
+        {
+            "author_order": 2,
+            "author_name": "邓斯",
+            "author_addresses": [
+                "北京建筑大学环境与能源工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "梅筱禹",
+            "author_addresses": [
+                "北京市水务规划研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王春芳",
+            "author_addresses": [
+                "北京建筑大学环境与能源工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "44 ",
+    "期(Issue)": "07",
+    "摘要": " 采用颗粒活性炭（Granular Activated Carbon,GAC）、生物活性炭（Biological Activated Carbon,BAC）两种过滤单元分别与纳滤（Nanofiltration,NF）组合对污水厂二级出水进行深度处理,分析二级出水直接NF、GAC-NF以及BAC-NF三种不同处理工艺对有机物的去除效果以及膜污染机制.研究发现,BAC-NF组合工艺对溶解性有机碳（DOC）、微生物代谢副产物类和腐殖酸类有机物的去除效果更好,去除率分别为85.2%、76.2%和82.0%;BAC-NF组合工艺的膜比通量（J/J<sub>0</sub>）最高,每个周期末的J/J<sub>0</sub>分别为0.69、0.65和0.63,膜污染总阻力最低,仅为5.97×10<sup>10</sup>m<sup>-1</sup>;膜污染特征曲线表明二级出水直接NF为滤饼层污染,GAC-NF和BAC-NF先发生中间堵塞之后形成滤饼层污染;其中,BAC-NF以膜孔中间堵塞污染为主,膜污染程度最轻;通过扩展的德亚盖因-兰多-弗韦-奥弗比克（Extended Derjaguin-Laudau-Verwey-Overbeek,x DLVO）理论分析发现BAC-NF组合工艺污染后膜表面的疏水性最弱,膜表面Zeta电位值最大;BAC-NF组合工艺在过滤初期,水中有机物不容易到达膜表面,膜污染程度最轻.在过滤中后期,水中有机物与膜表面有机物之间很难产生粘附,形成的滤饼层最疏松.综上,BAC-NF组合工艺能有效缓解膜污染,可为再生水深度回用提供一种可靠的技术.",
+    "关键词": [
+        "二级出水",
+        "纳滤",
+        "颗粒活性炭",
+        "膜污染",
+        "xDLVO理论"
+    ],
+    "基金资助": [
+        "国家自然科学基金资助项目(52070011,52370004)",
+        "北京建筑大学研究生创新项目资助(PG2024085)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "环境科学与资源利用",
+    "分类号": "X703",
+    "页码": "3749-3758",
+    "页数": "10",
+    "爬取时间": "2025-03-26 02:43:00",
+    "论文唯一代码": "ZGHJ202407046"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "新工科下基于科教融合的“桥梁工程”教学改革",
+    "状态": "正常",
+    "发表期刊": "教育教学论坛",
+    "刊发时间": "2024-01-17",
+    "引用量": "2",
+    "下载量": "160",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "焦驰宇",
+            "author_addresses": [
+                "北京建筑大学古桥研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "龙佩恒",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "乔宏",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "03",
+    "摘要": " 如何立足新工科思维，开展针对“桥梁工程”的探索性教学改革成为道桥专业人才亟须解决的关键问题。在结合学科特点和当代大学生特征的基础上，深入分析当前桥梁课程教学方式的不足。基于科教融合理念，以“创新工程教育模式”为指引，提出了将工程实践引入教学内容、将科研成果引入教学过程、将科研思维引入教学组织的教改实施路径，并给出“课堂教学催生问题提出”“实践教学推动科研进展”“学科竞赛提升科研质量”等创新理念。成果可为同类课程教学改革提供借鉴。",
+    "关键词": [
+        "新工科",
+        "科教融合",
+        "桥梁工程",
+        "工程实践"
+    ],
+    "基金资助": [
+        "2021年度中国建设教育协会教研项目“基于Kolb体验式学习的桥梁工程专业多元化协同育人体系研究”（2021039）",
+        "2019年度北京建筑大学校设教研立项计划重点项目“新工科背景下建筑类高校科教融合创新研究”（Y19-33）"
+    ],
+    "专辑": "社会科学Ⅱ辑;工程科技Ⅱ辑",
+    "专题": "公路与水路运输;高等教育",
+    "分类号": "G642.0;U442-4",
+    "页码": "69-72",
+    "页数": "4",
+    "爬取时间": "2025-03-26 02:43:11",
+    "论文唯一代码": "JYJU202403047"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "顺应地形梯度的矿山景观生态修复设计——以威海建材开发区华夏城设计为例",
+    "状态": "正常",
+    "发表期刊": "中国水土保持科学(中英文)",
+    "刊发时间": "2024-01-15 21:02",
+    "引用量": "0",
+    "下载量": "536",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "马婷婷",
+            "author_addresses": [
+                "北京建筑大学建筑与城市规划学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "22 ",
+    "期(Issue)": "04",
+    "摘要": " 矿山开采在引发较多矿山生态环境问题的同时也严重影响了人民的生产生活。如何合理规划矿山景观生态修复模式以保护生态环境和提升社会经济效益是十分重要的问题。以威海华夏城为对象，以矿山迹地地貌为研究基础，提出和搭建矿山景观生态修复的策略与技术框架，开展顺应地形梯度的矿山景观生态修复的设计与实践研究。结果表明：从环境要素设计、结构设计、功能设计3方面建立的矿山景观设计技术框架，在矿山迹地修复设计实践中具有指导意义，使建成后华夏城景区生态优良，实现了生态效益、经济效益和社会效益的共赢，同时在矿山生态环境恢复和绿化景观设计实践中起到了示范性作用。",
+    "关键词": [
+        "矿山迹地",
+        "地形梯度",
+        "景观",
+        "生态环境",
+        "修复"
+    ],
+    "基金资助": [],
+    "专辑": "农业科技;工程科技Ⅰ辑;工程科技Ⅱ辑",
+    "专题": "环境科学与资源利用;建筑科学与工程",
+    "分类号": "X171.4;TU984.18",
+    "页码": "137-145",
+    "页数": "9",
+    "爬取时间": "2025-03-26 02:43:20",
+    "论文唯一代码": "STBC202404016"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "基于U-Net变体的医学图像分割算法综述",
+    "状态": "正常",
+    "发表期刊": "计算机工程与应用",
+    "刊发时间": "2024-01-15 18:30",
+    "引用量": "12",
+    "下载量": "4305",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "崔珂",
+            "author_addresses": "北京建筑大学电气与信息工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "田启川",
+            "author_addresses": "北京建筑大学电气与信息工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "tianqichuan@163.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "廉露",
+            "author_addresses": "北京建筑大学电气与信息工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "60 ",
+    "期(Issue)": "11",
+    "摘要": " U-Net简单高效的网络结构，被广泛应用于医学图像分割任务中，学者们针对U-Net结构进行了很多的研究和改进。基于U-Net网络结构的改进方法从以下方面进行归纳总结：总结了U-Net网络在医学图像分割领域的关键挑战；归纳了常用于U-Net网络的医学图像数据集格式及特点；重点总结U-Net和U-Net变体算法六大改进机制：跳跃连接机制、生成对抗网络、残差连接机制、3D-UNet、Transformer机制、密集连接机制。最后，探讨六大改进机制与常用医学数据之间的关系，并指出未来改进思路和方向，激发U-Net在医学图像分割的无限潜力。",
+    "关键词": [
+        "U-Net变体",
+        "医学图像分割",
+        "语义分割",
+        "深度学习",
+        "改进机制"
+    ],
+    "基金资助": [
+        "北京建筑大学研究生教育教学质量提升项目（J2022012）北京建筑大学教育教学研究项目（Y2130）北京建筑大学混合式课程建设项目（YC23019）"
+    ],
+    "专辑": "信息科技;基础科学;医药卫生科技",
+    "专题": "生物学;生物医学工程;计算机软件及计算机应用",
+    "分类号": "R318;TP391.41",
+    "页码": "32-49",
+    "页数": "18",
+    "爬取时间": "2025-03-26 02:43:33",
+    "论文唯一代码": "JSGG202411003"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "手机室内场景要素实例化现实增强方法研究进展",
+    "状态": "正常",
+    "发表期刊": "计算机工程与应用",
+    "刊发时间": "2024-01-15 18:13",
+    "引用量": "3",
+    "下载量": "274",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘建华",
+            "author_addresses": "北京建筑大学测绘与城市空间信息学院移动地理空间大数据云服务创新团队",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "liujianhua@bucea.edu.cn"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王楠",
+            "author_addresses": "北京建筑大学测绘与城市空间信息学院移动地理空间大数据云服务创新团队",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "白明辰",
+            "author_addresses": "北京建筑大学测绘与城市空间信息学院移动地理空间大数据云服务创新团队",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "60 ",
+    "期(Issue)": "07",
+    "摘要": " 室内手机导航与位置服务是当前的研究热点，场景要素实例化现实增强方法是其中重要的组成部分。实例分割是场景要素感知中一项具有挑战性的基本任务，增强现实是数字孪生建筑物地图应用的有效途径，两者在室内定位导航领域有着重要意义。当前，增强现实技术主要应用在对场景中的语义增强，智能手机室内导航AR增强也只是停留在视觉可视化效果方面，尚没有真正深入到对场景中要素实例的增强层面。针对该问题，提出手机场景要素实例化AR研究思路，通过识别室内场景中的对象并与建筑物地图进行匹配，将建筑物地图中对应存储的要素信息利用AR技术进行增强显示，进而辅助行人进行室内导航与位置服务等相关应用，提升用户室内定位导航等位置服务的信息化水平。对智能手机端视频的实例分割和增强现实方法进行了系统的梳理，并分析了相关方法的特点和适用场景，总结了移动端实例分割和增强现实的研究进展，最后探讨了室内场景要素实例化现实增强方法在导航与位置服务领域的应用前景。",
+    "关键词": [
+        "增强现实",
+        "实例分割",
+        "深度学习",
+        "手机室内定位导航",
+        "建筑物地图匹配"
+    ],
+    "基金资助": [
+        "北京市高等教育学会重点项目（ZD202244）",
+        "北京建筑大学教育科学研究重点项目（Y2111）"
+    ],
+    "专辑": "信息科技",
+    "专题": "计算机软件及计算机应用",
+    "分类号": "TP391.9",
+    "页码": "58-69",
+    "页数": "12",
+    "爬取时间": "2025-03-26 02:43:46",
+    "论文唯一代码": "JSGG202407003"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "有轨电车小半径曲线梁桥减隔震措施对比研究",
+    "状态": "正常",
+    "发表期刊": "结构工程师",
+    "刊发时间": "2024-01-15 16:24",
+    "引用量": "0",
+    "下载量": "141",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "焦驰宇",
+            "author_addresses": [
+                "北京建筑大学工程结构与新材料北京市高等学校工程研究中心",
+                "北京建筑大学古桥研究院",
+                "北京建筑大学大型多功能振动台阵实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "jcy@bucea.edu.cn"
+        },
+        {
+            "author_order": 2,
+            "author_name": "曹跃",
+            "author_addresses": [
+                "北京建筑大学大型多功能振动台阵实验室",
+                "北京市市政工程设计研究总院有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "阮良奉",
+            "author_addresses": [
+                "中铁第五勘察设计院集团有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "乔宏",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "40 ",
+    "期(Issue)": "05",
+    "摘要": " 为适应交通路网发展需求，小半径曲线桥被广泛应用，其中有轨电车小半径曲线桥占据较高的比重。为确保地震区有轨电车的抗震安全，常采用减隔震装置以减小地震响应。然而，不同装置类型和布置方式对减隔震效果存在较大差异，因此有必要深入研究优化策略。本文以某典型有轨电车小半径曲线桥为工程背景，基于多个单一减震装置有机组合，依据边墩控制位移、中墩降低内力的组合减震理念，提出了一种新型的组合减隔震装置，并选择适宜参数的摩擦摆支座（FPS）、铅芯橡胶支座（LRB）和液体黏滞阻尼器（FVD）三种减隔震装置，通过动力非线性时程分析，探究了各装置关键参数对于曲线桥减震效果的影响，并对采用不同减隔震装置的有轨电车小半径曲线桥地震响应进行对比分析。研究发现：本文提出的组合减隔震方案能够明显弥补单一减隔震装置的不足，达到更好的减隔震效果，值得在同类桥梁中推广应用；FPS与LRB对墩底内力控制效果较好，但会在一定程度上放大结构的墩梁相对位移；FVD对墩梁相对位移的控制效果更好，但对墩底内力的控制效果比其他两种减隔震装置差。",
+    "关键词": [
+        "有轨电车",
+        "小半径曲线梁桥",
+        "非线性时程分析法",
+        "减隔震装置"
+    ],
+    "基金资助": [
+        "国家自然科学基金（52078023,52208140,52378472）",
+        "北京市自科基金-北京市教委科技计划重点项目（23JH0014）",
+        "北京市教育委员会科学研究计划项目资助（KM202210016010）"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "公路与水路运输",
+    "分类号": "U442.55",
+    "页码": "56-65",
+    "页数": "10",
+    "爬取时间": "2025-03-26 02:43:59",
+    "论文唯一代码": "JGGC202405007"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "基于参数自适应的RSSD-CYCBD及在轴承外圈故障特征提取中的应用",
+    "状态": "正常",
+    "发表期刊": "机电工程",
+    "刊发时间": "2024-01-15 13:17",
+    "引用量": "1",
+    "下载量": "457",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘晖",
+            "author_addresses": [
+                "北京建筑大学机电与车辆工程学院",
+                "北京建筑大学城市轨道交通车辆服役性能保障北京重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "姚德臣",
+            "author_addresses": [
+                "北京建筑大学机电与车辆工程学院",
+                "北京建筑大学城市轨道交通车辆服役性能保障北京重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "yaodechen@bucea.edu.cn"
+        },
+        {
+            "author_order": 3,
+            "author_name": "杨建伟",
+            "author_addresses": [
+                "北京建筑大学机电与车辆工程学院",
+                "北京建筑大学城市轨道交通车辆服役性能保障北京重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "魏明辉",
+            "author_addresses": [
+                "北京建筑大学机电与车辆工程学院",
+                "北京建筑大学城市轨道交通车辆服役性能保障北京重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "41 ",
+    "期(Issue)": "05",
+    "摘要": " 针对滚动轴承工作环境复杂、故障特征信号易被高强度噪声掩盖的问题，提出了基于参数自适应的共振稀疏分解(RSSD)和最大二阶循环平稳盲解卷积(CYCBD)的滚动轴承故障诊断方法。首先，利用人工大猩猩部队优化算法(GTO),结合相关系数与相关峭度的融合指标，自适应选择RSSD分解参数，得到了仿真信号的最优低共振分量；然后，利用GTO结合包络熵，自适应选择CYCBD的循环频率和滤波器长度，对最优低共振分量进行了解卷积运算，从包络谱中获得了信号的故障特征频率；最后，利用美国凯斯西储大学试验台和MFS-MG机械故障综合模拟试验台数据，综合验证了该方法的有效性，并将试验结果与RSSD-MCKD方法的结果进行了对比。研究结果表明，该方法能够准确地得到仿真信号的故障频率为20 Hz、美国凯斯西储大学试验台近似故障频率为107.5 Hz、MFS-MG试验台近似故障频率为87.6 Hz。自适应RSSD-CYCBD方法能够有效地识别出故障特征频率及其倍频，实现滚动轴承故障诊断的目的。",
+    "关键词": [
+        "滚动轴承",
+        "故障诊断",
+        "共振稀疏分解",
+        "最大二阶循环平稳盲反卷积",
+        "人工大猩猩部队优化算法",
+        "包络熵",
+        "高强度噪声"
+    ],
+    "基金资助": [
+        "国家自然科学基金资助项目(51975038,52272385,52205083)",
+        "北京市自然科学基金资助项目(L211008,L221027,L211007,3214042)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "机械工业",
+    "分类号": "TH133.33",
+    "页码": "836-844",
+    "页数": "9",
+    "爬取时间": "2025-03-26 02:44:09",
+    "论文唯一代码": "JDGC202405009"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "近十年中美开放获取论文发展情况分析——基于InCites数据库的比较",
+    "状态": "正常",
+    "发表期刊": "中国科技期刊研究",
+    "刊发时间": "2024-01-15",
+    "引用量": "2",
+    "下载量": "491",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "康飞",
+            "author_addresses": [
+                "北京建筑大学城市经济与管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘琪",
+            "author_addresses": [
+                "北京建筑大学城市经济与管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张涵",
+            "author_addresses": [
+                "中国科学院科技战略咨询研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "zhanghan@casisd.cn"
+        },
+        {
+            "author_order": 4,
+            "author_name": "高天晓",
+            "author_addresses": [
+                "国家自然科学基金委员会科学传播与成果转化中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "35 ",
+    "期(Issue)": "01",
+    "摘要": " 【目的】甄别中美2013—2022年开放获取(OA)论文在数量及影响力等方面的差异，提出对中国OA论文现阶段发展的建议，以推动开放科学发展。【方法】基于InCites数据库，对2013—2022年中美OA论文相关指标进行分析，统计中美研究人员发表OA论文的数量、类型与学科分布，以及论文影响力相关引证指标，使用文献计量学方法进行对比分析。【结果】中国OA论文的数量和占比基本与美国持平，但类型分布不如美国均衡；学科分布上，医学与生命科学领域的OA论文数量远超其他学科；在影响力方面，无论是高被引论文数量还是学科规范化引文影响力指数，中国都与美国存在差距。【结论】中国OA论文发展在类型和学科上都有所失衡，未来应搭建OA平台，严格把关OA论文质量，完善相关制度。",
+    "关键词": [
+        "开放获取",
+        "学科规范化引文影响力",
+        "开放科学",
+        "中美比较",
+        "InCites数据库"
+    ],
+    "基金资助": [
+        "国家社会科学基金一般项目“平台企业数据垄断对中小企业创新的影响及治理机制研究”(20BGL050)",
+        "北京市属高等学校优秀青年人才培育计划项目“北京市传统企业数字化转型发展路径研究”(BPHR202203088)"
+    ],
+    "专辑": "信息科技",
+    "专题": "图书情报与数字图书馆",
+    "分类号": "G353.1",
+    "页码": "110-120",
+    "页数": "11",
+    "爬取时间": "2025-03-26 02:44:24",
+    "论文唯一代码": "JYKQ202401015"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "具有饱和发生率的多斑块传染病模型的动力学分析",
+    "状态": "正常",
+    "发表期刊": "曲阜师范大学学报(自然科学版)",
+    "刊发时间": "2024-01-15",
+    "引用量": "1",
+    "下载量": "209",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李宇航",
+            "author_addresses": [
+                "中北大学数学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘茂省",
+            "author_addresses": [
+                "中北大学数学学院",
+                "北京建筑大学理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "liumaoxing@126.com."
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "50 ",
+    "期(Issue)": "01",
+    "摘要": " 建立了一类斑块环境下具有饱和发生率的SVEIQR传染病模型，该模型考虑了疫苗接种和隔离策略.首先，通过构造再生矩阵得到了基本再生数R<sub>0</sub>的矩阵表示.然后，应用Lyapnuov函数法证明了当R<sub>0</sub>&lt;1时无病平衡点的全局渐近稳定性.最后，对R<sub>0</sub>进行了敏感性分析和数值模拟.结果表明：增加接种率和隔离率都能够减少基本再生数的大小；人口从高风险地区到低风险地区迁移率增加能够增大基本再生数的值.所以，当疾病爆发后，应严格控制高风险地区的人口向外流动，并及时进行疫苗接种以及采取相应的隔离策略.",
+    "关键词": [
+        "饱和发生率",
+        "斑块",
+        "SVEIQR传染病模型",
+        "稳定性分析"
+    ],
+    "基金资助": [
+        "国家自然科学基金(12071445,12001501)"
+    ],
+    "专辑": "基础科学;医药卫生科技",
+    "专题": "数学;预防医学与卫生学",
+    "分类号": "O175;R181",
+    "页码": "1-7",
+    "页数": "7",
+    "爬取时间": "2025-03-26 02:44:40",
+    "论文唯一代码": "QFSF202401001"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "一类随机SIR传染病模型的非标准数值离散化",
+    "状态": "正常",
+    "发表期刊": "西北师范大学学报(自然科学版)",
+    "刊发时间": "2024-01-15",
+    "引用量": "2",
+    "下载量": "394",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "谭伟",
+            "author_addresses": [
+                "中北大学数学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘茂省",
+            "author_addresses": [
+                "中北大学数学学院",
+                "北京建筑大学理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "liumaoxing@126.com"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "60 ",
+    "期(Issue)": "01",
+    "摘要": " 研究一个具有饱和发生率和疫苗接种率的随机离散SIR传染病模型的稳定性.首先,引入一个具有饱和发生率和疫苗接种率的确定性SIR模型,考虑到随机噪声对疾病传播有很大影响,应用非标准有限差分(NSFD)方法将模型离散化,最终得到一个随机离散的SIR传染病模型.这种离散方法是对系统的右侧进行局部离散,得出离散模型,然后系统左侧用广义前向差分法对一阶导数进行逼近,并且要选取恰当的分母函数.其次,应用Lyapunov函数和矩阵方法给出了系统平衡解稳定的充分条件,并且得到了非线性差分方程概率稳定的充分条件和线性差分方程渐近均方稳定的充分条件.最后,通过数值仿真对理论分析结论进行验证.",
+    "关键词": [
+        "饱和发生率",
+        "随机离散模型",
+        "非标准有限差分方法",
+        "Lyapunov函数",
+        "渐近均方稳定"
+    ],
+    "基金资助": [
+        "国家自然科学基金资助项目(12071445,12001501)"
+    ],
+    "专辑": "基础科学;医药卫生科技",
+    "专题": "数学;预防医学与卫生学",
+    "分类号": "O211.6;R186",
+    "页码": "30-38",
+    "页数": "9",
+    "爬取时间": "2025-03-26 02:44:50",
+    "论文唯一代码": "XBSF202401006"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "基于正交试验法的铝合金车体高压水清洗喷嘴结构优化",
+    "状态": "正常",
+    "发表期刊": "液压与气动",
+    "刊发时间": "2024-01-15",
+    "引用量": "5",
+    "下载量": "456",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "孙浩",
+            "author_addresses": [
+                "国能朔黄铁路发展有限责任公司物流分公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "栾锋",
+            "author_addresses": [
+                "国能铁路装备有限责任公司沧州机车车辆维修分公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "冯乐乐",
+            "author_addresses": [
+                "国能铁路装备有限责任公司沧州机车车辆维修分公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "赵鹏",
+            "author_addresses": [
+                "国能铁路装备有限责任公司沧州机车车辆维修分公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "陈萧阳",
+            "author_addresses": [
+                "北京建筑大学北京市建筑安全监测工程技术研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "张军",
+            "author_addresses": [
+                "北京建筑大学北京市建筑安全监测工程技术研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "48 ",
+    "期(Issue)": "01",
+    "摘要": " 抑尘剂等复杂的化合物黏着在铝合金车体上，导致车体污染十分严重，高压水射流清洗方法能够有效去除铝合金车辆车体表面黏着的化合物。通过分析圆柱形、锥形、文丘里形和余弦形喷嘴的射流流场分布、射流出口速度、最大壁面静压、相同清洗宽度下压力值范围，得到余弦形喷嘴的清洗性能最佳，锥形喷嘴次之。基于正交试验法设计五因素、四水平正交试验表，得到常用清洗压力下余弦形喷嘴的最优结构参数：进口直径为40 mm、出口直径为20 mm、过渡段半径为40 mm、出射段长度为25 mm、过渡与余弦部分长度比为4。按照最优喷嘴结构参数进行建模，得到三组压力值下高压水出射速度比未优化前提高了2%,且优化效果随着入口压力值的提高而有所下降。在优化后的喷嘴结构参数下进一步计算得出入口压力为10 MPa时，靶距设置为250 mm能达到较好的清洗效果和节能作用。",
+    "关键词": [
+        "铝合金车体",
+        "高压水射流",
+        "正交试验",
+        "喷嘴",
+        "结构优化"
+    ],
+    "基金资助": [
+        "北京建筑大学硕士研究生创新项目(PG2023137)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "铁路运输",
+    "分类号": "U279.325",
+    "页码": "122-130",
+    "页数": "9",
+    "爬取时间": "2025-03-26 02:45:06",
+    "论文唯一代码": "YYYQ202401019"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "全固废再生流态混合料制备及性能研究",
+    "状态": "正常",
+    "发表期刊": "硅酸盐通报",
+    "刊发时间": "2024-01-15",
+    "引用量": "1",
+    "下载量": "278",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "周文娟",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "胡牛涛",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "huniutao@163.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "钮浩翔",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "谢谦",
+            "author_addresses": [
+                "北京中航质民航工程技术有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "01",
+    "摘要": " 本文以碱渣、矿渣、冗余土、砖混再生骨料为主要原料制备回填用全固废再生流态混合料。通过流动度、凝结时间及抗压强度试验，探讨了胶材组成及胶材总量对流态混合料工作性能及力学性能的影响，并通过XRD、SEM进行微观分析。试验结果表明：当碱渣掺量为15%～50%(质量分数，下同)、矿渣为20%～85%、粉煤灰为0%～40%时，流态混合料强度达1 MPa;矿渣掺量对流态混合料的早期及后期抗压强度增长影响最显著；碱性废渣及粉煤灰掺量对流态混合料后期抗压强度的增长影响显著。通过微观分析发现，流态混合料的强度主要源于矿渣在碱性环境下发生的解聚，C-S-H、C-A-S-H及AFt交织形成骨架。",
+    "关键词": [
+        "流态混合料",
+        "碱渣",
+        "粉煤灰",
+        "抗压强度",
+        "微观分析"
+    ],
+    "基金资助": [
+        "国家十四五重点研发计划课题(2022YFC3803403-02)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "环境科学与资源利用",
+    "分类号": "X705",
+    "页码": "257-267",
+    "页数": "11",
+    "爬取时间": "2025-03-26 02:45:22",
+    "论文唯一代码": "GSYT202401027"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "2000—2020年三峡库区生态环境质量综合评估",
+    "状态": "正常",
+    "发表期刊": "环境污染与防治",
+    "刊发时间": "2024-01-15",
+    "引用量": "5",
+    "下载量": "634",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "向万淋",
+            "author_addresses": [
+                "北京建筑大学测绘与城市空间信息学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "姬翠翠",
+            "author_addresses": [
+                "重庆交通大学智慧城市学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "周伟",
+            "author_addresses": [
+                "西南大学地理科学学院,重庆金佛山喀斯特生态系统国家野外科学观测研究站"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "46 ",
+    "期(Issue)": "01",
+    "摘要": " 客观综合地评估区域生态环境质量是现今全球关注和研究的热点问题。三峡库区自蓄水后，生态环境就变得比较脆弱，因此评价三峡库区生态环境质量十分必要。基于2000、2010、2020年的遥感数据，结合生态环境指数(EI)和遥感生态指数(RSEI)构建了三峡库区生态环境质量综合评价体系。结果表明，构建的生态环境质量综合评价体系能够有效实现三峡库区大尺度长时间序列的生态环境质量评价，精度可靠。2000—2010年三峡库区生态环境质量呈现下降趋势，而2010—2020年呈现上升趋势，2000—2020年整体上表现为上升趋势。空间上，三峡库区生态环境质量较好的区域主要分布在东部、北部和东南部的巫溪县、宜昌县、兴山县、石柱县和巴东市等；质量较差的区域主要分布在西南部和长江沿岸城市化进程较快的地区。",
+    "关键词": [
+        "生态环境质量",
+        "遥感生态指数",
+        "生态环境指数",
+        "三峡库区"
+    ],
+    "基金资助": [
+        "重庆市教委科研基金项目(No.KJQN202000746)",
+        "国家自然科学基金地区科学基金项目(No.32060373)",
+        "重庆市自然科学基金项目(No.cstc2021jcyj-msxmX0384)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "环境科学与资源利用",
+    "分类号": "X821",
+    "页码": "99-103+110",
+    "页数": "6",
+    "爬取时间": "2025-03-26 02:45:38",
+    "论文唯一代码": "HJWR202401017"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "基于地域主义的喀什高台民居更新实践",
+    "状态": "正常",
+    "发表期刊": "住宅与房地产",
+    "刊发时间": "2024-01-15",
+    "引用量": "0",
+    "下载量": "151",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李吉福",
+            "author_addresses": [
+                "中国矿业大学(北京)"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李玉盟",
+            "author_addresses": [
+                "中国矿业大学(北京)"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李亮亮",
+            "author_addresses": [
+                "北京建筑大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "02",
+    "摘要": " 喀什高台民居具有独特的建筑风貌与语言，文章解析高台民居的地域性特征，同时探索性地提出地域性更新的方法，并且融合现代绿色低碳技术，对高台民居进行地域主义更新实践。",
+    "关键词": [
+        "高台民居",
+        "地域性更新",
+        "绿色低碳"
+    ],
+    "基金资助": [],
+    "专辑": "经济与管理科学;工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU241.5",
+    "页码": "121-123",
+    "页数": "3",
+    "爬取时间": "2025-03-26 02:45:49",
+    "论文唯一代码": "ZZFD202402036"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "含咔唑结构的小分子及聚合物催化二氧化碳转化研究进展",
+    "状态": "正常",
+    "发表期刊": "有机化学",
+    "刊发时间": "2024-01-13 14:09",
+    "引用量": "0",
+    "下载量": "398",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "姜晓琳",
+            "author_addresses": [
+                "苏州大学附属儿童医院药剂科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "spujxl@163.com"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王超洋",
+            "author_addresses": [
+                "北京建筑大学环境与能源工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "武利园",
+            "author_addresses": [
+                "北京建筑大学环境与能源工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "李跃辉",
+            "author_addresses": [
+                "中国科学院兰州化学物理研究所羰基合成与选择氧化国家重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "yhli@licp.cas.cn"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "44 ",
+    "期(Issue)": "05",
+    "摘要": " 咔唑具有刚性平面结构和共轭π电子特征,表现出优异的电子传输性质.咔唑的N原子和芳环上容易进行化学修饰,以咔唑作为骨架或连接单元,人们方便地开发出结构多样的咔唑基配体和聚合物,并在催化和功能材料等研究领域中得到了广泛的应用.二氧化碳催化转化制备燃料和化学品,可以为实现双碳目标提供重要的技术支撑.综述了近年来咔唑基配体、咔唑基金属配合物及含咔唑结构的多相材料在催化CO<sub>2</sub>相关反应方面的研究进展.通过介绍催化剂制备方法,归纳总结均相催化以及多相催化反应等内容,将为深入理解咔唑单元在催化中的重要作用,提升咔唑基材料的催化效率提供重要的参考信息.",
+    "关键词": [
+        "咔唑结构",
+        "二氧化碳",
+        "均相催化",
+        "多相催化",
+        "电子传递"
+    ],
+    "基金资助": [
+        "国家自然科学基金(Nos.22072167,22001257)",
+        "苏州大学附属儿童医院青年研究基金(No.2021QN05)",
+        "苏州市“科教兴卫”青年科技(No.KJXW2022021)资助项目~~"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学;环境科学与资源利用",
+    "分类号": "X701;O643.36",
+    "页码": "1423-1444",
+    "页数": "22",
+    "爬取时间": "2025-03-26 02:46:13",
+    "论文唯一代码": "YJHU202405003"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "不同温度下矿物掺合料对喷射混凝土水化行为及力学性能的影响",
+    "状态": "正常",
+    "发表期刊": "硅酸盐通报",
+    "刊发时间": "2024-01-12 18:57",
+    "引用量": "11",
+    "下载量": "710",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "原健",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院,建筑结构与环境修复功能材料北京市重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王琴",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院,建筑结构与环境修复功能材料北京市重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "wangqin@bucea.edu.cn"
+        },
+        {
+            "author_order": 3,
+            "author_name": "曾凡超",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院,建筑结构与环境修复功能材料北京市重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "郭志翔",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院,建筑结构与环境修复功能材料北京市重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "王宏维",
+            "author_addresses": [
+                "山西佳维新材料股份有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "02",
+    "摘要": " 不同温度下粉煤灰、矿粉和硅灰对喷射混凝土水化行为及力学性能的影响规律尚不明确。本文通过XRD定量分析、热重分析和SEM测试等手段表征了不同温度和龄期下三种矿物掺合料对喷射混凝土水化行为的影响，并测试了砂浆抗压强度。结果表明，不同温度下，硅灰和矿粉能提高喷射混凝土早期和后期强度，粉煤灰不利于早期强度的发展，20℃时粉煤灰体系砂浆6 h抗压强度低于基准值。6 h和1 d龄期时，温度对试块抗压强度的影响非常显著，60℃时硅灰体系砂浆6 h抗压强度高达13.39 MPa;随着龄期增长，温度对试块强度的增强作用减弱。温度升高会激发矿物掺合料的火山灰效应，生成C-S-H凝胶填充内部孔隙，提高体系砂浆试块抗压强度。同一温度、龄期下，硅灰体系水化产物中C-S-H凝胶含量多，抗压强度最高。矿粉体系水化程度最高，抗压强度较高。粉煤灰体系中AFt含量最高，但C-S-H凝胶含量少，抗压强度最低。本文对特殊环境下矿物掺合料在喷射混凝土中的应用有指导作用。",
+    "关键词": [
+        "喷射混凝土",
+        "矿物掺合料",
+        "无碱速凝剂",
+        "温度",
+        "水化"
+    ],
+    "基金资助": [
+        "国家自然科学基金(52278237)",
+        "运城市科技局揭榜挂帅项目",
+        "北京市学者基金(067)"
+    ],
+    "专辑": "工程科技Ⅰ辑;工程科技Ⅱ辑",
+    "专题": "无机化工;建筑科学与工程",
+    "分类号": "TU528.53",
+    "页码": "407-417",
+    "页数": "11",
+    "爬取时间": "2025-03-26 02:46:30",
+    "论文唯一代码": "GSYT202402003"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "重大自然灾害灾后重建区旅游项目评价及韧性建设研究",
+    "状态": "正常",
+    "发表期刊": "灾害学",
+    "刊发时间": "2024-01-11 18:48",
+    "引用量": "2",
+    "下载量": "929",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "赵亮",
+            "author_addresses": [
+                "北京建筑大学城市经济与管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王伟",
+            "author_addresses": [
+                "中央财经大学政府管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "weiwang@cufe.edu.cn"
+        },
+        {
+            "author_order": 3,
+            "author_name": "孔锋",
+            "author_addresses": [
+                "中国农业大学人文与发展学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张磊",
+            "author_addresses": [
+                "应急管理部紧急救援促进中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "39 ",
+    "期(Issue)": "02",
+    "摘要": " 积极开展重大自然灾害灾后重建区旅游项目评价对提升灾后重建管理水平具有重要意义。该研究通过对汶川地震重灾区绵阳市灾后恢复重建旅游项目开展评价，结合“重建得更好”理念提出灾害多发地区旅游业韧性发展路径。研究发现：(1)结合灾区实际和数据局限性，灾区恢复重建项目后评价可依据恢复重建项目完工情况与投资完成情况来综合确定。评价得出绵阳市城乡建设项目实施情况评价等级为良好，其中历史文化遗产与风景名胜区项目恢复重建实施情况相对较差；(2)汶川地震灾后恢复重建中通过制定政策保障，提升配套服务功能，创新营销模式等途径振兴旅游产业，但由于特色旅游资源多处于复杂地质环境区域、灾后救援资源局限以及次生灾害影响促使恢复重建的效果降低。(3)结合“重建得更好”理念提出从旅游规划、结构韧性、防灾减灾、经济与生计、社会与心理、体制机制、法律规章、监测评估八个方面构建旅游业韧性发展路径。为实现灾害多发地区旅游产业的可持续发展，需要分析不同产业间的内在联系，以便通过旅游产业的发展振兴带动灾区社会经济的改善，提升灾后重建的整体质量。",
+    "关键词": [
+        "灾后重建",
+        "旅游产业",
+        "项目后评价",
+        "韧性发展",
+        "重建得更好"
+    ],
+    "基金资助": [
+        "北京市社会科学基金项目“突发公共卫生事件下超大城市复合灾害风险评估与韧性规划响应研究”(22GLC071)"
+    ],
+    "专辑": "基础科学;工程科技Ⅰ辑;工程科技Ⅱ辑",
+    "专题": "安全科学与灾害防治;建筑科学与工程",
+    "分类号": "TU984.18;X4",
+    "页码": "185-191",
+    "页数": "7",
+    "爬取时间": "2025-03-26 02:46:55",
+    "论文唯一代码": "ZHXU202402027"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "新时代高校教学型教师党支部作用发挥的实现路径探析",
+    "状态": "正常",
+    "发表期刊": "北京教育(高教)",
+    "刊发时间": "2024-01-10",
+    "引用量": "0",
+    "下载量": "159",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李文超",
+            "author_addresses": "北京建筑大学党委组织部",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王震远",
+            "author_addresses": "北京建筑大学党委组织部",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "01",
+    "摘要": " 聚焦高校教师党支部功能定位，分层分类加强教师党支部建设是推动高校基层党建工作精细化、创新化的痛点难点。通过深入调研教学型教师党支部的建设现状、经验做法以及影响作用发挥的痛点难点，构建高校教学型教师党支部引领教学成效提升任务清单和引领育人成效提升任务清单，明确高校教学型教师党支部作用发挥的实现路径。",
+    "关键词": [
+        "教学型教师党支部",
+        "作用发挥",
+        "实现路径"
+    ],
+    "基金资助": [
+        "北京高校党建研究会“新时代高校教学型教师党支部作用发挥机制研究”（项目编号：B13）的阶段性研究成果"
+    ],
+    "专辑": "社会科学Ⅱ辑;社会科学Ⅰ辑",
+    "专题": "中国共产党;高等教育",
+    "分类号": "D267.6;G645.1",
+    "页码": "82-84",
+    "页数": "3",
+    "爬取时间": "2025-03-26 02:47:06",
+    "论文唯一代码": "BJYG202401025"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "新时代高校专职组织员履职能力及提升路径研究",
+    "状态": "正常",
+    "发表期刊": "北京教育(高教)",
+    "刊发时间": "2024-01-10",
+    "引用量": "0",
+    "下载量": "677",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张莉",
+            "author_addresses": "北京建筑大学党委组织部",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王震远",
+            "author_addresses": "北京建筑大学党委组织部",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "曾祥渭",
+            "author_addresses": "北京建筑大学党委组织部",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "01",
+    "摘要": " 通过对新时代高校专职组织员履职状况进行深入调研，发现当前高校专职组织员普遍存在“专职不专用”、应具备素养认识不清等现象，并基于调研总结了高校专职组织员担负的职责和应具备的能力素养清单。分别从做好顶层设计、优化专兼职结构、改进绩效评价机制、强化专业培训和心理支持等方面提出提升履职能力的建议。",
+    "关键词": [
+        "高校",
+        "专职组织员",
+        "履职能力",
+        "提升路径"
+    ],
+    "基金资助": [
+        "北京市学校思想政治工作研究课题“新时代高校专职组织员核心素养及其提升路径研究”（课题编号：XXSZ2022YB48）",
+        "2022年度高等教育科学研究规划课题“高校党史学习教育常态化长效化机制研究”（课题编号：22XC0403）阶段性研究成果"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "高等教育",
+    "分类号": "G647",
+    "页码": "85-87",
+    "页数": "3",
+    "爬取时间": "2025-03-26 02:47:23",
+    "论文唯一代码": "BJYG202401026"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "主题教育引领学院高质量发展的“四维”路径探索",
+    "状态": "正常",
+    "发表期刊": "北京教育(高教)",
+    "刊发时间": "2024-01-10",
+    "引用量": "0",
+    "下载量": "142",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "车晶波",
+            "author_addresses": "北京建筑大学土木与交通工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "余静",
+            "author_addresses": "北京建筑大学土木与交通工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "01",
+    "摘要": " 开展主题教育历来是我们党加强党的创新理论武装的重要手段。北京建筑大学把抓好主题教育作为一项重大政治任务，坚决扛起主体责任，高起点谋划、高标准推进、高质量落实。学校土木与交通工程学院坚持在“谋划”“导向”“融合”“机制”上着力，以主题教育成效引领学院事业发展呈现新面貌。",
+    "关键词": [
+        "主题教育",
+        "学院",
+        "党支部",
+        "高质量"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑;社会科学Ⅰ辑",
+    "专题": "中国共产党;高等教育",
+    "分类号": "D261;G641",
+    "页码": "88-90",
+    "页数": "3",
+    "爬取时间": "2025-03-26 02:47:36",
+    "论文唯一代码": "BJYG202401027"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "心理危机防范视域下高校教师心理健康工作体系构建策略与实践",
+    "状态": "正常",
+    "发表期刊": "北京教育(高教)",
+    "刊发时间": "2024-01-10",
+    "引用量": "1",
+    "下载量": "601",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张媛媛",
+            "author_addresses": [
+                "北京建筑大学党委教师工作部",
+                "北京建筑大学人力资源处"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者，有序（数字）的单位,但没有sup可一一对应：多个作者多个单位，堆积"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "陈亚飞",
+            "author_addresses": [
+                "北京建筑大学党委教师工作部",
+                "北京建筑大学人力资源处"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者，有序（数字）的单位,但没有sup可一一对应：多个作者多个单位，堆积"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "苏旭东",
+            "author_addresses": [
+                "北京建筑大学党委教师工作部",
+                "北京建筑大学人力资源处"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者，有序（数字）的单位,但没有sup可一一对应：多个作者多个单位，堆积"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "01",
+    "摘要": " 通过对北京地区高校教师抽样调研，从身心健康状况、社会再适应水平、抑郁水平三个维度评估被测群体心理健康状况，结合调研分析结果和高校工作实际，以防范心理危机为目标，研究高校教师心理健康工作体系的构建策略并开展相关实践，为高校开展教师心理健康工作提供一种有益的模式借鉴。",
+    "关键词": [
+        "心理健康",
+        "高校教师",
+        "心理危机防范"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "教育理论与教育管理;高等教育",
+    "分类号": "G645.1;G443",
+    "页码": "91-93",
+    "页数": "3",
+    "爬取时间": "2025-03-26 02:47:50",
+    "论文唯一代码": "BJYG202401028"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "基于样板党支部创建视域下“四型”学生党支部培育与探索",
+    "状态": "正常",
+    "发表期刊": "北京教育(高教)",
+    "刊发时间": "2024-01-10",
+    "引用量": "0",
+    "下载量": "595",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "阚帅",
+            "author_addresses": "北京建筑大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "丁建峰",
+            "author_addresses": "北京建筑大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "01",
+    "摘要": " 高校学生党支部作为高校的基层党组织，是党在青年大学生中的战斗堡垒，是强化党对高校的全面领导、切实落实立德树人根本任务的基础组织保障。北京建筑大学建电系本科生党支部紧紧围绕新时代党的建设总要求和新时代党的组织路线，严格做到“七个有力”，主动创新实践，优化方法，持续推动“四型”党支部建设，发挥好“样板党支部”的质量创优和示范效应。",
+    "关键词": [
+        "样板党支部",
+        "“四型”",
+        "培育工作",
+        "路径探索"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑;社会科学Ⅰ辑",
+    "专题": "中国共产党;高等教育",
+    "分类号": "D267.6;G647",
+    "页码": "94-96",
+    "页数": "3",
+    "爬取时间": "2025-03-26 02:47:59",
+    "论文唯一代码": "BJYG202401029"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "传承中创新——青瓦在当代建筑中的重新演绎",
+    "状态": "正常",
+    "发表期刊": "艺术教育",
+    "刊发时间": "2024-01-10",
+    "引用量": "1",
+    "下载量": "116",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "熊俊杰",
+            "author_addresses": "北京建筑大学建筑与城市规划学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王韬",
+            "author_addresses": "北京建筑大学建筑与城市规划学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "01",
+    "摘要": " 青瓦,作为中国最传统的建材之一,具有深厚的文化内涵,是中国传统建筑的典型象征。而随着现代工业的大肆入侵,青瓦逐渐沉寂。在主张延续历史文化、追求建筑在地性的当下,青瓦如何在当代建筑中重新确立自己新的角色定位和演绎方式值得探究。文章从青瓦的物质属性和精神属性出发,结合王澍、隈研吾、李道德三位建筑师的实践案例,探讨青瓦在当代建筑中的应用策略,以期对青瓦的现代建构提供一定的参考。",
+    "关键词": [
+        "青瓦",
+        "物质属性",
+        "精神属性",
+        "建构"
+    ],
+    "基金资助": [
+        "国家自然科学基金重点项目阶段性成果,项目名称“中国传统村落保护发展的理论与方法研究”,项目编号：51938002"
+    ],
+    "专辑": "哲学与人文科学;工程科技Ⅰ辑;工程科技Ⅱ辑",
+    "专题": "无机化工;建筑科学与工程",
+    "分类号": "TU522.2",
+    "页码": "209-212",
+    "页数": "4",
+    "爬取时间": "2025-03-26 02:48:13",
+    "论文唯一代码": "YSJY202401049"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "健康宜居视角下的社区商业空间更新优化设计——以北京市沿海赛洛城社区商业空间为例",
+    "状态": "正常",
+    "发表期刊": "艺术教育",
+    "刊发时间": "2024-01-10",
+    "引用量": "0",
+    "下载量": "272",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王利成",
+            "author_addresses": [
+                "北京建筑大学建筑与城市规划学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "01",
+    "摘要": " 对社区商业空间进行更新优化,应先梳理其概念、特征、功能,以及其健康宜居视角的内涵和方法。文章以北京市沿海赛洛城社区商业空间为例,通过对沿海赛洛城社区商业空间的实地调研、现状评价和问题分析,有针对性地提出更新优化原则和目标,并根据健康宜居的要求提出具体的设计建议,以期为提升社区商业空间的健康宜居水平提供一些理论和实践方面的参考。",
+    "关键词": [
+        "健康宜居",
+        "社区商业空间",
+        "优化设计",
+        "沿海赛洛城"
+    ],
+    "基金资助": [],
+    "专辑": "哲学与人文科学;工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU984.13;TU984.12",
+    "页码": "221-224",
+    "页数": "4",
+    "爬取时间": "2025-03-26 02:48:21",
+    "论文唯一代码": "YSJY202401052"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "基于使用者需求的居住区户外环境适老化改造研究",
+    "状态": "正常",
+    "发表期刊": "艺术教育",
+    "刊发时间": "2024-01-10",
+    "引用量": "0",
+    "下载量": "269",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李彤",
+            "author_addresses": [
+                "北京建筑大学建筑与城市规划学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "01",
+    "摘要": " 文章以北京市东城区建国门街道某社区户外环境适老化改造项目为例,运用观察、访谈等方法对使用者的需求进行分析,就居住区户外环境存在的问题提出改造设计建议,并进一步探讨社区户外环境适老化改造的基本原则与设计重点,以期对今后居住区户外环境适老化改造设计提供一定的参考。",
+    "关键词": [
+        "使用需求",
+        "户外环境",
+        "适老化"
+    ],
+    "基金资助": [],
+    "专辑": "哲学与人文科学;工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU984.12",
+    "页码": "229-232",
+    "页数": "4",
+    "爬取时间": "2025-03-26 02:48:31",
+    "论文唯一代码": "YSJY202401054"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "医疗建筑适老化设计策略研究——以医院门诊部为例",
+    "状态": "正常",
+    "发表期刊": "艺术教育",
+    "刊发时间": "2024-01-10",
+    "引用量": "3",
+    "下载量": "388",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李姣月",
+            "author_addresses": "北京建筑大学建筑与城市规划学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "邓拓",
+            "author_addresses": "北京建筑大学建筑与城市规划学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "01",
+    "摘要": " 文章以心血管专科医院门诊部作为调研对象,以固定时段进入门诊部的老年人为观察对象,利用观察法、跟踪调查法对医院门诊部进行实地调研,分析适老化设计在医院建筑中的应用,总结门诊空间设计中的优点与不足,提出适老化改造建议,并进一步提出适老化设计原则与设计策略,为今后医疗建筑的适老化设计提供一定参考。",
+    "关键词": [
+        "医疗建筑",
+        "无障碍设计",
+        "适老化设计"
+    ],
+    "基金资助": [],
+    "专辑": "哲学与人文科学;工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU246",
+    "页码": "233-236",
+    "页数": "4",
+    "爬取时间": "2025-03-26 02:48:40",
+    "论文唯一代码": "YSJY202401055"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "装配式剪力墙竖向接缝形式介绍及相关研究",
+    "状态": "正常",
+    "发表期刊": "工程建设与设计",
+    "刊发时间": "2024-01-10",
+    "引用量": "0",
+    "下载量": "147",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "董超",
+            "author_addresses": "北京建筑大学土木与交通工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "颜孙杰",
+            "author_addresses": "北京建筑大学土木与交通工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "赵士瑞",
+            "author_addresses": "北京建筑大学土木与交通工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "刘泓睿",
+            "author_addresses": "北京建筑大学土木与交通工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "01",
+    "摘要": " 装配式剪力墙结构中，竖向接缝是影响墙体刚度和承载能力的重要因素，为更加深入地了解不同接缝形式及构造特点，论文对装配式剪力墙竖向接缝的不同连接形式进行介绍，并结合已有的装配式剪力墙结构设计和新型连接形式的研发对各连接形式的优缺点及相关连接性能进行归纳总结。",
+    "关键词": [
+        "装配式剪力墙",
+        "竖向接缝",
+        "连接形式"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU398.2",
+    "页码": "39-41",
+    "页数": "3",
+    "爬取时间": "2025-03-26 02:48:50",
+    "论文唯一代码": "GCJS202401011"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "预制剪力墙接合面粗糙化处理工艺研究",
+    "状态": "正常",
+    "发表期刊": "工程建设与设计",
+    "刊发时间": "2024-01-10",
+    "引用量": "0",
+    "下载量": "45",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘泓睿",
+            "author_addresses": "北京建筑大学土木与交通工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "林峰",
+            "author_addresses": "北京建筑大学土木与交通工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "赵士瑞",
+            "author_addresses": "北京建筑大学土木与交通工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "01",
+    "摘要": " 介绍了不同的全预制装配整体式混凝土剪力墙接合面粗糙化处理工艺，并对采用不同粗糙化处理工艺的接合面的力学性能和经济性能进行了对比分析。结果表明，水洗露骨料接合面的抗剪性能和黏结强度较好，且经济性能最优。制作键槽的钢板模具可循环利用，符合装配式绿色发展的要求，在预制剪力墙生产过程中，将钢板接合面模具与预制墙板模具进行有机组合，可以达到高效生产和质量统一的目的。",
+    "关键词": [
+        "剪力墙接合面",
+        "力学性能",
+        "经济性能",
+        "粗骨料接合面"
+    ],
+    "基金资助": [
+        "国家自然科学基金项目（51778034）"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU758.12",
+    "页码": "214-216",
+    "页数": "3",
+    "爬取时间": "2025-03-26 02:49:01",
+    "论文唯一代码": "GCJS202401065"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "装配式混凝土剪力墙结构竖向接缝干式连接技术研究进展",
+    "状态": "正常",
+    "发表期刊": "工程建设与设计",
+    "刊发时间": "2024-01-10",
+    "引用量": "1",
+    "下载量": "324",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "颜孙杰",
+            "author_addresses": "北京建筑大学土木与交通工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "董超",
+            "author_addresses": "北京建筑大学土木与交通工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "赵士瑞",
+            "author_addresses": "北京建筑大学土木与交通工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "01",
+    "摘要": " 干式连接是装配式混凝土剪力墙结构竖向接缝主要连接技术，具有工业化程度高、施工速度快等技术优势。在介绍干式连接技术的基础上，对比分析了焊接连接、预应力连接、螺栓连接的构造特征、受力性能及其技术优势与不足，指出螺栓连接可操性最好，面内螺栓连接技术是螺栓连接技术的重要发展方向。",
+    "关键词": [
+        "装配式混凝土剪力墙",
+        "竖向接缝",
+        "干式连接技术"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU398.2",
+    "页码": "220-222",
+    "页数": "3",
+    "爬取时间": "2025-03-26 02:49:11",
+    "论文唯一代码": "GCJS202401067"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "多尺度可玩城市空间的塑造与发展——以哥本哈根为例",
+    "状态": "正常",
+    "发表期刊": "华中建筑",
+    "刊发时间": "2024-01-10",
+    "引用量": "0",
+    "下载量": "322",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "徐跃家",
+            "author_addresses": [
+                "北京建筑大学建筑与城市规划学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "冯昊",
+            "author_addresses": [
+                "北京建筑大学建筑与城市规划学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "齐超杰",
+            "author_addresses": [
+                "中国电子工程设计院有限公司",
+                "世源科技有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "李煜",
+            "author_addresses": [
+                "北京建筑大学未来建筑技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "陈奕彤",
+            "author_addresses": [
+                "北京建筑大学建筑与城市规划学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "42 ",
+    "期(Issue)": "01",
+    "摘要": " 城市居民的心理健康问题普遍存于各年龄层中。作为公共生活的载体，城市环境与居民的日常行为联系紧密，对其身心健康有着重要影响。玩耍可有效预防和缓解心理健康疾病，尤其在后疫情时代，可玩城市空间塑造的意义更加深远。从建筑到街区，从街区到城市，居民可玩的城市空间应随着空间尺度的进阶而丰富。哥本哈根从20世纪初开始建设小型儿童游戏场，如今发展到综合性的超级公园，对可玩城市空间的探索有着丰厚的经验。基于空间理论，梳理哥本哈根可玩城市空间的发展脉络，以尺度进阶的视角归纳不同空间尺度上可玩城市空间的设计要点，从不同维度分析其营造案例，为我国可玩城市空间的发展提供一些参考和研究的基础。",
+    "关键词": [
+        "城市空间可玩性",
+        "空间尺度",
+        "建筑",
+        "街区",
+        "城市"
+    ],
+    "基金资助": [
+        "国家自然科学基金青年项目“面向健康城市步行空间设计的‘感知指标—空间要素’协方差量化模型研究”（编号：52008015）,国家自然科学基金面上项目“面向健康城市设计的‘病理指标-社区空间’关系结构,方程模型研究——以心血管疾病（CVD）为例”（编号：52178002）",
+        "国家社会科学基金委员会,艺术学一般项目“中国传统园林空间复杂性及其感知规律研究”（编号：21BG1116）",
+        "北京市社会科学基金项目“北京针对‘大城市流行病’的健康城市设计导则研究”（编号：17GLC049）",
+        "中国建设教育协会教育教学科研课题“基于建筑学的城市设计专业课程教学改革研究——以北京建筑大学‘建筑学（城市设计方向）’专业建设为例”（编号：2019017）",
+        "北京建筑大学,教育科学研究重点项目“建筑学（城市设计方向）课程体系建设研究”（编号：Y2012）,北京建筑大学,教育科学研究重点项目“面向建筑学教学体系优化的数字孪生教学内容与方法研究”（编号：Y2008）"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU984.113",
+    "页码": "15-20",
+    "页数": "6",
+    "爬取时间": "2025-03-26 02:49:32",
+    "论文唯一代码": "HZJZ202401004"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "北京老城历史文化街区保护更新策略研究——以砖塔胡同历史文化街区为例",
+    "状态": "正常",
+    "发表期刊": "华中建筑",
+    "刊发时间": "2024-01-10",
+    "引用量": "5",
+    "下载量": "1389",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "宋菡",
+            "author_addresses": "北京建筑大学建筑与城市规划学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "高超",
+            "author_addresses": "北京建筑大学建筑与城市规划学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "马婷婷",
+            "author_addresses": "北京建筑大学建筑与城市规划学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "42 ",
+    "期(Issue)": "01",
+    "摘要": " 要北京作为千年古都和中国的首都，不仅要保护北京老城，还要落实首都城市战略定位。北京历史文化街区多位于北京老城核心地段，是北京传统风貌的重要载体，保护更新能更好地延续北京历史文脉、突出北京城市特色、传承胡同居民记忆。以砖塔胡同历史文化街区为研究对象，分析其面临的主要问题，总结以价值为核，整体保护，功能重组，结构优化的思路，提出和谐共生，物质空间保护；传承文脉，非物质空间传承；面向未来，功能更新的保护更新策略。",
+    "关键词": [
+        "北京老城",
+        "历史文化街区",
+        "保护更新策略",
+        "砖塔胡同历史文化街区"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU984.114",
+    "页码": "78-82",
+    "页数": "5",
+    "爬取时间": "2025-03-26 02:49:47",
+    "论文唯一代码": "HZJZ202401016"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "造景：当代景观建筑设计方法探析——以北京南苑森林湿地公园体育驿站为例",
+    "状态": "正常",
+    "发表期刊": "华中建筑",
+    "刊发时间": "2024-01-10",
+    "引用量": "2",
+    "下载量": "331",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "何香怡",
+            "author_addresses": "北京建筑大学建筑与城市规划学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "任中琦",
+            "author_addresses": "北京建筑大学建筑与城市规划学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张大玉",
+            "author_addresses": "北京建筑大学建筑与城市规划学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "42 ",
+    "期(Issue)": "01",
+    "摘要": " 北京南苑森林湿地公园地点位于南苑，南苑是北京皇家苑囿起源地，京郊唯一平原湿地型皇家御园，清中期大运河水源补充地，具有独特的湿地基底和历史景观资源。该文研究对象为当代景观建筑，以北京南苑森林湿地公园体育驿站项目实践为例，探索以造景为目标导向的当代景观建筑设计方法。方案结合体育驿站场地环境和园区景观建筑整体设计定位，确立景观形象营造目标，即以自然湿地基底为依托，营造出与生态环境高度融合的体育驿站景观建筑，与场地使用者共同构成人在城市山林中运动健身的活跃景象。通过自然渗透的场地规划布局、轻介入的建筑构型以及公共性场所营造的造景原则，在满足体育驿站功能需求的基础上，通过场地规划、建筑构型以及场所营造的造景方法，达到目标造景效果，以期为当代景观建筑设计提供可行性思路。",
+    "关键词": [
+        "造景",
+        "设计方法",
+        "景观建筑",
+        "南苑",
+        "体育驿站"
+    ],
+    "基金资助": [
+        "北京市教育委员会科学研究项目资助（编号：KM202110016016）"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU986.4",
+    "页码": "128-132",
+    "页数": "5",
+    "爬取时间": "2025-03-26 02:49:57",
+    "论文唯一代码": "HZJZ202401025"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "带凹槽剪力墙-混凝土梁节点性能分析",
+    "状态": "正常",
+    "发表期刊": "建筑结构",
+    "刊发时间": "2024-01-10",
+    "引用量": "0",
+    "下载量": "135",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘梓洋",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "徐斌",
+            "author_addresses": [
+                "中设安泰(北京)工程咨询有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张艳霞",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院",
+                "北京建筑大学工程结构与新材料北京市高校工程研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "zhangyanxia@bucea.edu.cn"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张贺昕",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "54 ",
+    "期(Issue)": "01",
+    "摘要": " 在高层、超高层钢框架-混凝土混合结构核心筒的施工中，滑模、爬模施工工艺得到广泛应用。但在实际工程中，核心筒内部往往采用混凝土次梁，这使得滑模、爬模施工工艺的应用受到限制。针对这一实际问题，提出了带凹槽剪力墙-混凝土梁节点。在对3个不同凹槽尺寸的带凹槽剪力墙-混凝土梁节点进行加载试验的基础上，利用有限元软件ABAQUS模拟3个墙梁节点，将有限元计算结果与试验结果对比。结果表明：带凹槽剪力墙-混凝土梁节点拥有良好的承载能力，且屈服荷载与极限荷载相差较大。凹槽构造可提升节点抗剪能力，且凹槽截面尺寸的大小是带凹槽剪力墙-混凝土梁节点抗剪能力提高的主要原因。",
+    "关键词": [
+        "框筒体系",
+        "带凹槽剪力墙-混凝土梁节点",
+        "骨架曲线",
+        "滞回曲线",
+        "耗能能力"
+    ],
+    "基金资助": [
+        "国家自然科学基金面上项目(51778036)",
+        "长江学者和创新团队发展计划资助(IRT17R06)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU973.17",
+    "页码": "93-103",
+    "页数": "11",
+    "爬取时间": "2025-03-26 02:50:15",
+    "论文唯一代码": "JCJG202401014"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "PBA暗挖区段单跨隧道施工阶段增量法与全量法结构计算分析",
+    "状态": "正常",
+    "发表期刊": "市政技术",
+    "刊发时间": "2024-01-10",
+    "引用量": "0",
+    "下载量": "33",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李哲",
+            "author_addresses": [
+                "北京建筑大学岩土工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘飞",
+            "author_addresses": [
+                "北京建筑大学岩土工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "靳天睿",
+            "author_addresses": [
+                "北京建筑大学岩土工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "李月阳",
+            "author_addresses": [
+                "北京市轨道交通设计研究院有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "42 ",
+    "期(Issue)": "01",
+    "摘要": " 以北京轨道交通22号线（平谷线）为依托工程，以3种施工阶段结构受力和变形为研究重点，对PBA暗挖区段单跨隧道施工阶段的增量法和全量法进行了分析，对比了单跨PBA暗挖隧道增量法与全量法的计算结果，介绍了增量法与全量法的基本原理和应用，并结合Midas GTS NX岩土有限元分析软件对在建工程模型施工阶段结构受力进行了分析。研究结果表明：PBA暗挖逆筑隧道采用增量法与全量法计算出的结果有差异。其主要原因是增量法需考虑分步施工，构件和荷载是分步施加的，内力和变形也是分阶段达到平衡；全量法需考虑力和变形的同时性，不能真实反映施工的分步性。故在设计时需采用增量法进行计算。该研究成果可为相似隧道工程的设计与施工提供借鉴参考。",
+    "关键词": [
+        "PBA暗挖区段",
+        "单跨隧道",
+        "增量法",
+        "全量法"
+    ],
+    "基金资助": [
+        "国家自然科学基金（KM201810016005）"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "铁路运输;公路与水路运输",
+    "分类号": "U231.3;U455.4",
+    "页码": "100-110+115",
+    "页数": "12",
+    "爬取时间": "2025-03-26 02:50:57",
+    "论文唯一代码": "SZJI202401016"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "地铁车辆以磨耗车轮通过钢弹簧浮置板轨道时的较好平稳性速度",
+    "状态": "正常",
+    "发表期刊": "城市轨道交通研究",
+    "刊发时间": "2024-01-10",
+    "引用量": "1",
+    "下载量": "130",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张劲明",
+            "author_addresses": "北京建筑大学城市轨道交通车辆服役性能保障北京市重点实验室",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "于蒻丹",
+            "author_addresses": "北京建筑大学城市轨道交通车辆服役性能保障北京市重点实验室",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "马贺",
+            "author_addresses": "北京建筑大学城市轨道交通车辆服役性能保障北京市重点实验室",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "mahe@bucea.edu.cn."
+        },
+        {
+            "author_order": 4,
+            "author_name": "张军",
+            "author_addresses": "北京建筑大学城市轨道交通车辆服役性能保障北京市重点实验室",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "王稳",
+            "author_addresses": "北京建筑大学城市轨道交通车辆服役性能保障北京市重点实验室",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "27 ",
+    "期(Issue)": "01",
+    "摘要": " [目的]为使地铁乘客获得较好的乘车体验，探究轨道线路铺设浮置板时车体平稳性较好的通过速度区间。[方法]利用仿真软件建立了地铁车辆-浮置板轨道-路基的动力学模型，分析了标准车轮及磨耗车轮通过地铁有无钢弹簧浮置板轨道时的车体振动状况。对比了不同速度条件下，增设浮置板前后车体垂向平稳性指标时域及频域的变化；对比了车体在浮置板轨道系统下，车体以磨耗车轮与标准车轮通过时，车体的垂向振动加速度等参数时域及频域的变化规律。[结果及结论]不同速度时，浮置板会使列车的平稳性指标增大，相比无浮置板时平均增长了5.8%;横向平稳性指标在速度低于60 km/h时，其对平稳性指标有减小作用。浮置板系统中，磨耗车轮的存在会加剧车体垂向振动，这种现象在列车高速行驶时表现更突出。地铁车辆通过轨道时的垂向振动加速度频率主要集中在低频区段的0～10 Hz,横向振动加速度频率区段主要集中在0～30 Hz。地铁车辆通过存在浮置板路段且速度在48～60 km/h区间时，磨耗车轮的车体垂向平稳性指标在1.8左右，横向平稳性指标在1.1左右，数值均较低，即车体振动及横向运动较小，平稳性较好。",
+    "关键词": [
+        "地铁",
+        "磨耗",
+        "钢板弹簧浮置板",
+        "振动"
+    ],
+    "基金资助": [
+        "国家自然科学基金项目(51775031)",
+        "北京市博士后科研活动经费项目",
+        "北京建筑大学市属高校基本科研业务费专项资金项目(X20048)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "铁路运输",
+    "分类号": "U270.11;U211.5",
+    "页码": "111-115+120",
+    "页数": "6",
+    "爬取时间": "2025-03-26 02:51:17",
+    "论文唯一代码": "GDJT202401020"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "平行叠落地铁区间施工地表沉降特征研究",
+    "状态": "正常",
+    "发表期刊": "市政技术",
+    "刊发时间": "2024-01-10",
+    "引用量": "1",
+    "下载量": "46",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王祐菁",
+            "author_addresses": "北京建筑大学土木与交通工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘飞",
+            "author_addresses": "北京建筑大学土木与交通工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "42 ",
+    "期(Issue)": "01",
+    "摘要": " 北京某在建地铁区间暗挖段工程北侧为单跨双层拱顶直墙断面，采用PBA法施工；南侧为双洞叠落标准断面，上层采用CRD法施工，下层采用台阶法施工。因此，利用有限元软件进行数值模拟分析，研究了“先小后大”+“先下后上”、“先小后大”+“先上后下”、“先大后小”+“先下后上”以及“先大后小”+“先上后下”4种不同施工顺序下，地铁区间施工对纵向地表沉降与横向地表沉降的影响。研究结果表明：在该工程中，采用“先大后小”+“先下后上”的施工顺序引起的地表沉降值最小。该研究成果可为同类型工程地表变形控制提供参考。",
+    "关键词": [
+        "地铁区间",
+        "平行叠落",
+        "工序",
+        "数值模拟",
+        "地表沉降",
+        "多工法"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑;基础科学",
+    "专题": "地质学;工业通用技术及设备;铁路运输",
+    "分类号": "U231.3;P642.26",
+    "页码": "147-153+224",
+    "页数": "8",
+    "爬取时间": "2025-03-26 02:51:30",
+    "论文唯一代码": "SZJI202401022"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "耦合渗流-变形的数值流形法裂隙岩质边坡稳定性分析",
+    "状态": "正常",
+    "发表期刊": "岩土力学",
+    "刊发时间": "2024-01-10",
+    "引用量": "3",
+    "下载量": "543",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "屈小磊",
+            "author_addresses": [
+                "北京建筑大学北京市节能减排关键技术协同创新中心",
+                "北京建筑大学土木与交通工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张云开",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院",
+                "伦敦大学学院土木,环境和测绘工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "陈悠然",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "陈悠扬",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "戚承志",
+            "author_addresses": [
+                "北京建筑大学北京市节能减排关键技术协同创新中心",
+                "北京建筑大学土木与交通工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "45 ",
+    "期(Issue)": "01",
+    "摘要": " 岩石裂隙渗流问题作为影响岩石边坡失稳的重要因素吸引了越来越多研究者采用不同的数值方法模拟其力学行为。提出了一种基于渗流-变形耦合模型的数值流形方法，并相应地讨论了岩体裂隙网络中地下水的流动、渗透压力和岩石变形的耦合效应。基于最小能量原理，分别推导渗流条件下单元边界流体压力和系统的整体平衡方程，以及块体接触算法求解任意岩石裂缝的局部安全系数。通过一系列验证实例对所提出的数模模型进行检验，验证了该数值模型的鲁棒性和有效性。利用该方法模拟了一个岩石边坡由于渗流作用而发生的坍塌事故，再现了岩石边坡的破坏过程。模拟结果表明，过大的水力压力导致垂直裂缝张开，增加岩体变形量，最终导致边坡破坏。研究表明，该方法在模拟大规模工程问题方面具有很大的潜力。",
+    "关键词": [
+        "数值流形法",
+        "裂隙渗流",
+        "岩石边坡稳定",
+        "渗流-变形耦合"
+    ],
+    "基金资助": [
+        "国家重大基础研究项目(973计划)(No.2015CB0578005)",
+        "国家自然科学基金资助项目(No.51174012)国家自然科学基金青年基金资助项目(No.51608461)~~"
+    ],
+    "专辑": "工程科技Ⅱ辑;基础科学",
+    "专题": "地质学;建筑科学与工程",
+    "分类号": "TU457",
+    "页码": "313-324",
+    "页数": "12",
+    "爬取时间": "2025-03-26 02:51:44",
+    "论文唯一代码": "YTLX202401027"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "碟簧-螺栓组件连接全装配式混凝土剪力墙抗震性能研究",
+    "状态": "正常",
+    "发表期刊": "工程力学",
+    "刊发时间": "2024-01-09 13:39",
+    "引用量": "0",
+    "下载量": "593",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "种迅",
+            "author_addresses": [
+                "合肥工业大学土木与水利工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "chongxun@hfut.edu.cn"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘华龙",
+            "author_addresses": [
+                "合肥工业大学土木与水利工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "闫瑞",
+            "author_addresses": [
+                "中煤远大淮北建筑产业化有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "解琳琳",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "李鼎",
+            "author_addresses": [
+                "中煤远大淮北建筑产业化有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "蒋庆",
+            "author_addresses": [
+                "合肥工业大学土木与水利工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "冯玉龙",
+            "author_addresses": [
+                "合肥工业大学土木与水利工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "",
+    "卷(Volume)": "No record",
+    "期(Issue)": "No record",
+    "摘要": " 本文通过在螺栓连接盒内设置组合碟簧，提出了一种碟簧-螺栓组件连接剪力墙结构。这一结构利用碟簧提供自复位能力，利用钢连接盒协助混凝土受压，具有良好的功能可恢复能力。设计并制作了一片采用传统“强连接”的盒式螺栓连接剪力墙试件（S-1）和一片新型剪力墙试件（S-2），对其进行了多个工况下的拟静力试验，对比分析了两种结构的抗震性能和损伤模式，并研究了新型剪力墙的功能可恢复能力以及轴压比、碟簧类型对新型剪力墙抗震性能的影响。试验结果表明：由于剪力墙受弯承载力存在一定程度超强，试件S-1内出现了连接盒锚筋顶端和水平拼缝附近两个塑性部位，两部位的纵筋和高强螺栓均达到屈服，混凝土也均严重压碎；试件S-2的损伤则集中在水平拼缝附近，墙体本身损伤轻微，试件残余变形小；试件S-2滞回曲线呈旗帜形，耗能能力与S-1相比较小；S-2加载至顶点位移角为1/100后重复试验，滞回环几乎重合，表明剪力墙罕遇地震后即使不加修复仍具有良好的抗震性能；采用C类碟簧的工况开裂后刚度和相同位移时的强度均低于采用A类碟簧工况。",
+    "关键词": [
+        "碟簧-螺栓组件连接",
+        "剪力墙",
+        "功能可恢复",
+        "拟静力试验",
+        "抗震性能"
+    ],
+    "基金资助": [
+        "国家自然科学基金资助项目(52178472)",
+        "安徽省重点研究与开发项目(202104a07020022)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU352.11;TU756.4",
+    "页码": "",
+    "页数": "9",
+    "爬取时间": "2025-03-26 02:52:02",
+    "论文唯一代码": "GCLX20240105007"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "国际工程实质竣工原则的英国法解读",
+    "状态": "正常",
+    "发表期刊": "中国招标",
+    "刊发时间": "2024-01-06",
+    "引用量": "0",
+    "下载量": "33",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张蕾",
+            "author_addresses": [
+                "中国电力技术装备有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "康飞",
+            "author_addresses": [
+                "北京建筑大学城市经济与管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "01",
+    "摘要": " 在国际工程中，工程项目的竣工牵涉事项众多，对工程项目达到竣工的认定标准非常关键。文章列举大量案例，梳理英国法下“实质竣工”的认定标准，提出“实质竣工”情况下业主的救济方式，以期为国内工程项目争议实践中遇到的相关问题提供借鉴。",
+    "关键词": [
+        "国际工程",
+        "“实质竣工”原则",
+        "英国法"
+    ],
+    "基金资助": [],
+    "专辑": "经济与管理科学;社会科学Ⅰ辑",
+    "专题": "法理、法史;民商法",
+    "分类号": "D956.1;DD913",
+    "页码": "83-85",
+    "页数": "3",
+    "爬取时间": "2025-03-26 02:52:19",
+    "论文唯一代码": "ZBZG202401023"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "基于BIM技术的建筑幕墙工程成本全要素控制研究",
+    "状态": "正常",
+    "发表期刊": "绿色建造与智能建筑",
+    "刊发时间": "2024-01-06",
+    "引用量": "1",
+    "下载量": "58",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "赵金煜",
+            "author_addresses": [
+                "北京建筑大学城市经济与管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "崔素萍",
+            "author_addresses": [
+                "北京长合汇鑫建筑装饰工程有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "01",
+    "摘要": " 目前,BIM在建筑幕墙工程中的应用已经越来越广泛,本文基于BIM技术针对建筑幕墙工程的设计阶段、施工阶段、质保阶段进行成本全要素控制研究,并阐述具体实施方法,丰富了建筑幕墙工程成本控制方面的理论,因此具有一定的理论意义和现实意义。",
+    "关键词": [
+        "BIM技术",
+        "建筑幕墙工程",
+        "成本全要素控制"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑;信息科技",
+    "专题": "建筑科学与工程;计算机软件及计算机应用",
+    "分类号": "TU767;TU17",
+    "页码": "39-42+79",
+    "页数": "5",
+    "爬取时间": "2025-03-26 02:52:33",
+    "论文唯一代码": "ZNJZ202401010"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "中空GFRP筋土钉抗拔性能研究",
+    "状态": "正常",
+    "发表期刊": "岩土工程技术",
+    "刊发时间": "2024-01-05 18:47",
+    "引用量": "0",
+    "下载量": "79",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘军",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "申精",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张建全",
+            "author_addresses": [
+                "北京城建勘测设计研究院有限责任公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "宋晔",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "刘鹏",
+            "author_addresses": [
+                "北京市市政四建设工程有限责任公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "38 ",
+    "期(Issue)": "01",
+    "摘要": " 中空GFRP筋土钉是一种空心厚壁土钉，具有质量轻、易切割、耐腐蚀等优点。目前，对中空GFRP筋土钉的研究相对较少，对其抗拔性能和抗拔机理尚不清楚。依托北京地铁12号线北岗子站基坑工程，对中空GFRP筋土钉进行了现场抗拔试验，并采用FLAC3D数值模拟探究了不同拉拔力下中空GFRP筋土钉应力和位移沿钉长的分布规律，分析了不同内径和长度对应力分布和抗拔力的影响，对中空GFRP筋土钉的抗拔机理进行了分析。研究结果表明，拉拔过程中土钉的位移和轴力沿钉长呈指数衰减，剪应力在距钉头1.5 m处达到峰值，在距离钉头3.5 m处降至零；增大内径使土钉轴力沿钉长衰减更快，同时可提高其抗拔承载力，建议外径为32 mm的中空GFRP土钉内径取为15 mm；增加土钉长度不仅可以在一定范围内提高其抗拔力，还可使土钉轴力分布更均匀；中空GFRP筋土钉的破坏过程可分为弹性、塑性和破坏三个阶段，其破坏形式表现为拔出。",
+    "关键词": [
+        "中空GFRP筋土钉",
+        "抗拔试验",
+        "抗拔机理"
+    ],
+    "基金资助": [
+        "北京未来城市设计高精尖创新中心资助（UDC2019032824）"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU476",
+    "页码": "78-84",
+    "页数": "7",
+    "爬取时间": "2025-03-26 02:52:43",
+    "论文唯一代码": "YTGJ202401014"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "雨水生物滞留设施脱氮途径及效能研究进展",
+    "状态": "正常",
+    "发表期刊": "环境科学学报",
+    "刊发时间": "2024-01-05 15:13",
+    "引用量": "10",
+    "下载量": "686",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李海燕",
+            "author_addresses": [
+                "北京建筑大学,环境与能源工程学院,北京节能减排与城乡可持续发展省部共建协同创新中心",
+                "北京建筑大学,环境与能源工程学院,北京市可持续城市排水系统构建与风险控制工程技术研究中心",
+                "北京建筑大学,城市雨水系统与水环境教育部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "韩佳越",
+            "author_addresses": [
+                "北京建筑大学,环境与能源工程学院,北京节能减排与城乡可持续发展省部共建协同创新中心",
+                "北京建筑大学,环境与能源工程学院,北京市可持续城市排水系统构建与风险控制工程技术研究中心",
+                "北京建筑大学,城市雨水系统与水环境教育部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "刘兆瀛",
+            "author_addresses": [
+                "北京建筑大学,环境与能源工程学院,北京节能减排与城乡可持续发展省部共建协同创新中心",
+                "北京建筑大学,环境与能源工程学院,北京市可持续城市排水系统构建与风险控制工程技术研究中心",
+                "北京建筑大学,城市雨水系统与水环境教育部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张灿",
+            "author_addresses": [
+                "北京建筑大学,环境与能源工程学院,北京节能减排与城乡可持续发展省部共建协同创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "张晓然",
+            "author_addresses": [
+                "北京建筑大学,环境与能源工程学院,北京节能减排与城乡可持续发展省部共建协同创新中心",
+                "北京建筑大学,环境与能源工程学院,北京市可持续城市排水系统构建与风险控制工程技术研究中心",
+                "北京建筑大学,城市雨水系统与水环境教育部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "张紫阳",
+            "author_addresses": [
+                "北京建筑大学,环境与能源工程学院,北京节能减排与城乡可持续发展省部共建协同创新中心",
+                "北京建筑大学,环境与能源工程学院,北京市可持续城市排水系统构建与风险控制工程技术研究中心",
+                "北京建筑大学,城市雨水系统与水环境教育部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "简美鹏",
+            "author_addresses": [
+                "北京建筑大学,环境与能源工程学院,北京节能减排与城乡可持续发展省部共建协同创新中心",
+                "北京建筑大学,环境与能源工程学院,北京市可持续城市排水系统构建与风险控制工程技术研究中心",
+                "北京建筑大学,城市雨水系统与水环境教育部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "jianmeipeng@bucea.edu.cn"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "12",
+    "摘要": " 生物滞留系统中氮污染控制是雨水径流源头净化的关键环节，对缓解受纳水体的氮污染物负荷具有重要作用.本文总结了雨水径流中氮污染形态及来源，并分析了生物滞留系统中脱氮反应途径及其主要影响因素.生物滞留系统氮污染控制的主要反应途径包括同化反应、吸附、硝化反应、反硝化反应、异化还原为铵，主要依赖于脱氮功能微生物群落.此外，影响脱氮效果的主要因素包括植物类型、填料类型、淹没区设置、雨前干燥期及电子供体，并综述了因素影响下生物滞留系统中的脱氮效能.最后，对提高生物滞留氮污染控制效能提出了建议和展望.",
+    "关键词": [
+        "生物滞留系统",
+        "雨水径流",
+        "脱氮反应",
+        "反应机制",
+        "影响因素"
+    ],
+    "基金资助": [
+        "国家自然科学基金（No.52270086,52200001）",
+        "青年北京学者计划（No.024）",
+        "北京市教委-市自然基金联合项目（No.21JH0024）"
+    ],
+    "专辑": "工程科技Ⅰ辑;工程科技Ⅱ辑",
+    "专题": "环境科学与资源利用;建筑科学与工程",
+    "分类号": "TU992;X52",
+    "页码": "76-92",
+    "页数": "17",
+    "爬取时间": "2025-03-26 02:52:48",
+    "论文唯一代码": "HJXX202312008"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "嵌入梯田 沙河市柴关乡石门沟村",
+    "状态": "正常",
+    "发表期刊": "室内设计与装修",
+    "刊发时间": "2024-01-05",
+    "引用量": "0",
+    "下载量": "33",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "范霄鹏",
+            "author_addresses": "北京建筑大学建筑与城市规划学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "袁博洋",
+            "author_addresses": "北京建筑大学建筑与城市规划学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "01",
+    "摘要": " &lt;正&gt;太行山脉贯通的华北山区,石质山体中土地资源瘠薄,山脉腹地因峰峦隆起而沟壑纵横,山麓坡地则形成土地资源相对富集的地点。依托山中陉道与山西高原相通,为历史上的商旅通道,也为明清移民迁徙的路径。与陉道相连的沟壑内微观地理单元,则成为人们开垦旱作梯田、开展农耕生产的理想栖居场所。区域及地点生境从华北平原逐渐向西抬升隆起的太行山,",
+    "关键词": [],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU982.29",
+    "页码": "130-133",
+    "页数": "4",
+    "爬取时间": "2025-03-26 02:52:51",
+    "论文唯一代码": "SNSJ202401029"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "组态视角下医院建筑能效提升路径研究",
+    "状态": "正常",
+    "发表期刊": "建筑经济",
+    "刊发时间": "2024-01-05",
+    "引用量": "1",
+    "下载量": "180",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "金占勇",
+            "author_addresses": [
+                "北京建筑大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "曹焕焕",
+            "author_addresses": [
+                "北京建筑大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "夏爽",
+            "author_addresses": [
+                "中国建筑科学研究院有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "刘广东",
+            "author_addresses": [
+                "中国绿发投资集团有限公司(鲁能集团有限公司)"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "纪博雅",
+            "author_addresses": [
+                "建科环能科技有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "45 ",
+    "期(Issue)": "01",
+    "摘要": " 基于北京市22家公立医院能效提升调研，运用模糊集定性比较分析法（fsQCA）对医院建筑能效提升影响因素进行组态分析。研究表明：按照医院建筑能效提升所处的阶段，存在“引导型”“激励型”“自发型”组态驱动路径分别对应于培育期、成长期、成熟期，医院在制定个性化能效提升路径时应首先确定合理定位；“规划管理类政策”对各个阶段的医院建筑能效提升都有影响，应将规划管理类政策完善作为提升能效的实施重点。最后，提出健全管理政策规制、强化行为意识引导、完善经济激励机制、促进市场有效等能效提升对策。",
+    "关键词": [
+        "医院建筑",
+        "建筑能效",
+        "组态分析",
+        "fsQCA方法"
+    ],
+    "基金资助": [
+        "住房和城乡建设部科技项目“低碳城市评价指标体系及全过程建设管理体系研究”（2022-K-108）",
+        "国家卫生健康委医院管理研究所科研项目“‘双碳背景下’医院建筑的节能管理模式创新研究——以北京医院研究型病房为例”（GYZ2022HQ47）",
+        "北京建筑大学研究生创新项目（PG2023110）",
+        "新型集成房屋在公司各产业应用技术体系研究项目（SGLN0000KXJS2000109）",
+        "中国建筑科学研究院青年科研基金项目“公共建筑新型能碳数据监测管理平台关键技术研究与应用”"
+    ],
+    "专辑": "经济与管理科学;工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU246.1;TU111.195",
+    "页码": "81-88",
+    "页数": "8",
+    "爬取时间": "2025-03-26 02:52:56",
+    "论文唯一代码": "JZJJ202401011"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "“第二个结合”视域下中华文明的生命更新和现代转型",
+    "状态": "正常",
+    "发表期刊": "东北师大学报(哲学社会科学版)",
+    "刊发时间": "2024-01-05",
+    "引用量": "2",
+    "下载量": "1928",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "许亮",
+            "author_addresses": [
+                "北京建筑大学马克思主义学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "01",
+    "摘要": " “第二个结合”视域下中华文明的生命更新和现代转型，对于赓续中华民族的根脉，夯实民族文化自信的根基，建设中华民族现代文明都具有非常重要的意义。“第二个结合”视域下中华文明的生命更新和现代转型的方法途径主要包括：从富民厚生到共同富裕，推动中华物质文明实现现代转型；从民本到民主，推动中华政治文明实现现代转型；从革故鼎新的担当精神到共产党人的革命精神，推动中华精神文明实现现代转型；从九州共贯到中华民族共同体，推动中华社会文明实现现代转型；从万物并育到人与自然和谐共生，推动中华生态文明实现现代转型。",
+    "关键词": [
+        "第二个结合",
+        "马克思主义基本原理",
+        "中华文明"
+    ],
+    "基金资助": [
+        "北京市属高等学校优秀青年人才培育计划项目(BPHR202203089)",
+        "北京市第三批重点建设马克思主义学院的阶段性成果"
+    ],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学;社会科学Ⅰ辑",
+    "专题": "文化;马克思主义;中国政治与国际政治",
+    "分类号": "G122;D61;A81",
+    "页码": "9-17",
+    "页数": "9",
+    "爬取时间": "2025-03-26 02:53:01",
+    "论文唯一代码": "DBSS202401002"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "历史文化街区研究的PEST分析及更新策略建议",
+    "状态": "正常",
+    "发表期刊": "中国名城",
+    "刊发时间": "2024-01-05",
+    "引用量": "3",
+    "下载量": "629",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "周霞",
+            "author_addresses": "北京建筑大学城市经济与管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王梓",
+            "author_addresses": "北京建筑大学城市经济与管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "38 ",
+    "期(Issue)": "01",
+    "摘要": " 为了留存城市文化脉络，提出更行之有效的历史文化街区更新策略，以中国知网（CNKI）为数据来源，综合运用PEST模型和文献计量分析方法，综述历史文化街区的研究现状，为开展相关工作提供可借鉴的理论依据。通过在中国知网中检索“历史文化街区”的相关研究文献，从政治、经济、社会、技术4个维度出发，运用文献可视化分析软件对筛选出的文献进行关键词聚类分析，梳理研究热点和重点，总结得出我国历史文化街区保护工作应形成以政府为主导，社会、企业、民众多元参与的有机协调模式，坚持“原真性”修复原则，提高建筑应对灾害的能力，让历史文化街区焕发新的生机与活力。",
+    "关键词": [
+        "历史文化街区",
+        "PEST模型",
+        "可视化分析",
+        "更新策略"
+    ],
+    "基金资助": [],
+    "专辑": "哲学与人文科学;工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU984.114",
+    "页码": "67-73",
+    "页数": "7",
+    "爬取时间": "2025-03-26 02:53:06",
+    "论文唯一代码": "ZGMI202401010"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "内嵌双阶段装配式防屈曲支撑的钢框架-支撑结构抗震性能评估",
+    "状态": "正常",
+    "发表期刊": "工业建筑",
+    "刊发时间": "2024-01-04 19:49",
+    "引用量": "0",
+    "下载量": "443",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张爱林",
+            "author_addresses": [
+                "北京工业大学建筑工程学院",
+                "北京工业大学北京市高层和大跨度预应力钢结构工程技术研究中心",
+                "北京建筑大学北京未来城市设计高精尖创新中心",
+                "同济大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者，有序（数字）的单位,但没有sup可一一对应：多个作者多个单位，堆积"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘杰",
+            "author_addresses": [
+                "北京工业大学建筑工程学院",
+                "北京工业大学北京市高层和大跨度预应力钢结构工程技术研究中心",
+                "北京建筑大学北京未来城市设计高精尖创新中心",
+                "同济大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者，有序（数字）的单位,但没有sup可一一对应：多个作者多个单位，堆积"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "姜子钦",
+            "author_addresses": [
+                "北京工业大学建筑工程学院",
+                "北京工业大学北京市高层和大跨度预应力钢结构工程技术研究中心",
+                "北京建筑大学北京未来城市设计高精尖创新中心",
+                "同济大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者，有序（数字）的单位,但没有sup可一一对应：多个作者多个单位，堆积"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "jzqbj2010@163.com"
+        },
+        {
+            "author_order": 4,
+            "author_name": "郭康",
+            "author_addresses": [
+                "北京工业大学建筑工程学院",
+                "北京工业大学北京市高层和大跨度预应力钢结构工程技术研究中心",
+                "北京建筑大学北京未来城市设计高精尖创新中心",
+                "同济大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者，有序（数字）的单位,但没有sup可一一对应：多个作者多个单位，堆积"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "苏世佳",
+            "author_addresses": [
+                "北京工业大学建筑工程学院",
+                "北京工业大学北京市高层和大跨度预应力钢结构工程技术研究中心",
+                "北京建筑大学北京未来城市设计高精尖创新中心",
+                "同济大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者，有序（数字）的单位,但没有sup可一一对应：多个作者多个单位，堆积"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "",
+    "卷(Volume)": "No record",
+    "期(Issue)": "No record",
+    "摘要": " 为研究新型内芯可更换的双屈服点装配式防屈曲约束支撑对装配式钢框架-支撑结构抗震性能的影响，本文首先采用有限元软件Perform-3d建立了普通支撑、防屈曲支撑和新型内芯可更换的双屈服点装配式防屈曲约束支撑的有限元模型，并验证了建模方式的准确性；之后在此基础上建立内嵌新型内芯可更换的双屈服点装配式防屈曲支撑的钢框架-支撑结构有限元模型，并采用弹塑性时程分析方法对普通钢框架结构、钢框架-普通支撑结构、钢框架-防屈曲支撑结构、内嵌新型双屈服点装配式防屈曲支撑的钢框架-支撑结构的抗震性能展开研究。分析结果表明：Perform-3d能准确模拟普通钢支撑、普通防屈曲支撑及新型内芯可更换的双屈服点装配式防屈曲支撑；内嵌新型双屈服点防屈曲支撑的钢框架-支撑结构在最大层间位移角和结构顶层位移、基底剪力上均优于其他结构，新型内芯可更换的双屈服点装配式防屈曲约束支撑在地震作用下起到了重要的作用，主要通过新型内芯可更换的双屈服点装配式防屈曲约束支撑来耗能，这说明内嵌新型内芯可更换的双屈服点装配式防屈曲支撑的钢框架-支撑结构具有良好的抗震性能。",
+    "关键词": [
+        "双阶段装配式防屈曲支撑",
+        "钢框架结构",
+        "时程分析",
+        "抗震性能"
+    ],
+    "基金资助": [
+        "国家自然科学基金项目(52078013)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU391;TU352.11",
+    "页码": "",
+    "页数": "14",
+    "爬取时间": "2025-03-26 02:53:10",
+    "论文唯一代码": "GYJZ20231214001"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "氧化钙和木屑预调制污泥的低温干化特性研究",
+    "状态": "正常",
+    "发表期刊": "工业水处理",
+    "刊发时间": "2024-01-04 15:50",
+    "引用量": "0",
+    "下载量": "149",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张群力",
+            "author_addresses": [
+                "北京建筑大学,供热供燃气通风及空调工程北京市重点实验室",
+                "北京建筑大学,北京节能减排与城乡可持续发展省部共建协同创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王瀚",
+            "author_addresses": [
+                "北京建筑大学,供热供燃气通风及空调工程北京市重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王宝忠",
+            "author_addresses": [
+                "北京建筑大学,供热供燃气通风及空调工程北京市重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "程煊锐",
+            "author_addresses": [
+                "北京建筑大学,供热供燃气通风及空调工程北京市重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "张秋月",
+            "author_addresses": [
+                "北京建筑大学,供热供燃气通风及空调工程北京市重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "44 ",
+    "期(Issue)": "11",
+    "摘要": " 热泵干化是一种低碳节能的污泥干化方法，其运行温度一般不超过70℃。为提升污泥在低温条件下的干化速率，采用实验研究加数据分析方法，研究了空气温度、风速和添加剂比例对污泥低温干化特性的影响。实验结果表明，当空气温度在50～70℃，风速为0.5～1.7 m/s时，提高空气温度、风速和增大添加剂比例均可以提高污泥干化速率，CaO和木屑预调制污泥比纯污泥的平均和最大干化速率分别提高了14.2%和25.7%。通过双因素方差分析（ANOVA）表明，干化温度比干化风速对污泥干化的影响更大。通过非线性拟合，构建温度和风速变化对污泥干化过程的动力学模型，为低温条件下污泥干化提供数据基础。",
+    "关键词": [
+        "污泥",
+        "木屑",
+        "氧化钙",
+        "低温干化",
+        "方差分析"
+    ],
+    "基金资助": [
+        "北京建筑大学博士研究生科研能力提升项目（DG2023010）",
+        "北京建筑大学研究生创新项目（PG2022070)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "环境科学与资源利用",
+    "分类号": "X703",
+    "页码": "99-105",
+    "页数": "7",
+    "爬取时间": "2025-03-26 02:53:13",
+    "论文唯一代码": "GYSC202411009"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "浅谈醋在体育锻炼中的应用",
+    "状态": "正常",
+    "发表期刊": "田径",
+    "刊发时间": "2024-01-01",
+    "引用量": "0",
+    "下载量": "74",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "朱静华",
+            "author_addresses": [
+                "北京建筑大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "丛林",
+            "author_addresses": [
+                "北京化工大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "01",
+    "摘要": " &lt;正&gt;醋，又称食醋，是一种传统的调味品。据文献记载，我国已有三千多年的酿醋历史。醋对于很多人而言仅仅是一种简单的调味品，但是醋在中国有深厚的文化渊源，生活应用性较强，尤其在我们的日常体育锻炼中有许多妙用。一、醋在体育锻炼中的应用（一）加快运动后的糖原恢复速率。肌糖原是肌肉活动的基本能源物质，每次体育锻炼后，肌糖原会大量消耗。因此，为了准备下一次的运动，",
+    "关键词": [],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑;工程科技Ⅰ辑",
+    "专题": "轻工业手工业;体育",
+    "分类号": "G806;TS264.22",
+    "页码": "83",
+    "页数": "1",
+    "爬取时间": "2025-03-26 02:53:16",
+    "论文唯一代码": "TJTJ202401041"
+}
+{
+    "学校id": "4111010016",
+    "学校": "北京建筑大学",
+    "论文类型": "期刊",
+    "论文题目": "地方高校博士后队伍建设的探索——以北京建筑大学为例",
+    "状态": "正常",
+    "发表期刊": "大学教育",
+    "刊发时间": "2024-01-01",
+    "引用量": "0",
+    "下载量": "98",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "侯嘉毅",
+            "author_addresses": "北京建筑大学人力资源处",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "曹晓云",
+            "author_addresses": "北京建筑大学人力资源处",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "丁丁",
+            "author_addresses": "北京建筑大学人力资源处",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "01",
+    "摘要": " 高等学校博士后流动站的设立旨在吸引、聘用和培养高水平创新人才，在推动学科发展、服务社会、促进学校师资队伍建设、建设人才蓄水池等方面发挥积极作用。文章讨论了地方高校博士后队伍建设工作面临的挑战，并以北京建筑大学为例，对学校博士后流动站在制度设计、招收、评价、服务方面的做法进行了分析，以期给其他地方高校提供借鉴。",
+    "关键词": [
+        "高校",
+        "博士后",
+        "师资队伍建设"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "高等教育",
+    "分类号": "G644.8",
+    "页码": "1-3",
+    "页数": "3",
+    "爬取时间": "2025-03-26 02:53:20",
+    "论文唯一代码": "DXJY202401001"
+}

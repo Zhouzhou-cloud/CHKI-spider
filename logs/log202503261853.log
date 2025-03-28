@@ -1,0 +1,64 @@
+2025-03-26 18:54:00,099 - make_task_list.py[line:51] - INFO: 任务是paper形
+2025-03-26 18:54:00,106 - make_task_list.py[line:51] - INFO: 任务是paper形
+2025-03-26 18:54:00,114 - crawl.py[line:81] - INFO: downloads\如何认识负利率政策及其影响文件夹已经建立
+2025-03-26 18:54:00,115 - crawl.py[line:81] - INFO: downloads\数据生产要素的基础理论构建：新结构经济学视角文件夹已经建立
+2025-03-26 18:54:00,115 - crawl.py[line:81] - INFO: downloads\不同β受体阻滞剂对大鼠心肌间隙连接结构作用的对比研究文件夹已经建立
+2025-03-26 18:54:00,117 - crawl.py[line:81] - INFO: downloads\用于全口义齿计算机辅助设计的虚拟半可调文件夹已经建立
+2025-03-26 18:54:00,118 - crawl.py[line:81] - INFO: downloads\“东亚共同体”_地区与国家的观点文件夹已经建立
+2025-03-26 18:54:00,119 - crawl.py[line:81] - INFO: downloads\试论利益集团在美国对华政策中的影响——以美国对华最惠国待遇政策为例文件夹已经建立
+2025-03-26 18:54:00,120 - crawl.py[line:81] - INFO: downloads\中美战略合作展望_对机遇与挑战前景的评估文件夹已经建立
+2025-03-26 18:54:00,121 - crawl.py[line:81] - INFO: downloads\偏振模色散对光纤数字通信系统影响的讨论文件夹已经建立
+2025-03-26 18:54:00,121 - crawl.py[line:81] - INFO: downloads\南疆行记文件夹已经建立
+2025-03-26 18:54:00,123 - crawl.py[line:81] - INFO: downloads\近年来CCA在气候分析与气候预测中的应用文件夹已经建立
+2025-03-26 18:54:11,607 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-26 18:54:12,025 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-26 18:54:12,410 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-26 18:54:12,720 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-26 18:54:12,987 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-26 18:54:13,132 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-26 18:54:13,234 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-26 18:54:13,297 - crawl.py[line:267] - INFO: 1 records found, divided into 1 pages
+2025-03-26 18:54:13,323 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-26 18:54:13,419 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-26 18:54:13,686 - crawl.py[line:267] - INFO: 1 records found, divided into 1 pages
+2025-03-26 18:54:14,862 - crawl.py[line:267] - INFO: 7 records found, divided into 1 pages
+2025-03-26 18:54:15,946 - crawl.py[line:267] - INFO: 4 records found, divided into 1 pages
+2025-03-26 18:54:16,694 - crawl.py[line:267] - INFO: 1 records found, divided into 1 pages
+2025-03-26 18:54:16,725 - crawl.py[line:267] - INFO: 1 records found, divided into 1 pages
+2025-03-26 18:54:17,066 - crawl.py[line:267] - INFO: 1 records found, divided into 1 pages
+2025-03-26 18:54:17,720 - crawl.py[line:267] - INFO: 1 records found, divided into 1 pages
+2025-03-26 18:54:17,807 - crawl.py[line:267] - INFO: 15 records found, divided into 1 pages
+2025-03-26 18:54:18,886 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-26 18:54:25,368 - crawl.py[line:267] - INFO: 1 records found, divided into 1 pages
+2025-03-26 18:54:35,281 - common.py[line:135] - ERROR: 检查ZHXX200702025是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:54:38,206 - common.py[line:135] - ERROR: 检查BYDB200801027是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:54:39,917 - common.py[line:135] - ERROR: 检查1023457565.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:54:40,054 - common.py[line:135] - ERROR: 检查1023083482.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:54:40,424 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:54:40,560 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:54:40,890 - common.py[line:135] - ERROR: 检查JMZG201101008是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:54:41,034 - common.py[line:135] - ERROR: 检查1021122989.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:54:41,195 - common.py[line:135] - ERROR: 检查1021741646.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:54:41,358 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:54:41,483 - common.py[line:135] - ERROR: 检查MGYJ802.003是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:54:41,562 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:54:41,782 - common.py[line:135] - ERROR: 检查GJPP202001011是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:54:41,982 - common.py[line:135] - ERROR: 检查1019608602.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:54:42,637 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:54:42,768 - common.py[line:135] - ERROR: 检查GTXS200002024是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:54:43,182 - common.py[line:135] - ERROR: 检查1018153599.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:54:43,728 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:54:43,749 - common.py[line:135] - ERROR: 检查1017242192.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:54:44,652 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:54:44,742 - common.py[line:135] - ERROR: 检查BJDZ200101022是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:54:45,069 - common.py[line:135] - ERROR: 检查BFJD202402006是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:54:45,142 - common.py[line:135] - ERROR: 检查1019156719.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:54:46,131 - common.py[line:135] - ERROR: 检查2009088959.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:54:46,312 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:54:46,664 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:54:47,000 - common.py[line:135] - ERROR: 检查1020701132.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:54:47,997 - common.py[line:135] - ERROR: 检查ZGGG200402025是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:54:48,047 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:54:48,823 - common.py[line:135] - ERROR: 检查9787305178283000是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:54:49,480 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:54:50,882 - common.py[line:135] - ERROR: 检查1013324362.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，

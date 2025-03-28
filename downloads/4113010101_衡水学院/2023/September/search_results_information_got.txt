@@ -1,0 +1,1963 @@
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "德国6G技术发展战略分析",
+    "状态": "正常",
+    "发表期刊": "全球科技经济瞭望",
+    "刊发时间": "2023-09-30",
+    "引用量": "0",
+    "下载量": "79",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "周顺杰",
+            "author_addresses": [
+                "衡水市科技情报研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "陈娟",
+            "author_addresses": [
+                "衡水学院文学与传播学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "38 ",
+    "期(Issue)": "09",
+    "摘要": " 德国近年不断加强数字化发展，出台了新的“数字化战略”，包括谋划了6G技术和行业发展未来，2025年之前向6个领域提供7亿欧元资助新通信标准的研发。德国希望通过工业技术项目实施，在6G技术领域建立早期优势。在战略实施上，德国政府通过政策法规制定、充分资金保障、搭建研发合作平台和建立行业研发联盟持续推进6G技术的开发和应用。基于德国的战略动向，为加快中国6G系统化和预标准化提出思考和建议。",
+    "关键词": [
+        "德国",
+        "6G技术",
+        "6G产业",
+        "发展战略"
+    ],
+    "基金资助": [],
+    "专辑": "经济与管理科学;基础科学",
+    "专题": "信息经济与邮政经济",
+    "分类号": "F627",
+    "页码": "53-58+76",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:14:34",
+    "论文唯一代码": "QQKL202309007"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "衡水湖不同生态区沉积物与上覆水水质相关性研究",
+    "状态": "正常",
+    "发表期刊": "农业与技术",
+    "刊发时间": "2023-09-30",
+    "引用量": "0",
+    "下载量": "172",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张志强",
+            "author_addresses": [
+                "衡水学院生命科学系"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "18",
+    "摘要": " 为了解衡水湖上覆水水质与不同生态区沉积物的相关性，本研究对衡水湖9个样点（挺水植物区3个样品、深水区4个样品、沉水植物区2个样品）的样品进行了检测，并进行了相关性分析。结果显示，衡水湖上覆水pH值变化范围为7.96～8.67,溶解氧的变化范围为4～8.9mg·L<sup>-1</sup>,总氮含量变化范围为0.73～1.79mg·L<sup>-1</sup>,总磷含量变化范围为0.064～0.14mg·L<sup>-1</sup>,TOC含量变化范围为12.64～17.92mg·L<sup>-1</sup>,氨氮含量变化范围为0.092～0.407mg·L<sup>-1</sup>,COD含量变化范围为14.9～30.56mg·L<sup>-1</sup>;衡水湖沉积物中pH平均值为7.66,沉积物中总氮平均值为1345.3mg·kg<sup>-1</sup>,沉积物中总磷平均含量为495.92mg·kg<sup>-1</sup>,沉积物中TOC平均含量为14.92g·kg<sup>-1</sup>,沉积物中氨氮平均值为243.31mg·kg<sup>-1</sup>。衡水湖水体中总氮与沉积物中总氮呈极显著正相关，水体中总磷与沉积物中总氮呈显著正相关，水体中总磷与沉积物中总磷呈极显著正相关，水体pH与沉积物pH呈极显著正相关，水体中TOC与沉积物中TOC存在极显著正相关，说明衡水湖沉积物中营养盐的释放成为衡水湖污染的主要来源，因此需加强对内源污染的防控。",
+    "关键词": [
+        "衡水湖",
+        "上覆水",
+        "沉积物",
+        "相关性"
+    ],
+    "基金资助": [
+        "2021年衡水市科技计划项目“衡水湖不同生态区沉积物与上覆水水质的相关性研究”(项目编号：2021014024Z)",
+        "2022年横向课题(项目编号：2022072)"
+    ],
+    "专辑": "农业科技;工程科技Ⅰ辑",
+    "专题": "环境科学与资源利用",
+    "分类号": "X524",
+    "页码": "100-103",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:14:37",
+    "论文唯一代码": "NYYS202318023"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "基于RT-thread的小麦病虫害检测系统的研究与应用",
+    "状态": "正常",
+    "发表期刊": "河南科技",
+    "刊发时间": "2023-09-25",
+    "引用量": "2",
+    "下载量": "244",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "朱晓智",
+            "author_addresses": "衡水学院数学与计算机学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张蕾",
+            "author_addresses": "衡水学院数学与计算机学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "韩媛媛",
+            "author_addresses": "衡水学院数学与计算机学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "郭腾佐",
+            "author_addresses": "衡水学院数学与计算机学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "李洪瑛",
+            "author_addresses": "衡水学院数学与计算机学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "42 ",
+    "期(Issue)": "18",
+    "摘要": " 【目的】为解决小麦病虫害问题，设计出一款基于RT-thread物联网操作系统的小麦病虫害检测系统。【方法】该检测系统以STM32H750XBH6单片机为核心主控板，使用神经网络对小麦病虫害进行识别。同时，该检测系统采用OneNET物联网云平台来实现数据的上行，并使用OneNET view组件实现对数据的二维显示。【结果】系统稳定运行后，能在多种恶劣环境中识别出不同的小麦病虫害问题，并通过调用数据库来给出该健康状况下的解决方案。【结论】该系统不仅能降低因小麦病虫害带来的损失，还能减少人力物力的投入。",
+    "关键词": [
+        "模块化",
+        "RT-thread",
+        "卷积神经网络",
+        "嵌入式人工智能"
+    ],
+    "基金资助": [
+        "2022年河北省大学生创新创业训练项目“基于RT-thread的小麦病虫害检测系统”（S202210101030）"
+    ],
+    "专辑": "工程科技Ⅱ辑;农业科技;信息科技",
+    "专题": "植物保护;电信技术;计算机软件及计算机应用",
+    "分类号": "S435.12;TP391.44;TN929.5",
+    "页码": "23-26",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:14:40",
+    "论文唯一代码": "HNKJ202318005"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "董仲舒生平履历再考证",
+    "状态": "正常",
+    "发表期刊": "河北大学学报(哲学社会科学版)",
+    "刊发时间": "2023-09-25",
+    "引用量": "0",
+    "下载量": "354",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王文书",
+            "author_addresses": [
+                "衡水学院董仲舒与传统文化研究中心"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "48 ",
+    "期(Issue)": "05",
+    "摘要": " 依据历史文献的记载，对董仲舒的生平进行了再次考证，得出了与以往观点不同的结论。董仲舒大约出生于汉高祖七年(公元前200),卒于汉武帝元鼎三年(公元前114);董仲舒参加了建元元年的对策，但《天人三策》非建元对策的策文，而是元光元年董仲舒与汉武帝两人之间一次国策讨论；董仲舒两次任江都相，第一次是建元对策后至建元三年(公元前138),第二次是在元光二年(公元前132)至元朔三年(公元前126);董仲舒转任胶西相即在元朔三年(公元前126)。",
+    "关键词": [
+        "董仲舒",
+        "建元对策",
+        "江都相",
+        "天人三策"
+    ],
+    "基金资助": [
+        "国家社会科学基金一般项目“董仲舒学术研究史”(19BZX051)"
+    ],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学",
+    "专题": "中国古代史",
+    "分类号": "K234.1",
+    "页码": "149-160",
+    "页数": "12",
+    "爬取时间": "2025-03-26 06:14:45",
+    "论文唯一代码": "HBDS202305015"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "改性HNTs对UHMWPE力学性能、热学性能的影响",
+    "状态": "正常",
+    "发表期刊": "塑料科技",
+    "刊发时间": "2023-09-25",
+    "引用量": "1",
+    "下载量": "167",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "孙会娟",
+            "author_addresses": "衡水学院应用化学系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "shj6910@163.com"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王峥",
+            "author_addresses": "衡水学院应用化学系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李宝钗",
+            "author_addresses": "衡水学院应用化学系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "吴瑞红",
+            "author_addresses": "衡水学院应用化学系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "刘彦彬",
+            "author_addresses": "衡水学院应用化学系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "51 ",
+    "期(Issue)": "09",
+    "摘要": " 为进一步获得高性能的超高分子量聚乙烯（UHMWPE）材料，以有机物乙酸钾为改性剂改性埃洛石纳米管（HNTs），制备杂化HNTs。通过熔融混合后模压的方式制备不同改性HNTs含量的UHMWPE/HNTs纳米复合材料。研究改性剂对HNTs结构的影响及改性HNTs对复合材料力学性能与热稳定性的影响。结果表明：乙酸钾增加了HNTs的层间距，弱化分子内的作用力。改性HNTs的用量为3 g时，复合材料的拉伸强度最大，为25.5 MPa。改性HNTs用量5 g时，复合材料的断裂伸长率和冲击强度较未加入HNTs时分别下降了20%和3.3%；弯曲强度和维卡软化点较未加入HNTs时分别提高1 MPa、3.5℃。改性HNTs的加入提高了UHMWPE的热稳定性及部分力学性能。",
+    "关键词": [
+        "埃洛石纳米管",
+        "纳米复合材料",
+        "超高分子量聚乙烯",
+        "热学性能"
+    ],
+    "基金资助": [
+        "衡水学院校级课题（2022ZR06）衡水学院高层次人才科研启动基金资助项目（2020GC17）",
+        "衡水市教育科学研究“十四五”规划课题（2205259）"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "有机化工",
+    "分类号": "TQ325.12",
+    "页码": "40-44",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:14:50",
+    "论文唯一代码": "SLKJ202309008"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "响应面法优化款冬花总黄酮提取工艺研究",
+    "状态": "正常",
+    "发表期刊": "山东化工",
+    "刊发时间": "2023-09-23",
+    "引用量": "2",
+    "下载量": "364",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "郭靖",
+            "author_addresses": "衡水学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张丽",
+            "author_addresses": "衡水学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王纪清",
+            "author_addresses": "衡水学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "白文轩",
+            "author_addresses": "衡水学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "52 ",
+    "期(Issue)": "18",
+    "摘要": " 以款冬花为原材料，采用溶剂回流法提取款冬花中总黄酮。在单因素试验基础上，以乙醇浓度、料液比、提取温度、提取时间四个因素为自变量，以款冬花总黄酮含量为响应值，通过响应面优化款冬花总黄酮的提取工艺。结果表明，款冬花总黄酮的最佳提取工艺为：提取温度82℃,乙醇体积分数62%,提取时间152 min和料液比1∶41(g∶mL),款冬花总黄酮提取含量为50.11 mg/g,为模型理论预测值的98%。该模型可靠重复性好，能为款冬花总黄酮的产业化提供理论依据。",
+    "关键词": [
+        "款冬花",
+        "响应面",
+        "总黄酮"
+    ],
+    "基金资助": [
+        "河北省高等学校科学技术研究项目(Z2020121)",
+        "大学生创新创业训练计划项目(S202210101020)",
+        "衡水学院院级专项课题(2022XJZX62)"
+    ],
+    "专辑": "工程科技Ⅰ辑;医药卫生科技",
+    "专题": "中药学",
+    "分类号": "R284.2",
+    "页码": "33-37",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:14:56",
+    "论文唯一代码": "SDHG202318010"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "有机化学实验课程的思政教育实践",
+    "状态": "正常",
+    "发表期刊": "化工管理",
+    "刊发时间": "2023-09-21",
+    "引用量": "1",
+    "下载量": "200",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王培",
+            "author_addresses": "衡水学院应用化学系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "牛丽丽",
+            "author_addresses": "衡水学院应用化学系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王峥",
+            "author_addresses": "衡水学院应用化学系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "27",
+    "摘要": " 思政教育是高等教育的重要组成部分，有机化学实验课程是思政教育落地的重要载体。文章通过分析有机化学实验教学过程中思政教育面临的挑战，以梳理课程中思政元素和实施创新教学方法等作为解决方案，探索思政教育在有机化学实验课程的实践策略，以帮助学生学会专业知识和获得实践技能，同时树立正确的人生观、世界观和价值观。",
+    "关键词": [
+        "有机化学实验",
+        "思政教育",
+        "教学改革"
+    ],
+    "基金资助": [
+        "衡水市教育科学研究“十四五”规划课题(2205251,2205259)",
+        "2022年度第二批教育部产学合作协同育人项目(22097047222142)"
+    ],
+    "专辑": "经济与管理科学;工程科技Ⅰ辑;社会科学Ⅱ辑",
+    "专题": "化学;有机化工;高等教育",
+    "分类号": "O62-4;G641",
+    "页码": "25-27",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:15:01",
+    "论文唯一代码": "FGGL202327007"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "PLC技术在电气工程及其自动化控制中的运用分析",
+    "状态": "正常",
+    "发表期刊": "数字通信世界",
+    "刊发时间": "2023-09-20",
+    "引用量": "7",
+    "下载量": "413",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "冯玉龙",
+            "author_addresses": [
+                "衡水学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "09",
+    "摘要": " PLC技术作为可编程逻辑控制技术，能够通过集成功能对下位终端载体实现逻辑操控。对于电气工程及其自动化控制来讲，利用PLC技术能够提高控制精度、控制效率，降低人员的投入量，其对于电气行业的价值不言而喻。文章立足于PLC技术的应用特点，探讨了PLC技术在电气工程及其自动化控制中的实际运用，并对PLC技术应用的优化方案进行了思考。",
+    "关键词": [
+        "PLC技术",
+        "电气工程",
+        "自动化控制"
+    ],
+    "基金资助": [],
+    "专辑": "信息科技;工程科技Ⅱ辑",
+    "专题": "电力工业;自动化技术",
+    "分类号": "TM76;TP273",
+    "页码": "57-59",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:15:04",
+    "论文唯一代码": "SZTJ202309018"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "基于“三全育人”视角下的劳动教育与专业实训协同育人实践研究",
+    "状态": "正常",
+    "发表期刊": "农业科技与装备",
+    "刊发时间": "2023-09-20",
+    "引用量": "0",
+    "下载量": "109",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "路培",
+            "author_addresses": [
+                "河北省衡水学院生命科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘贺明",
+            "author_addresses": [
+                "河北省衡水学院美术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "曹虎",
+            "author_addresses": [
+                "河北省衡水学院生命科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王志华",
+            "author_addresses": [
+                "河北省衡水学院美术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "张铁蕊",
+            "author_addresses": [
+                "河北省衡水学院美术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "张愿愿",
+            "author_addresses": [
+                "河北省衡水学院美术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "05",
+    "摘要": " 劳动教育在各高校思想政治教育中发挥着重要作用。依托劳动实践周课程与《园林工程实训（实习）》等专业课程，通过合理组织安排，在校内开展劳动教育与专业实训协同育人实践，将劳动技能培养、思想政治教育、行业道德灌输融于一体，教导学生树立“劳动最光荣，实操是关键”的理念，尝试劳动教育与园林专业实训联合育人的新型实践方式，引导学生秉承知行合一的理念，从被动到主动，不断增强自身的能量感和获得感，从而促进学生在锻炼专业技能的同时也使思想政治教育取得实效。",
+    "关键词": [
+        "技能",
+        "知行合一",
+        "劳动教育",
+        "融合育人"
+    ],
+    "基金资助": [
+        "河北省教育科学十四五规划课题（2205277）",
+        "衡水学院校级教育教学改革专项课题（jg2023044）"
+    ],
+    "专辑": "农业科技;社会科学Ⅱ辑",
+    "专题": "高等教育",
+    "分类号": "G641",
+    "页码": "81-83",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:15:07",
+    "论文唯一代码": "NYJD202305028"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "衡水湖红鳍原鲌的年龄、生长和繁殖特性研究",
+    "状态": "正常",
+    "发表期刊": "河北渔业",
+    "刊发时间": "2023-09-20",
+    "引用量": "0",
+    "下载量": "192",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张晨星",
+            "author_addresses": [
+                "衡水学院河北省湿地生态与保护重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "靳昊泽",
+            "author_addresses": [
+                "衡水学院河北省湿地生态与保护重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王蕊",
+            "author_addresses": [
+                "衡水学院河北省湿地生态与保护重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张娜",
+            "author_addresses": [
+                "衡水学院河北省湿地生态与保护重点实验室",
+                "衡水学院河北省湿地保护与绿色发展协同创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "zhangna118wood@163.com"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "09",
+    "摘要": " 为研究衡水湖红鳍原鲌(Cultrichthys erythropterus)的年龄、生长和繁殖特性，在衡水湖采集261尾红鳍原鲌，测定其年龄、体长、体重、性腺发育时期、性腺重等。结果表明，衡水湖红鳍原鲌的2～3龄为优势龄组，从4月份开始，随着气温的逐渐回升，平均年龄呈现出缓慢上升的趋势，到6月份达到了最高，为1.95,之后从7月份开始又逐渐降低。红鳍原鲌的体长范围为76～238 mm,均值为119 mm;体重范围为5.5～113.1 g,均值为24.6 g。红鳍原鲌的雌性个体为正异速生长，雄性个体为负异速生长。红鳍原鲌的雌雄种群性比为0.903∶1,体长150 mm以下种群，雄性个体占据优势(雌雄比0.87∶1);体长150 mm以上的种群，雌性个体占据优势(雌雄比1.36∶1)。衡水湖红鳍原鲌的繁殖期为4—9月，主要集中在6—7月。卵径范围为0.30～1.20 mm,主要集中在0.60～1.00 mm,根据卵径的变化趋势推测其产卵类型为分批产卵。",
+    "关键词": [
+        "红鳍原鲌(Cultrichthys erythropterus)",
+        "年龄",
+        "生长",
+        "繁殖特性",
+        "衡水湖"
+    ],
+    "基金资助": [
+        "河北省高等学校科学技术研究项目(BJK2022064)",
+        "衡水市科技计划项目(2021014027Z,2022014023Z)",
+        "衡水学院高层次人才科研启动基金项目(2021GC16)衡水学院校级基金培育课题(2023XJZX26)衡水学院协同中心专项课题(2022XJZX40)衡水学院院士合作单位河北省湿地生态与保护重点实验室自主课题(hklz201909)"
+    ],
+    "专辑": "农业科技",
+    "专题": "水产和渔业",
+    "分类号": "S917.4",
+    "页码": "4-9+19",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:15:10",
+    "论文唯一代码": "HBYU202309002"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "汉语国际教育专业实践类课程的专创融合研究",
+    "状态": "正常",
+    "发表期刊": "邯郸学院学报",
+    "刊发时间": "2023-09-20",
+    "引用量": "4",
+    "下载量": "203",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "柳谦",
+            "author_addresses": [
+                "衡水学院外国语学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "崔维淼",
+            "author_addresses": [
+                "邯郸学院党政办公室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "温可佳",
+            "author_addresses": [
+                "衡水学院外国语学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "33 ",
+    "期(Issue)": "03",
+    "摘要": " 从汉语国际教育专业实践类课程角度出发，为满足国际社会对“中文+职业技能”人才的强烈需求，力求培养出“专业+创新创业”能力融合的国际中文教学人才，以《教育实习》课程为例，通过分解创新创业教育模块，对汉语国际教育专业实践类《教育实习》课程进行重建，并探索出一条以内容融合为基础、师资融合为促进、评价融合更加深化的专创融合的课程改革实施路径。",
+    "关键词": [
+        "汉语国际教育",
+        "创新创业教育",
+        "专业教育",
+        "教育实习",
+        "专创融合"
+    ],
+    "基金资助": [
+        "河北省高等教育教学改革研究与实践项目“‘中文+中医’背景下汉语国际教育专业创新创业教育体系与人才培养模式研究”（项目编号：2022GJJG540)"
+    ],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学",
+    "专题": "中国语言文字",
+    "分类号": "H195",
+    "页码": "96-105",
+    "页数": "10",
+    "爬取时间": "2025-03-26 06:15:15",
+    "论文唯一代码": "SZHD202303011"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "长链非编码RNA GAS5在缺血性脑卒中及相关疾病中的研究进展",
+    "状态": "正常",
+    "发表期刊": "现代电生理学杂志",
+    "刊发时间": "2023-09-18",
+    "引用量": "0",
+    "下载量": "100",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "杨梅柳",
+            "author_addresses": [
+                "衡水学院生命科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "虞武",
+            "author_addresses": [
+                "衡水学院校医院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "yuwu2021@163.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "解燕昭",
+            "author_addresses": [
+                "河北省人民医院神经内科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "赵景茹",
+            "author_addresses": [
+                "河北省人民医院神经内科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "董立朋",
+            "author_addresses": [
+                "河北省人民医院神经内科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "陈彦霞",
+            "author_addresses": [
+                "河北医科大学第二医院内分泌科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "30 ",
+    "期(Issue)": "03",
+    "摘要": " 缺血性脑卒中是全世界范围内致残和死亡的主要原因之一,发病后持续的神经功能缺损给患者和社会带来很大的经济负担。迄今为止,人们不断寻找更加有效的诊断方法和治疗缺血性脑卒中的药物,越来越多的研究证实了长链非编码RNA GAS5在缺血性脑卒中发病机制中的重要作用,并认为其是脑梗死的潜在治疗药物。",
+    "关键词": [
+        "脑缺血",
+        "高血压",
+        "动脉粥样硬化",
+        "长链非编码RNA GAS5"
+    ],
+    "基金资助": [
+        "国家自然科学基金资助项目(82001229)",
+        "河北省卫生健康委科研基金项目(20210914)"
+    ],
+    "专辑": "医药卫生科技",
+    "专题": "神经病学",
+    "分类号": "R743.3",
+    "页码": "189-193",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:15:18",
+    "论文唯一代码": "SDDS202303015"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "行政管理专业人才培养模式探索",
+    "状态": "正常",
+    "发表期刊": "产业与科技论坛",
+    "刊发时间": "2023-09-15",
+    "引用量": "2",
+    "下载量": "230",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘飞",
+            "author_addresses": "衡水学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "翟优",
+            "author_addresses": "衡水学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "郭金玲",
+            "author_addresses": "衡水学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "22 ",
+    "期(Issue)": "18",
+    "摘要": " 现如今，随着我国高等教育改革的不断深入和行政管理知识理论的不断更新与发展，越来越多的高等院校设置了行政管理专业，为社会培养行政管理类相关人才。各类高等院校在人才培养模式方面存在着专业课程设置不科学、专业特色不明显、培养目标模糊、轻实践而重理论等一系列突出问题。本文从分析我国行政管理专业的发展现状入手，随后着重解析各类高等院校行政管理专业的人才培养模式，最后针对不同类型的高等院校各自提出人才培养模式的优化方案并进行分析与总结。",
+    "关键词": [
+        "行政管理",
+        "高等院校",
+        "人才培养",
+        "模式"
+    ],
+    "基金资助": [],
+    "专辑": "经济与管理科学;社会科学Ⅰ辑;社会科学Ⅱ辑",
+    "专题": "行政学及国家行政管理;高等教育",
+    "分类号": "D035-4;G642",
+    "页码": "199-200",
+    "页数": "2",
+    "爬取时间": "2025-03-26 06:15:22",
+    "论文唯一代码": "CYYT202318093"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "非遗音乐短视频创作与传播策略研究",
+    "状态": "正常",
+    "发表期刊": "黄河之声",
+    "刊发时间": "2023-09-15",
+    "引用量": "2",
+    "下载量": "176",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "田宇",
+            "author_addresses": [
+                "衡水学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "17",
+    "摘要": " 非物质文化遗产是中华优秀传统文化的瑰宝，汲取了地方文化之精髓，展现了深厚的文化魅力和审美品位。非遗音乐也以独特的艺术视角寄托了深厚的民族情感，记载了悠远的文化历史，因而兼具文化价值和艺术魅力。在非遗音乐传承大力发展的今天，信息时代的来临为非遗音乐的创新发展提供了新的契机。因而，在信息技术的支持下，以短视频创作为载体进行丰富的非遗音乐传播，将有助于非遗音乐的创作实践和创新发展。在本文的研究中，笔者以非遗音乐短视频创作与传播为切入点，对非遗音乐短视频创造性转化和创新性发展策略进行总结，希望能够为新时期非物质文化的保护和传承工作提供良好的思路。",
+    "关键词": [
+        "非遗音乐",
+        "短视频",
+        "创作",
+        "传播策略"
+    ],
+    "基金资助": [
+        "2022年度衡水学院校级课题《非遗短视频创作与传播策略研究》研究成果（项目编号：2022XJZX69）"
+    ],
+    "专辑": "哲学与人文科学;信息科技",
+    "专题": "音乐舞蹈;新闻与传媒",
+    "分类号": "G206;J607",
+    "页码": "158-161",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:15:24",
+    "论文唯一代码": "HHZS202317038"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "媒介融合视域下非遗音乐题材纪录片创作研究",
+    "状态": "正常",
+    "发表期刊": "黄河之声",
+    "刊发时间": "2023-09-15",
+    "引用量": "3",
+    "下载量": "233",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘杰",
+            "author_addresses": "衡水学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "郭腾",
+            "author_addresses": "衡水学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "17",
+    "摘要": " 新的时代背景下，媒介融合为纪录片创作提供了丰富的思路。非遗音乐作为珍贵的文化遗产，也需借助纪录片的创作优势进行自我的文化传播和普及，以及进行传承渠道的拓展。因此，本文旨在从媒介融合的视域出发，探讨非遗音乐题材纪录片创作中的相关问题和应用，旨在为非遗音乐纪录片的创作提供新视角和方法，推动非遗音乐的保护与传承工作，以及纪录片创作的创新与发展。",
+    "关键词": [
+        "非遗音乐",
+        "纪录片",
+        "媒介融合",
+        "创作"
+    ],
+    "基金资助": [
+        "衡水学院校级课题《媒介融合视域下非遗题材纪录片创作研究》研究成果（项目编号：2022XJZX75）"
+    ],
+    "专辑": "哲学与人文科学",
+    "专题": "音乐舞蹈;戏剧电影与电视艺术",
+    "分类号": "J952;J607",
+    "页码": "170-172+176",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:15:26",
+    "论文唯一代码": "HHZS202317041"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "符号学视阈下音乐形式与内容关系的探讨",
+    "状态": "正常",
+    "发表期刊": "新疆艺术学院学报",
+    "刊发时间": "2023-09-15",
+    "引用量": "0",
+    "下载量": "205",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "丁博",
+            "author_addresses": [
+                "南京艺术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘东兴",
+            "author_addresses": [
+                "衡水学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "21 ",
+    "期(Issue)": "03",
+    "摘要": " 符号学是一门强调对符号与指代对象的联系问题的研究。基于此理念,从形式自律论以及情感他律论一直争论的音乐“有无现实原型”的问题出发,认为无论是形式自律论所倡导的乐音运动形式是一种自足的形式结构,还是情感他律论所倡导的音乐形式的影响因素在于音乐之外的非音乐因素等方面而言,音乐音响符号都有其现实原型。并且,这种具有现实原型的音乐音响符号须在研究中结合符号学的能指与所指或者互阐互释的理念予以阐释。",
+    "关键词": [
+        "符号学",
+        "形式自律",
+        "情感他律",
+        "互阐互释",
+        "异质同构"
+    ],
+    "基金资助": [],
+    "专辑": "哲学与人文科学",
+    "专题": "音乐舞蹈",
+    "分类号": "J60-02",
+    "页码": "17-24",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:15:29",
+    "论文唯一代码": "XJYA202303003"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "衡水湖湿地荷花公园土壤细菌古菌多样性研究",
+    "状态": "正常",
+    "发表期刊": "农业与技术",
+    "刊发时间": "2023-09-15",
+    "引用量": "0",
+    "下载量": "147",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李辉",
+            "author_addresses": [
+                "衡水学院湿地保护与研究中心"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "17",
+    "摘要": " 以衡水湖湿地荷花公园土壤为研究对象，通过高通量测序技术，对衡水湖湿地荷花公园的土壤细菌古菌多样性进行研究。研究结果表明：5个土壤样品共检测出60个门166纲371目623科1105属1886种，共计4359个OTU,其中a2 OTU数最多，其次是a5、a7 OTU数最少，这5个土壤样品中OTU数量关系是a2&gt;a5&gt;a3&gt;a1&gt;a7。由alpha多样性可知，a2样品土壤中细菌古菌群落的丰富度和多样性高于其它4个样品，a2和a5样品土壤中细菌古菌群落的均匀度明显高于其它3个样品。5个样品土壤中细菌古菌群落结构在门水平上相差不大，衡水湖湿地荷花公园土壤的优势菌门为变形菌门(Proteobacteria)18%～35%、放线菌门(Actinobacteriota)6%～21%、拟杆菌门(Bacteroidota)3%～18%、绿弯菌门(Chloroflexi)4%～18%、厚壁菌门(Firmicutes)1%～7%、浮霉菌门(Planctomycetota)1%～13%、酸杆菌门(Acidobacteriota)4%～9%、疣微菌门(Verrucomicrobiota)1%～6%、泉古菌门(Crenarchaeota)2%～5%、脱硫杆菌门(Desulfobacterota)1%～7%等，物种丰度差别较大，这可能与土壤的理化性质和植被的覆盖情况有密切的关系。",
+    "关键词": [
+        "衡水湖湿地",
+        "荷花公园",
+        "细菌古菌",
+        "土壤",
+        "多样性"
+    ],
+    "基金资助": [
+        "2022年衡水学院校级课题(项目编号：2022ZR07)",
+        "2022年“河北省湿地保护与绿色发展协同创新中心”专项课题(项目编号：2022XJZX24)"
+    ],
+    "专辑": "农业科技;基础科学",
+    "专题": "生物学;农业基础科学;农艺学",
+    "分类号": "S154.3",
+    "页码": "100-103",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:15:31",
+    "论文唯一代码": "NYYS202317026"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "纸质档案的保管利用与服务研究",
+    "状态": "正常",
+    "发表期刊": "造纸装备及材料",
+    "刊发时间": "2023-09-15",
+    "引用量": "4",
+    "下载量": "108",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "秦佳",
+            "author_addresses": [
+                "衡水学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "52 ",
+    "期(Issue)": "09",
+    "摘要": " 文章从纸质档案的保管利用和服务两个方面进行分析，探讨了纸质档案的分类和整理原则与方法，以及档案保管的问题和对策，研究了档案利用的规范路径，包括利用需求和方式、流程和规范、技术手段和工具等，总结了档案服务的需求和特点、模式和方法，以及评价和改进策略，以期为纸质档案管理的保管利用与服务提供理论和实践指导。",
+    "关键词": [
+        "纸质档案管理",
+        "档案保管",
+        "档案利用",
+        "档案服务"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅰ辑;信息科技",
+    "专题": "档案及博物馆",
+    "分类号": "G273.5",
+    "页码": "161-163",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:15:33",
+    "论文唯一代码": "FLZZ202309054"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "衡水湖保护区鹰科新记录——黑翅鸢、白尾海雕",
+    "状态": "正常",
+    "发表期刊": "甘肃林业科技",
+    "刊发时间": "2023-09-15",
+    "引用量": "0",
+    "下载量": "45",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张欣",
+            "author_addresses": [
+                "衡水学院生命科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张宇彤",
+            "author_addresses": [
+                "衡水学院生命科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "孙新玲",
+            "author_addresses": [
+                "河北省湿地生态与保护重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "李峰",
+            "author_addresses": [
+                "衡水学院生命科学学院",
+                "河北省湿地生态与保护重点实验室",
+                "河北省湿地保护与绿色发展协同创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "578173102@qq.com"
+        },
+        {
+            "author_order": 5,
+            "author_name": "费春翔",
+            "author_addresses": [
+                "衡水学院生命科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "48 ",
+    "期(Issue)": "03",
+    "摘要": " 报道河北衡水湖国家级自然保护区2种鹰形目鹰科鸟类新记录，2018年1月在两河恢复区五开河村北首次记录到黑翅鸢、2017年12月于小湖堤首次记录到白尾海雕。这些新记录进一步丰富了衡水湖保护区鸟类区系资料。",
+    "关键词": [
+        "黑翅鸢",
+        "白尾海雕",
+        "新记录",
+        "衡水湖"
+    ],
+    "基金资助": [
+        "河北省湿地生态与保护重点实验室自主课题资助（hklz201903）",
+        "衡水学院生态学重点学科项目（2019003）",
+        "德国政府贷款河北衡水湖国家级自然保护区湿地保护与恢复项目湿地生态监测服务子项目"
+    ],
+    "专辑": "农业科技;基础科学",
+    "专题": "生物学",
+    "分类号": "Q958",
+    "页码": "71-73",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:15:36",
+    "论文唯一代码": "GSLK202303016"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "一种内加热式玻璃化学反应器",
+    "状态": "正常",
+    "发表期刊": "化学工程与装备",
+    "刊发时间": "2023-09-15",
+    "引用量": "0",
+    "下载量": "42",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张彦",
+            "author_addresses": [
+                "衡水学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "09",
+    "摘要": " 本文主要介绍一种内加热式有机化学反应杯,包括内杯体、外杯体和温度监控装置,内杯体放置在外杯体中,外杯体上安装有杯盖,杯盖的顶端还放置有导液斗,外杯体的内部焊接有螺旋状的循环冷却方管,循环冷却方管的进水口位于外杯体的一侧上方,且其进水口处安装有流量控制阀,外杯体的一侧还安装有温度监控装置;本发明的有机化学反应杯通过设置成双杯体结构以及其上的杯盖,可以避免剧烈反应时,玻璃杯体爆裂而导致的碎片以及液体外溅,损伤实验人员的情况出现,同时可以使冷却水循环通过循环冷却方管,并通过流量控制阀控制其流量,进而控制冷却水冷却内杯体内的反应液的速度以及冷却温度,并通过温度监控装置进行监控,安全性强,便于推广和使用。",
+    "关键词": [
+        "内加热",
+        "玻璃化学反应器"
+    ],
+    "基金资助": [
+        "河北省“三三三人才资助项目”A202001107"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "无机化工;有机化工",
+    "分类号": "TQ052",
+    "页码": "176-178",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:15:38",
+    "论文唯一代码": "FJHG202309063"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "茶文化视角下思政融入数学专业教育的研究与实践",
+    "状态": "正常",
+    "发表期刊": "福建茶叶",
+    "刊发时间": "2023-09-13",
+    "引用量": "3",
+    "下载量": "61",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘士琴",
+            "author_addresses": "衡水学院数学与计算机学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "闫帅领",
+            "author_addresses": "衡水学院数学与计算机学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "崔红芳",
+            "author_addresses": "衡水学院数学与计算机学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "孙朝云",
+            "author_addresses": "衡水学院数学与计算机学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "张军芳",
+            "author_addresses": "衡水学院数学与计算机学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "45 ",
+    "期(Issue)": "09",
+    "摘要": " 新时期背景下，课程思政作为思政工作的新理念，可以全方位培养学生与人才。课程思政目标强调教师在向学生讲解学科知识的同时，做好育人工作，帮助学生形成正确价值观。茶文化环境下思政与数学专业教育的融合，有利于改善传统数学专业教育现状，运用茶文化和思政精神时刻影响、激励学生，提升学生学习效果，促进学生全面发展。基于此，文章先分析茶文化起源与特征，根据数学专业教育的现状，以及数学专业教育对思政融入的误区，提出茶文化视角下思政融入数学专业教育的实践策略。",
+    "关键词": [
+        "茶文化",
+        "思政",
+        "数学专业教育",
+        "实践"
+    ],
+    "基金资助": [
+        "衡水学院2020-2021年教育教学改革研究与实践项目：思政融入数学专业教育的研究与实践（jg2020068）衡水学院2020-2021年教育教学改革研究与实践项目：“课程思政”融入网络仿真教学的研究与实践（jg2020066）"
+    ],
+    "专辑": "农业科技;工程科技Ⅰ辑;社会科学Ⅱ辑",
+    "专题": "一般服务业;高等教育",
+    "分类号": "TS971;G642",
+    "页码": "153-155",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:15:43",
+    "论文唯一代码": "FJCA202309055"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "媒体深度融合背景下县级融媒体中心建设的困境及对策分析",
+    "状态": "正常",
+    "发表期刊": "新闻研究导刊",
+    "刊发时间": "2023-09-10",
+    "引用量": "3",
+    "下载量": "397",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "陈娟",
+            "author_addresses": "衡水学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "袁思雨",
+            "author_addresses": "衡水学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "梁晓辉",
+            "author_addresses": "衡水学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "康秀平",
+            "author_addresses": "衡水学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "14 ",
+    "期(Issue)": "17",
+    "摘要": " “融媒体”概念自提出以来，在理论和实践方面取得了实质性的发展，而县级融媒体中心的发展出现瓶颈，进入从“量”向“质”飞跃的新阶段。县级融媒体中心是最直接联系基层群众的传播平台，必须重视并有效推进县级融媒体中心建设。文章采用文献研究法、案例分析法、总结归纳法等方法，结合具体案例分析与县级融媒体中心发展相关的政策、学术文献、新闻报道等，整体分为三个部分：首先，对目前已取得成效的县级融媒体中心进行分析，总结其在坚持移动优先、资源全面整合、发挥引导与服务作用、生产精品内容四个方面取得的成效；其次，从媒体融合、内容生产、体制机制、人才队伍四个方面剖析县级融媒体中心在建设过程中仍存在的问题；最后，对县级融媒体中心所面临的困境进行分析，并提出加强媒体融合、破除体制机制壁垒、坚持“内容为王”、强化人才队伍建设四个策略，旨在为县级融媒体中心的全面发展提供路径。",
+    "关键词": [
+        "县级融媒体中心",
+        "改革成效",
+        "困境",
+        "媒体融合",
+        "体制机制",
+        "人才建设"
+    ],
+    "基金资助": [
+        "2022年度河北省社会科学发展研究课题项目“媒体深度融合背景下河北县级融媒体中心发展路径与对策研究”成果,项目编号：20220202340"
+    ],
+    "专辑": "信息科技",
+    "专题": "新闻与传媒",
+    "分类号": "G206",
+    "页码": "8-10",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:15:50",
+    "论文唯一代码": "XWDK202317003"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "基于NB-IoT的火灾监测与预警系统设计",
+    "状态": "正常",
+    "发表期刊": "集成电路应用",
+    "刊发时间": "2023-09-10",
+    "引用量": "6",
+    "下载量": "349",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "侯晓云",
+            "author_addresses": [
+                "衡水学院电信学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王书堂",
+            "author_addresses": [
+                "智洋创新科技股份有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "40 ",
+    "期(Issue)": "09",
+    "摘要": " 阐述采用NB-IoT和传感检测技术设计火灾监测预警系统的方法，它通过温度、烟雾、水压等传感器采集现场信息，上传至云平台，并通过系统平台实现实时监测、远程控制执行终端的功能。",
+    "关键词": [
+        "计算机技术",
+        "NB-IoT",
+        "传感器",
+        "火灾监测",
+        "预警系统"
+    ],
+    "基金资助": [
+        "衡水市2021年科技计划项目(2021014012Z)"
+    ],
+    "专辑": "信息科技;工程科技Ⅰ辑",
+    "专题": "安全科学与灾害防治;自动化技术",
+    "分类号": "TP277;X932",
+    "页码": "383-385",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:15:54",
+    "论文唯一代码": "JCDL202309170"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "辅助场量子蒙特卡罗方法的Python实现及应用",
+    "状态": "正常",
+    "发表期刊": "河北师范大学学报(自然科学版)",
+    "刊发时间": "2023-09-10",
+    "引用量": "0",
+    "下载量": "99",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "朱春辉",
+            "author_addresses": [
+                "河北师范大学物理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "葛雯雯",
+            "author_addresses": [
+                "衡水学院电子信息工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李壮志",
+            "author_addresses": [
+                "河北师范大学物理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "47 ",
+    "期(Issue)": "05",
+    "摘要": " 辅助场量子蒙特卡罗方法是强关联电子体系常用的数值计算方法.使用Python语言，实现了单带Hubbard模型的辅助场量子蒙特卡罗数值计算的图形用户界面程序，并利用该程序计算了二维四方格子的基态能量.所实现的程序可以作为下一步开发的基础，解决其他强关联问题.",
+    "关键词": [
+        "量子蒙特卡罗方法",
+        "强关联系统",
+        "Python程序"
+    ],
+    "基金资助": [
+        "国家自然科学基金青年科学基金(11804381)",
+        "河北省高等学校科学技术研究项目(BJK2022039)",
+        "河北师范大学博士(后)科研启动基金(L2022B04)"
+    ],
+    "专辑": "基础科学;信息科技",
+    "专题": "物理学;计算机软件及计算机应用",
+    "分类号": "O469;TP312.1",
+    "页码": "470-474",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:16:00",
+    "论文唯一代码": "HBSZ202305006"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "衡水湖黄顶菊对丹参根腐病菌的抑制效应研究",
+    "状态": "正常",
+    "发表期刊": "现代农业科技",
+    "刊发时间": "2023-09-10",
+    "引用量": "2",
+    "下载量": "78",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "孟静静",
+            "author_addresses": "衡水学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "崔文宁",
+            "author_addresses": "衡水学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王茜",
+            "author_addresses": "衡水学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "郑博颖",
+            "author_addresses": "衡水学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "刘言",
+            "author_addresses": "衡水学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "17",
+    "摘要": " 本研究以衡水湖常见入侵菊科植物黄顶菊为试验材料，利用超声波细胞破碎法在不同乙醇浓度、不同料液比、不同提取时间、不同提取功率提取条件下制取黄顶菊提取液，然后对丹参根腐病菌进行抑菌试验，根据抑菌率确定最佳的提取条件。结果表明：最佳乙醇提取浓度为75%，最佳料液比为1∶10，最佳提取时间为100 min，最佳提取功率为30%。通过最大限度提取黄顶菊中有效抑菌成分，可为丹参根腐病病害的有效控制以及菊科外来入侵植物的防治开辟一条新途径，实现经济、有效、环保的生态防控。",
+    "关键词": [
+        "黄顶菊",
+        "提取液",
+        "丹参",
+        "根腐病",
+        "抑制效应"
+    ],
+    "基金资助": [
+        "2022年度“河北省湿地保护与绿色发展协同创新中心”专项课题(2022XJZX31,2022XJZX17)"
+    ],
+    "专辑": "农业科技",
+    "专题": "植物保护",
+    "分类号": "S435.67",
+    "页码": "104-106+112",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:16:03",
+    "论文唯一代码": "ANHE202317026"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "论连续性剪辑",
+    "状态": "正常",
+    "发表期刊": "金华职业技术学院学报",
+    "刊发时间": "2023-09-10",
+    "引用量": "0",
+    "下载量": "165",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "赵世佳",
+            "author_addresses": [
+                "衡水学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "23 ",
+    "期(Issue)": "05",
+    "摘要": " 随着电影的发明而产生的连续性剪辑是以保持现实的连续性幻觉为目的的一种剪辑系统。它以人的心理认知为基础，将带有时间重叠性质的并置式镜头组合融于具有时间顺序性的镜头组合之中，形成了较完美的连续性幻觉，进而形成一些符合人的心理认知的惯例系统，即轴线或180°关系线系统。但惯例系统最终被教条化，要全面理解连续性剪辑需在反惯例中寻求突破，即将巴赞的透明性剪辑理论及与之相关的段落镜头和景深镜头看作连续性剪辑的一种极端形式；一些反惯例的电影其实保持着叙事的连续性，这与交代镜头以及人具备非视域内情景表象的能力有关。因此，完整的连续性剪辑应该包含传统的惯例系统和在反惯例中突破这两方面。",
+    "关键词": [
+        "连续性剪辑",
+        "轴线惯例",
+        "心理认知",
+        "交代镜头"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学",
+    "专题": "戏剧电影与电视艺术",
+    "分类号": "J932",
+    "页码": "85-91",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:16:07",
+    "论文唯一代码": "JHZY202305015"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "乡村振兴战略下传统村落档案文化建设与开发",
+    "状态": "正常",
+    "发表期刊": "数字与缩微影像",
+    "刊发时间": "2023-09-08",
+    "引用量": "2",
+    "下载量": "280",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "陶丛",
+            "author_addresses": [
+                "衡水学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李进",
+            "author_addresses": [
+                "河北大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "03",
+    "摘要": " 本文结合档案文化建设的特点及价值，具体分析了我国传统村落的文化价值、文化资源的现状以及目前所存在的问题，阐释了档案部门对传统村落文化保护的必要性，并在此基础上提出了发展特色传统村落档案文化建设的具体措施。",
+    "关键词": [
+        "乡村振兴",
+        "传统村落",
+        "档案文化"
+    ],
+    "基金资助": [
+        "2022年“河北省文化艺术科学规划和旅游研究项目”C青年项目阶段性研究成果,项目编号：HB22-QN019"
+    ],
+    "专辑": "工程科技Ⅱ辑;信息科技;社会科学Ⅰ辑",
+    "专题": "政党及群众组织;档案及博物馆",
+    "分类号": "D422.6;G279.2",
+    "页码": "39-42",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:16:13",
+    "论文唯一代码": "SVJI202303014"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "分子荧光光度法测定黄芩中黄芩苷的含量",
+    "状态": "正常",
+    "发表期刊": "山东化工",
+    "刊发时间": "2023-09-08",
+    "引用量": "0",
+    "下载量": "259",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "周晓霞",
+            "author_addresses": [
+                "衡水学院化工学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "52 ",
+    "期(Issue)": "17",
+    "摘要": " 采用分子荧光光度法测定黄芩中黄芩苷的含量。结果表明，在硼砂浓度为0.020 moL·L<sup>-1</sup>,pH值为12.5,黄芩苷溶液的荧光强度较大。黄芩苷溶液在0.50～2.5μg·mL<sup>-1</sup>质量浓度范围内与其荧光强度呈现出良好的线性关系，线性方程为y=176.89+82.14x,R<sup>2</sup>=0.999 1。根据标准曲线计算得到黄芩药材中黄芩苷的含量。该方法具有选择性好、灵敏度高、操作简单的优点。",
+    "关键词": [
+        "分子荧光光度法",
+        "黄芩",
+        "黄芩苷"
+    ],
+    "基金资助": [
+        "衡水学院校级课题(2021ZR04)"
+    ],
+    "专辑": "工程科技Ⅰ辑;医药卫生科技",
+    "专题": "化学;中药学",
+    "分类号": "O657.3;R284.1",
+    "页码": "150-151+154",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:16:17",
+    "论文唯一代码": "SDHG202317043"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "芽苗菜的营养与功能成分及应用研究进展",
+    "状态": "正常",
+    "发表期刊": "中国瓜菜",
+    "刊发时间": "2023-09-05",
+    "引用量": "1",
+    "下载量": "550",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "朱会霞",
+            "author_addresses": [
+                "衡水学院生命科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "贾金霄",
+            "author_addresses": [
+                "衡水学院生命科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "孙金旭",
+            "author_addresses": [
+                "衡水学院生命科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张建辉",
+            "author_addresses": [
+                "河北增硕农业技术开发有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "36 ",
+    "期(Issue)": "09",
+    "摘要": " 芽苗菜是植物种子或其他养分储存器官萌发而成的植株幼苗，具有丰富的营养素和多种对人体有益的重要成分。综述了不同种类芽苗菜中酚类、黄酮类、γ-氨基丁酸、维生素、矿物质等重要成分的含量变化，并对影响芽苗菜富集多种重要生理活性成分的盐类环境、微量元素强化、光环境等因素进行分析。在此基础上对芽苗菜在食品加工、医疗保健等方面的应用价值进行了探讨和总结。芽苗菜作为一种不受季节影响、生长周期短且富含营养素和多种功能性成分的健康蔬菜，未来将有广阔的发展前景。",
+    "关键词": [
+        "芽苗菜",
+        "营养",
+        "功能性成分",
+        "食品",
+        "富集"
+    ],
+    "基金资助": [
+        "河北省果蔬发酵技术创新中心立项项目（SG2021129,2022XJZX60）"
+    ],
+    "专辑": "农业科技",
+    "专题": "园艺",
+    "分类号": "S649",
+    "页码": "1-6",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:16:22",
+    "论文唯一代码": "ZGXG202309001"
+}
+{
+    "学校id": "4113010101",
+    "学校": "衡水学院",
+    "论文类型": "期刊",
+    "论文题目": "新文科背景下传播学课程改革的实践探究",
+    "状态": "正常",
+    "发表期刊": "西部广播电视",
+    "刊发时间": "2023-09-05",
+    "引用量": "0",
+    "下载量": "38",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "陈娟",
+            "author_addresses": "衡水学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "许莹莹",
+            "author_addresses": "衡水学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "康秀平",
+            "author_addresses": "衡水学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "44 ",
+    "期(Issue)": "17",
+    "摘要": " 作为新文科中的应用型课程，传播学课程担负着培养时代新人的重要责任。新文科建设中，对传播学课程提出了实现跨学科融合、加强理论与实践并重的新改革要求。传播学课程要从课程理念、课程内容、课程教学方式、课程框架几方面进行全面、深层次的改革，打破课程壁垒，创新教学模式，为学生提供一个全新的传播学课程体系。",
+    "关键词": [
+        "新文科",
+        "课程思政",
+        "成果导向",
+        "科技创新"
+    ],
+    "基金资助": [
+        "衡水学院教改项目“新文科背景下基于项目驱动模式的《传播学》课程改革研究”（jg2021014）衡水学院教改项目“新文科背景下基于OBE理念的传播人才培养模式研究”（jg2021006）",
+        "河北省教改项目“新文科背景下基于OBE理念的传播人才培养模式研究”（2021GJJG537）"
+    ],
+    "专辑": "信息科技;社会科学Ⅱ辑",
+    "专题": "高等教育;新闻与传媒",
+    "分类号": "G206-4;G642.3",
+    "页码": "80-82",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:16:26",
+    "论文唯一代码": "XBGS202317027"
+}

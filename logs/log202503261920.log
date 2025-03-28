@@ -1,0 +1,9 @@
+2025-03-26 19:20:35,505 - make_task_list.py[line:51] - INFO: 任务是paper形
+2025-03-26 19:20:35,511 - make_task_list.py[line:51] - INFO: 任务是paper形
+2025-03-26 19:20:35,511 - crawl.py[line:81] - INFO: downloads\如何认识负利率政策及其影响文件夹已经建立
+2025-03-26 19:20:42,177 - crawl.py[line:195] - INFO: Click the search btn succeed
+2025-03-26 19:20:52,398 - crawl.py[line:230] - ERROR: 其他情况出错
+2025-03-26 19:20:56,438 - crawl.py[line:81] - INFO: downloads\数据生产要素的基础理论构建：新结构经济学视角文件夹已经建立
+2025-03-26 19:21:29,387 - crawl.py[line:123] - ERROR: 无法打开此网页，请检查是否网络出错或被封锁！
+2025-03-26 19:21:31,680 - crawl.py[line:81] - INFO: downloads\不同β受体阻滞剂对大鼠心肌间隙连接结构作用的对比研究文件夹已经建立
+2025-03-26 19:21:40,657 - crawl.py[line:201] - ERROR: 尝试次数超过设定次数，此次搜索作废，之后再议

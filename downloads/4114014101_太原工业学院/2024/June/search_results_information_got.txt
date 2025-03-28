@@ -1,0 +1,2372 @@
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "山西平定刻花瓷品牌建构研究",
+    "状态": "正常",
+    "发表期刊": "忻州师范学院学报",
+    "刊发时间": "2024-06-30",
+    "引用量": "0",
+    "下载量": "107",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "范琨",
+            "author_addresses": [
+                "山西传媒学院艺术设计学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "杨娜",
+            "author_addresses": [
+                "太原工业学院设计艺术系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "40 ",
+    "期(Issue)": "03",
+    "摘要": " 声名远播的平定刻花瓷是2010年上海世博会非遗表演项目，同时也是山西非物质文化遗产保护项目。平定刻花瓷在造型和设计上崇尚人本理念，产品功能与作用是品牌构建的主要参考因素。但是，在经济快速发展的当前形势下，传统艺术制作与推广受到了影响与冲击。本文主要从平定刻花瓷品牌建构中存在的问题入手，结合市场实际发展情况，提出平定刻花瓷品牌建构策略，希望给相关人员提供参考建议。",
+    "关键词": [
+        "山西",
+        "平定刻花瓷",
+        "品牌",
+        "建构"
+    ],
+    "基金资助": [
+        "山西传媒学院2022年度校级青年基金项目(XJ2022015)",
+        "山西省艺术科学规划课题(23BG078)"
+    ],
+    "专辑": "社会科学Ⅱ辑;工程科技Ⅰ辑;哲学与人文科学;经济与管理科学",
+    "专题": "无机化工;美术书法雕塑与摄影;工业经济;企业经济",
+    "分类号": "F426.71;J527;F273.2",
+    "页码": "101-105",
+    "页数": "5",
+    "爬取时间": "2025-03-26 08:49:49",
+    "论文唯一代码": "YZSF202403018"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "尤金·奥尼尔《奴役》中“家”的空间意象与女性困境探究",
+    "状态": "正常",
+    "发表期刊": "戏剧之家",
+    "刊发时间": "2024-06-30",
+    "引用量": "0",
+    "下载量": "111",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "苗萌",
+            "author_addresses": [
+                "太原工业学院外语部"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "18",
+    "摘要": " 在尤金·奥尼尔早期剧作《奴役》中，可以看到剧作家初期对“家”的空间意象的探索。在这部早期剧中，两位女性角色都面临着家庭危机，一位已经离家出走，一位也做好了离家的准备，虽然在剧尾二位主人公都重新归“家”，放弃了出走之路，但这一早期著作中仍可以看到“家”这个困住女性身体的空间与女性精神困境的关联。",
+    "关键词": [
+        "家",
+        "认知偏失",
+        "权威",
+        "妥协"
+    ],
+    "基金资助": [],
+    "专辑": "哲学与人文科学",
+    "专题": "世界文学",
+    "分类号": "I712.073",
+    "页码": "24-26",
+    "页数": "3",
+    "爬取时间": "2025-03-26 08:50:00",
+    "论文唯一代码": "XJZT202418008"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "NP-10改性煤泥处理乳液废水的研究",
+    "状态": "正常",
+    "发表期刊": "山西化工",
+    "刊发时间": "2024-06-30",
+    "引用量": "0",
+    "下载量": "47",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "陆英",
+            "author_addresses": [
+                "太原工业学院环境与安全工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王淑军",
+            "author_addresses": [
+                "炼焦煤智慧评价与高效利用山西省重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "刘振昊",
+            "author_addresses": [
+                "太原工业学院环境与安全工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张峰源",
+            "author_addresses": [
+                "太原工业学院环境与安全工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "李宇伟",
+            "author_addresses": [
+                "太原工业学院环境与安全工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "吉雅",
+            "author_addresses": [
+                "太原工业学院环境与安全工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "薛媛靖",
+            "author_addresses": [
+                "太原工业学院环境与安全工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "44 ",
+    "期(Issue)": "06",
+    "摘要": " 以非离子表面活性剂壬基酚聚氧乙烯醚NP-10对煤泥进行表面改性，利用改性煤泥吸附处理模拟矿井水乳化液。结果表明，煤泥经5×10<sup>-4</sup>mol/L的NP-10表面改性后，表面电负性下降，零电点由pH=3.41正移至pH=4.36。表面疏水性增强，与未改性煤泥相比，接触角增加了17°。煤泥与强电负性油滴的静电斥力减小，疏水引力增强，更有利于油滴吸附在煤泥表面，与未改性煤泥相比油去除率增加了26.19%。",
+    "关键词": [
+        "煤泥",
+        "NP-10",
+        "乳化液",
+        "吸附",
+        "表面电性",
+        "表面疏水性"
+    ],
+    "基金资助": [
+        "国家自然科学基金面上项目（22272098）",
+        "山西省重点研发计划项目（202102090301028）",
+        "山西省高等学校科技创新项目（2021L548）",
+        "2023年国家级大学生创新创业训练计划项目（202314101004）"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学;矿业工程;安全科学与灾害防治;环境科学与资源利用",
+    "分类号": "X703;TD74;O647.3",
+    "页码": "227-228+261",
+    "页数": "3",
+    "爬取时间": "2025-03-26 08:50:22",
+    "论文唯一代码": "SDHW202406069"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "高导热氮化硼/天然橡胶纳米复合材料的制备与性能",
+    "状态": "正常",
+    "发表期刊": "化工进展",
+    "刊发时间": "2024-06-28 15:23",
+    "引用量": "0",
+    "下载量": "488",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王林艳",
+            "author_addresses": "太原工业学院材料工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "周平德",
+            "author_addresses": "太原工业学院材料工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张一铎",
+            "author_addresses": "太原工业学院材料工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "刘钰溪",
+            "author_addresses": "太原工业学院材料工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "郝明正",
+            "author_addresses": "太原工业学院材料工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "梁玉蓉",
+            "author_addresses": "太原工业学院材料工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "liangyr7103@aliyun.com"
+        }
+    ],
+    "年份": "",
+    "卷(Volume)": "No record",
+    "期(Issue)": "No record",
+    "摘要": " 采用葡萄糖辅助球磨六方氮化硼（BN），通过B—O化学键将葡萄糖成功接枝在BN分子上，制备得到BN-OH纳米片。将不同含量的BN-OH纳米片与天然胶乳（NR）粒子通过胶乳共沉淀制备得到了均匀的隔离网络结构，在NR胶乳粒子周围蛋白质的辅助下BN-OH纳米片与NR分子链通过氢键等形成了物理交联。考察了BN-OH纳米片的含量对BN-OH/NR纳米复合材料的交联密度、机械性能、导热性能和气体阻隔性能等的影响。在一定范围内，随BN-OH纳米片填充量的增加，BN-OH/NR纳米复合材料的拉伸强度、定伸应力增加，储能模量上升，损耗因子下降，表明了BN-OH纳米片良好的补强作用和强两相界面结合作用力。BN-OH纳米片良好的分散，形成的隔离网络结构，以及蛋白质辅助物理交联所形成的强有力的界面相互作用，阻隔了气体分子的扩散，同时热量沿搭接在一起的BN-OH纳米片释放出去，致使BN-OH/NR复合材料良好的导热性能和气体阻隔性能。20% BN-OH/NR纳米复合材料的导热系数为0.319 W/(m·K)，为导热材料，较纯NR的导热系数提升了94%。而不同含量的BN-OH/NR纳米复合材料的体积电阻率仍远高于绝缘临界电阻率的标准，即本文制备的绝缘、高机械性能、高导热和良好密封性能的橡胶复合材料有望应用于电子元器件、电池、汽车等领域的热界面材料。",
+    "关键词": [
+        "复合材料",
+        "纳米结构",
+        "导热性能",
+        "气体阻隔性能",
+        "氮化硼",
+        "天然橡胶"
+    ],
+    "基金资助": [
+        "国家自然科学基金青年基金项目（52103060）",
+        "太原工业学院引进人才科研资助项目（2023KJ018）",
+        "太原工业学院第五届青年学科带头人资助项目"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "材料科学",
+    "分类号": "TB332",
+    "页码": "",
+    "页数": "13",
+    "爬取时间": "2025-03-26 08:50:45",
+    "论文唯一代码": "HGJZ20240625003"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "CeO2-Ps-LaCoO3/Al2O3的制备及其对高浓度有机废水的臭氧催化降解研究",
+    "状态": "正常",
+    "发表期刊": "现代化工",
+    "刊发时间": "2024-06-26 10:42",
+    "引用量": "0",
+    "下载量": "314",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "朱开金",
+            "author_addresses": [
+                "太原工业学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "zkj621104@163.com"
+        },
+        {
+            "author_order": 2,
+            "author_name": "冯中营",
+            "author_addresses": [
+                "太原工业学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "韩强",
+            "author_addresses": [
+                "大同市冠森纸业有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "谭俊华",
+            "author_addresses": [
+                "太原工业学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "吴佳娜",
+            "author_addresses": [
+                "太原工业学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "44 ",
+    "期(Issue)": "08",
+    "摘要": " 为有效降解高浓度造纸废水有机物，通过电化学沉积法分别在磷酸盐中性缓冲溶液和纯水中制得CeO<sub>2</sub>-Ps-LaCoO<sub>3</sub>/Al<sub>2</sub>O<sub>3</sub>和CeO<sub>2</sub>-LaCoO<sub>3</sub>/Al<sub>2</sub>O<sub>3</sub>。通过对CeO<sub>2</sub>-Ps-LaCoO<sub>3</sub>/Al<sub>2</sub>O<sub>3</sub>、CeO<sub>2</sub>-LaCoO<sub>3</sub>/Al<sub>2</sub>O<sub>3</sub>以及LaCoO<sub>3</sub>/Al<sub>2</sub>O<sub>3</sub>进行XRD、SEM、析氧过电位和电阻抗等物性表征发现，CeO<sub>2</sub>-Ps-LaCoO<sub>3</sub>/Al<sub>2</sub>O<sub>3</sub>具有更强催化氧化性及稳定性。对高浓度造纸废水臭氧催化氧化降解3 h后，CeO<sub>2</sub>-Ps-LaCoO<sub>3</sub>/Al<sub>2</sub>O<sub>3</sub>对废水COD的降解率为76.5%,而相同条件下CeO<sub>2</sub>-LaCoO<sub>3</sub>/Al<sub>2</sub>O<sub>3</sub>和LaCoO<sub>3</sub>/Al<sub>2</sub>O<sub>3</sub>的化学需氧量（COD）降解率分别为68.5%和63.5%。",
+    "关键词": [
+        "CeO2-Ps-LaCoO3/Al2O3",
+        "CeO2辅助催化",
+        "磷酸盐缓冲溶液",
+        "电化学制取",
+        "臭氧催化氧化"
+    ],
+    "基金资助": [
+        "山西省专利转化专项计划项目(202306010)",
+        "大同市重点研发计划项目(2023002)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学;环境科学与资源利用",
+    "分类号": "O643.36;X703",
+    "页码": "140-145+151",
+    "页数": "7",
+    "爬取时间": "2025-03-26 08:50:56",
+    "论文唯一代码": "XDHG202408026"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "习近平“三个务必”思想的政治激励功能",
+    "状态": "正常",
+    "发表期刊": "中国冶金教育",
+    "刊发时间": "2024-06-26",
+    "引用量": "0",
+    "下载量": "154",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘非",
+            "author_addresses": [
+                "太原工业学院思政部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "肖慧",
+            "author_addresses": [
+                "山西机电职业技术学院党委办公室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "03",
+    "摘要": " 以激励与政治激励概念为基点，分析了习近平“三个务必”思想的政治激励功能，阐释了“三个务必”思想政治激励功能的时代意蕴，对这一思想在新阶段新征程的发展进行了论述。",
+    "关键词": [
+        "三个务必",
+        "政治激励",
+        "价值取向"
+    ],
+    "基金资助": [
+        "2023年山西省高等学校哲学社会科学(思政专项)一般项目(2023ZSSZSX095)"
+    ],
+    "专辑": "社会科学Ⅱ辑;工程科技Ⅰ辑;社会科学Ⅰ辑",
+    "专题": "中国共产党",
+    "分类号": "D261",
+    "页码": "96-99",
+    "页数": "4",
+    "爬取时间": "2025-03-26 08:51:07",
+    "论文唯一代码": "GYJJ202403025"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "传统体育养生课程思政加强中华优秀传统文化教育的路径研究",
+    "状态": "正常",
+    "发表期刊": "武术研究",
+    "刊发时间": "2024-06-26",
+    "引用量": "0",
+    "下载量": "226",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张晨昕",
+            "author_addresses": [
+                "太原学院公共体育教学部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王月宝",
+            "author_addresses": [
+                "河北师范大学纪委"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李梦桐",
+            "author_addresses": [
+                "太原工业学院体育系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "9 ",
+    "期(Issue)": "06",
+    "摘要": " 新时代课程思政建设是推进高校中华优秀传统文化教育立德树人的教育行动。在课程思政背景下，如何实现中华优秀传统文化与传统养生体育课程的深度融合，成为传统养生体育课程建设与教学改革面临的重大课题。研究认为，当前课程内容编排碎片化，育人主题零散糅杂；课程教学形态分化，教学范式创新滞后是二者进一步融合发展瓶颈的实然表征。为此，文章提出明确教育内涵定位，构建结构化课程内容体系；强化育人整合融通，推进教学范式转型的路径。",
+    "关键词": [
+        "中华优秀传统文化",
+        "传统养生体育课程",
+        "课程思政",
+        "融合路径"
+    ],
+    "基金资助": [
+        "山西省高等学校教学改革创新项目，体育康养复合型人才培养模式研究，编号：J20221113"
+    ],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学",
+    "专题": "文化;体育",
+    "分类号": "G122;G807.4",
+    "页码": "82-86",
+    "页数": "5",
+    "爬取时间": "2025-03-26 08:51:13",
+    "论文唯一代码": "WSKX202406017"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "基于Python的单摆非线性动力学研究",
+    "状态": "正常",
+    "发表期刊": "大学物理实验",
+    "刊发时间": "2024-06-26",
+    "引用量": "0",
+    "下载量": "223",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "韦仙",
+            "author_addresses": "太原工业学院理学系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "杨陈露",
+            "author_addresses": "太原工业学院理学系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "尚敏婕",
+            "author_addresses": "太原工业学院理学系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王昕萌",
+            "author_addresses": "太原工业学院理学系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "吴彦霞",
+            "author_addresses": "太原工业学院理学系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "37 ",
+    "期(Issue)": "03",
+    "摘要": " 利用拉格朗日方程求解单摆的非线性动力学问题，并结合Python进行数值模拟，研究阻尼因素和扭矩驱动对单摆运动影响，模拟结果展示了单摆运动过程中摆角和角速度随时间的变化、相轨迹的演化，以及单摆在强驱动下出现的混沌现象。",
+    "关键词": [
+        "单摆系统",
+        "Python",
+        "相轨迹",
+        "混沌"
+    ],
+    "基金资助": [
+        "山西省基础研究计划青年科学研究项目(20210302124264)",
+        "山西省高等学校一般性教学改革创新项目(J20231319)",
+        "山西省高校科技创新项目(2021L540)"
+    ],
+    "专辑": "基础科学",
+    "专题": "力学",
+    "分类号": "O31",
+    "页码": "99-105",
+    "页数": "7",
+    "爬取时间": "2025-03-26 08:51:20",
+    "论文唯一代码": "DWSL202403019"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "以“自己”为方法：中国武术在构建世界体育格局中的现实审释与纾解之策",
+    "状态": "正常",
+    "发表期刊": "武术研究",
+    "刊发时间": "2024-06-25",
+    "引用量": "0",
+    "下载量": "98",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "范东方",
+            "author_addresses": [
+                "嵩山少林武术职业学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "田文波",
+            "author_addresses": [
+                "太原工业学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张峻玮",
+            "author_addresses": [
+                "河南大学武术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "9 ",
+    "期(Issue)": "06",
+    "摘要": " 中国武术长期以西方体育制度解释中国武术发展的现实问题，以推动中国武术走出西方体育制度体系框架，建立自身话语体系，文章运用文献资料法和逻辑分析法，对中国武术以“自己”为方法进行深入分析。研究认为，中国武术以“自己”为方法的现实审释主要在于中国体育话语的世界崛起、西方体育意识形态的异化、中国传统武术人文意蕴的优势。中国武术要实现以“自己”为方法就必须有序推进中国武术意识领域制高点，利用西方体育的破窗效应变破局为新局，不断细化中国传统武术的学科理论根基，创新以中国传统武术为场域的体育话语权。只有这样，才能真正实现中国武术的自身发展，实现中国武术的“中国意义”与“中国价值”。",
+    "关键词": [
+        "以“自己”为方法",
+        "中国武术",
+        "世界格局",
+        "国际体育"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G852",
+    "页码": "37-40",
+    "页数": "4",
+    "爬取时间": "2025-03-26 08:51:28",
+    "论文唯一代码": "WSKX202406033"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "山西民俗剪纸的图像叙事及创新传播",
+    "状态": "正常",
+    "发表期刊": "造纸信息",
+    "刊发时间": "2024-06-25",
+    "引用量": "0",
+    "下载量": "175",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张哲",
+            "author_addresses": [
+                "海南大学国际传播与艺术学院",
+                "太原工业学院设计艺术系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "韩泽萍",
+            "author_addresses": [
+                "太原工业学院设计艺术系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "06",
+    "摘要": " 山西民俗剪纸承载着黄河流域的传统风俗与文化，其价值不仅体现在技艺、形式与美学上，也体现在对民间故事的图像化叙事中。山西民俗剪纸的叙事性在地域文化的影响下表现得较为突出，主要的叙事材料包括理想生活叙事、吉庆叙事、故事转述以及神话传说等。文章通过对山西民俗剪纸的图像叙事材料进行深入分析与梳理，以期推动山西民俗剪纸的创新与传播。",
+    "关键词": [
+        "民俗剪纸",
+        "图像叙事",
+        "创新传播",
+        "文化内涵"
+    ],
+    "基金资助": [
+        "山西省社会科学界联合会重点课题（项目编号：SSKLZDKT2022123）",
+        "山西省社会科学院2022年度规划课题（院外）（项目编号：YWQN202226）",
+        "太原工业学院2023年省级大学生创新创业训练项目（项目编号：S202314101240）",
+        "山西省高等学校教学改革创新项目（项目编号：J20221115）",
+        "山西省教育科学“十四五”规划课题（项目编号：GH-220007）"
+    ],
+    "专辑": "工程科技Ⅰ辑;经济与管理科学",
+    "专题": "轻工业手工业",
+    "分类号": "TS938.2",
+    "页码": "126-128",
+    "页数": "3",
+    "爬取时间": "2025-03-26 08:51:35",
+    "论文唯一代码": "ZZXX202406019"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "高校涉税风险管理及个税筹划策略探讨",
+    "状态": "正常",
+    "发表期刊": "中国农业会计",
+    "刊发时间": "2024-06-25",
+    "引用量": "1",
+    "下载量": "80",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "许薇",
+            "author_addresses": [
+                "太原工业学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "34 ",
+    "期(Issue)": "12",
+    "摘要": " 本文主要探讨高校涉税风险管理和个税筹划的重要性及其策略。强调高校涉税风险管理的三大要点：确保合规性、保障财务稳健、维护信誉。分析高校个税筹划的重要性，包括优化教职工收入、吸引人才、减轻财务负担等方面。在实际操作层面，提出具体的风险管理策略，如税务培训、内部审计与监控、与专业机构合作，以及个税筹划策略，如灵活运用税收优惠政策、做好个人所得税规划、应用信息化管理工具。",
+    "关键词": [
+        "高校",
+        "涉税风险",
+        "个税筹划"
+    ],
+    "基金资助": [],
+    "专辑": "经济与管理科学;农业科技;社会科学Ⅱ辑",
+    "专题": "高等教育;财政与税收;会计",
+    "分类号": "F812.42;G647.5",
+    "页码": "93-95",
+    "页数": "3",
+    "爬取时间": "2025-03-26 08:51:43",
+    "论文唯一代码": "ZNKJ202412031"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "基于STM32的智能衣柜设计",
+    "状态": "正常",
+    "发表期刊": "智能城市",
+    "刊发时间": "2024-06-25",
+    "引用量": "0",
+    "下载量": "1539",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "赫英凤",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "庞亚男",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王文俊",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "10 ",
+    "期(Issue)": "06",
+    "摘要": " 为了满足消费者对智能家居的需求，设计一款具有多种交互模式的智能衣柜系统。该智能衣柜系统采用STM32作为主控芯片，具有交互屏幕功能，支持语音交互、手机App远程操作多种人机交互控制模式，可监测衣柜内部的温度、湿度和有害气体浓度。当温度、湿度和有害气体浓度超过设定值时，系统可以通过执行部件进行通风换气等实现衣柜环境条件的调节。系统的多交互场景还可通过语音、触控屏幕及手机App快速找到需要的衣物，并根据天气情况或设定场合进行穿搭推荐。",
+    "关键词": [
+        "STM32",
+        "智能衣柜",
+        "智能家居",
+        "智能交互"
+    ],
+    "基金资助": [
+        "山西省高等学校大学生创新创业训练计划项目（S202314101231）",
+        "太原工业学院教学改革创新项目（2019YJ22697）"
+    ],
+    "专辑": "工程科技Ⅱ辑;信息科技;工程科技Ⅰ辑",
+    "专题": "轻工业手工业;计算机硬件技术",
+    "分类号": "TS664.01;TP368.1",
+    "页码": "8-10",
+    "页数": "3",
+    "爬取时间": "2025-03-26 08:51:52",
+    "论文唯一代码": "ZNCS202406003"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "文博短剧节目《国宝很有戏》的叙事表达、符号应用与多维传播",
+    "状态": "正常",
+    "发表期刊": "传媒",
+    "刊发时间": "2024-06-25",
+    "引用量": "0",
+    "下载量": "439",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "澹台嘉孜",
+            "author_addresses": [
+                "太原工业学院设计艺术系"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "12",
+    "摘要": " &lt;正&gt;历史文物是一个国家悠久历史文化沉淀的表现，具有较高的审美艺术价值和文化传承价值。近年来，随着新媒体传播技术的不断发展，历史文物的传承方式也发生了较大变化。以《如果国宝会说话》《国家宝藏》《国宝很有戏》等为代表的一大批历史文化传承类节目充分借助微博、抖音等社交媒体进行精准化传播，既满足了受众对历史文物的审美需求，又通过活泼新颖的表达方式传承了历史文化，传播效果显著。《国宝很有戏》是2020年由意外艺术与湖北省博物馆、",
+    "关键词": [],
+    "基金资助": [],
+    "专辑": "信息科技",
+    "专题": "新闻与传媒",
+    "分类号": "G222",
+    "页码": "69-71",
+    "页数": "3",
+    "爬取时间": "2025-03-26 08:51:56",
+    "论文唯一代码": "CMEI202412024"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "光催化固氮催化剂性能提升策略分析",
+    "状态": "正常",
+    "发表期刊": "化学进展",
+    "刊发时间": "2024-06-24",
+    "引用量": "0",
+    "下载量": "226",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "郭丽君",
+            "author_addresses": [
+                "太原工业学院化学与化工系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "tyguolijun@163.com"
+        },
+        {
+            "author_order": 2,
+            "author_name": "杨红",
+            "author_addresses": [
+                "太原工业学院化学与化工系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "邵圣娟",
+            "author_addresses": [
+                "太原工业学院化学与化工系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "刘音圻",
+            "author_addresses": [
+                "太原工业学院化学与化工系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "刘建新",
+            "author_addresses": [
+                "太原理工大学化学工程与技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "liujx0519@163.com"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "36 ",
+    "期(Issue)": "06",
+    "摘要": " 光催化固氮以太阳能作驱动力，常温常压下利用N<sub>2</sub>和H<sub>2</sub>O直接产生NH<sub>3</sub>，工艺零碳排放，是极具前景的人工固氮方式之一，近年来受到研究者们的广泛关注。受限于N<sub>2</sub>难活化、光生载流子利用率低及太阳光利用率低等因素制约，产氨效率依然不高，因此提升产氨效率是光催化固氮领域的研究重点。从N<sub>2</sub>吸附活化、载流子分离与迁移、表面反应三个重要过程出发，通过对催化剂进行合理改性，在温和条件下促进N<sub>2</sub>的活化和转化，并高效产生NH<sub>3</sub>是极具前景的。因此本文主要从光催化剂改性方面进行研究，从N<sub>2</sub>分子吸附和活化能力、光生电子的转移能力和光利用等性能提升方面对产氨效率的影响进行概述，对近几年在此方面的研究进行分析，最后对光催化固氮催化剂的改性策略进行总结。",
+    "关键词": [
+        "光催化固氮",
+        "光催化剂",
+        "活性位点",
+        "光生电子转移能力",
+        "形貌调控"
+    ],
+    "基金资助": [
+        "国家自然科学基金（No.21978187）",
+        "山西省基础研究计划资助项目（No.202203021221058）",
+        "山西省高等学校科技创新计划项目（No.2022L535）",
+        "太原工业学院引进人才科研资助项目（No.2024KJ013）资助~~"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学;无机化工",
+    "分类号": "O643.36;O644.1;TQ113",
+    "页码": "939-948",
+    "页数": "10",
+    "爬取时间": "2025-03-26 08:52:10",
+    "论文唯一代码": "HXJZ202406011"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "具身视角下太原钟楼街旅游体验质量研究",
+    "状态": "正常",
+    "发表期刊": "西部旅游",
+    "刊发时间": "2024-06-23",
+    "引用量": "0",
+    "下载量": "328",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "霍玲",
+            "author_addresses": [
+                "太原工业学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "12",
+    "摘要": " 文章基于具身理论，以山西太原钟楼街为例，对旅游休闲街区的旅游体验质量进行探究，选取身体体验、街区特征、街区接待、环境氛围、文化氛围5个要素，构建旅游休闲街区旅游体验质量指标体系，结果表明游客对钟楼街旅游体验的整体期望值较高而实际体验不佳，对此提出太原钟楼街旅游体验质量提升策略。",
+    "关键词": [
+        "具身视角",
+        "旅游体验质量",
+        "IPA分析法",
+        "钟楼街"
+    ],
+    "基金资助": [],
+    "专辑": "经济与管理科学",
+    "专题": "旅游",
+    "分类号": "F592.7",
+    "页码": "52-56",
+    "页数": "5",
+    "爬取时间": "2025-03-26 08:52:19",
+    "论文唯一代码": "XBYL202412017"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "实践民俗学视野下艺术乡建中的民俗传统",
+    "状态": "正常",
+    "发表期刊": "纺织报告",
+    "刊发时间": "2024-06-20",
+    "引用量": "0",
+    "下载量": "68",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "霍雯",
+            "author_addresses": [
+                "太原工业学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "06",
+    "摘要": " “回归生活实践”是中国民俗学界的重要议题。随着乡村振兴战略的推动和艺术学学科的社会转向，大批艺术乡建项目落户乡村，民俗传统成为其艺术乡建的主要方法和途径。因此，以实践民俗学的视角进行艺术乡建研究，强调“行动”在“实践”中的作用势在必行。文章基于民俗传统在不同艺术乡建村落中的具体应用，探讨实践民俗学视野下艺术乡建过程中民俗传统的社会功能。",
+    "关键词": [
+        "艺术乡建",
+        "民俗传统",
+        "实践民俗学"
+    ],
+    "基金资助": [
+        "2024年度山西省哲学社会科学专项课题“山西省艺术乡建发展与设计实践研究”（2024WZ035）的研究成果"
+    ],
+    "专辑": "工程科技Ⅰ辑;哲学与人文科学;经济与管理科学",
+    "专题": "文艺理论;文化;文化经济",
+    "分类号": "K892;J124",
+    "页码": "130-132",
+    "页数": "3",
+    "爬取时间": "2025-03-26 08:52:25",
+    "论文唯一代码": "JSFA202406041"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "基于低重心学习策略的大学生党员教育管理信息化平台运用研究——以太原工业学院计算机工程系学生党员教育管理为例",
+    "状态": "正常",
+    "发表期刊": "数字通信世界",
+    "刊发时间": "2024-06-20",
+    "引用量": "0",
+    "下载量": "115",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "范健",
+            "author_addresses": "太原工业学院计算机工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "武永勤",
+            "author_addresses": "太原工业学院计算机工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "06",
+    "摘要": " 新时期推进党建创新和信息化发展，架起大学生党员教育管理工作新支点，既是党的先进性的具体体现，也是增强高校基层党支部战斗堡垒作用、发挥大学生党员先锋模范作用的重要手段。基于低重心学习策略，如何充分利用信息化平台高效完成大学生党员教育管理工作，是高校党支部建设工作的重要课题。",
+    "关键词": [
+        "低重心学习",
+        "信息化",
+        "教育管理"
+    ],
+    "基金资助": [
+        "2022年太原工业学院党委组织部党建信息化工作室项目“高校基层党组织党建信息化研究。”"
+    ],
+    "专辑": "信息科技;社会科学Ⅰ辑;社会科学Ⅱ辑",
+    "专题": "中国共产党;高等教育",
+    "分类号": "G647;D267.6",
+    "页码": "161-163",
+    "页数": "3",
+    "爬取时间": "2025-03-26 08:52:35",
+    "论文唯一代码": "SZTJ202406046"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "pH响应型磁性纳米复合材料的合成及其载药性能",
+    "状态": "正常",
+    "发表期刊": "应用化学",
+    "刊发时间": "2024-06-20",
+    "引用量": "0",
+    "下载量": "159",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王灵晓",
+            "author_addresses": [
+                "太原工业学院化学化工系",
+                "山西医科大学基础医学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "高杉",
+            "author_addresses": [
+                "山西医科大学基础医学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "韦皖豫",
+            "author_addresses": [
+                "山西医科大学基础医学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "李宁波",
+            "author_addresses": [
+                "山西医科大学基础医学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "ningboli@sxmu.edu.cn"
+        },
+        {
+            "author_order": 5,
+            "author_name": "乔洁",
+            "author_addresses": [
+                "山西医科大学基础医学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "qiaojie@sxmu.edu.cn"
+        },
+        {
+            "author_order": 6,
+            "author_name": "董川",
+            "author_addresses": [
+                "山西大学环境科学研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "41 ",
+    "期(Issue)": "06",
+    "摘要": " 采用改进的St?ber法制备了介孔硅包覆的磁性纳米材料，然后通过枝接的方法对材料表面进行了氨基化处理（NH<sub>2</sub>-MMNPs）。利用安全无毒的氧化普鲁兰作为门控材料，通过纳米材料表面的氨基与氧化普鲁兰的醛基之间形成的对酸敏感的亚胺键构建门控开关，并将负载的盐酸阿霉素封装，形成了智能给药系统（o MMNPs/DOX）。通过透射电子显微镜（SEM）、傅里叶变换红外光谱仪（FT-IR）、比表面积测试仪、X射线衍射仪（XRD）和振动样品磁强仪等技术手段对复合材料的结构、性能和形貌进行了表征。结果显示，复合材料具有良好的形貌、单分散性以及超顺磁性。载药和释药实验表明，NH<sub>2</sub>-MMNPs对阿霉素的载药率为51.65%;o MMNPs/DOX在药物释放过程中表现出p H响应性和药物缓释性。细胞毒性和荧光成像实验结果显示，复合材料具有良好的生物兼容性，能够成功地载药并被细胞摄取。",
+    "关键词": [
+        "氧化普鲁兰",
+        "磁性纳米粒子",
+        "介孔硅",
+        "pH响应",
+        "阿霉素"
+    ],
+    "基金资助": [
+        "太原工业学院青年基金（No.2020LG02）",
+        "山西省省筹资金资助回国留学人员科研项目（No.2021-077）",
+        "山西省自然科学基金（No.202203021211240）资助~~"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "有机化工;材料科学",
+    "分类号": "TB383.1;TQ460.4",
+    "页码": "861-869",
+    "页数": "9",
+    "爬取时间": "2025-03-26 08:52:49",
+    "论文唯一代码": "YYHX202406008"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "习近平文化思想融入高校思政课教学的理与路",
+    "状态": "正常",
+    "发表期刊": "思想政治教育研究",
+    "刊发时间": "2024-06-20",
+    "引用量": "0",
+    "下载量": "1801",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘伟",
+            "author_addresses": [
+                "太原工业学院思政部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张健彪",
+            "author_addresses": [
+                "山西大学马克思主义学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "40 ",
+    "期(Issue)": "03",
+    "摘要": " 习近平文化思想是新时代党领导文化建设理论与实践的集成升华，是构成高校思政课教学的新内容。将习近平文化思想融入高校思政课和课堂教学，是落实立德树人根本任务的内在要求，是推进高校思政课教学创新的重要抓手，是开创新时代宣传思想文化工作的应有之举。高校思政课教学过程中应重点阐明习近平文化思想蕴含的立场观点方法，从系统性、原创性和实践性三个维度搭建起融入的逻辑框架，通过坚持整体布局、夯实理论功底、紧贴课程特征，来实现讲深讲透讲活习近平文化思想的理论高度和实践意义。",
+    "关键词": [
+        "习近平文化思想",
+        "高校思政课",
+        "有效融入"
+    ],
+    "基金资助": [
+        "山西省高等学校教学改革创新(思想政治理论课)一般项目“高校新进思想政治理论课教师教学能力提升研究”(2023JGSZ005)",
+        "太原工业学院引进人才科研资助项目(2024KJ003)"
+    ],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学",
+    "专题": "文化;高等教育",
+    "分类号": "G641;G120",
+    "页码": "101-106",
+    "页数": "6",
+    "爬取时间": "2025-03-26 08:52:57",
+    "论文唯一代码": "YJSX202403015"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "大学班级管理中培养学生自主管理能力策略研究",
+    "状态": "正常",
+    "发表期刊": "国家通用语言文字教学与研究",
+    "刊发时间": "2024-06-20",
+    "引用量": "0",
+    "下载量": "107",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李腾",
+            "author_addresses": [
+                "太原工业学院化学与化工系"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "06",
+    "摘要": " 要：自我管理能力是一个人生存和发展的基本能力。培养学生的自主管理能力能够帮助学生提升自主学习认知，增强他们的团结意识和团结协作能力，进而帮助学生更好地适应大学生活，为其未来的职业发展和社会生活奠定坚实的基础。因而探究大学班级管理中培养学生自主管理能力策略，对于提升班级管理效果、促进学生成长具有重要意义。对此，文章通过分析自主管理能力的内涵，在此基础上探究大学班级管理中培养学生自主管理能力策略，以期为提高大学班级管理的效率和质量。",
+    "关键词": [
+        "大学生",
+        "班级管理",
+        "自主管理能力"
+    ],
+    "基金资助": [
+        "山西省高等学校哲学社会研究项目：社会主义核心价值观引领应用型大学校园文化建设提升路径研究——以山西省为例（项目编号：2022zsszsx103）"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "高等教育",
+    "分类号": "G645.1",
+    "页码": "7-9",
+    "页数": "3",
+    "爬取时间": "2025-03-26 08:53:05",
+    "论文唯一代码": "GJTY202406003"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "人力资本贬值预期与家庭消费",
+    "状态": "正常",
+    "发表期刊": "消费经济",
+    "刊发时间": "2024-06-19 18:28",
+    "引用量": "0",
+    "下载量": "565",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "徐巧玲",
+            "author_addresses": [
+                "太原工业学院经济与管理系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王玥",
+            "author_addresses": [
+                "华中科技大学管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "40 ",
+    "期(Issue)": "05",
+    "摘要": " 本文基于2016年中国劳动力动态调查数据（CLDS）和美国职业信息系统（O*NET）数据，实证检验了人力资本贬值预期对家庭消费的影响，结果显示：（1）人力资本贬值预期降低了家庭消费支出。（2）人力资本贬值预期改变了家庭消费结构，极大降低了家庭文化教育和旅游消费，不利于消费升级和人力资本积累。（3）人力资本贬值预期对中等和低等收入群体及消费群体的抑制效应显著，对高收入和高消费家庭的抑制效应不显著，人力资本贬值预期加剧了消费不平等。（4）人力资本贬值预期降低了城乡劳动者的消费水平，且对农村家庭和未参加城镇职工保险的家庭影响更大。（5）人力资本贬值预期通过增加预防性储蓄动机，非充分就业和过度劳动降低家庭消费意愿、消费能力和消费时间，从而降低家庭消费。基于以上结论，本文从降低人力资本贬值和稳定预期两个视角提出促进消费的相关对策建议。",
+    "关键词": [
+        "人力资本贬值预期",
+        "预防性储蓄动机",
+        "充分就业",
+        "过度劳动",
+        "消费"
+    ],
+    "基金资助": [
+        "国家自然科学基金青年项目（72104189）",
+        "太原工业学院引进人才科研资助项目（2023KJ047）"
+    ],
+    "专辑": "经济与管理科学;社会科学Ⅱ辑",
+    "专题": "社会学及统计学;人才学与劳动科学;宏观经济管理与可持续发展;经济体制改革",
+    "分类号": "F249.1;C913.11;F113",
+    "页码": "52-65",
+    "页数": "14",
+    "爬取时间": "2025-03-26 08:53:20",
+    "论文唯一代码": "XFJY202405005"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "远程环境感知平台的设计与实现",
+    "状态": "正常",
+    "发表期刊": "山西大同大学学报(自然科学版)",
+    "刊发时间": "2024-06-18",
+    "引用量": "0",
+    "下载量": "40",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "翟丽红",
+            "author_addresses": "太原工业学院电子工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王怀彤",
+            "author_addresses": "太原工业学院电子工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王钦功",
+            "author_addresses": "太原工业学院电子工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "赵亚梅",
+            "author_addresses": "太原工业学院电子工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "40 ",
+    "期(Issue)": "03",
+    "摘要": " 为实现对未知区域的地形、温湿度、气体浓度等进行环境数据的探测和采集，并将区域的图像信息回传，设计了一款基于自主探索及导航定位技术的远程环境感知平台。在Jetson NX硬件平台，建图导航技术将ROS系统下的Gmapping算法与RRT-Exploration算法相结合，前者对周围环境进行建图，后者生成探索路径，从而实现快速的自主探索建图。采用TEB算法完成平台的远程自主导航，使用激光雷达和双目视觉导航辅助等实现远程环境数据的探测和回传。数据显示，在模拟测试场景大小为50 m2的不规则场地，平台可以在20 s内有效建图并进行自主导航，实现对该场地数据的监测与图像信息回传。通过仿真和实测结果表明，设计的远程环境感知平台可以完成自主探索及远程数据的探测和回传，速度快、精确度高。",
+    "关键词": [
+        "Gmapping算法",
+        "RRT-Exploration算法",
+        "建图",
+        "导航定位"
+    ],
+    "基金资助": [
+        "山西省高等学校科技创新项目[2020L0671]",
+        "太原工业学院院级教改项目[JG202107]",
+        "大学生创新创业项目[S202314101162]、[S202314101181]"
+    ],
+    "专辑": "社会科学Ⅱ辑;信息科技",
+    "专题": "自动化技术",
+    "分类号": "TP242",
+    "页码": "50-54",
+    "页数": "5",
+    "爬取时间": "2025-03-26 08:53:28",
+    "论文唯一代码": "YBSF202403010"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "茶文化背景下的体育旅游产业发展研究",
+    "状态": "正常",
+    "发表期刊": "福建茶叶",
+    "刊发时间": "2024-06-17",
+    "引用量": "0",
+    "下载量": "121",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "赵赟",
+            "author_addresses": [
+                "太原工业学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "46 ",
+    "期(Issue)": "06",
+    "摘要": " 茶文化是我国古老的文化经典，新时期广大社会公众的体育旅游需求正与日俱增，其不仅追求养生和健康方面的支持和服务，还对体育旅游产业的特色化发展提出了新要求，因此在茶文化视域下融合体育旅游产业发展具有重要现实意义。为此，文章采用文献资料法、逻辑分析法等研究方法，对茶文化背景下的体育旅游产业发展展开了研究。研究认为：茶文化与体育旅游产业之间存在密切的关联，在茶文化背景下发展体育旅游产业时，应积极拓展茶文化与体育旅游之间的产业链、挖掘第三方资源、适当添加茶文化标签、优化体育旅游活动设计、打造具有文化特色的茶餐厅等，以全面推进茶文化与体育旅游产业的发展。",
+    "关键词": [
+        "茶文化背景",
+        "体育旅游",
+        "产业发展"
+    ],
+    "基金资助": [],
+    "专辑": "农业科技;工程科技Ⅰ辑;经济与管理科学",
+    "专题": "一般服务业;旅游",
+    "分类号": "F592;TS971",
+    "页码": "83-85",
+    "页数": "3",
+    "爬取时间": "2025-03-26 08:53:36",
+    "论文唯一代码": "FJCA202406029"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "基于无人驾驶的多场合应用型挖掘机",
+    "状态": "正常",
+    "发表期刊": "山西电子技术",
+    "刊发时间": "2024-06-15",
+    "引用量": "0",
+    "下载量": "113",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王宇翔",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王晖",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "03",
+    "摘要": " 挖掘机应用领域多、工作量大、操作复杂。在如今智能化产品不断问世的大环境下，无人驾驶挖掘机的研发也具有重大意义。以微型挖掘机模型为基础，对模型从机械、视觉、人工智能等方向进行研发，旨在打造一个无人驾驶自主作业的挖掘机模型。模型由视觉部分、电源部分、主控部分组成。选用STM32F103单片机作为主控芯片，使用电机、舵机作为制动装置。视觉部分进行图像传输和图像处理。以模型进行设计创造希望以此对工业挖掘机实现自动化控制做出贡献。",
+    "关键词": [
+        "物体识别",
+        "神经网络",
+        "无人驾驶"
+    ],
+    "基金资助": [],
+    "专辑": "信息科技;工程科技Ⅱ辑",
+    "专题": "建筑科学与工程;计算机软件及计算机应用",
+    "分类号": "TP399;TU621",
+    "页码": "1-3+40",
+    "页数": "4",
+    "爬取时间": "2025-03-26 08:53:44",
+    "论文唯一代码": "SXDS202403001"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "太阳能触感钢琴",
+    "状态": "正常",
+    "发表期刊": "山西电子技术",
+    "刊发时间": "2024-06-15",
+    "引用量": "0",
+    "下载量": "31",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "黄润晶",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "焦子龙",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张苏楠",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "03",
+    "摘要": " 针对传统电子琴体积较大，携带不便且依赖电源等问题，设计了一款基于太阳能的触感钢琴。该触感钢琴采用STC89C51芯片作为主控芯片，配置了防过充保护电路、降压电路、51芯片最小系统、触控开关控制电路、蜂鸣器发声电路，可以通过太阳能板为蓄电池充电，保证对电路长久供电，每个触碰开关按下都会使蜂鸣器发出相应声音，并实现音乐演奏。设计的太阳能触感钢琴具有电路结构简单、易操作、性价比高、小巧方便携带、节能环保等优点，可以用于培养儿童对音乐的兴趣，灌输绿色环保理念，具有较高的推广价值。",
+    "关键词": [
+        "太阳能",
+        "触感钢琴",
+        "蜂鸣器",
+        "节能",
+        "安全性"
+    ],
+    "基金资助": [],
+    "专辑": "信息科技;工程科技Ⅱ辑",
+    "专题": "电力工业;无线电电子学",
+    "分类号": "TM914.4;TN402",
+    "页码": "7-10+97",
+    "页数": "5",
+    "爬取时间": "2025-03-26 08:53:52",
+    "论文唯一代码": "SXDS202403003"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "新时代高校体育教育的使命、挑战与发展策略",
+    "状态": "正常",
+    "发表期刊": "辽宁经济职业技术学院.辽宁经济管理干部学院学报",
+    "刊发时间": "2024-06-15",
+    "引用量": "0",
+    "下载量": "74",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李戈",
+            "author_addresses": [
+                "山西体育职业学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "申晋波",
+            "author_addresses": [
+                "太原工业学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "03",
+    "摘要": " 随着我国体育强国建设的不断深入，高校应大力提升体育教育质量，培养全面发展的社会主义建设者和接班人。针对新时代高校体育教育面临的问题和挑战，高校应采取完善体育教育相关制度建设、落实“体教融合”育人方针、争取社会力量的参与和支持、加强体育教育人才保障等策略，推动高校体育教育的高质量发展，进而推进我国体育强国建设。",
+    "关键词": [
+        "高校体育教育",
+        "历史使命",
+        "挑战",
+        "体教融合"
+    ],
+    "基金资助": [],
+    "专辑": "经济与管理科学;社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G807.4",
+    "页码": "160-162",
+    "页数": "3",
+    "爬取时间": "2025-03-26 08:54:01",
+    "论文唯一代码": "LNJJ202403049"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "互联网金融对我国商业银行个人理财业务的冲击及对策研究",
+    "状态": "正常",
+    "发表期刊": "吕梁学院学报",
+    "刊发时间": "2024-06-15",
+    "引用量": "0",
+    "下载量": "1188",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "高诗然",
+            "author_addresses": [
+                "太原工业学院经济与管理系"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "14 ",
+    "期(Issue)": "03",
+    "摘要": " 继互联网渗透多个行业(如通讯和零售)之后，金融领域也逐步融入了这一趋势。具有高透明度、广泛参与性、低中间成本以及优越信息处理能力的互联网金融对商业银行的个人理财业务产生了明显的影响。互联网金融对我国商业银行个人理财业务带来了巨大的冲击，但也提供了新的发展机遇。商业银行需要通过加快创新、提升服务质量、加强合作与融合、完善风险管理机制和优化内部结构等措施，来应对当下互联网金融带来的挑战，抓住新的发展机遇。",
+    "关键词": [
+        "互联网金融",
+        "商业银行",
+        "个人理财"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑;经济与管理科学",
+    "专题": "贸易经济;金融",
+    "分类号": "F832.2;F724.6",
+    "页码": "63-68",
+    "页数": "6",
+    "爬取时间": "2025-03-26 08:54:11",
+    "论文唯一代码": "LLXK202403013"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "基于Cook-Torrance光照模型改进BRDF计算方式的研究实现",
+    "状态": "正常",
+    "发表期刊": "电脑知识与技术",
+    "刊发时间": "2024-06-15",
+    "引用量": "0",
+    "下载量": "140",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘志赟",
+            "author_addresses": "太原工业学院计算机工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "肖伟毅",
+            "author_addresses": "太原工业学院计算机工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "任若飞",
+            "author_addresses": "太原工业学院计算机工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "20 ",
+    "期(Issue)": "17",
+    "摘要": " 光照模型在计算机图形学领域中具有至关重要的作用，直接影响着图像的逼真度和视觉真实感。本研究旨在改进传统的光照模型，以更准确地模拟真实世界中光照的物理特性。综合考虑了光的反射、折射、散射以及不同材质表面对光的吸收、反射特性和能量守恒原则。结合菲涅尔效应、微表面法线分布函数以及能量守恒等物理原理，建立了一个更精细、更真实的基于物理的光照模型。通过对比实验和改进后模型的渲染效果，验证了改进后的模型能够更准确地渲染不同材质和光照条件下的反射和阴影效果，从而提高了渲染图形的逼真度和质量。这项研究为渲染领域提供了有价值的技术支持和应用潜力。",
+    "关键词": [
+        "光照模型",
+        "计算机图形学",
+        "基于物理",
+        "视觉真实感"
+    ],
+    "基金资助": [],
+    "专辑": "信息科技",
+    "专题": "计算机软件及计算机应用",
+    "分类号": "TP391.41",
+    "页码": "123-126+130",
+    "页数": "5",
+    "爬取时间": "2025-03-26 08:54:21",
+    "论文唯一代码": "DNZS202417037"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "浅析当前房地产的金融风险及防范对策",
+    "状态": "正常",
+    "发表期刊": "长治学院学报",
+    "刊发时间": "2024-06-15",
+    "引用量": "0",
+    "下载量": "276",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "高诗然",
+            "author_addresses": [
+                "太原工业学院经济与管理系"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "41 ",
+    "期(Issue)": "03",
+    "摘要": " 房地产业作为国民经济的重要组成部分，其金融风险的管理与控制关系着整个金融体系的稳定性。近年来，我国房地产市场的表现持续异常，随之而来的系统性金融风险也日益加剧。但随着国家相关调控政策的一步步落实，房地产业正在走向理性和规范。为了保证房地产业的健康快速的发展，对房地产市场当前的风险进行研究显得尤为重要。而要降低房地产市场的风险，势必要建立由上到下对楼市的信心。从短期来看，可以适度放宽对房地产企业的金融支持，以弱化企业的资金流转影响；就长期而言，建立房地产业发展的长效机制，使得企业转向更稳健并可持续的新发展模式。",
+    "关键词": [
+        "房地产金融风险",
+        "防范对策",
+        "金融体系"
+    ],
+    "基金资助": [
+        "太原工业学院横向科研项目“房地产估价机构异地执业问题研究”(2021CXY1104)"
+    ],
+    "专辑": "社会科学Ⅱ辑;经济与管理科学",
+    "专题": "宏观经济管理与可持续发展;金融",
+    "分类号": "F299.23;F832",
+    "页码": "43-49",
+    "页数": "7",
+    "爬取时间": "2025-03-26 08:54:30",
+    "论文唯一代码": "JDNS202403006"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "Ag3PO4/BiOI复合材料的制备及其光催化性能研究",
+    "状态": "正常",
+    "发表期刊": "化工新型材料",
+    "刊发时间": "2024-06-13 10:38",
+    "引用量": "1",
+    "下载量": "377",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "唐建可",
+            "author_addresses": "太原工业学院化学与化工系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "马春蕾",
+            "author_addresses": "太原工业学院化学与化工系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "薛彦峰",
+            "author_addresses": "太原工业学院化学与化工系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "52 ",
+    "期(Issue)": "09",
+    "摘要": " 采用简易研磨法将Ag<sub>3</sub>PO<sub>4</sub>颗粒负载在纳米片组装的BiOI微球表面，制备出p-n型Ag<sub>3</sub>PO<sub>4</sub>/BiOI异质结光催化剂。利用不同表征手段对Ag<sub>3</sub>PO<sub>4</sub>/BiOI复合材料的物相、形貌、化学组成和光学吸收特性进行了分析，并探索了其在可见光下光降解盐酸金霉素（CTC）的性能。结果表明：AB-2（Ag<sub>3</sub>PO<sub>4</sub>与BiOI质量比为1∶2）表现出最高的光降解CTC活性，可见光照射75min后AB-2对CTC（20mg/L）的去除率为79.2%,高于单一Ag<sub>3</sub>PO<sub>4</sub>与BiOI光催化剂。此外，AB-2光催化剂在循环使用5次后对CTC的去除率为70.3%,具有较好的重复使用性。p型BiOI和n型Ag<sub>3</sub>PO<sub>4</sub>构成p-n型异质结结构，促进了光生电子和空穴的有效分离，进而降低了电子-空穴对的复合效率，提升了Ag<sub>3</sub>PO<sub>4</sub>/BiOI复合材料的光催化活性。",
+    "关键词": [
+        "Ag3PO4",
+        "BiOI",
+        "光催化",
+        "降解",
+        "盐酸金霉素"
+    ],
+    "基金资助": [
+        "国家自然科学基金面上项目(22072105)",
+        "山西省高等学校科技创新项目(2023L337)",
+        "太原工业学院引进人才科研资助项目(2023KJ039)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学;环境科学与资源利用",
+    "分类号": "X703;O643.36;O644.1",
+    "页码": "195-200",
+    "页数": "6",
+    "爬取时间": "2025-03-26 08:54:40",
+    "论文唯一代码": "HGXC202409036"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "LaxCo0.5Mn0.5O3/MXene复合材料的制备及电催化性能研究",
+    "状态": "正常",
+    "发表期刊": "化工新型材料",
+    "刊发时间": "2024-06-12 14:01",
+    "引用量": "0",
+    "下载量": "267",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王凯",
+            "author_addresses": "太原工业学院材料工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "董晓忠",
+            "author_addresses": "太原工业学院材料工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "闫蕊",
+            "author_addresses": "太原工业学院材料工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "ruiyan1127@163.com"
+        },
+        {
+            "author_order": 4,
+            "author_name": "吴昊",
+            "author_addresses": "太原工业学院材料工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "赵清",
+            "author_addresses": "太原工业学院材料工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "52 ",
+    "期(Issue)": "09",
+    "摘要": " 采用溶胶-凝胶法制备了空位掺杂的La<sub>x</sub>Co<sub>0.5</sub>Mn<sub>0.5</sub>O<sub>3</sub>钙钛矿材料。利用MXene特殊的二维结构，分别采用球磨法和冷凝回流法将其与La<sub>x</sub>Co<sub>0.5</sub>Mn<sub>0.5</sub>O<sub>3</sub>复合制备了La<sub>x</sub>Co<sub>0.5</sub>Mn<sub>0.5</sub>O<sub>3</sub>/MXene复合材料。分别采用X射线衍射（XRD）、扫描电子显微镜（SEM）、电感耦合等离子体发射光谱（ICP）对材料的结构、微观形貌和元素组成进行了表征测试，借助旋转圆盘电极研究了La<sub>x</sub>Co<sub>0.5</sub>Mn<sub>0.5</sub>O<sub>3</sub>/MXene复合材料的氧还原和氧析出催化性能。结果表明：冷凝回流法制备的La<sub>x</sub>Co<sub>0.5</sub>Mn<sub>0.5</sub>O<sub>3</sub>/MXene复合材料性能优于球磨法制备的样品，当A位La为0.7时，La<sub>0.7</sub>Co<sub>0.5</sub>Mn<sub>0.5</sub>O<sub>3</sub>具有纳米棒状微观形貌，La<sub>0.7</sub>Co<sub>0.5</sub>Mn<sub>0.5</sub>O<sub>3</sub>/MXene复合材料具有最好的氧还原性能和较好的氧析出性能，即氧还原电位为0.74V,氧析出过电位为560mV。",
+    "关键词": [
+        "LaxCo0.5Mn0.5O3钙钛矿",
+        "MXene",
+        "溶胶-凝胶法",
+        "电催化"
+    ],
+    "基金资助": [
+        "山西省基础研究计划资助项目(20210302124358)山西省基础研究计划资助项目(20210302124226)",
+        "山西省高等学校科技创新项目(2021L538)",
+        "太原工业学院引进人才科研资助项目(2022KJ041)",
+        "山西省大学生创新创业训练项目(S202314101132)"
+    ],
+    "专辑": "工程科技Ⅰ辑;工程科技Ⅱ辑",
+    "专题": "化学;无机化工;材料科学;电力工业",
+    "分类号": "TM911.41;O643.36;TB332",
+    "页码": "158-162",
+    "页数": "5",
+    "爬取时间": "2025-03-26 08:54:56",
+    "论文唯一代码": "HGXC202409030"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "产业竞争视角下企业的科技创新决策：数量还是质量？",
+    "状态": "正常",
+    "发表期刊": "财会通讯",
+    "刊发时间": "2024-06-10",
+    "引用量": "0",
+    "下载量": "173",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "周琳",
+            "author_addresses": [
+                "太原学院财经系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "郭彤梅",
+            "author_addresses": [
+                "太原工业学院经济与管理系",
+                "山西财经大学管理科学与工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "11",
+    "摘要": " 本文选取2007—2022年我国沪深A股上市公司为研究样本，实证检验发现产业竞争不仅能够提高企业的创新数量，还能够提高企业的创新质量。对其中的影响机制检验发现，越高产业竞争程度会促进企业提高研发投入，进而带来了更高的创新专利产出，整体提高了企业的创新水平。从企业现金充裕度角度出发，研究发现当企业现金水平更充裕时，产业竞争对企业创新水平的提升作用更显著。本文的研究结论表明，企业的科技创新决策会受到外部竞争环境和内部经营效率的影响，在产业竞争主要对企业创新产生激励作用，能够从数量和质量两个方面提高企业的创新水平。",
+    "关键词": [
+        "产业竞争",
+        "科技创新",
+        "现金持有",
+        "研发投入"
+    ],
+    "基金资助": [
+        "山西省科技战略专项“太忻一体化经济区打造高能级科技创新平台发展路径研究”（项目编号：202204031401137）",
+        "国家社会科学基金年度项目“新发展格局下零工经济的柔性人力资源管理机制研究”（项目编号：21BGL146）的阶段性研究成果"
+    ],
+    "专辑": "经济与管理科学",
+    "专题": "企业经济;金融;证券;投资",
+    "分类号": "F273.1;F832.51",
+    "页码": "75-80",
+    "页数": "6",
+    "爬取时间": "2025-03-26 08:55:12",
+    "论文唯一代码": "CKTX202411014"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "高校基本建设工程财务竣工决算审计探析",
+    "状态": "正常",
+    "发表期刊": "行政事业资产与财务",
+    "刊发时间": "2024-06-10",
+    "引用量": "0",
+    "下载量": "65",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "康晓琴",
+            "author_addresses": [
+                "太原工业学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "11",
+    "摘要": " 财务竣工决算是建设工程经济效益的全面反映,是建设单位核定资产和办理固定资产登记的重要依据,本文通过对高校财务竣工决算审计的理论基础进行阐述,指出高校在财务竣工决算审计中出现的问题,提出可操作性的措施。",
+    "关键词": [
+        "高校",
+        "基本建设项目",
+        "财务竣工决算审计"
+    ],
+    "基金资助": [],
+    "专辑": "经济与管理科学",
+    "专题": "宏观经济管理与可持续发展;会计;审计",
+    "分类号": "F285;F239.63",
+    "页码": "102-104",
+    "页数": "3",
+    "爬取时间": "2025-03-26 08:55:22",
+    "论文唯一代码": "XZSY202411035"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "基于正交分析的紫罗兰蜜薯中花青素的提取及功能分析",
+    "状态": "正常",
+    "发表期刊": "山东化工",
+    "刊发时间": "2024-06-08",
+    "引用量": "1",
+    "下载量": "154",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘翠翠",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "郭钰洁",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李正浩",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "樊子扬",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "杨轶洋",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "王新光",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "53 ",
+    "期(Issue)": "11",
+    "摘要": " 紫罗兰蜜薯中富含花青素，采用有机试剂浸提法提取紫罗兰蜜薯中的花青素。花青素实验室提取工艺的优化使用了单因素和L<sub>9</sub>（3～4）正交试验，并通过测定花青素对DPPH自由基和ABTS自由基的清除能力验证了花青素的抗氧化功能。结果表明，在本实验条件下，紫罗兰蜜薯中花青素最佳提取工艺为：乙醇质量浓度50%,原料：提取试剂比1∶30（g∶mL）,浸提时间45 min,在此条件下花青素提取率为6.42%,且花青素对DPPH自由基和ABTS自由基具有较强的清除能力。",
+    "关键词": [
+        "紫罗兰蜜薯",
+        "花青素",
+        "单因素试验",
+        "正交试验",
+        "抗氧化活性"
+    ],
+    "基金资助": [
+        "2023年大学生创新创业训练项目(S202314101099)2023年大学生创新创业训练项目(GK2023107)",
+        "山西省高等学校科技创新项目(2022L541)",
+        "山西省人才引进项目(2022LJ008)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "轻工业手工业",
+    "分类号": "TS264.4",
+    "页码": "61-63+68",
+    "页数": "4",
+    "爬取时间": "2025-03-26 08:55:33",
+    "论文唯一代码": "SDHG202411017"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "体育旅游产业的数实融合发展",
+    "状态": "正常",
+    "发表期刊": "当代体育科技",
+    "刊发时间": "2024-06-05",
+    "引用量": "1",
+    "下载量": "109",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "杨西",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "赵雪智",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "杨创新",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "14 ",
+    "期(Issue)": "16",
+    "摘要": " 现阶段，数字经济与实体经济深度融合（以下简称“数实融合”）成为发展趋势，是建设现代化产业体系的核心内容之一，也是推动高质量发展、加快形成新发展格局的重要任务。体育旅游产业作为实体经济的重要组成部分，也面临着新的机遇和挑战，就体育旅游研究现有成果来看，研究的问题空间有待扩展，进入数字化时代，体育旅游产业应推广数字化技术应用、加强政策支持和监管治理、加强产业协同和创新、提升用户体验和服务水平、重视人才培养和引进，从而形成科学的发展体系。",
+    "关键词": [
+        "数实融合",
+        "数字经济",
+        "体育旅游产业",
+        "发展趋势"
+    ],
+    "基金资助": [
+        "山西省来晋工作优秀博士（后）科研资助项目（项目名称：疫情常态化下山西传统旅游业发展路径研究,项目编号：2022LJ034）"
+    ],
+    "专辑": "社会科学Ⅱ辑;经济与管理科学",
+    "专题": "体育;旅游;信息经济与邮政经济",
+    "分类号": "G812;F592;F49",
+    "页码": "80-85",
+    "页数": "6",
+    "爬取时间": "2025-03-26 08:55:43",
+    "论文唯一代码": "DYKJ202416019"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "矿工安全设备检测算法研究",
+    "状态": "正常",
+    "发表期刊": "科技资讯",
+    "刊发时间": "2024-06-05",
+    "引用量": "0",
+    "下载量": "41",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘婷",
+            "author_addresses": "太原工业学院理学系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "卢杰",
+            "author_addresses": "太原工业学院理学系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "lu18936741855@163.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "田琪",
+            "author_addresses": "太原工业学院理学系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "焦中",
+            "author_addresses": "太原工业学院理学系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "张林峰",
+            "author_addresses": "太原工业学院理学系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "22 ",
+    "期(Issue)": "11",
+    "摘要": " 随着信息化技术的飞速发展，煤矿安全生产得到了明显改善，各类井下安全系统对煤矿的安全工作发挥了重要作用。基于计算机视觉技术，利用现有的监控设备或通过在井下施工现场布设新的设备，采用机器学习的相关方法进行矿工安全帽佩戴情况的自动识别，具体实现了对作业人员安全帽佩戴情况的快速监测，降低监管危险，增强工人的防范意识的同时提升了监管信息化水平。",
+    "关键词": [
+        "矿工安全帽",
+        "深度学习",
+        "卷积神经网络",
+        "YOLOv5"
+    ],
+    "基金资助": [],
+    "专辑": "基础科学;工程科技Ⅰ辑;信息科技",
+    "专题": "矿业工程;计算机软件及计算机应用",
+    "分类号": "TD793;TP391.41",
+    "页码": "87-89+93",
+    "页数": "4",
+    "爬取时间": "2025-03-26 08:55:53",
+    "论文唯一代码": "ZXLJ202411024"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "新媒体环境下高校思政教育话语体系的转化与优化研究",
+    "状态": "正常",
+    "发表期刊": "西部广播电视",
+    "刊发时间": "2024-06-05",
+    "引用量": "0",
+    "下载量": "36",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "卫洁",
+            "author_addresses": [
+                "太原工业学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "45 ",
+    "期(Issue)": "11",
+    "摘要": " 新媒体技术日益发展的背景下，高校思政教育既迎来了重要的转型机遇，如新媒体环境为思政教育提供了新的传播渠道和方式，也使思政教育话语体系面临着重大挑战，如话语内容与实际生活脱节、互动性与个性化需求不足、话语权威性与信任度下降等。因此，本文深入探索适应新媒体环境的思政教育话语体系优化策略：高校应通过增强新媒体应用话语互动性，增强个性化内容推送能力，构建信息审核体系，开发多平台交互式学习与讨论空间，利用数据分析优化话语策略实现内容定制等满足大学生个性化的需求，提升话语的权威性和可信度，从而有效提高思政教育的吸引力和影响力。",
+    "关键词": [
+        "新媒体环境",
+        "思政教育",
+        "话语体系转化",
+        "话语优化"
+    ],
+    "基金资助": [
+        "2023年度山西省高等学校哲学社会科学(思想政治教育专项)“数字化时代主流意识形态视频化传播研究”(2023zsszsx095)"
+    ],
+    "专辑": "信息科技;社会科学Ⅱ辑",
+    "专题": "高等教育;新闻与传媒",
+    "分类号": "G641;G206",
+    "页码": "45-48",
+    "页数": "4",
+    "爬取时间": "2025-03-26 08:56:02",
+    "论文唯一代码": "XBGS202411012"
+}

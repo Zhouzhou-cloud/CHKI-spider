@@ -1,0 +1,136 @@
+2025-03-26 18:55:04,893 - make_task_list.py[line:51] - INFO: 任务是paper形
+2025-03-26 18:55:04,898 - make_task_list.py[line:51] - INFO: 任务是paper形
+2025-03-26 18:55:04,899 - crawl.py[line:81] - INFO: downloads\如何认识负利率政策及其影响文件夹已经建立
+2025-03-26 18:55:13,634 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-26 18:55:15,260 - crawl.py[line:267] - INFO: 4 records found, divided into 1 pages
+2025-03-26 18:55:20,173 - common.py[line:135] - ERROR: 检查1023457565.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:55:20,230 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:55:20,278 - common.py[line:135] - ERROR: 检查1021122989.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:55:20,295 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:55:20,315 - common.py[line:135] - ERROR: 检查GJPP202001011是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:55:26,279 - crawl.py[line:592] - INFO: 论文：GJPP202001011无关键词！
+2025-03-26 18:55:26,312 - crawl.py[line:604] - INFO: 论文：GJPP202001011无基金资助！
+2025-03-26 18:55:26,436 - crawl.py[line:379] - INFO: 论文：(GJPP202001011) 子页面信息提取完成！
+2025-03-26 18:55:26,506 - crawl.py[line:472] - INFO: 论文：(GJPP202001011) 子页面信息处理全部结束！
+2025-03-26 18:55:29,016 - crawl.py[line:379] - INFO: 论文：(JJXD201706014) 子页面信息提取完成！
+2025-03-26 18:55:29,098 - crawl.py[line:472] - INFO: 论文：(JJXD201706014) 子页面信息处理全部结束！
+2025-03-26 18:55:33,356 - crawl.py[line:500] - INFO: downloads\如何认识负利率政策及其影响已经全部处理结束!
+2025-03-26 18:55:33,358 - crawl.py[line:81] - INFO: downloads\数据生产要素的基础理论构建：新结构经济学视角文件夹已经建立
+2025-03-26 18:55:39,873 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-26 18:55:41,470 - crawl.py[line:267] - INFO: 1 records found, divided into 1 pages
+2025-03-26 18:55:46,719 - common.py[line:135] - ERROR: 检查BFJD202402006是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:55:52,449 - crawl.py[line:379] - INFO: 论文：(BFJD202402006) 子页面信息提取完成！
+2025-03-26 18:55:52,501 - crawl.py[line:472] - INFO: 论文：(BFJD202402006) 子页面信息处理全部结束！
+2025-03-26 18:55:54,980 - crawl.py[line:500] - INFO: downloads\数据生产要素的基础理论构建：新结构经济学视角已经全部处理结束!
+2025-03-26 18:55:54,980 - crawl.py[line:81] - INFO: downloads\不同β受体阻滞剂对大鼠心肌间隙连接结构作用的对比研究文件夹已经建立
+2025-03-26 18:56:01,294 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-26 18:56:03,428 - crawl.py[line:267] - INFO: 1 records found, divided into 1 pages
+2025-03-26 18:56:09,021 - common.py[line:135] - ERROR: 检查ZHXX200702025是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:56:14,201 - crawl.py[line:604] - INFO: 论文：ZHXX200702025无基金资助！
+2025-03-26 18:56:14,380 - crawl.py[line:379] - INFO: 论文：(ZHXX200702025) 子页面信息提取完成！
+2025-03-26 18:56:14,448 - crawl.py[line:472] - INFO: 论文：(ZHXX200702025) 子页面信息处理全部结束！
+2025-03-26 18:56:17,179 - crawl.py[line:500] - INFO: downloads\不同β受体阻滞剂对大鼠心肌间隙连接结构作用的对比研究已经全部处理结束!
+2025-03-26 18:56:17,180 - crawl.py[line:81] - INFO: downloads\用于全口义齿计算机辅助设计的虚拟半可调文件夹已经建立
+2025-03-26 18:56:23,408 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-26 18:56:24,989 - crawl.py[line:267] - INFO: 1 records found, divided into 1 pages
+2025-03-26 18:56:29,807 - common.py[line:135] - ERROR: 检查BYDB200801027是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:56:35,017 - crawl.py[line:379] - INFO: 论文：(BYDB200801027) 子页面信息提取完成！
+2025-03-26 18:56:35,095 - crawl.py[line:472] - INFO: 论文：(BYDB200801027) 子页面信息处理全部结束！
+2025-03-26 18:56:38,025 - crawl.py[line:500] - INFO: downloads\用于全口义齿计算机辅助设计的虚拟半可调已经全部处理结束!
+2025-03-26 18:56:38,025 - crawl.py[line:81] - INFO: downloads\“东亚共同体”_地区与国家的观点文件夹已经建立
+2025-03-26 18:56:44,294 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-26 18:56:45,847 - crawl.py[line:267] - INFO: 15 records found, divided into 1 pages
+2025-03-26 18:56:50,849 - common.py[line:135] - ERROR: 检查1019156719.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:56:50,894 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:56:50,931 - common.py[line:135] - ERROR: 检查1020701132.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:56:50,958 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:56:51,053 - common.py[line:135] - ERROR: 检查9787305178283000是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:56:51,085 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:56:51,112 - common.py[line:135] - ERROR: 检查1013324362.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:56:51,131 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:56:51,153 - common.py[line:135] - ERROR: 检查1011081359.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:56:51,166 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:56:51,183 - common.py[line:135] - ERROR: 检查1011170924.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:56:51,199 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:56:51,219 - common.py[line:135] - ERROR: 检查1011170990.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:56:51,235 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:56:51,253 - common.py[line:135] - ERROR: 检查1011094749.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:56:51,267 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:56:51,287 - common.py[line:135] - ERROR: 检查1011094728.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:56:51,302 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:56:51,319 - common.py[line:135] - ERROR: 检查1011135180.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:56:51,337 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:56:51,357 - common.py[line:135] - ERROR: 检查2010107551.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:56:51,372 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:56:51,392 - common.py[line:135] - ERROR: 检查2009017699.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:56:51,407 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:56:51,789 - common.py[line:135] - ERROR: 检查2007168837.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:56:51,810 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:56:51,827 - common.py[line:135] - ERROR: 检查WJXY200504003是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:56:56,675 - crawl.py[line:604] - INFO: 论文：WJXY200504003无基金资助！
+2025-03-26 18:56:56,851 - crawl.py[line:379] - INFO: 论文：(WJXY200504003) 子页面信息提取完成！
+2025-03-26 18:56:56,923 - crawl.py[line:472] - INFO: 论文：(WJXY200504003) 子页面信息处理全部结束！
+2025-03-26 18:56:57,021 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:57:00,043 - crawl.py[line:500] - INFO: downloads\“东亚共同体”_地区与国家的观点已经全部处理结束!
+2025-03-26 18:57:00,044 - crawl.py[line:81] - INFO: downloads\试论利益集团在美国对华政策中的影响——以美国对华最惠国待遇政策为例文件夹已经建立
+2025-03-26 18:57:07,049 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-26 18:57:08,686 - crawl.py[line:267] - INFO: 1 records found, divided into 1 pages
+2025-03-26 18:57:13,653 - common.py[line:135] - ERROR: 检查MGYJ802.003是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:57:18,484 - crawl.py[line:592] - INFO: 论文：MGYJ802.003无关键词！
+2025-03-26 18:57:18,495 - crawl.py[line:604] - INFO: 论文：MGYJ802.003无基金资助！
+2025-03-26 18:57:18,588 - crawl.py[line:641] - INFO: 论文：MGYJ802.003无页码！
+2025-03-26 18:57:18,618 - crawl.py[line:379] - INFO: 论文：(MGYJ802.003) 子页面信息提取完成！
+2025-03-26 18:57:18,687 - crawl.py[line:472] - INFO: 论文：(MGYJ802.003) 子页面信息处理全部结束！
+2025-03-26 18:57:21,069 - crawl.py[line:500] - INFO: downloads\试论利益集团在美国对华政策中的影响——以美国对华最惠国待遇政策为例已经全部处理结束!
+2025-03-26 18:57:21,070 - crawl.py[line:81] - INFO: downloads\中美战略合作展望_对机遇与挑战前景的评估文件夹已经建立
+2025-03-26 18:57:27,099 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-26 18:57:28,704 - crawl.py[line:267] - INFO: 1 records found, divided into 1 pages
+2025-03-26 18:57:33,642 - common.py[line:135] - ERROR: 检查JMZG201101008是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:57:38,370 - crawl.py[line:592] - INFO: 论文：JMZG201101008无关键词！
+2025-03-26 18:57:38,376 - crawl.py[line:604] - INFO: 论文：JMZG201101008无基金资助！
+2025-03-26 18:57:38,500 - crawl.py[line:379] - INFO: 论文：(JMZG201101008) 子页面信息提取完成！
+2025-03-26 18:57:38,587 - crawl.py[line:472] - INFO: 论文：(JMZG201101008) 子页面信息处理全部结束！
+2025-03-26 18:57:42,258 - crawl.py[line:500] - INFO: downloads\中美战略合作展望_对机遇与挑战前景的评估已经全部处理结束!
+2025-03-26 18:57:42,258 - crawl.py[line:81] - INFO: downloads\偏振模色散对光纤数字通信系统影响的讨论文件夹已经建立
+2025-03-26 18:57:48,742 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-26 18:57:50,321 - crawl.py[line:267] - INFO: 1 records found, divided into 1 pages
+2025-03-26 18:57:55,529 - common.py[line:135] - ERROR: 检查GTXS200002024是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:58:01,462 - crawl.py[line:738] - INFO: GTXS200002024没找到单一a要素，正转向单一text要素
+2025-03-26 18:58:01,850 - crawl.py[line:379] - INFO: 论文：(GTXS200002024) 子页面信息提取完成！
+2025-03-26 18:58:26,457 - crawl.py[line:472] - INFO: 论文：(GTXS200002024) 子页面信息处理全部结束！
+2025-03-26 18:58:29,185 - crawl.py[line:500] - INFO: downloads\偏振模色散对光纤数字通信系统影响的讨论已经全部处理结束!
+2025-03-26 18:58:29,185 - crawl.py[line:81] - INFO: downloads\南疆行记文件夹已经建立
+2025-03-26 18:58:55,717 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-26 18:58:57,361 - crawl.py[line:267] - INFO: 7 records found, divided into 1 pages
+2025-03-26 18:59:02,448 - common.py[line:135] - ERROR: 检查1023083482.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:59:02,465 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:59:02,482 - common.py[line:135] - ERROR: 检查1021741646.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:59:02,491 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:59:02,507 - common.py[line:135] - ERROR: 检查1019608602.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:59:02,521 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:59:02,540 - common.py[line:135] - ERROR: 检查1018153599.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:59:02,553 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:59:02,570 - common.py[line:135] - ERROR: 检查1017242192.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:59:02,581 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:59:02,594 - common.py[line:135] - ERROR: 检查2009088959.nh是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:59:02,607 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-26 18:59:02,622 - common.py[line:135] - ERROR: 检查ZGGG200402025是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:59:09,249 - crawl.py[line:738] - INFO: ZGGG200402025没找到单一a要素，正转向单一text要素
+2025-03-26 18:59:09,299 - crawl.py[line:592] - INFO: 论文：ZGGG200402025无关键词！
+2025-03-26 18:59:09,311 - crawl.py[line:604] - INFO: 论文：ZGGG200402025无基金资助！
+2025-03-26 18:59:09,436 - crawl.py[line:641] - INFO: 论文：ZGGG200402025无页码！
+2025-03-26 18:59:09,452 - crawl.py[line:379] - INFO: 论文：(ZGGG200402025) 子页面信息提取完成！
+2025-03-26 18:59:09,520 - crawl.py[line:472] - INFO: 论文：(ZGGG200402025) 子页面信息处理全部结束！
+2025-03-26 18:59:12,633 - crawl.py[line:500] - INFO: downloads\南疆行记已经全部处理结束!
+2025-03-26 18:59:12,633 - crawl.py[line:81] - INFO: downloads\近年来CCA在气候分析与气候预测中的应用文件夹已经建立
+2025-03-26 18:59:19,179 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-26 18:59:20,800 - crawl.py[line:267] - INFO: 1 records found, divided into 1 pages
+2025-03-26 18:59:25,384 - common.py[line:135] - ERROR: 检查BJDZ200101022是否已经处理过出错！可能是第一个搜索，flag文件还没建立，
+2025-03-26 18:59:38,392 - crawl.py[line:738] - INFO: BJDZ200101022没找到单一a要素，正转向单一text要素
+2025-03-26 18:59:38,910 - crawl.py[line:379] - INFO: 论文：(BJDZ200101022) 子页面信息提取完成！
+2025-03-26 18:59:39,205 - crawl.py[line:472] - INFO: 论文：(BJDZ200101022) 子页面信息处理全部结束！
+2025-03-26 18:59:42,493 - crawl.py[line:500] - INFO: downloads\近年来CCA在气候分析与气候预测中的应用已经全部处理结束!
+2025-03-26 18:59:42,494 - crawl.py[line:81] - INFO: downloads\咬合板的临床应用特点文件夹已经建立
+2025-03-26 19:00:21,770 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-26 19:00:23,457 - crawl.py[line:267] - INFO: 1 records found, divided into 1 pages
+2025-03-26 19:00:31,590 - common.py[line:135] - ERROR: 检查KHXF202201001是否已经处理过出错！可能是第一个搜索，flag文件还没建立，

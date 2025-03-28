@@ -1,0 +1,1769 @@
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "应用型大学新文科政产学研协同育人机制与模式研究",
+    "状态": "正常",
+    "发表期刊": "科技风",
+    "刊发时间": "2023-04-30",
+    "引用量": "3",
+    "下载量": "404",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "宋万杰",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "赵爱平",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "赵婧祎",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "李芳",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "12",
+    "摘要": " 高校新文科建设如火如荼，新文科的“新”体现了新战略、新理念、新规格、新模式、新质量。新文科涉及学科数量较多，应用型大学大多建有经、管、法、教、艺等应用型文科学科。应用型大学新文科政产学研协同育人中存在协同育人的体制机制不健全、协同育人的完整链条没有形成、共建的育人平台数量少、实践教学不理想、文科专业就业离职率偏高等问题。应用型大学新文科建设应该有自身的标准体系，在政产学研协同育人过程中，应结合新文科建设标准体系，审视目前存在的问题，探索完善协同育人机制，充分发挥政产学研各方作用，推动共建产业学院，共同制定人才培养体系，共同构建师资团队等多种协同育人模式。",
+    "关键词": [
+        "新文科",
+        "应用型大学",
+        "政产学研",
+        "协同育人"
+    ],
+    "基金资助": [
+        "2021年度河北省首批省级新文科研究与改革实践项目(项目编号：2021GJXWK069)，课题名称：应用型大学新文科政产学研协同育人机制与模式研究"
+    ],
+    "专辑": "基础科学;社会科学Ⅱ辑",
+    "专题": "高等教育",
+    "分类号": "G649.2",
+    "页码": "84-86",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:27:36",
+    "论文唯一代码": "KJFT202312028"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "笛曲《山村小景》的创作特征与演奏分析",
+    "状态": "正常",
+    "发表期刊": "戏剧之家",
+    "刊发时间": "2023-04-30",
+    "引用量": "0",
+    "下载量": "48",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "于志辉",
+            "author_addresses": [
+                "石家庄学院音乐学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "12",
+    "摘要": " 旅游不仅是经济活动，也是文化交流，民族音乐以其独特的艺术性和文化性，推动着旅游业的发展。竹笛是我国传统乐器，笛曲的创作风格不同，演奏风格和技巧也呈现很大的差异，不同演奏者有不同的技巧，但不论是何种风格，感情匮乏犹如灵魂缺失，仅有技巧很难让人感动。有鉴于此，本文以民族音乐学、中国笛箫史和传统竹笛演奏技法为理论指引，以调式调性为切入点，综合“南、北”两大流派的演奏风格，对笛曲《山村小景》的创作特征进行分析，并对刘森先生推陈出新的演奏技巧进行深度剖析。",
+    "关键词": [
+        "笛曲",
+        "山村小景",
+        "创作特征",
+        "演奏技巧"
+    ],
+    "基金资助": [
+        "黑龙江省文旅厅艺术科学规划一般项目“冰雪文化旅游产业背景下具有地域风格的中国民族音乐创作与研究”项目论文,课题编号：2022B115（黑龙江省文旅厅）"
+    ],
+    "专辑": "哲学与人文科学",
+    "专题": "音乐舞蹈",
+    "分类号": "J632.11;J614",
+    "页码": "88-90",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:27:47",
+    "论文唯一代码": "XJZT202312018"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "知识产权视域下国家安全治理的制度体系",
+    "状态": "正常",
+    "发表期刊": "山西财经大学学报",
+    "刊发时间": "2023-04-28",
+    "引用量": "0",
+    "下载量": "458",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "冯红",
+            "author_addresses": "石家庄学院科研处",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "魏雨蒙",
+            "author_addresses": "石家庄学院科研处",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "45 ",
+    "期(Issue)": "S1",
+    "摘要": " 针对知识产权保护进行国家安全治理是比较困难的，本文以总体国家安全思维为指导，就知识产权领域内国家安全治理展开了研究，相关研究也与科技和经济领域的国家安全实现了密切的结合。本文对知识产权安全领域进行初步探索，指出知识产权视域下国际安全治理的必须性，然后针对协同的知识产权安全治理体系等问题就我国国家安全治理制度体系的建设提出意见和建议。",
+    "关键词": [
+        "知识产权",
+        "国家安全",
+        "治理",
+        "制度"
+    ],
+    "基金资助": [],
+    "专辑": "经济与管理科学;社会科学Ⅰ辑",
+    "专题": "公安;宏观经济管理与可持续发展",
+    "分类号": "F204;D631",
+    "页码": "16-18",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:27:55",
+    "论文唯一代码": "SXCJ2023S1006"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "胆固醇分子结构中红外光谱研究",
+    "状态": "正常",
+    "发表期刊": "煤炭与化工",
+    "刊发时间": "2023-04-26",
+    "引用量": "0",
+    "下载量": "174",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李明航",
+            "author_addresses": [
+                "哈尔滨医科大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "吴雨靓",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "常美玲",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "周子轩",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "刘荣",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "张美环",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "于佳琳",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "徐元媛",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "46 ",
+    "期(Issue)": "04",
+    "摘要": " 采用中红外（MIR）光谱（包括：一维MIR光谱、二阶导数MIR光谱、四阶导数MIR光谱及去卷积MIR光谱）开展了胆固醇分子结构的研究。试验表明：胆固醇分子的红外吸收模式主要包括：■。研究表明，胆固醇分子的去卷积MIR光谱的谱图分辨能力要优于相应的一维MIR光谱、二阶导数MIR光谱和四阶导数MIR光谱。拓展了MIR光谱技术在重要的生理活性物质（胆固醇）分子结构的研究范围。",
+    "关键词": [
+        "胆固醇",
+        "一维MIR光谱",
+        "二阶导数MIR光谱",
+        "四阶导数MIR光谱",
+        "去卷积MIR光谱",
+        "结构"
+    ],
+    "基金资助": [
+        "河北省一流本科专业建设项目（化学工程与工艺专业）",
+        "石家庄学院2020年博士科研启动基金项目（20BS008）"
+    ],
+    "专辑": "工程科技Ⅰ辑;基础科学",
+    "专题": "生物学;化学",
+    "分类号": "Q503;O657.33",
+    "页码": "143-148+155",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:28:06",
+    "论文唯一代码": "HHGZ202304037"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "以乡村振兴为主题的中学地理研学旅行设计研究——以邢台市为例",
+    "状态": "正常",
+    "发表期刊": "科教导刊",
+    "刊发时间": "2023-04-25",
+    "引用量": "2",
+    "下载量": "440",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "尚祎博",
+            "author_addresses": [
+                "河北师范大学教师教育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "孙中伟",
+            "author_addresses": [
+                "石家庄学院资源与环境科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "12",
+    "摘要": " 本研究在归纳中学地理研学旅行的定义及设计原则、乡村振兴战略及其地理意义以及乡村振兴主题中学地理研学旅行资源调查与考察重点的基础上，以邢台市为例设计出了若干条参考性的研学线路。研究发现：以乡村振兴为主题的中学地理研学旅行应遵循4条设计原则，乡村振兴作为国家发展战略具有重要的地理和教育意义，乡村振兴主题的中学地理研学旅行应在11种类型村庄认知的前提下，充分挖掘本地资源进行设计。",
+    "关键词": [
+        "乡村振兴",
+        "中学地理研学旅行",
+        "邢台市"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "中等教育",
+    "分类号": "G633.55",
+    "页码": "135-139",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:28:16",
+    "论文唯一代码": "KJDS202312044"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "灰藓科4种藓类植物孢子萌发与原丝体发育特征",
+    "状态": "正常",
+    "发表期刊": "西北农业学报",
+    "刊发时间": "2023-04-25",
+    "引用量": "0",
+    "下载量": "83",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "黄士良",
+            "author_addresses": [
+                "河北女子职业技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "贾素巧",
+            "author_addresses": [
+                "河北女子职业技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王晓蕊",
+            "author_addresses": [
+                "石家庄学院资源与环境科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "李琳",
+            "author_addresses": [
+                "河北师范大学生命科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "32 ",
+    "期(Issue)": "04",
+    "摘要": " 通过室内人工培养的方式，在微米量级下观察灰藓科灰藓属(Hypnum)灰藓(H.cupressiforme)、黄灰藓(H.pallescens)、多蒴灰藓(H.fertile),金灰藓属(Pylaisia)金灰藓(P.polyantha) 4种藓类植物孢子萌发和原丝体发育过程，详细记录其发育过程的性状特征。结果显示：(1)4种藓类植物的孢子均为单细胞，直径平均值为10～40μm。(2)黄灰藓孢子为壁内萌发，灰藓、多蒴灰藓、金灰藓孢子为壁外萌发。4种藓类植物发育初期均未出现初生假根，有次生假根出现。4种藓类植物在发育中出现了块状原丝体和丝状原丝体两种形态，其原丝体在发育初期均没有产生初生轴丝体，均是在原丝体发育后期，轴丝体由绿丝体分化产生。(3)参照Nishida对藓类植物孢子萌发和原丝体发育类型划分标准，对灰藓科4种藓类植物的原丝体发育特征进行归类分析，灰藓属黄灰藓原丝体发育类型为高领藓型(Glyphmitrium-type);灰藓属灰藓、多蒴灰藓，金灰藓属金灰藓3种藓类植物原丝体发育类型均为真藓型(Bryum-type)。",
+    "关键词": [
+        "灰藓科",
+        "孢子萌发",
+        "原丝体发育",
+        "孢子萌发型"
+    ],
+    "基金资助": [
+        "河北省自然科学基金(D2019106006,C2019205175)",
+        "河北省社会科学基金(HB19SH012)~~"
+    ],
+    "专辑": "农业科技;基础科学",
+    "专题": "生物学",
+    "分类号": "Q945",
+    "页码": "622-629",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:28:23",
+    "论文唯一代码": "XBNX202304015"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "基于OBE理念的日化英语教学实践体系优化研究",
+    "状态": "正常",
+    "发表期刊": "日用化学工业(中英文)",
+    "刊发时间": "2023-04-22",
+    "引用量": "2",
+    "下载量": "356",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张旸",
+            "author_addresses": [
+                "邢台学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "马晓娜",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "53 ",
+    "期(Issue)": "04",
+    "摘要": " &lt;正&gt;国际日化产业的飞速发展，促使我国社会和市场对日化英语人才的需求日益多元化。而日化英语人才综合素质的高低，是由高校日化英语教学实践体系决定的。OBE，是Outcome-based Education的缩写，中文意思为“以成果产出为导向的教育理论”。基于OBE理念提出日化英语教学实践体系优化方案，既符合新时期高校教学改革与发展要求，更是培养优秀日化英语应用型人才的必然选择。",
+    "关键词": [],
+    "基金资助": [
+        "2020年河北省普通本科院校英语教学改革研究与实践项目《OBE理念下的地方高校英语专业实践教学体系优化研究》成果之一,项目编号2020YYJG061",
+        "2021年邢台市科技局科技计划项目《应用型本科高校英语专业创新创业人才培养研究》成果之一,项目编号2021ZC212"
+    ],
+    "专辑": "工程科技Ⅰ辑;哲学与人文科学",
+    "专题": "外国语言文字",
+    "分类号": "H319.3",
+    "页码": "495-496",
+    "页数": "2",
+    "爬取时间": "2025-03-26 06:28:31",
+    "论文唯一代码": "CHEM202304019"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "运动解剖学视域下传统武术浑圆桩功的结构特征与功能研究",
+    "状态": "正常",
+    "发表期刊": "体育科技文献通报",
+    "刊发时间": "2023-04-20",
+    "引用量": "2",
+    "下载量": "134",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张强",
+            "author_addresses": [
+                "首都体育学院研究生部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王丽霞",
+            "author_addresses": [
+                "首都体育学院研究生部",
+                "石家庄学院体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "刘凤梅",
+            "author_addresses": [
+                "首都体育学院研究生部",
+                "南阳理工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "朱梦龙",
+            "author_addresses": [
+                "北京中西医结合医院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "31 ",
+    "期(Issue)": "04",
+    "摘要": " 本文利用体育学相关理论，从运动解剖学的视角分析浑圆桩功动作中下关节与肌肉的结构特征与功能性状。主要采用文献资料、访谈、逻辑分析等研究方法，在归纳浑元桩功动作和要求的基础上对其进行解剖学动作分析，利用环节受力分析法寻找原动肌，进而探索不同肌群、骨骼方面的开发、整合以及所展现的运动功能。研究结果：在浑圆桩功动作姿势下，存在不同肌群作用下关节的对立牵拉效应、不同时间负荷下肌群动员的差异性、弧形结构下肌力的再分配过程，以及肌肉收缩形式的多向性。结论：浑圆桩功动作姿势使人体肌肉和骨骼相互作用与配合，不仅可以激活系统肌群，提高肌肉力量与躯干稳定性等运动能力，而且在实际应用中可以形成有效的承力与发力间架结构，这种结构的整合与肌力的合理分配符合传统武术技击和健身需求。建议：浑圆桩功练习过程中，要注意习练目的与方式之间的联系，遵循局部与整体的辩证统一，通过量变到质变的层层递进，达到事半功倍的效果。",
+    "关键词": [
+        "运动解剖",
+        "传统武术",
+        "浑圆桩",
+        "结构",
+        "功能"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G852",
+    "页码": "259-262",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:28:41",
+    "论文唯一代码": "SPOR202304058"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "融媒体时代高校“四史”网络文化建设",
+    "状态": "正常",
+    "发表期刊": "中学政治教学参考",
+    "刊发时间": "2023-04-20",
+    "引用量": "4",
+    "下载量": "437",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "罗蕊",
+            "author_addresses": [
+                "洛阳理工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "檀慧",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "邢晔",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "15",
+    "摘要": " 融媒体时代，高校思政工作迎来巨大机遇，同时面临严峻考验。如何占领网络阵地实现对学生进行高质高效思政教育的目的，是现阶段高校发展关注的焦点。在高校思政工作中，“四史”是工作开展的重要资源，以“四史”进行网络文化建设是高校思政教育的重要方面。同时，网络文化也是校园文化的重要组成部分。目前，高校在校园文化建设中普遍缺失网络文化建设，影响校园文化的全面性、深入性和有效性。因此，高校“四史”网络文化建设显得十分必要和迫切。文章对融媒体时代高校“四史”网络文化建设进行初步探索，希望为开展高校相关工作提供参考。",
+    "关键词": [
+        "融媒体时代",
+        "高校思政",
+        "“四史”",
+        "网络文化",
+        "文化建设"
+    ],
+    "基金资助": [
+        "2022年度石家庄市劳动教育“十四五”教育科学规划专项课题“工科大学生工匠精神培育路径研究”（LDJY22-020）",
+        "2022年石家庄学院教改项目“理工科专业《大学生心理健康教育》‘课程思政’教学改革探索”（JGXM-202222P）2022年石家庄学院教改项目“利用UGC模式创新高校‘四史’教育模式研究”（JGXM-202202X）成果",
+        "2022年河北省人力资源社会保障厅重点课题“中国共产党的百年历史蕴含的民生思想研究”（JRSHZ-2-22-01013）"
+    ],
+    "专辑": "社会科学Ⅱ辑;社会科学Ⅰ辑",
+    "专题": "中国共产党;高等教育",
+    "分类号": "G641;D261",
+    "页码": "48-50",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:28:47",
+    "论文唯一代码": "ZXZZ202315031"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "人事档案大数据平台建设及应用研究",
+    "状态": "正常",
+    "发表期刊": "中国新通信",
+    "刊发时间": "2023-04-20",
+    "引用量": "3",
+    "下载量": "102",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "滑斌杰",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘彦良",
+            "author_addresses": [
+                "巨鹿县大数据发展中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "祁瑞丽",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "高运磊",
+            "author_addresses": [
+                "巨鹿县人力资源和社会保障局"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "孟军英",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "25 ",
+    "期(Issue)": "08",
+    "摘要": " 互联网时代，大数据技术应运而生，人事档案的数据化管理、信息化管理势在必行。建设人事档案大数据平台，整合档案纸质及数字化资源，革新现有传统人事档案管理的方法，实现人事档案资源的共享及分享，增强人事档案数据化管理的效果。对此，依据大数据自身的内涵，分析人事档案大数据平台建设及应用的特性及价值，论述人事档案大数据平台建设及应用的困境，并从平台设计的数据存储、数据分析、数据采集、数据应用等维度，分别提出人事档案大数据平台建设及应用的模式及实践对策。",
+    "关键词": [
+        "人事",
+        "档案",
+        "大数据平台",
+        "建设",
+        "应用"
+    ],
+    "基金资助": [
+        "河北省人力资源和社会保障厅2022年一般课题项目《人事档案大数据平台建设及应用研究》（JRS-2022-3021）"
+    ],
+    "专辑": "信息科技",
+    "专题": "计算机软件及计算机应用;档案及博物馆",
+    "分类号": "TP311.13;G270.7",
+    "页码": "77-79",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:29:03",
+    "论文唯一代码": "TXWL202308025"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "网球线结构及热变性研究",
+    "状态": "正常",
+    "发表期刊": "纺织科学与工程学报",
+    "刊发时间": "2023-04-20",
+    "引用量": "30",
+    "下载量": "45",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "吴雨靓",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "郑海桥",
+            "author_addresses": [
+                "东北林业大学奥林学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "周子轩",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "常美玲",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "于佳琳",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "张美环",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "王丽欣",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "于宏伟",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "40 ",
+    "期(Issue)": "02",
+    "摘要": " 中红外（MIR）光谱开展了网球线结构研究。网球线的红外吸收模式主要包括：ν<sub>asCH2-网球线</sub>、ν<sub>sCH2-网球线</sub>、ν<sub>C=O-网球线</sub>、ν<sub>苯环骨架-网球线</sub>、β<sub>CH2-网球线</sub>、γ<sub>CH2-网球线</sub>、β<sub>CH-网球线</sub>和γ<sub>CH-网球线</sub>,其化学结构为聚对苯二甲酸乙二醇酯（PET）。变温MIR光谱进一步开展了温度变化对于网球线结构影响的研究。试验发现，在303 K～393 K的温度范围内，网球线结构ν<sub>C=O-网球线</sub>、β<sub>CH-网球线</sub>和γ<sub>CH-网球线</sub>对应的红外吸收强度均发生明显改变，并进一步进行了相关机理的研究。研究拓展了MIR光谱及变温MIR光谱在重要的特种纺织纤维材料（网球线）结构及热变性的研究范围。",
+    "关键词": [
+        "网球线",
+        "中红外光谱",
+        "结构",
+        "热变性"
+    ],
+    "基金资助": [
+        "河北省麻醉药技术创新中心项目(SG2019010)",
+        "河北省一流本科专业建设项目(化学工程与工艺专业)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学;轻工业手工业",
+    "分类号": "O657.33;TS106.42",
+    "页码": "59-64",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:29:21",
+    "论文唯一代码": "CDFZ202302011"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "BN/Fe复合材料的制备及光催化性能研究",
+    "状态": "正常",
+    "发表期刊": "河南化工",
+    "刊发时间": "2023-04-15",
+    "引用量": "0",
+    "下载量": "99",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "靳月红",
+            "author_addresses": [
+                "郑州博特硬质材料有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李文卓",
+            "author_addresses": [
+                "中原工学院材料与化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "次立杰",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "刘书锋",
+            "author_addresses": [
+                "郑州博特硬质材料有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "梁宝岩",
+            "author_addresses": [
+                "中原工学院材料与化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "40 ",
+    "期(Issue)": "04",
+    "摘要": " 以C<sub>3</sub>H<sub>6</sub>N<sub>6</sub>·2H<sub>3</sub>BO<sub>3</sub>为前驱体和纳米Fe<sub>2</sub>O<sub>3</sub>粉末为原料，通过热处理制备了一种BN/Fe复合材料。通过X射线衍射分析，扫描电子显微镜、透射电子显微镜、漫反射光谱等对合成的BN/Fe光催化剂进行表征，研究了其相组成、微结构和光催化性能。Fe<sub>2</sub>O<sub>3</sub>粉末在热处理下被还原为Fe纳米颗粒，合成了多孔结构的BN/Fe复合材料。在可见光照射下B4材料对MO的光降解活性最好，45 min内可快速降解99.3%的MO。",
+    "关键词": [
+        "铁",
+        "氮化硼",
+        "光催化",
+        "异质结"
+    ],
+    "基金资助": [
+        "河北省创新能力提升计划项目(205676152H)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学",
+    "分类号": "O643.36;O644.1",
+    "页码": "32-35",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:29:29",
+    "论文唯一代码": "HNHU202304008"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "不同水文条件下莫莫格薹草草丘湿地土壤种子库特征及其与土壤环境的关系",
+    "状态": "正常",
+    "发表期刊": "湿地科学",
+    "刊发时间": "2023-04-15",
+    "引用量": "5",
+    "下载量": "512",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张洺也",
+            "author_addresses": [
+                "中国科学院湿地生态与环境重点实验室,中国科学院东北地理与农业生态研究所",
+                "中国科学院大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "齐清",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "佟守正",
+            "author_addresses": [
+                "中国科学院湿地生态与环境重点实验室,中国科学院东北地理与农业生态研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "tongshouzheng@iga.ac.cn"
+        },
+        {
+            "author_order": 4,
+            "author_name": "姜力",
+            "author_addresses": [
+                "吉林莫莫格国家级自然保护区管理局"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "邹畅林",
+            "author_addresses": [
+                "吉林莫莫格国家级自然保护区管理局"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "秦博",
+            "author_addresses": [
+                "吉林省林业信息中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "张冬杰",
+            "author_addresses": [
+                "滨州学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "王雪宏",
+            "author_addresses": [
+                "鲁东大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 9,
+            "author_name": "安雨",
+            "author_addresses": [
+                "中国科学院湿地生态与环境重点实验室,中国科学院东北地理与农业生态研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "21 ",
+    "期(Issue)": "02",
+    "摘要": " 土壤种子库是湿地植物群落构建与修复的重要物质基础，了解不同水文条件下薹草(Carex)草丘湿地土壤种子库特征及其与土壤环境的关系，对于指导薹草草丘湿地的保护与修复具有重要意义。以莫莫格典型薹草草丘湿地为研究对象，采用野外收集与室内培育相结合的方法，研究湿润、淹水和干旱条件下土壤种子库特征及其与土壤环境因子的关系。结果表明，莫莫格薹草草丘湿地土壤种子库中共萌发湿地植物26科42属65种；瘤囊薹草(Carex schmidtii)在湿润和淹水湿地土壤种子库中都处于优势种地位；淹水湿地土壤种子库的物种丰富度显著高于其他样地；土壤容重是影响不同水文条件下湿地土壤种子库物种组成差异的关键因素；土壤含水量分别与土壤种子库物种丰富度、Simpson指数和Shannon-Wiener指数显著正相关，土壤种子库Pielou指数与土壤pH显著负相关。",
+    "关键词": [
+        "土壤种子库",
+        "草丘湿地",
+        "物种组成",
+        "物种多样性",
+        "莫莫格湿地"
+    ],
+    "基金资助": [
+        "国家自然科学基金项目(41871101)",
+        "中国科学院战略性先导科技专项项目(XDA23060402)资助"
+    ],
+    "专辑": "基础科学",
+    "专题": "生物学",
+    "分类号": "Q948",
+    "页码": "239-247",
+    "页数": "9",
+    "爬取时间": "2025-03-26 06:29:42",
+    "论文唯一代码": "KXSD202302010"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "浙江天目山国家级自然保护区苔藓植物多样性",
+    "状态": "正常",
+    "发表期刊": "生物多样性",
+    "刊发时间": "2023-04-15",
+    "引用量": "6",
+    "下载量": "840",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "陈星",
+            "author_addresses": [
+                "华东师范大学生命科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "涂淑雯",
+            "author_addresses": [
+                "华东师范大学生命科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "戴尊",
+            "author_addresses": [
+                "华东师范大学生命科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "高爽",
+            "author_addresses": [
+                "河北师范大学生命科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "王幼芳",
+            "author_addresses": [
+                "华东师范大学生命科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "邢诗晨",
+            "author_addresses": [
+                "华东师范大学生命科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "魏博嘉",
+            "author_addresses": [
+                "河北师范大学生命科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "唐录艳贵州师范大学生命科学学院",
+            "author_addresses": [
+                "华东师范大学生命科学学院",
+                "河北师范大学生命科学学院",
+                "上海自然博物馆(上海科技馆分馆)自然史研究中心",
+                "石家庄学院资源与环境科学学院",
+                "焦作师范学院",
+                "内蒙古大学生命科学学院",
+                "天目山国家级自然保护区管理局",
+                "华东师范大学生态与环境科学学院",
+                "上海崇明生态研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者，有序（数字）的单位,但没有sup可一一对应：多个作者多个单位，堆积"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 9,
+            "author_name": "师瑞萍",
+            "author_addresses": [
+                "上海自然博物馆(上海科技馆分馆)自然史研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 10,
+            "author_name": "王晓蕊",
+            "author_addresses": [
+                "石家庄学院资源与环境科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 11,
+            "author_name": "刘永英",
+            "author_addresses": [
+                "焦作师范学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 12,
+            "author_name": "赵东平",
+            "author_addresses": [
+                "内蒙古大学生命科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 13,
+            "author_name": "唐霞",
+            "author_addresses": [
+                "华东师范大学生命科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 14,
+            "author_name": "姚雪",
+            "author_addresses": [
+                "华东师范大学生命科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 15,
+            "author_name": "赵明水",
+            "author_addresses": [
+                "天目山国家级自然保护区管理局"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 16,
+            "author_name": "吴晗星",
+            "author_addresses": [
+                "天目山国家级自然保护区管理局"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 17,
+            "author_name": "祁祥斌",
+            "author_addresses": [
+                "天目山国家级自然保护区管理局"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 18,
+            "author_name": "张健",
+            "author_addresses": [
+                "华东师范大学生态与环境科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 19,
+            "author_name": "李敏",
+            "author_addresses": [
+                "河北师范大学生命科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "limin@hebtu.edu.cn"
+        },
+        {
+            "author_order": 20,
+            "author_name": "王健",
+            "author_addresses": [
+                "华东师范大学生命科学学院",
+                "上海崇明生态研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "jwang@bio.ecnu.edu.cn"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "31 ",
+    "期(Issue)": "04",
+    "摘要": " 苔藓植物因个体普遍细小,更易在野外观察及采集中被忽略,故很难获得一个客观、详尽的地区名录,导致对其多样性的研究和保护受到极大限制。本文以浙江天目山国家级自然保护区为例,采用区系生境调查法和样方法相结合的采样策略,沿海拔梯度对不同生境类型内苔藓植物多样性进行了系统调查,并结合多次历史普查资料整理出该保护区的苔藓植物名录。本研究共获得苔藓植物56科143属394种,包括苔类植物16科30属103种,藓类植物40科113属291种,其中有5种为濒危物种。与该保护区历史数据相比,本研究苔藓植物新增科4个、属31个、种182个,包括浙江省新记录科1个、属8个、种33个。区系生境调查法和样方法分别贡献了总物种数的81%和72%,但当调查范围只限定在树附生生境时,采用样方法所获得的总物种数及新增物种数均大于区系生境调查法。虽然代表更大采样努力程度的8个样方/树的调查获得的物种数显著高于2个样方/树的调查结果,但只针对树干0.3 m和1.5 m的2个样方/树的采样结果贡献了75%的物种数。鉴于本研究采集方法获得的较高苔藓植物物种丰富度及新增物种数以及物种组成在时间梯度上的巨大差异,建议在自然保护地开展类似的调查和研究,以期及时更新各个保护地的苔藓植物名录,为其保护研究提供最新的详实数据。",
+    "关键词": [
+        "物种多样性",
+        "苔藓植物",
+        "生物编目",
+        "亚热带森林"
+    ],
+    "基金资助": [
+        "国家自然科学基金(32070228)",
+        "百山祖国家公园科研项目(2021KFLY09)"
+    ],
+    "专辑": "基础科学",
+    "专题": "生物学",
+    "分类号": "Q948",
+    "页码": "152-161",
+    "页数": "10",
+    "爬取时间": "2025-03-26 06:30:00",
+    "论文唯一代码": "SWDY202304015"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "近似数量系统对数学困难儿童数学能力的影响",
+    "状态": "正常",
+    "发表期刊": "科教导刊",
+    "刊发时间": "2023-04-15",
+    "引用量": "1",
+    "下载量": "140",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李烨",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李婷",
+            "author_addresses": [
+                "石家庄幼儿师范高等专科学校"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李蓉",
+            "author_addresses": [
+                "石家庄范西路小学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "邵秀巧",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "11",
+    "摘要": " 近似数量系统是心理学中一个较为新兴的研究领域，它是人类基本数感不可或缺的一部分。为探究提升数学学习困难儿童数学能力的有效路径，本研究以石家庄市2所同质小学二、三、四、五年级数学学习困难儿童为研究对象，调查小学数学学习困难儿童近似数量系统与数学能力之间的关系，并进行干预训练。研究结果发现：数困生近似数量系统敏锐度与数学能力存在显著关联。对近似数量系统进行为期10周20次的训练后，训练组数困生的近似数量系统敏锐度和数学学习能力均得到提升，控制组数困生的近似数量系统敏锐度和数学学习能力训练前后无显著差异。近似数量系统的训练可改善数学学习困难儿童的数学能力。",
+    "关键词": [
+        "数学学习困难儿童",
+        "近似数量系统",
+        "数学能力"
+    ],
+    "基金资助": [
+        "河北省高等学校人文社会科学研究项目“数学学习困难儿童认知加工特征及干预研究”（SQ2022194）",
+        "石家庄市教育科学研究“十四五”规划课题（2021343）",
+        "石家庄市高等教育科学研究项目（20201004）"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "初等教育",
+    "分类号": "G623.5",
+    "页码": "155-158",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:30:16",
+    "论文唯一代码": "KJDS202311050"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "归脾汤对心肌缺血大鼠ERK1/2和p38 MAPK表达的影响",
+    "状态": "正常",
+    "发表期刊": "中国实验方剂学杂志",
+    "刊发时间": "2023-04-11 16:21",
+    "引用量": "1",
+    "下载量": "859",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "吴江立",
+            "author_addresses": [
+                "河北中医药大学科研中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "贾玉涛",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "代成",
+            "author_addresses": [
+                "河北省心脑血管病中医药防治研究重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王晓影",
+            "author_addresses": [
+                "河北省心脑血管病中医药防治研究重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "李睿嘉",
+            "author_addresses": [
+                "河北省心脑血管病中医药防治研究重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "孙佳欢",
+            "author_addresses": [
+                "河北省心脑血管病中医药防治研究重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "周伟伟",
+            "author_addresses": [
+                "河北省心脑血管病中医药防治研究重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "李爱英",
+            "author_addresses": [
+                "河北省心脑血管病中医药防治研究重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "aiyingli1963@163.com"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "30 ",
+    "期(Issue)": "02",
+    "摘要": " 目的：探究归脾汤对心肌缺血大鼠的治疗作用及机制。方法：50只SD大鼠随机分为正常组、模型组、归脾汤低、高剂量组(7.52、15.04 g·kg<sup>-1</sup>)、曲美他嗪组(0.002 g·kg<sup>-1</sup>)。通过灌胃维生素D<sub>3</sub>、高脂饮食和注射异丙肾上腺素的方法建立心肌缺血大鼠模型，药物治疗15 d后，心电图分析其心肌损伤程度；全自动生化分析仪检测血清中总胆固醇（TC）、甘油三酯（TG）、高密度脂蛋白胆固醇（HDL-C）和低密度脂蛋白胆固醇（LDL-C）的变化；苏木素-伊红（HE）和马松（Masson）染色观察心肌组织病理改变；原位末端标记（TUNEL）染色检测心肌细胞凋亡；蛋白免疫印迹法（Western blot）检测大鼠心脏中细胞外信号调节激酶1/2（ERK1/2）、磷酸化ERK1/2（p-ERK1/2）、p38丝裂原活化蛋白激酶（p38 MAPK）、磷酸化p38 MAPK（p-p38 MAPK）、B细胞淋巴瘤-2（Bcl-2）相关X蛋白（Bax）、Bcl-2、剪切胱天蛋白酶-3（cleaved Caspase-3）蛋白表达。结果：与正常组比较，模型组大鼠心电图S-T段下降、血清中TC、TG和LDL-C水平明显升高（P&lt;0.05），心肌组织排列紊乱，心肌细胞凋亡比例增多，心脏中cleaved Caspase-3、Bax、p-p38 MAPK蛋白明显升高（P&lt;0.05）,Bcl-2明显降低（P&lt;0.05）；与模型组比较，归脾汤低、高剂量组和曲美他嗪组S-T段下移有所恢复，TC、TG和LDL-C水平降低，心脏中cleaved Caspase-3和Bax蛋白表达下降，p-p38 MAPK和p-ERK1/2蛋白表达明显升高（P&lt;0.05），心肌组织损伤程度减轻，心肌细胞凋亡比例减少。归脾汤低剂量组Bcl-2表达明显升高（P&lt;0.05）;ERK1/2和p38 MAPK蛋白在各组间差异无统计学意义。结论：归脾汤可能通过激活ERK1/2和p38 MAPK的表达，抑制心肌细胞凋亡，减轻大鼠心肌缺血损伤。",
+    "关键词": [
+        "归脾汤",
+        "心肌缺血",
+        "细胞外调节蛋白激酶1/2(ERK1/2)",
+        "p38丝裂原活化蛋白激酶(p38 MAPK)",
+        "细胞凋亡"
+    ],
+    "基金资助": [
+        "河北省中医药管理局科研计划项目（2022088）",
+        "石家庄学院博士科研启动基金项目（22BS007）"
+    ],
+    "专辑": "医药卫生科技",
+    "专题": "中药学",
+    "分类号": "R285.5",
+    "页码": "1-8",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:30:40",
+    "论文唯一代码": "ZSFX202402001"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "支持大运河文化带建设的财政政策建议",
+    "状态": "正常",
+    "发表期刊": "中国财政",
+    "刊发时间": "2023-04-10",
+    "引用量": "0",
+    "下载量": "59",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张旺芝",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "成军",
+            "author_addresses": [
+                "河北省财政政策信息服务中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "07",
+    "摘要": " &lt;正&gt;2022年京杭大运河实现百年来首次全线贯通，千年运河迎来世纪“复苏”。河北省紧抓大运河文化带建设机遇，稳步推进河北段建设，构建起大运河规划体系，大运河保护传承利用进入全面实施阶段，华北地区地下水水位总体回升，白洋淀水生态得到恢复，京杭大运河河北段建设成效喜人。本文对河北省各级财政支持大运河文化带建设情况进行调研，",
+    "关键词": [],
+    "基金资助": [],
+    "专辑": "经济与管理科学;哲学与人文科学",
+    "专题": "文化;财政与税收",
+    "分类号": "F812.7;G127",
+    "页码": "71-73",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:30:51",
+    "论文唯一代码": "ZGCE202307028"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "基于北斗系统的雪层厚度测量方法",
+    "状态": "正常",
+    "发表期刊": "信息记录材料",
+    "刊发时间": "2023-04-01",
+    "引用量": "0",
+    "下载量": "36",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王奉帅",
+            "author_addresses": [
+                "中国电子科技集团公司第五十四研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王华青",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "贾贝",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "24 ",
+    "期(Issue)": "04",
+    "摘要": " 雪是气候系统重要的组成部分，也是水循环的重要存储部分，为了实时准确地测量出雪层厚度，利用卫星导航信号的多径效应，测量雪层厚度，本文提出了用单天线测量卫星直达信号以及反射信号，根据精密单点定位算法求出天线的实际位置和镜像位置，推导出雪层厚度。结果表明，基于导航信号的多径效应，采用精密单点定位解算的雪层厚度测量，能够精确地测量出雪层厚度，为水文测量提供了有效支撑。",
+    "关键词": [
+        "多径",
+        "雪层厚度",
+        "精密单点定位",
+        "镜像坐标"
+    ],
+    "基金资助": [],
+    "专辑": "信息科技;基础科学",
+    "专题": "自然地理学和测绘学;气象学",
+    "分类号": "P228.4;P412",
+    "页码": "204-206",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:31:05",
+    "论文唯一代码": "CXJL202304064"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "《沼泽深处的女孩》:重塑野性表达",
+    "状态": "正常",
+    "发表期刊": "电影文学",
+    "刊发时间": "2023-04-01",
+    "引用量": "1",
+    "下载量": "229",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "赵晶晶",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "袁辉钟",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "07",
+    "摘要": " 影片改编自2019年全球现象级畅销小说《蝲蛄吟唱的地方》,上映后便获得了全球票房冠军。在“与族群的隔离，如何改变一个人”的创作前提下，电影从三个角度切入对“野性”的全新探索与书写，用时间杂糅的方式重塑野性叙事的焦点，给观众全新的野性定义，更设置基娅这样一个完全受自然教化的人来进行一个全新逻辑的、彻底抗争的故事，全方位打破了常规的野性叙事，拓宽了电影界对与自然野性相关的作品创作的方向。",
+    "关键词": [
+        "野性表达",
+        "精神束缚",
+        "反抗力量",
+        "叙事逻辑"
+    ],
+    "基金资助": [],
+    "专辑": "哲学与人文科学",
+    "专题": "戏剧电影与电视艺术",
+    "分类号": "J905",
+    "页码": "161-163",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:31:19",
+    "论文唯一代码": "DYLX202307031"
+}

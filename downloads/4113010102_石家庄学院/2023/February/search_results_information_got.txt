@@ -1,0 +1,878 @@
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "食品企业的知识产权保护方式",
+    "状态": "正常",
+    "发表期刊": "食品与机械",
+    "刊发时间": "2023-02-28",
+    "引用量": "0",
+    "下载量": "209",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "魏雨蒙",
+            "author_addresses": [
+                "石家庄学院科研处"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "39 ",
+    "期(Issue)": "02",
+    "摘要": " &lt;正&gt;由国家知识产权局知识产权保护司编写，知识产权出版社出版的《企业知识产权保护指南》一书，从企业知识产权保护的战略制定、组织管理、人才招聘以及知识产权保护过程中的现存问题等方面进行了论述，对推动中国食品企业实施知识产权保护有着重要的指导意义。(1) 知识产权保护战略制定是基础。了解企业为什么要制定知识产权保护战略，是推动企业实施知识产权保护的前提和基础。知识产权法律制度的主要目的在于保护公众和企业的利益，最大限度地激励人们发明创造，",
+    "关键词": [],
+    "基金资助": [],
+    "专辑": "工程科技Ⅰ辑;经济与管理科学",
+    "专题": "宏观经济管理与可持续发展;工业经济",
+    "分类号": "F426.82;F204",
+    "页码": "244",
+    "页数": "1",
+    "爬取时间": "2025-03-26 06:25:45",
+    "论文唯一代码": "SPJX202302040"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "探究晶型控制剂对纳米碳酸钙形貌影响的研究进展",
+    "状态": "正常",
+    "发表期刊": "煤炭与化工",
+    "刊发时间": "2023-02-26",
+    "引用量": "3",
+    "下载量": "664",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "范可心",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "郝淑贤",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "段趁飞",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "韩甜甜",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "李怡暄",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "赵硕",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "次立杰",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "46 ",
+    "期(Issue)": "02",
+    "摘要": " 纳米碳酸钙是一种来源广泛，储蓄量丰富且工业上使用十分广泛的材料，为了提高碳酸钙的性能和反应活性，满足不同应用领域对纳米碳酸钙的需求，从碳酸钙的几种晶型控制剂类型入手，介绍了一些晶型控制剂的加入对沉淀碳酸钙的晶型、形貌所产生的作用，并进行了SEM分析，按照晶型控制剂种类的差异，对其作用机理做出了说明。结果表明，用单一晶型控制剂在调控碳酸钙晶体的形貌时，存在一定的限制，而复合型添加剂的使用可以改善这一限制，具有更广阔的前景。",
+    "关键词": [
+        "纳米碳酸钙",
+        "纳米碳酸钙的制备",
+        "晶型控制剂",
+        "复合型添加剂",
+        "改性",
+        "形貌"
+    ],
+    "基金资助": [
+        "石家庄市轻质碳酸钙产业技术研究院（228790989A）"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "无机化工;材料科学",
+    "分类号": "TQ132.32;TB383.1",
+    "页码": "143-146+160",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:25:52",
+    "论文唯一代码": "HHGZ202302038"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "加强乡村振兴体制机制保障的研究",
+    "状态": "正常",
+    "发表期刊": "河北农业",
+    "刊发时间": "2023-02-25",
+    "引用量": "0",
+    "下载量": "54",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "周志平",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "马文慧",
+            "author_addresses": [
+                "华北科技学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李凌云",
+            "author_addresses": [
+                "河北日报报业集团"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "杨志莲",
+            "author_addresses": [
+                "石家庄市25中学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "杨志梅",
+            "author_addresses": [
+                "广宗县第一中学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "高英杰",
+            "author_addresses": [
+                "平山县西柏坡学区"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "刘金肖",
+            "author_addresses": [
+                "平山县西柏坡学区"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "02",
+    "摘要": " 建立县、乡垂直的乡村振兴领导机制，使相应的工作有章可循，有法可依，又有专门的机构、人员组织实施，有助于推动乡村振兴的工作大踏步地向前迈进，从而实现共同富裕的奋斗目标。",
+    "关键词": [
+        "乡村振兴",
+        "体制机制",
+        "共同富裕"
+    ],
+    "基金资助": [
+        "2022年河北省委机构编制研究课题（编号：ZJ2022043）"
+    ],
+    "专辑": "农业科技;经济与管理科学",
+    "专题": "农业经济",
+    "分类号": "F323",
+    "页码": "35-37",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:26:01",
+    "论文唯一代码": "HBLI202302002"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "全民健身在构建和谐社会过程中的作用研究",
+    "状态": "正常",
+    "发表期刊": "文体用品与科技",
+    "刊发时间": "2023-02-15",
+    "引用量": "0",
+    "下载量": "22",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "鲍玉芹",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王立娜",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "04",
+    "摘要": " 近年来，越来越多民众参与到全民健身中，全民健身事业在构建和谐社会中发挥着至关重要的作用。本文基于相关政策解读、文献资料查阅、全民健身发展案例分析，对全民健身主要功能、和谐社会主要特征等进行了简要论述，总结出全民健身在构建和谐社会中四方面的正向作用。本文立足于河北省全民健身发展现状，对有效发挥全民健身正向作用提出了“四大融合”建议举措。",
+    "关键词": [
+        "全民健身",
+        "和谐社会",
+        "群众体育",
+        "体育健身"
+    ],
+    "基金资助": [
+        "河北省体育科技研究项目“群众体育在和谐社会构建中发挥正向作用的路径研究”,编号：20222006"
+    ],
+    "专辑": "经济与管理科学;社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G812.4",
+    "页码": "4-6",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:26:11",
+    "论文唯一代码": "WTYP202304002"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "移动机器人动力学方程的约束违约稳定方法",
+    "状态": "正常",
+    "发表期刊": "机械设计与制造",
+    "刊发时间": "2023-02-13 10:41",
+    "引用量": "2",
+    "下载量": "175",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘佳",
+            "author_addresses": "石家庄学院机电学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "杨凯",
+            "author_addresses": "石家庄学院机电学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "杨蓓",
+            "author_addresses": "石家庄学院机电学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "杨伟超",
+            "author_addresses": "石家庄学院机电学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "08",
+    "摘要": " 约束违约是创建多体系统动力学方程的常见问题。Baumgarte稳定方法是处理约束违约问题的经典方法，但选择合适的Baumgarte参数并不容易。这里基于经典的四阶Runge-Kutta法，通过系统的稳定性分析方法探讨了稳定参数的选择问题，缩小了参数的选择范围。对基于Udwadia-Kalaba方程创建的移动机器人解析动力学模型的仿真结果表明：基于稳定区域参数的修正动力学方程的约束误差明显优于未做修正和基于非稳定区域参数的修正动力学方程的约束误差。因此，证明了所提方法的有效性。",
+    "关键词": [
+        "移动机器人",
+        "动力学方程",
+        "Udwadia-Kalaba方程",
+        "约束违约",
+        "Baumgarte稳定方法"
+    ],
+    "基金资助": [
+        "河北省教育厅高等学校科学研究项目（QN2020510）河北省教育厅高等学校科学研究项目（Z2020106）",
+        "石家庄学院博士科研启动基金（18BS014）石家庄学院科研启动基金（18QN002）"
+    ],
+    "专辑": "工程科技Ⅱ辑;信息科技",
+    "专题": "自动化技术",
+    "分类号": "TP242",
+    "页码": "233-236+241",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:26:20",
+    "论文唯一代码": "JSYZ202308041"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "河北省红色旅游高质量发展的营销创新路径研究",
+    "状态": "正常",
+    "发表期刊": "西部旅游",
+    "刊发时间": "2023-02-08",
+    "引用量": "0",
+    "下载量": "342",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "宋晓华",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "03",
+    "摘要": " &lt;正&gt;红色旅游营销创新是以市场需求为基本出发点，通过营销组合要素创新为游客创造价值，从而推动红色旅游高质量发展的重要路径。文章以河北省为例，首先分析河北省红色旅游营销现状，剖析其价值与意义，进而从产品创新、服务创新和宣传创新的角度对河北省红色旅游的营销创新路径进行探讨，给出具体的建议，希望可以为相关从业人员提供参考。",
+    "关键词": [
+        "红色旅游",
+        "高质量发展",
+        "营销创新"
+    ],
+    "基金资助": [
+        "2020年度河北省文化艺术和旅游研究项目“河北红色旅游高质量发展营销路径”（项目编号：HB20-YB006）研究成果"
+    ],
+    "专辑": "经济与管理科学;哲学与人文科学",
+    "专题": "文化;旅游",
+    "分类号": "F592.7;G127",
+    "页码": "10-12",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:26:52",
+    "论文唯一代码": "XBYL202303004"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "氟苯尼考降低生物除磷性能的影响行为及机制解析",
+    "状态": "正常",
+    "发表期刊": "环境科学学报",
+    "刊发时间": "2023-02-02 10:46",
+    "引用量": "10",
+    "下载量": "210",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "赵建伟",
+            "author_addresses": [
+                "青岛理工大学环境与市政工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "袁庆江",
+            "author_addresses": [
+                "青岛理工大学环境与市政工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "秦丞志",
+            "author_addresses": [
+                "青岛理工大学环境与市政工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张虹莹",
+            "author_addresses": [
+                "青岛理工大学环境与市政工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "梁晶晶",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "liangjing123@sina.com"
+        },
+        {
+            "author_order": 6,
+            "author_name": "张奇",
+            "author_addresses": [
+                "青岛洁宝生态科技有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "刘青鑫",
+            "author_addresses": [
+                "青岛洁宝生态科技有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "05",
+    "摘要": " 为探究新兴污染物氟苯尼考（FF）对强化生物除磷（EBPR）的影响及作用机制，构建了序批式反应器，通过不同质量浓度的FF短期和长期暴露，分析了生物除磷效率的变化规律，解析了FF和胞外聚合物的作用机制，明确了EBPR内微生物群落结构对FF的响应特征.研究发现，FF对EBPR性能的影响具有浓度依赖性，即0.1 mg·L<sup>-1</sup>的FF对EBPR的性能没有明显影响，而2.0 mg·L<sup>-1</sup>的FF降低了除磷效率.机制研究表明，2.0 mg·L<sup>-1</sup> FF长期暴露对厌氧阶段磷酸盐的释放没有影响，但降低好氧阶段磷酸盐的过量吸收.三维荧光分析表明，2.0 mg·L<sup>-1</sup> FF对活性污泥的胞外聚合物的结构和成分有明显影响.微生物群落结构分析表明，与空白组相比，2.0 mg·L<sup>-1</sup>的FF提高了Candidatus Competibacter、Tetrasphaera和Terrimonas的相对丰度，分别至19.00%、5.28%和16.28%，但显著地降低了Chinophagaceae的相对丰度.本结果为EBPR工艺处理含FF的废水提供了一定的参考依据.",
+    "关键词": [
+        "氟苯尼考",
+        "生物除磷",
+        "胞外聚合物",
+        "微生物群落"
+    ],
+    "基金资助": [
+        "国家自然科学基金（No.51908305,51978350）",
+        "山东省博士后创新项目（No.202001017）",
+        "华东师范大学上海城市化生态过程与生态恢复重点实验室开放课题（No.SHUES2022A09）",
+        "石家庄市科技计划项目（No.2212403）"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "环境科学与资源利用",
+    "分类号": "X703",
+    "页码": "116-124",
+    "页数": "9",
+    "爬取时间": "2025-03-26 06:27:13",
+    "论文唯一代码": "HJXX202305012"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "制药污泥与花生壳混合热解非等温动力学分析",
+    "状态": "正常",
+    "发表期刊": "安全与环境学报",
+    "刊发时间": "2023-02-01 16:41",
+    "引用量": "1",
+    "下载量": "264",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "杨凯",
+            "author_addresses": [
+                "石家庄学院机电学院",
+                "石家庄市数字医疗康复技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "高朋博",
+            "author_addresses": [
+                "石家庄学院机电学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "孙宏强",
+            "author_addresses": [
+                "石家庄学院机电学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "肖立春",
+            "author_addresses": [
+                "燕山大学环境与化学工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "xlc@ysu.edu.cn"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "23 ",
+    "期(Issue)": "12",
+    "摘要": " 为探究制药污泥(Pharmaceutical Sludge, PhS)与生物质协同热解处置机理，基于非等温法对制药污泥、花生壳(Peanut Shell, PS)及其混合物的热解特性进行试验研究，采用3种无模型法(Flynn-Wall-Ozawa法、Kissinger-Akahira-Sunose法和Starink法)确定样本热解平均表观活化能，并结合主曲线法与CR(Coats-Redfern)最小二乘拟合法对热解机理函数进行研究。结果显示：PS主要有机成分为木质素、纤维素、半纤维素等，PhS主要有机成分为蛋白质、脂肪类及多糖等化合物；除脱水过程外，PS主要为中低温分解，而PhS在中低温和高温均有较明显失重峰，且二者混合热解时随混合质量比不同会出现轻微的协同和抑制效应；中温热解区PS反应活性比PhS略强，此阶段PS和PhS的平均活化能分别为180.3 kJ/mol和194.0 kJ/mol,二者热解机理均属于随机成核和随后生长机理，PS机理函数符合AE2.5方程，PhS则与AE3方程契合度更高；PhS在高温分解区域平均活化能为249.6 kJ/mol,热解机理属于随机成核和随后生长机理，适用于A1.5方程。研究表明PS添加质量分数对PhS热解过程影响较小，且其动力学参数与模型有一定相似性。试验结果可为热解温度、时间、比例等工艺优化参数提供一定理论支撑。",
+    "关键词": [
+        "环境工程学",
+        "制药污泥",
+        "花生壳",
+        "热解",
+        "主曲线法"
+    ],
+    "基金资助": [
+        "河北省科技计划项目(16C1303351005)",
+        "河北省重点研发计划项目(21327213D)",
+        "河北省高等学校科学研究项目(Z2020106)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "有机化工;环境科学与资源利用",
+    "分类号": "X787",
+    "页码": "4507-4514",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:27:29",
+    "论文唯一代码": "AQHJ202312035"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "平凉红牛生长性能、胴体及肉质性状分析",
+    "状态": "正常",
+    "发表期刊": "中国农业科学",
+    "刊发时间": "2023-02-01",
+    "引用量": "6",
+    "下载量": "580",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王秀娟",
+            "author_addresses": [
+                "中国农业科学院北京畜牧兽医研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "高翰",
+            "author_addresses": [
+                "中国农业科学院北京畜牧兽医研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李海鹏",
+            "author_addresses": [
+                "中国农业科学院北京畜牧兽医研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "高雪",
+            "author_addresses": [
+                "中国农业科学院北京畜牧兽医研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "孙宝忠",
+            "author_addresses": [
+                "中国农业科学院北京畜牧兽医研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "程强",
+            "author_addresses": [
+                "泾川县旭康食品有限责任公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "徐磊",
+            "author_addresses": [
+                "中国农业科学院北京畜牧兽医研究所",
+                "安徽省农业科学院畜牧兽医研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "张亚朋",
+            "author_addresses": [
+                "中国农业科学院北京畜牧兽医研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 9,
+            "author_name": "雷元华",
+            "author_addresses": [
+                "中国农业科学院北京畜牧兽医研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 10,
+            "author_name": "魏萌",
+            "author_addresses": [
+                "中国农业科学院北京畜牧兽医研究所",
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 11,
+            "author_name": "李三禄",
+            "author_addresses": [
+                "平凉市牛产业开发办公室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 12,
+            "author_name": "胡俊伟",
+            "author_addresses": [
+                "平凉红牛研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 13,
+            "author_name": "张长庆",
+            "author_addresses": [
+                "平凉市牛产业开发办公室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 14,
+            "author_name": "高会江",
+            "author_addresses": [
+                "中国农业科学院北京畜牧兽医研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 15,
+            "author_name": "李俊雅",
+            "author_addresses": [
+                "中国农业科学院北京畜牧兽医研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 16,
+            "author_name": "张路培",
+            "author_addresses": [
+                "中国农业科学院北京畜牧兽医研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "zhanglupei@caas.cn"
+        },
+        {
+            "author_order": 17,
+            "author_name": "陈燕",
+            "author_addresses": [
+                "中国农业科学院北京畜牧兽医研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "chenyan@caas.cn"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "56 ",
+    "期(Issue)": "03",
+    "摘要": " 【目的】通过研究平凉红牛的生长性能、胴体性状和肉质性状，深入挖掘平凉红牛的肉用特征和遗传特性，为平凉红牛新品种选育提供参考。【方法】试验选取24头平凉红牛阉牛，经强度育肥180 d后屠宰，年龄在24—36月龄，对其体尺、屠宰性能、胴体指数进行测定，并选取其中3头的外脊和大黄瓜条进行肉质测定分析。【结果】经育肥后的成年平凉红牛体重、体高、十字部高、胸围、管围相较于2019年测定的22—28月龄的平凉红牛分别增长6.96%、4.61%、4.43%、4.28%、7.90%，体斜长减少3.52%；胴体重为（417.01±56.94）kg、净肉重为（372.48±54.60）kg、屠宰率为61.56%±1.86%、净肉率为54.92%±2.60%，相较于2010年测定的24月龄平凉红牛数据分别增长12.61%、19.16%、-1.91%、3.82%，肉骨比为8.65±2.00，相较于2012年测定的22—27月龄数据增长27.96%；此外高档肉块重（里脊、外脊、眼肉、上脑）为（51.59±7.92）kg，优质肉块重（臀肉、霖肉、米龙、大黄瓜条、小黄瓜条、辣椒条、肩肉）为（62.62±5.56）kg，分别占净肉重的13.91%±1.45%和17.07%±2.24%，平凉红牛的生长性能和产肉性能良好。在肉品质方面，外脊和大黄瓜条的剪切力分别为2.72 kg和4.43 kg，比市场购买的A3级雪花牛肉分别低19.58%和64.82%，但差异不显著（P&gt;0.05）；外脊和大黄瓜条的粗蛋白含量均达到了20%以上，且平凉红牛外脊的粗蛋白含量显著高于雪花牛肉（P&lt;0.05）。外脊和大黄瓜条的EAA/NEAA比值分别为71%和68%，较高于FAO/WHO的标准值（60%）;EAA/TAA比值分别为42%和41%，略高于FAO/WHO的标准值（40%）。相较于市场购买的A3级雪花牛肉，平凉红牛外脊和大黄瓜条的必需氨基酸和呈味氨基酸含量高；对外脊和大黄瓜条肉块进行氨基酸评分分析，平凉红牛外脊和大黄瓜条的赖氨酸均高于FAO/WHO氨基酸评分标准模式；此外，大黄瓜条中硒含量极显著较高（P&lt;0.01），铁、锌、PUFA含量、n-6/n-3和PUFA/SFA比值均显著较低（P&lt;0.05）；外脊中EPA含量显著较高（P&lt;0.05）。【结论】经过改良和选育，平凉红牛的体格增大、胸围增长，体躯紧凑，肉用性能提高；平凉红牛肉质具有细嫩鲜美、风味浓厚、营养价值高的特点，极具开发利用价值。",
+    "关键词": [
+        "平凉红牛",
+        "生长性能测定",
+        "肉用性能",
+        "肉质性状"
+    ],
+    "基金资助": [
+        "农业农村部政府购买服务项目（19200158）",
+        "国家现代农业产业技术体系（CARS-37）",
+        "中国农业科学院科技创新工程（ASTIP-IAS03）",
+        "西部肉牛种质创新基地建设项目（平科任[2020]27号）"
+    ],
+    "专辑": "农业科技",
+    "专题": "畜牧与动物医学",
+    "分类号": "S823",
+    "页码": "559-571",
+    "页数": "13",
+    "爬取时间": "2025-03-26 06:27:50",
+    "论文唯一代码": "ZNYK202303010"
+}

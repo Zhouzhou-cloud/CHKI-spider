@@ -1,0 +1,1294 @@
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "大米淀粉晶体/非晶体结构耐热性研究",
+    "状态": "正常",
+    "发表期刊": "粮油食品科技",
+    "刊发时间": "2024-06-30 17:16",
+    "引用量": "2",
+    "下载量": "200",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王维",
+            "author_addresses": [
+                "齐齐哈尔大学轻工与纺织学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "杜林楠",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "徐元媛",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "于宏伟",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "yhw0411@163.com"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "32 ",
+    "期(Issue)": "04",
+    "摘要": " 采用中红外（MIR）光谱及二维中红外（2D-MIR）光谱分别开展大米结构及其淀粉晶体/非晶体结构热变性研究。实验发现：大米的红外吸收模式主要包括：ν<sub>OH-大米</sub>、ν<sub>as CH2-大米</sub>、ν<sub>s CH2-大米</sub>、ν<sub>amide-Ⅰ-大米</sub>、ν<sub>amide-Ⅱ-大米</sub>和ν<sub>C-O-大米</sub>。随着测定温度升高（303～393 K），不同产地的大米淀粉晶体/非晶体结构对于热的敏感程度及变化快慢顺序均存在一定的差异性。进一步探究相关机理，认为不同大米淀粉晶体/非晶体结构耐热性存在一定差异性，因而进一步影响其口感。并拓展了MIR光谱及2D-MIR光谱技术在大米结构及其淀粉晶体/非晶体结构热变性的研究范围。",
+    "关键词": [
+        "大米淀粉",
+        "晶体/非晶体结构",
+        "耐热性",
+        "中红外光谱",
+        "二维中红外光谱"
+    ],
+    "基金资助": [
+        "河北省生物制药国际联合中心项目（冀科外函【2022】3号）~~"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "轻工业手工业",
+    "分类号": "TS235.1",
+    "页码": "69-75",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:32:56",
+    "论文唯一代码": "SYKJ202404008"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "河北省乡村旅游与乡村振兴耦合协调发展策略",
+    "状态": "正常",
+    "发表期刊": "石家庄职业技术学院学报",
+    "刊发时间": "2024-06-28",
+    "引用量": "0",
+    "下载量": "151",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李非",
+            "author_addresses": [
+                "石家庄职业技术学院管理系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "周德胜",
+            "author_addresses": [
+                "石家庄学院经济管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "36 ",
+    "期(Issue)": "03",
+    "摘要": " 乡村旅游逐步发展成为促进乡村振兴的重要途径，乡村旅游市场规模不断扩大。构建河北省乡村旅游和乡村振兴耦合评价指标体系，运用综合指数法、系统耦合理论对河北省乡村旅游与乡村振兴的统计数据进行建模分析，了解到河北省乡村旅游和乡村振兴处于明显的耦合阶段，耦合协调度上升为中度协调水平。河北省乡村旅游与乡村振兴在耦合协调发展中还有较大的提升空间，建议构建乡村旅游与乡村产业融合机制，提升乡村旅游产品创新与文化内涵挖掘水平，进一步完善乡村基础设施，提高公共服务质量，推动乡村旅游绿色可持续发展，探索公平合理的利益分配机制。",
+    "关键词": [
+        "乡村振兴",
+        "乡村旅游",
+        "耦合发展",
+        "河北省"
+    ],
+    "基金资助": [
+        "石家庄市哲学社会科学规划课题研究项目(sjzkt2319)"
+    ],
+    "专辑": "社会科学Ⅱ辑;经济与管理科学",
+    "专题": "农业经济;旅游",
+    "分类号": "F592.7;F327",
+    "页码": "41-47",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:33:08",
+    "论文唯一代码": "SJZB202403009"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "黄花地丁结构热变性研究",
+    "状态": "正常",
+    "发表期刊": "煤炭与化工",
+    "刊发时间": "2024-06-26",
+    "引用量": "0",
+    "下载量": "30",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王丽欣",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李冰心",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李思颖",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "朱文瀚",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "张春晓",
+            "author_addresses": [
+                "河北省化学工业研究院有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "闫静",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "师凤莹",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "杨玥",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 9,
+            "author_name": "于宏伟",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "河北省麻醉药技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "47 ",
+    "期(Issue)": "06",
+    "摘要": " 采用中红外（MIR）光谱开展了黄花地丁结构研究。试验发现：黄花地丁结构的红外吸收模式主要包括：ν<sub>C-H-黄花地丁</sub>、ν<sub>asCH<sub>3</sub>-</sub>黄花地丁、νs<sub>CH<sub>3</sub>-黄花地丁</sub>、ν<sub>asCH<sub>2</sub>-</sub>黄花地丁、ν<sub>sCH<sub>2</sub>-</sub>黄花地丁、ν<sub>C=C-黄花地丁</sub>、ν<sub>C=O-黄花地丁</sub>、ν<sub>amideⅠ-黄花地丁</sub>、ν<sub>amideⅡ-黄花地丁</sub>、δ<sub>CH<sub>2</sub>-黄花地丁</sub>、δ<sub>sCH<sub>3</sub>-黄花地丁</sub>、δ<sub>asCH<sub>3</sub>-</sub>黄花地丁和ν<sub>C-O-黄花地丁</sub>。黄花地丁的化学成分主要包括油脂结构、蛋白质结构及多糖结构。采用变温MIR光谱进一步开展黄花地丁热变性研究。试验发现，在303～393 K的温度范围内，随着测定温度的升高，黄花地丁结构主要官能团对应的红外吸收频率及强度均有明显的改变，并进一步对其热变性机理进行了研究。本项研究拓展了MIR光谱及变温MIR光谱在重要的药食同源植物（黄花地丁）结构及热变性的研究范围。",
+    "关键词": [
+        "黄花地丁",
+        "中红外光谱",
+        "油脂",
+        "蛋白质",
+        "多糖",
+        "热变性",
+        "结构"
+    ],
+    "基金资助": [
+        "石家庄科学技术研究与发展计划（221070461）",
+        "河北省高等学校科学技术研究项目（Z2020127）",
+        "石家庄学院课程思政示范课程（KCSZ-202214）"
+    ],
+    "专辑": "工程科技Ⅰ辑;农业科技",
+    "专题": "化学;畜牧与动物医学",
+    "分类号": "S816.7;O657.33",
+    "页码": "147-153",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:33:19",
+    "论文唯一代码": "HHGZ202406034"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "量子点耦合强度对手性Majorana费米子共振交换的调制",
+    "状态": "正常",
+    "发表期刊": "物理学报",
+    "刊发时间": "2024-06-24 11:18",
+    "引用量": "0",
+    "下载量": "72",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "吴海滨",
+            "author_addresses": [
+                "石家庄学院理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘迎娣",
+            "author_addresses": [
+                "石家庄学院理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "刘彦军",
+            "author_addresses": [
+                "石家庄学院理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "李金花",
+            "author_addresses": [
+                "石家庄学院理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "刘建军",
+            "author_addresses": [
+                "石家庄学院理学院",
+                "河北师范大学物理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "liujj@hebtu.edu.cn"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "73 ",
+    "期(Issue)": "13",
+    "摘要": " 本文研究了外部量子点耦合作用下,量子点耦合两个手性Majorana费米子体系的共振交换.为了观察两个手性Majorana费米子的共振交换,提出了一种基于量子反常霍尔绝缘体(QAHI)近邻耦合s波超导体的电路.数值计算的结果表明,通过外部量子点耦合强度可以调节手性Majorana费米子的共振透射.如果经历了共振隧穿的一个手性Majorana费米子与另一个量子点或Majorana零能模发生共振耦合,则可以实现与超导相位无关的非阿贝尔编织操作.因此所设计方案为Majorana费米子的非阿贝尔编织操作提供一种新的方式,这些发现可能在拓扑量子计算的实现中具有潜在的应用价值.",
+    "关键词": [
+        "拓扑超导体",
+        "共振隧穿",
+        "Majorana费米子",
+        "编织"
+    ],
+    "基金资助": [
+        "国家自然科学基金(批准号:12274305,12074097)",
+        "河北省自然科学基金(批准号:A2022106001)",
+        "河北省教育厅科技计划(批准号:QN2022195)资助的课题~~"
+    ],
+    "专辑": "基础科学",
+    "专题": "物理学",
+    "分类号": "O469",
+    "页码": "70-78",
+    "页数": "9",
+    "爬取时间": "2025-03-26 06:33:27",
+    "论文唯一代码": "WLXB202413007"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "聚氯乙烯分子结构中红外光谱研究",
+    "状态": "正常",
+    "发表期刊": "中国氯碱",
+    "刊发时间": "2024-06-20",
+    "引用量": "4",
+    "下载量": "183",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "徐元媛",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "柴嘉欣",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "吉一帆",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "赫士博",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "刘晴晴",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "于宏伟",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "河北省麻醉药技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "06",
+    "摘要": " 采用中红外（MIR）光谱（包括：一维、导数及去卷积MIR光谱）分别开展了聚氯乙烯分子结构研究。实验发现，聚氯乙烯分子结构红外吸收模式主要包括ν<sub>C-H</sub>、■、β<sub>C-H</sub>、γ<sub>C-H</sub>、ν<sub>C-C</sub>、■和ν<sub>C-Cl</sub>。聚氯乙烯分子结构的去卷积MIR光谱的谱图分辨能力要优于相应的一维及导数MIR光谱，可以提供更多晶体/非晶体结构相关的光谱信息。",
+    "关键词": [
+        "中红外光谱",
+        "聚氯乙烯",
+        "晶体/非晶体结构"
+    ],
+    "基金资助": [
+        "石家庄市麻醉药技术创新中心项目（石科[2019]34号）",
+        "河北省生物制药国际联合中心项目（冀科外函[2022]3号）"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学;有机化工",
+    "分类号": "TQ325.3;O657.33",
+    "页码": "29-35",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:33:35",
+    "论文唯一代码": "JLGZ202406007"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "石家庄市营商环境测评及优化研究",
+    "状态": "正常",
+    "发表期刊": "中共石家庄市委党校学报",
+    "刊发时间": "2024-06-15",
+    "引用量": "0",
+    "下载量": "182",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "周德胜",
+            "author_addresses": "石家庄学院经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "陆相林",
+            "author_addresses": "石家庄学院经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "26 ",
+    "期(Issue)": "06",
+    "摘要": " 营商环境是决定一个国家或地区经济活力、竞争力和发展潜力的关键因素之一，良好的营商环境能够有效吸引企业集聚、促进企业可持续成长。通过构建石家庄营商环境评价指标体系，可以分析出石家庄市县域经济发展存在着显著的分档。因此，石家庄市在优化营商环境方面应注重顶层设计与基层实践相结合，不断深化“放管服”改革，不断创新服务方式，加强数字政府建设，以数字政府法治化构建法治化营商环境，着力弥补短板对于全面提振优化石家庄市营商环境，以推动石家庄市各县区经济高质量发展。",
+    "关键词": [
+        "石家庄",
+        "县域发展",
+        "营商环境测评",
+        "熵值法"
+    ],
+    "基金资助": [
+        "石家庄市社会科学界联合会2023年度社科专家培养资助项目“石家庄市营商环境评价及优化研究”（2023zjpy73）的研究成果",
+        "2023年度石家庄市哲学社会科学规划课题研究项目“石家庄市生产性服务业与制造业融合发展研究”（sjzkt2319）的阶段性研究成果"
+    ],
+    "专辑": "社会科学Ⅰ辑;经济与管理科学",
+    "专题": "企业经济",
+    "分类号": "F279.27",
+    "页码": "41-46",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:33:43",
+    "论文唯一代码": "SJZD202406008"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "有机化学实验模块化教学的探索与实践",
+    "状态": "正常",
+    "发表期刊": "造纸技术与应用",
+    "刊发时间": "2024-06-15",
+    "引用量": "0",
+    "下载量": "65",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "陈硕",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王丽欣",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "冯海燕",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王晓燕",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "周健",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "王昆",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "安盼",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "袁帅",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "52 ",
+    "期(Issue)": "02",
+    "摘要": " 针对有机化学实验课程难度较大、学生自主学习积极性差、缺乏理论联系实践以及实践指导理论的知识综合运用能力，利用模块化教学法，探索有机化学实验课程在师范专业培养中的育人功能，运用交互式教学质量评价体系发现问题，推动模块化教学的改革与创新。",
+    "关键词": [
+        "有机化学实验",
+        "模块化教学",
+        "达成度分析",
+        "师范专业认证"
+    ],
+    "基金资助": [
+        "石家庄市高等教育科学研究项目(20230331)",
+        "石家庄学院博士科研启动基金项目(20BS002)"
+    ],
+    "专辑": "工程科技Ⅰ辑;社会科学Ⅱ辑",
+    "专题": "化学;有机化工;高等教育",
+    "分类号": "O62-4;G652.4",
+    "页码": "69-72",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:34:07",
+    "论文唯一代码": "HLZZ202402019"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "TIMSS 2023数学测评：“特点”“框架内容”与“启示”",
+    "状态": "正常",
+    "发表期刊": "数学教育学报",
+    "刊发时间": "2024-06-15",
+    "引用量": "1",
+    "下载量": "1341",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "朱忠明",
+            "author_addresses": [
+                "上海师范大学教育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张令伟",
+            "author_addresses": [
+                "石家庄学院理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "33 ",
+    "期(Issue)": "03",
+    "摘要": " TIMSS是IEA组织的测评参与国与地区学生数学与科学学业成就趋势的一项重要国际比较项目．分析TIMSS 2023数学测评，发现其“变”与“不变”：在测评方式上，采取全数字化测评；在测评设计上，引入群体适应性测试设计；在测评基调上，更加重视问题解决的情境及过程；在测评维度上，仍综合考查内容和认知两个维度，稳中微调．这对中国中小学数学学业质量监测乃至教学实践都具有一定的启示：在借鉴国际共识，凸显时代诉求的理念下，丰富测评方式和测评内涵，迈向多模态信息化方向；关注问题情境和解决过程，落实学生发展核心素养；立足课程模型和知识技能，关注学生高阶思维发展．",
+    "关键词": [
+        "TIMSS 2023",
+        "数学测评",
+        "全数字化测评",
+        "群体适应性测试",
+        "问题解决情境"
+    ],
+    "基金资助": [
+        "教育部人文社会科学研究2020年度项目——中小学生课堂学习机会评价模型的构建与应用研究（20YJC880134）"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "中等教育",
+    "分类号": "G633.6",
+    "页码": "77-81",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:34:23",
+    "论文唯一代码": "SXYB202403015"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "浅析人才强省战略背景下人才政策的包容性问题",
+    "状态": "正常",
+    "发表期刊": "中共石家庄市委党校学报",
+    "刊发时间": "2024-06-15",
+    "引用量": "0",
+    "下载量": "201",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "巩志娟",
+            "author_addresses": [
+                "石家庄学院马克思主义学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王倩",
+            "author_addresses": [
+                "石家庄学院学报编辑部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "26 ",
+    "期(Issue)": "06",
+    "摘要": " 人才强省战略是落实“人才是第一资源”的重要举措，提升人才政策的包容性就是包容多样性人才和多样性发展，实现人才与发展的良性互动。为此，应坚持自我实现和社会发展相结合、立足当前和着眼长远相结合、人才多样和多样成才相结合、特事特办和严格制度相结合的原则，从拓展人才政策适用范围、瞄准发展目标、突出区域优势等方面精准施策，促进人才辈出，为推动高质量发展提供重要的人才支撑。",
+    "关键词": [
+        "人才",
+        "人才强省战略",
+        "人才政策",
+        "包容性"
+    ],
+    "基金资助": [
+        "河北省哲学社会科学基金项目“人才强省战略背景下人才政策的包容性研究”（HB22MK026）的阶段性研究成果"
+    ],
+    "专辑": "社会科学Ⅰ辑;社会科学Ⅱ辑",
+    "专题": "人才学与劳动科学",
+    "分类号": "C964.2",
+    "页码": "20-25",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:34:40",
+    "论文唯一代码": "SJZD202406004"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "含氟药物阿瑞吡坦分子结构的中红外-近红外光谱组学研究",
+    "状态": "正常",
+    "发表期刊": "有机氟工业",
+    "刊发时间": "2024-06-15",
+    "引用量": "1",
+    "下载量": "74",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "徐元媛",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王春润",
+            "author_addresses": [
+                "河北科技大学化学与制药工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "田晨阳",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "李雨情",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "孟肖",
+            "author_addresses": [
+                "山西医科大学基础医学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "柴嘉欣",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "吉一帆",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "于宏伟",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "河北省麻醉药技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "02",
+    "摘要": " 采用中红外（MIR）光谱开展了阿瑞吡坦分子结构的研究。试验发现：阿瑞吡坦分子结构的MIR吸收模式主要包括三唑酮杂环结构中N—H官能团伸缩振动模式(ν<sub>N-H-三唑酮杂环-阿瑞吡坦-MIR</sub>)、苯环结构中C—H官能团伸缩振动模式(ν<sub>C-H-苯环-阿瑞吡坦-MIR</sub>)、CH<sub>3</sub>官能团不对称伸缩振动模式(ν<sub>asCH<sub>3</sub>-阿瑞吡坦-MIR</sub>)、吗啉杂环结构中CH<sub>2</sub>官能团不对称伸缩振动模式(ν<sub>asCH<sub>2</sub>-吗啉杂环-阿瑞吡坦-MIR</sub>)、C—H官能团伸缩振动模式(ν<sub>C-H-阿瑞吡坦-MIR</sub>)、苯环结构中C=C官能团伸缩振动模式(ν<sub>C=C-苯环-阿瑞吡坦-MIR</sub>)、三唑酮杂环结构中C=O官能团伸缩振动模式(ν<sub>C=O-三唑酮杂环-阿瑞吡坦-MIR</sub>)、苯环结构中CF<sub>3</sub>官能团结构不对称伸缩振动模式(ν<sub>asCF<sub>3</sub>-苯环-阿瑞吡坦-MIR</sub>)、苯环结构中C—F官能团结构伸缩振动模式(ν<sub>C-F-苯环-阿瑞吡坦-MIR</sub>)、吗啉杂环结构中C—N官能团结构伸缩振动模式(ν<sub>C-N-吗啉杂环-阿瑞吡坦-MIR</sub>)、C—O官能团伸缩振动模式(ν<sub>C-O-阿瑞吡坦-MIR</sub>)和吗啉杂环结构中CH<sub>2</sub>官能团面内摇摆振动模式(ρ<sub>CH<sub>2</sub>-吗啉杂环-阿瑞吡坦-MIR</sub>)。采用近红外（NIR）光谱进一步开展了阿瑞吡坦分子结构的研究。试验发现：阿瑞吡坦分子结构的NIR吸收模式主要包括三唑酮杂环结构中N—H官能团伸缩振动倍频模式(ν<sub>1-阿瑞吡坦-NIR</sub>)、CH<sub>3</sub>官能团伸缩振动倍频模式(ν<sub>2-阿瑞吡坦-NIR</sub>)、吗啉杂环结构中CH<sub>2</sub>官能团伸缩振动倍频模式(ν<sub>3-阿瑞吡坦-NIR</sub>)、C—H官能团伸缩振动倍频模式(ν<sub>4-阿瑞吡坦-NIR</sub>)、CH<sub>3</sub>官能团不对称伸缩振动和三唑酮杂环结构中C=O官能团伸缩振动的合频模式(ν<sub>5-阿瑞吡坦-NIR</sub>)。MIR-NIR光谱联用技术可以有效开展阿瑞吡坦分子结构的研究。",
+    "关键词": [
+        "阿瑞吡坦",
+        "中红外光谱",
+        "近红外光谱",
+        "结构"
+    ],
+    "基金资助": [
+        "石家庄市麻醉药技术创新中心项目(石科【2019】34号)",
+        "河北省生物制药国际联合中心项目(冀科外函【2022】3号)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学;有机化工",
+    "分类号": "TQ460.72;O657.33",
+    "页码": "12-16+33",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:34:53",
+    "论文唯一代码": "YJFG202402004"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "从《王魁传》到《西阁寄梅记》——士子负心类作品在明初的演变",
+    "状态": "正常",
+    "发表期刊": "安阳师范学院学报",
+    "刊发时间": "2024-06-15",
+    "引用量": "0",
+    "下载量": "38",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王凯",
+            "author_addresses": [
+                "石家庄学院文学与历史学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "辛志英",
+            "author_addresses": [
+                "石家庄学院文学与历史学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "薛杰",
+            "author_addresses": [
+                "石家庄市北郡小学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "26 ",
+    "期(Issue)": "03",
+    "摘要": " 唐宋时期士人阶层盛行婚仕规则，士子科举发迹后即抛弃贫时同居女性而另娶官宦千金。被抛弃的女子多为底层妓女，遇此变故大多含恨自杀，酿成家庭及社会悲剧。宋代士人负心作品正是对婚仕规则的文学性反映，此类作品在明代出现较大的演变，以《西阁寄梅记》为标志，明人改变了宋传奇中男性考取进士后即抛弃旧爱的负心模式，让他们得以偕老，作品同时将叙事焦点从社会与官场生活转移到士人的家庭生活，奠定了男女相恋的“才情型”的故事格调。作品种种演变的背后，体现了明初的政治文化特征。",
+    "关键词": [
+        "《王魁传》",
+        "婚仕规则",
+        "《西阁寄梅记》"
+    ],
+    "基金资助": [
+        "河北省文旅厅文化艺术科学规划和旅游研究项目“河北深州张鷟家族士人心态及作品研究”(项目编号：HB22-YB040)"
+    ],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学",
+    "专题": "中国文学;中国古代史",
+    "分类号": "I207.41;K248.1",
+    "页码": "152-156",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:35:02",
+    "论文唯一代码": "AYSF202403014"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "二甲基硅油中杂质的结构及半定量研究",
+    "状态": "正常",
+    "发表期刊": "炼油与化工",
+    "刊发时间": "2024-06-15",
+    "引用量": "5",
+    "下载量": "151",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "徐元媛",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李穆婵",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李雨情",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "吉一帆",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "柴嘉欣",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "于宏伟",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "河北省麻醉药技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "35 ",
+    "期(Issue)": "03",
+    "摘要": " 采用中红外（MIR）光谱技术开展了二甲基硅油中杂质的结构及半定量研究。实验发现:二甲基硅油分子结构红外吸收模式主要包括:CH<sub>3</sub>官能团不对称伸缩振动模式(ν<sub>asCH<sub>3</sub>-二甲基硅油</sub>)、CH<sub>3</sub>官能团不对称弯曲振动模式(δ<sub>asCH<sub>3</sub>-二甲基硅油</sub>)、CH<sub>3</sub>官能团对称弯曲振动模式(δ<sub>sCH<sub>3</sub>-二甲基硅油</sub>);Si-O官能团伸缩振动模式(ν<sub>Si-O-二甲基硅油</sub>)、Si-C官能团伸缩振动模式(ν<sub>Si-C-二甲基硅油</sub>)和CH<sub>3</sub>官能团面内摇摆振动模式(ρ<sub>CH3-二甲基硅油</sub>)。二甲基硅油中杂质结构红外吸收模式主要包括:C-H官能团伸缩振动模式(ν<sub>C-H-杂质结构</sub>)、CH<sub>2</sub>官能团不对称伸缩振动模式(ν<sub>asCH2-杂质结构</sub>)、CH<sub>2</sub>官能团对称伸缩振动模式(ν<sub>sCH2-杂质结构</sub>)、C=O官能团伸缩振动模式(ν<sub>C=O-杂质结构</sub>)、C=C官能团伸缩振动模式(ν<sub>C=C-杂质结构</sub>)和CH<sub>2</sub>官能团面内摇摆振动模式(ρ<sub>CH2-杂质结构</sub>)。二甲基硅油中杂质结构主要包括:芳基、羰基及烃类等杂质结构,其中芳基及羰基杂质结构含量相对较低,而烃类杂质结构含量则相对较高。MIR光谱初步开展了二甲基硅油中杂质的结构及半定量研究,具有重要的应用研究价值。",
+    "关键词": [
+        "二甲基硅油",
+        "中红外光谱",
+        "杂质",
+        "结构"
+    ],
+    "基金资助": [
+        "石家庄市麻醉药技术创新中心项目（石科【2019】34号）",
+        "河北省生物制药国际联合中心项目（冀科外函【2022】3号）"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "有机化工",
+    "分类号": "TQ264.1",
+    "页码": "14-20",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:35:27",
+    "论文唯一代码": "HLJY202403004"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "大学生信息素养的提升路径研究——以南方科技大学图书馆调研数据为例",
+    "状态": "正常",
+    "发表期刊": "办公室业务",
+    "刊发时间": "2024-06-05",
+    "引用量": "1",
+    "下载量": "400",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "赵晶晶",
+            "author_addresses": [
+                "石家庄学院图书馆"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "11",
+    "摘要": " 全球信息化背景下，图书馆应发挥其资源优势，肩负起培养大学生信息素养能力的使命。文章对当下信息素养服务现状进行分析，以南方科技大学图书馆开展大学生信息素养服务的情况为参考，提出图书馆开展信息素养服务的思路，以期提高图书馆支持学校人才培养的能力。调研结果表明，南方科技大学图书馆开展的信息素养服务形式完备、内容丰富，建议图书馆以信息素养服务为重点，加强信息素养服务内涵建设。",
+    "关键词": [
+        "图书馆",
+        "大学生",
+        "信息素养",
+        "素养教育"
+    ],
+    "基金资助": [],
+    "专辑": "经济与管理科学;社会科学Ⅱ辑;信息科技",
+    "专题": "高等教育;图书情报与数字图书馆",
+    "分类号": "G252.7;G642;G258.6",
+    "页码": "159-161",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:35:40",
+    "论文唯一代码": "BGYW202411052"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "医用润滑剂组成结构的红外光谱研究",
+    "状态": "正常",
+    "发表期刊": "润滑油",
+    "刊发时间": "2024-06-05",
+    "引用量": "2",
+    "下载量": "44",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "于宏伟",
+            "author_addresses": [
+                "石家庄学院",
+                "河北省麻醉药技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "常美玲",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王宁",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "宗鹤宸",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "周子轩",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "李泽腾",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "39 ",
+    "期(Issue)": "03",
+    "摘要": " 采用中红外(MIR)光谱开展了避孕套中医用润滑剂结构的研究。结果发现：医用润滑剂主要包括固态润滑剂和液态润滑剂，其中固态润滑剂的主要结构是高岭石族物质，而液态润滑剂的主要结构是水溶性硅油。研究为探索计生用品中的医用润滑剂结构建立了一种方法，具有一定的应用价值。",
+    "关键词": [
+        "中红外光谱",
+        "计生用品",
+        "医用润滑剂",
+        "结构"
+    ],
+    "基金资助": [
+        "石家庄市麻醉药技术创新中心项目[石科(2019)34号]",
+        "河北省生物制药国际联合中心项目[冀科外函(2022)号]"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学;燃料化工;石油天然气工业",
+    "分类号": "O657.33;TE626.39",
+    "页码": "30-38",
+    "页数": "9",
+    "爬取时间": "2025-03-26 06:35:53",
+    "论文唯一代码": "RHYD202403008"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "三种废渣吸附剂对稀土氨氮废水的吸附动力学研究",
+    "状态": "正常",
+    "发表期刊": "化工管理",
+    "刊发时间": "2024-06-01",
+    "引用量": "0",
+    "下载量": "179",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "杜明展",
+            "author_addresses": [
+                "行唐县市同乡人民政府"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘进峰",
+            "author_addresses": [
+                "石家庄学院机电学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "h116996@163.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "陈莉荣",
+            "author_addresses": [
+                "内蒙古科技大学能源与环境学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "16",
+    "摘要": " 以改性的粉煤灰、煤矸石、水淬渣作为材料，研究了三种废渣稀土氨氮废水中氨氮的吸附性能及其吸附动力学行为，讨论了吸附平衡时间、反应级数、吸附速率控制步骤，并将三种废渣的吸附性能进行比较。实验结果表明：粉煤灰与水淬渣较先达到吸附平衡，煤矸石与准二级动力学拟合直线的相关性最好为0.997 8，化学反应是改性粉煤灰、改性水淬渣吸附氨氮的主要控制步骤，液膜扩散、颗粒扩散是改性煤矸石吸附氨氮的主要控制步骤。",
+    "关键词": [
+        "废渣",
+        "吸附剂",
+        "稀土氨氮废水",
+        "动力学"
+    ],
+    "基金资助": [],
+    "专辑": "经济与管理科学;工程科技Ⅰ辑",
+    "专题": "环境科学与资源利用",
+    "分类号": "X703",
+    "页码": "70-73",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:36:04",
+    "论文唯一代码": "FGGL202416014"
+}

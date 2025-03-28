@@ -1,0 +1,2118 @@
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "混合式教学模式下分析化学课程思政的教学探索与实践",
+    "状态": "正常",
+    "发表期刊": "广州化工",
+    "刊发时间": "2023-06-30",
+    "引用量": "0",
+    "下载量": "52",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张玲",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "孙翠红",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "51 ",
+    "期(Issue)": "12",
+    "摘要": " 鉴于当前化学类专业中分析化学课程中存在师生互动少、教学效果不好等问题，通过将线上与线下教学有机统一，利用网络资源对课堂进行教学改革，达到学生个性化、差异化学习的目的。同时将思政内容结合教学设计，通过对课程教学中的人文关怀及思政教育的合理融入，对学生进行知识和世界观、人生观的教育，以期达到不着痕迹，潜移默化培养学生的奋斗、创新精神，提高学生的思想素质的目的。",
+    "关键词": [
+        "“线上线下”混合教学",
+        "课程思政",
+        "分析化学",
+        "高校课改"
+    ],
+    "基金资助": [
+        "2021年河北省应用技术大学研究会课题(JY2021002)",
+        "2021年石家庄学院分析化学课程思政示范课程(KCSZ-202116)",
+        "2022年石家庄市高等教育科学研究项目(20220341)",
+        "石家庄市教育科学研究“十四五”规划课题(2021250)"
+    ],
+    "专辑": "工程科技Ⅰ辑;社会科学Ⅱ辑",
+    "专题": "化学;高等教育",
+    "分类号": "O65-4;G641",
+    "页码": "289-290+296",
+    "页数": "3",
+    "爬取时间": "2025-03-25 04:21:08",
+    "论文唯一代码": "GZHA202312086"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "食用淀粉结构中红外光谱研究",
+    "状态": "正常",
+    "发表期刊": "江苏调味副食品",
+    "刊发时间": "2023-06-28",
+    "引用量": "19",
+    "下载量": "483",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李泽腾",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "郭雨欣",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "于佳琳",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张美环",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "刘荣",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "于宏伟",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "02",
+    "摘要": " 采用中红外（MIR）光谱技术进行淀粉的结构研究。实验发现，淀粉结构红外吸收模式主要为C-O伸缩振动模式(ν<sub>C-O-食用淀粉</sub>);马铃薯淀粉、红薯淀粉、木薯淀粉、玉米淀粉、小麦淀粉及豌豆淀粉均含有晶体结构和非晶体结构；小麦淀粉和红薯淀粉的结构与其他淀粉存在一定的差异。",
+    "关键词": [
+        "食用淀粉",
+        "晶体/非晶体结构",
+        "中红外光谱"
+    ],
+    "基金资助": [
+        "河北省高等学校科学技术研究项目(ZC2021250)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学;轻工业手工业",
+    "分类号": "TS231;O657.33",
+    "页码": "34-38",
+    "页数": "5",
+    "爬取时间": "2025-03-25 04:21:59",
+    "论文唯一代码": "JSTW202302009"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "1990—2020年地表物候时空变化对高寒湿地景观演变过程的响应",
+    "状态": "正常",
+    "发表期刊": "生态学报",
+    "刊发时间": "2023-06-26 14:20",
+    "引用量": "2",
+    "下载量": "477",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "胡喆媛",
+            "author_addresses": [
+                "北京林业大学水土保持学院",
+                "水土保持国家林业局重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张学霞",
+            "author_addresses": [
+                "北京林业大学水土保持学院",
+                "水土保持国家林业局重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "zhangxuexia@bjfu.edu.cn"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张雪",
+            "author_addresses": [
+                "北京林业大学水土保持学院",
+                "石家庄学院资源与环境科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王景萍",
+            "author_addresses": [
+                "北京林业大学水土保持学院",
+                "水土保持国家林业局重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "王翔宇",
+            "author_addresses": [
+                "北京林业大学水土保持学院",
+                "水土保持国家林业局重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "21",
+    "摘要": " 地表物候是生态系统环境变化的敏感指示器。为探讨物候时空变化和湿地景观生态格局与过程之间的关系，论文以若尔盖高寒湿地为例，基于1990—2020年GIMMS3g NDVI和MODIS NDVI数据集、7期Landsat TM/OLI卫星遥感数据，采用阈值法提取地表物候参数，基于面向对象的分类方法解译出土地利用数据，利用土地覆盖转换指数模型(PNTI)刻画高寒湿地动态变化过程，分析地表物候时空变化与高寒湿地景观格局演变过程的关系。结果表明：(1)1990—2020年研究区呈现前期湿地面积减少后期趋于稳定的特征，根据土地利用类型演变路径和强度分为动态平衡区、退化演变区和恢复演变区，面积占比分别56.84%、 28.14%和15.02%。(2)植被返青期(SOS)、生长盛期(POS)呈南早北晚，枯黄期(EOS)呈中间早周边晚，生长期长度(LOS)呈中间短周边长、西北短东南长的空间分布特征。SOS分布在第96—149天，EOS分布在第249—284天，LOS持续125—173d, POS分布在第179—209天。SOS、POS先推迟后提前、EOS先提前后推迟，LOS呈现先缩短后延长的规律，1990—2005年变化率为-10.8d/10a,而2000—2020年为2.4d/10a。(3) SOS、EOS对高寒湿地恢复/退化演变路径响应敏感，对演变路径方向相同但演变强度等级不同的湿地景观格局演变过程响应则不敏感。SOS、EOS在退化演变区的变化率整体上高于SOS、EOS在恢复演变区及动态平衡区的变化率。SOS提前和EOS推迟可作为高寒湿地退化的指示指标，具有生态预警作用。",
+    "关键词": [
+        "地表物候",
+        "阈值法",
+        "PNTI指数模型",
+        "时空变化",
+        "若尔盖高寒湿地"
+    ],
+    "基金资助": [
+        "国家重点研发计划(2018YFA0606102)国家重点研发计划(2017YFC0504802)"
+    ],
+    "专辑": "基础科学;农业科技;工程科技Ⅰ辑",
+    "专题": "环境科学与资源利用",
+    "分类号": "X171.1",
+    "页码": "8998-9009",
+    "页数": "12",
+    "爬取时间": "2025-03-25 04:23:11",
+    "论文唯一代码": "STXB202321028"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "战国时期燕国农业的多种经营",
+    "状态": "正常",
+    "发表期刊": "农业考古",
+    "刊发时间": "2023-06-26",
+    "引用量": "0",
+    "下载量": "249",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李爱玲",
+            "author_addresses": [
+                "石家庄学院文学与历史学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "03",
+    "摘要": " 自然环境和区位特点为多种经营提供了条件。畜牧业是燕国农业的支柱产业之一，颇受重视。战国时已有专门饲养牲畜的苑囿，规模和数量均十分可观，在制骨业、皮革业和殉牲中均有体现。燕人广泛种植经济林，枣、栗种植呈现出规模化和专业化的态势，多植于园圃或野外，果实以备充饥外，亦成为重要之商品；燕国蚕桑业久负盛名，地桑和高干桑已被普遍种植，尤以地桑为最。渔猎经济是燕国农业的重要补充，渔业生产趋于完善，极可能已人工养鱼；皮甲胄的制作多以野生动物皮为主，饲养牲畜之皮为辅。多种经营使农业资源获得充分的开发利用，土地、人力和畜力资源得到合理配置，在维持农业生态平衡的基础上提升了御灾能力，加快了农业的商品化，推进了农业的综合发展。",
+    "关键词": [
+        "战国",
+        "燕国",
+        "多种经营",
+        "畜牧业",
+        "果树种植业",
+        "渔猎"
+    ],
+    "基金资助": [
+        "石家庄学院2021年博士科研启动基金项目“战国燕国经济研究”（项目编号：21BS025）"
+    ],
+    "专辑": "农业科技;哲学与人文科学;经济与管理科学",
+    "专题": "中国古代史;农业经济",
+    "分类号": "F329;K231",
+    "页码": "87-93",
+    "页数": "7",
+    "爬取时间": "2025-03-25 04:23:54",
+    "论文唯一代码": "NOSE202303011"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "分辨率在中红外光谱实践教学中的应用",
+    "状态": "正常",
+    "发表期刊": "煤炭与化工",
+    "刊发时间": "2023-06-26",
+    "引用量": "0",
+    "下载量": "51",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "郭柯馨",
+            "author_addresses": [
+                "石家庄学院教师教育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "芦小刚",
+            "author_addresses": [
+                "石家庄学院教师教育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "于佳琳",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "刘荣",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "于宏伟",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "徐元媛",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "46 ",
+    "期(Issue)": "06",
+    "摘要": " 开展了分辨率在中红外光谱实践教学中的应用研究。通过选择不同的中红外光谱分辨率(包括：0.5 cm<sup>-1</sup>、1.0 cm<sup>-1</sup>、2.0 cm<sup>-1</sup>、4.0 cm<sup>-1</sup>、8.0 cm<sup>-1</sup>、16 cm<sup>-1</sup>、32 cm<sup>-1</sup>及64 cm<sup>-1</sup>)开展了聚丙烯结构研究。试验发现，聚丙烯分子官能团红外吸收模式主要包括：CH<sub>3</sub>不对称伸缩振动模式■、CH<sub>3</sub>对称伸缩振动模式■、CH<sub>2</sub>不对称伸缩振动模式（ν as CH<sub>2</sub>）、CH<sub>2</sub>对称伸缩振动模式■、CH<sub>3</sub>不对称弯曲振动模式■、CH<sub>3</sub>对称弯曲振动模式■、异丙基结构弯曲振动模式■和等规结晶振动模式(δ<sub>crystalline</sub>)等。选择分辨率2.0 cm<sup>-1</sup>，聚丙烯分子MIR光谱的谱图分辨能力要优于其它选择。",
+    "关键词": [
+        "分辨率",
+        "中红外光谱",
+        "聚丙烯",
+        "官能团",
+        "红外吸收模式"
+    ],
+    "基金资助": [
+        "河北省高等学校科学技术研究项目（Z2020113）",
+        "2021年河北省一流本科专业建设项目（石家庄学院化学工程与工艺专业）",
+        "石家庄学院中外合作办学专项教学改革研究与资助项目,石家庄学院博士科研启动基金（20BS008）,石家庄学院课程思政示范课程、教学名师和团队立项建设项目（KCSZ-202117）,石家庄学院校级一流本科课程（YLKC-202105）,石家庄学院新工科研究与改革实践项目（JGXM-202171G）",
+        "石家庄市高等教育科学研究项目（20230325）"
+    ],
+    "专辑": "工程科技Ⅰ辑;社会科学Ⅱ辑",
+    "专题": "化学;高等教育",
+    "分类号": "G642;O657.33-4",
+    "页码": "131-138",
+    "页数": "8",
+    "爬取时间": "2025-03-25 04:25:41",
+    "论文唯一代码": "HHGZ202306035"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "气相色谱法检测R-3-氨基丁醇的研究",
+    "状态": "正常",
+    "发表期刊": "煤炭与化工",
+    "刊发时间": "2023-06-26",
+    "引用量": "1",
+    "下载量": "104",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘丽荣",
+            "author_addresses": [
+                "美邦美和生物科技有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王晓茹",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "河北省高校微生物制药应用技术研发中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "穆玉敏",
+            "author_addresses": [
+                "美邦美和生物科技有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张浩月",
+            "author_addresses": [
+                "美邦美和生物科技有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "杨梦茜",
+            "author_addresses": [
+                "美邦美和生物科技有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "刘东",
+            "author_addresses": [
+                "美邦美和生物科技有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "任丽梅",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "河北省高校微生物制药应用技术研发中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "46 ",
+    "期(Issue)": "06",
+    "摘要": " 采用气相色谱内标法测定R-3-氨基丁醇的含量，R-3-氨基丁醇与相关溶剂的分离度较高。通过外标法和内标法的比较，其内标法的RSD值（0.46%和0.94%）远小于外标法（2.75%和2.17%）。R-3-氨基丁醇的浓度在5.0～99.0 mg/mL范围内与响应比值的线性关系良好，线性回归方程为Y=0.102 6X-0.199 3,R<sup>2</sup>=0.999 2，方法的检测限和定量限分别为0.50mg/mL和1.52 mg/mL，回收率为95.2%～99.7%,RSD值为0.13%～0.97%。实验结果表明，气相色谱内标法的准确度高，重复性好，在生产过程中监测和成品质量控制领域具有广泛的应用和参考价值。",
+    "关键词": [
+        "R-3-氨基丁醇",
+        "气相色谱法",
+        "内标法",
+        "线性范围",
+        "精密度"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学;有机化工",
+    "分类号": "O657.71;TQ460.4",
+    "页码": "148-152+160",
+    "页数": "6",
+    "爬取时间": "2025-03-25 04:26:51",
+    "论文唯一代码": "HHGZ202306038"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "新工科建设下工科大学生工匠精神培育路径研究",
+    "状态": "正常",
+    "发表期刊": "公关世界",
+    "刊发时间": "2023-06-25",
+    "引用量": "1",
+    "下载量": "226",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "檀慧",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "邢晔",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "杨寅红",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王卫博",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "11",
+    "摘要": " 工匠精神作为一种职业精神，是对劳动精神良好特质和优秀素养的提炼和凝结，新时代对工匠精神的呼唤是制造强国、产业转型升级等一系列国家战略的必然选择。新工科建设作为工程教育改革的重大行动计划，与工科大学生工匠精神的培育具有核心目标、内在要求和行动方案等方面的共性。本文对新工科建设背景下工科大学生工匠精神的时代价值和培育困境进行分析，从新工科建设、课程思政、实践平台、校园文化等角度对工科大学生工匠精神的培育进行思考和探索。",
+    "关键词": [
+        "新工科建设",
+        "工科大学生",
+        "工匠精神",
+        "培育路径"
+    ],
+    "基金资助": [
+        "2022年度石家庄市劳动教育“十四五”教育科学规划专项课题:工科大学生工匠精神培育路径研究（编号：LDJY22-020）的研究成果"
+    ],
+    "专辑": "社会科学Ⅱ辑;工程科技Ⅱ辑",
+    "专题": "工业通用技术及设备;高等教育",
+    "分类号": "G641;TB-4",
+    "页码": "89-91",
+    "页数": "3",
+    "爬取时间": "2025-03-25 04:27:38",
+    "论文唯一代码": "GGSJ202311033"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "基于相对熵-TOPSIS法的石家庄市数字贸易发展研究",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2023-06-20",
+    "引用量": "0",
+    "下载量": "196",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "金春",
+            "author_addresses": "石家庄学院经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "谢鑫烁",
+            "author_addresses": "石家庄学院经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "3092285459@qq.com"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "25 ",
+    "期(Issue)": "04",
+    "摘要": " 当前数字经济迅猛发展，数字贸易依托于数字经济应运而生。石家庄市高度重视城市数字化转型，将数字贸易发展作为打造“中国数字新城”的关键引擎。运用相对熵-TOPSIS法，从基础设施、数字技能、贸易规模、贸易潜力四个维度对石家庄市2016-2020年的数字贸易发展水平进行测度。结果表明，石家庄市数字贸易发展存在电信业务基础建设不完善、科研与教育资金投入力度不足、传统贸易数字化转型效果不明显、对外开放水平有待提高的问题，并有针对性地提出了发展建议。",
+    "关键词": [
+        "数字贸易",
+        "相对熵-TOPSIS法",
+        "发展对策"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑;经济与管理科学",
+    "专题": "信息经济与邮政经济;贸易经济",
+    "分类号": "F49;F752.8",
+    "页码": "92-96",
+    "页数": "5",
+    "爬取时间": "2025-03-25 04:28:27",
+    "论文唯一代码": "SSZK202304015"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "乡村振兴背景下省会石家庄数字乡村建设的路径与策略研究",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2023-06-20",
+    "引用量": "1",
+    "下载量": "368",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "安林丽",
+            "author_addresses": [
+                "石家庄学院经济管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "韩瑞泽",
+            "author_addresses": [
+                "中国人民大学经济学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "25 ",
+    "期(Issue)": "04",
+    "摘要": " 数字乡村建设是实现中国式现代化乡村振兴的重要途径。河北省会石家庄的数字乡村建设在信息化基础设施、智慧农业、电商扶贫、乡村治理等方面已经取得了一定成果，但是还存在人才匮乏、信息基础设施薄弱、乡村数字化应用水平滞后等问题。据此，可以从提升数字乡村治理水平，加强数字化人才队伍建设，推广产业物联网，提供分类实施方案等方面加强数字化建设，实现乡村振兴和高质量发展。",
+    "关键词": [
+        "乡村振兴",
+        "石家庄",
+        "数字乡村"
+    ],
+    "基金资助": [
+        "石家庄市哲学社会科学规划课题研究项目“数字经济助力石家庄建设京津冀协同发展中心城市研究”（2022425）"
+    ],
+    "专辑": "社会科学Ⅱ辑;经济与管理科学",
+    "专题": "农业经济;信息经济与邮政经济",
+    "分类号": "F49;F327",
+    "页码": "102-106",
+    "页数": "5",
+    "爬取时间": "2025-03-25 04:29:27",
+    "论文唯一代码": "SSZK202304017"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "利用数字化技术助推省会红色旅游产业发展的路径研究",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2023-06-20",
+    "引用量": "8",
+    "下载量": "805",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "侯天霖",
+            "author_addresses": [
+                "石家庄学院文学与历史学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "燕建芬",
+            "author_addresses": [
+                "石家庄学院人事处"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "1787606702@qq.com"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "25 ",
+    "期(Issue)": "04",
+    "摘要": " 近年来，随着数字技术的发展，利用数字化技术推动旅游业升级转型成为大势所趋，人们可以足不出户即享受到丰富的红色旅游资源，同时也可以利用现代通讯技术实现“线上下单、线下成交”，更加便捷地游览石家庄红色旅游景点。然而，石家庄红色旅游仍存在着宣传不足和数字化基础设施建设落后等问题，制约了旅游业的进一步发展。为此，必须利用新媒体营销手段，不断扩展石家庄红色旅游品牌知名度；依托数字化技术，推进数字化软硬件设施建设，打造智慧旅游，推动省会经济高质量发展。",
+    "关键词": [
+        "石家庄",
+        "红色旅游",
+        "数字技术"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学;经济与管理科学",
+    "专题": "考古;旅游;信息经济与邮政经济",
+    "分类号": "K878;F592.7;F49",
+    "页码": "120-125",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:28:21",
+    "论文唯一代码": "SSZK202304021"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "石家庄红色教育培训产业高质量发展研究",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2023-06-20",
+    "引用量": "0",
+    "下载量": "253",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "段迎豪",
+            "author_addresses": "石家庄学院经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "左晓丽",
+            "author_addresses": "石家庄学院经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "25 ",
+    "期(Issue)": "04",
+    "摘要": " 石家庄红色旅游资源类型多、品质高。依托西柏坡、正定开展的红色教育培训是石家庄旅游文化产业发展的新亮点。石家庄红色教育培训发展存在规模小、影响弱、品牌效应不强、行业建设与管理滞后等问题。在促进石家庄高质量发展背景下，为将石家庄打造成为与韶山、井冈山、延安齐名的全国红色教育培训一线城市，应通过完善顶层设计，研发精品课程、打造核心产品，打造西柏坡红色教育培训品牌、建设红色教育培训一线城市等举措大力发展石家庄红色教育培训新业态。",
+    "关键词": [
+        "石家庄",
+        "红色教育培训",
+        "西柏坡",
+        "高质量发展"
+    ],
+    "基金资助": [
+        "石家庄市教育科学研究所2021年度规划课题“中小学研学旅行导师培养模式研究”（2021160）"
+    ],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学;社会科学Ⅰ辑;经济与管理科学",
+    "专题": "文化;中国共产党;思想政治教育;旅游;文化经济",
+    "分类号": "D642;D261;F592.7;G124",
+    "页码": "126-129+136",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:28:31",
+    "论文唯一代码": "SSZK202304027"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "全产业链视角的石家庄生物制药产业分析",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2023-06-20",
+    "引用量": "0",
+    "下载量": "355",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王素霞",
+            "author_addresses": "石家庄学院经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "毕润薇",
+            "author_addresses": "石家庄学院经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "522609551@qq.com"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "25 ",
+    "期(Issue)": "04",
+    "摘要": " 基于全产业链理论，对石家庄生物制药产业进行深入分析，可以发现目前石家庄生物制药产业产业结构不合理、专业医药人才缺失、产业链发展不平衡，从而导致了产业链整合度不高、创新研发能力不够、产业链延伸不足的问题。为此，可分别从培育龙头企业、加大研发力度、延伸产业链条三个方面采取建立集约式生产链、构建全产业链创新网络、打造品牌输出平台的发展举措来提升石家庄市生物制药产业在新的市场格局中的有利地位。",
+    "关键词": [
+        "生物制药行业",
+        "全产业链",
+        "融资渠道",
+        "研发力度"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑;经济与管理科学",
+    "专题": "工业经济",
+    "分类号": "F426.72",
+    "页码": "87-91",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:28:40",
+    "论文唯一代码": "SSZK202304014"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "知识产权大数据在产业集群创新发展中的应用——以专利数据为例",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2023-06-20",
+    "引用量": "2",
+    "下载量": "237",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "郝家宝",
+            "author_addresses": [
+                "石家庄学院法学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "杜倩",
+            "author_addresses": [
+                "石家庄学院法学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李西娟",
+            "author_addresses": [
+                "石家庄学院法学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "孙英伟",
+            "author_addresses": [
+                "石家庄学院法学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "万志秋",
+            "author_addresses": [
+                "石家庄知律知识产权管理咨询有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "25 ",
+    "期(Issue)": "04",
+    "摘要": " 产业集群创新发展离不开数据要素的推动作用，以专利信息为核心的知识产权信息分析一直是产业竞争情报分析领域的重要分析内容之一，随着全球知识产权信息数据呈级数增长，知识产权信息已然成为知识产权大数据。从知识产权的内涵出发，其既具有Volume（数据容量大）、Variety（数据种类多）、Velocity（处理速度快）和Value（应用价值高）四个方面的大数据基本特征，还具有Veracity（真实性）、Validity（有效性）、Variability（可变性）、Visibility（可视性）四个方面的领域特征，从而论证知识产权数据属于大数据范畴。从知识产权大数据的角度出发，其在产业集群创新发展得到了广泛应用。",
+    "关键词": [
+        "大数据",
+        "知识产权",
+        "产业集群",
+        "创新发展"
+    ],
+    "基金资助": [
+        "2021年度石家庄市哲学社会科学规划课题研究项目“高价值专利培育视角下石家庄市生物医药健康产业发展研究”（4-23）",
+        "河北省应用技术大学研究会项目“新工科背景下专利信息检索与运用课程研究与实践”（JY2021022）"
+    ],
+    "专辑": "社会科学Ⅱ辑;社会科学Ⅰ辑;经济与管理科学",
+    "专题": "民商法;宏观经济管理与可持续发展",
+    "分类号": "F204;D923.4",
+    "页码": "75-80",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:29:03",
+    "论文唯一代码": "SSZK202304012"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "辩证思维运用于新时代网络道德建设的三维探析",
+    "状态": "正常",
+    "发表期刊": "哈尔滨学院学报",
+    "刊发时间": "2023-06-20",
+    "引用量": "2",
+    "下载量": "197",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "杜凌飞",
+            "author_addresses": [
+                "中央财经大学马克思主义学院",
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下多个单位：单个作者多个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "44 ",
+    "期(Issue)": "06",
+    "摘要": " 辩证思维是基于唯物辩证法形成的思维方式和科学方法，对新时代网络道德建设具有重要价值。辩证思维遵循“把握特质、精准切入、形成思路”的基本逻辑，可以明晰新时代网络道德建设具体路径：巧用联系发展思维，构建网上网下同心圆；活用对立统一思维，凝聚网络道德建设的优势力量；善用重点论思维，培育网络道德建设的关键领域；运用系统思维，形成网络道德建设合力。",
+    "关键词": [
+        "辩证思维",
+        "网络道德建设",
+        "思维方式",
+        "唯物辩证法"
+    ],
+    "基金资助": [
+        "国家社科基金高校思政课研究专项2020年度资助项目,项目编号：20VSZ071",
+        "石家庄市哲学社会科学规划课题2023年度项目"
+    ],
+    "专辑": "社会科学Ⅱ辑;社会科学Ⅰ辑;信息科技",
+    "专题": "思想政治教育;新闻与传媒",
+    "分类号": "D648;G206",
+    "页码": "10-14",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:29:17",
+    "论文唯一代码": "HEBS202306003"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "高质量教育发展背景下的教师教育数字化转型之思",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2023-06-20",
+    "引用量": "6",
+    "下载量": "1183",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "郑爽",
+            "author_addresses": "石家庄学院教师教育学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "芦小刚",
+            "author_addresses": "石家庄学院教师教育学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王茹",
+            "author_addresses": "石家庄学院教师教育学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "25 ",
+    "期(Issue)": "04",
+    "摘要": " 高质量教育发展背景下教师教育数字化转型势在必行，其必要性在于它是满足我国教育高质量发展和中国式教育现代化发展的需要，是落实国家教育数字化战略发展的需要，是满足个性化教育人才发展的需要。教师教育数字化转型具有教育或高等教育数字化转型的基本特征，同时具有其独有特征，表现为素养本位和质量至上的教师教育价值取向、全程浸入式并基于循证的教师教育过程、立足本土化和国际化的教师教育空间、教师教育手段的智能化和信息化。应从优化基于高质量的教师教育人才观指引下的教师教育数字化转型顶层设计、搭建基于未来教师领导力和胜任力提升的融合性资源平台、开展师生信息素养和数字能力提升工程、完善教师教育数字化转型的保障体系等方面提升教师教育数字化转型质量。",
+    "关键词": [
+        "高质量教育",
+        "教师教育",
+        "数字化转型"
+    ],
+    "基金资助": [
+        "河北省高等教育教学改革与实践项目“基于教育天赋和专业化培养的卓越职前教师成长研究”（2019GJJG528）"
+    ],
+    "专辑": "社会科学Ⅱ辑;信息科技",
+    "专题": "教育理论与教育管理;高等教育;计算机软件及计算机应用",
+    "分类号": "G659.2;G434",
+    "页码": "32-38+115",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:29:36",
+    "论文唯一代码": "SSZK202304004"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "数字经济背景下石家庄市非物质文化遗产保护与传承研究",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2023-06-20",
+    "引用量": "3",
+    "下载量": "723",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "田玉龙",
+            "author_addresses": "石家庄学院经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "巨舰",
+            "author_addresses": "石家庄学院经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "马婷婷",
+            "author_addresses": "石家庄学院经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "孙军锋",
+            "author_addresses": "石家庄学院经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "1101911@sjzc.edu.cn"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "25 ",
+    "期(Issue)": "04",
+    "摘要": " 非物质文化遗产保护与传承工作一直备受社会关注。数字经济背景下石家庄市非物质文化遗产保护与传承存在对外传播力度不足、民众遗产管理意识薄弱，企业资金匮乏、产品市场亟待开发、地方非物质文化遗产传承人培养困难等问题。因此，石家庄市应积极借助5G、互联网、VR、AR、区块链、人工智能等技术，对不同种类非物质文化遗产有针对性地采取“非遗+新媒体”“非遗+演艺”“非遗+节庆表演”“非遗+剧本杀”“非遗+研学”“非遗+文旅”“非遗+动漫”“非遗+游戏”等保护与传承模式，实现非物质文化遗产与数字技术的深度融合，以激发非遗发展新活力，促进非物质文化遗产的长远发展与活态传承，拓宽非遗消费市场，带动当地经济发展。",
+    "关键词": [
+        "石家庄",
+        "数字经济",
+        "非物质文化遗产",
+        "非遗保护",
+        "活态传承"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学;信息科技",
+    "专题": "文化;计算机软件及计算机应用",
+    "分类号": "TP399-C1;G127",
+    "页码": "107-111",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:29:50",
+    "论文唯一代码": "SSZK202304018"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "数字经济视域下非物质文化景观的传承与发展研究——以正定古城为例",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2023-06-20",
+    "引用量": "2",
+    "下载量": "415",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王利素",
+            "author_addresses": "石家庄学院美术与设计学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李梦曈",
+            "author_addresses": "石家庄学院美术与设计学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李雪山",
+            "author_addresses": "石家庄学院美术与设计学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "25 ",
+    "期(Issue)": "04",
+    "摘要": " 正定古城历史悠久，保存了大量文化景观，于1994年1月4日被评为我国第三批历史文化名城。习近平总书记在正定工作期间提出传承历史、保护文物古建、旅游兴县的发展道路。当前正定古城的文化景观采用保护、开发、利用并举的整体性保护措施。数字化技术在正定古城非物质文化景观传承与发展中的应用，能够促进正定古城旅游业的发展。",
+    "关键词": [
+        "数字经济",
+        "文化景观",
+        "数字化体验",
+        "文化保护"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学;信息科技",
+    "专题": "文化;计算机软件及计算机应用",
+    "分类号": "TP399-C1;G127",
+    "页码": "112-115",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:30:04",
+    "论文唯一代码": "SSZK202304019"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "数字经济与元宇宙视域下石家庄市国家级非遗的创意展示路径研究",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2023-06-20",
+    "引用量": "0",
+    "下载量": "365",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "陈枫",
+            "author_addresses": "石家庄学院新闻与传媒学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "赵新宇",
+            "author_addresses": "石家庄学院新闻与传媒学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张哲",
+            "author_addresses": "石家庄学院新闻与传媒学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "25 ",
+    "期(Issue)": "04",
+    "摘要": " 数字经济时代下万物互联，数据成为新的关键生产要素。石家庄是一个非物质文化遗产大市，有十余项国家级非物质文化遗产项目，涵盖了传统医药、传统戏剧、民俗等多个类别。依托元宇宙理念和数字化技术，可以采用三种创意展示路径提升石家庄非遗项目的知名度和品牌建设，分别是：“非遗+IP”树立品牌形象，提升经济价值；“非遗+场景”创建共情情境，刺激体验消费；“非遗+技术”创建数字非遗复合体，促进文化消费。由此使石家庄的非遗项目焕发新活力，进一步为大众带来全新消费体验。",
+    "关键词": [
+        "元宇宙",
+        "数字经济",
+        "非物质文化遗产",
+        "文化消费",
+        "文化创意"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学;信息科技",
+    "专题": "文化;计算机软件及计算机应用",
+    "分类号": "TP391.9;G127",
+    "页码": "116-119",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:30:19",
+    "论文唯一代码": "SSZK202304020"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "新工科计算机类大学生可持续竞争力提升研究",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2023-06-20",
+    "引用量": "0",
+    "下载量": "130",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "符蕴芳",
+            "author_addresses": "石家庄学院未来信息技术学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘智国",
+            "author_addresses": "石家庄学院未来信息技术学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "宋宇斐",
+            "author_addresses": "石家庄学院未来信息技术学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "25 ",
+    "期(Issue)": "04",
+    "摘要": " 数字经济对新工科计算机类大学生的可持续竞争力提出了新的要求。基于此，依据对计算机类专业在校生可持续竞争力现状线上调研的结果，提出通过制定科学合理的人才目标、改革人才培养模式、修订新工科专业人才培养方案、改革教学模式等途径，以提升和培养新工科计算机类大学生的可持续竞争力。",
+    "关键词": [
+        "数字经济",
+        "新工科",
+        "计算机类大学生",
+        "可持续竞争力"
+    ],
+    "基金资助": [
+        "2021年石家庄学院新工科研究与改革实践项目"
+    ],
+    "专辑": "社会科学Ⅱ辑;信息科技",
+    "专题": "高等教育;计算机硬件技术",
+    "分类号": "TP3-4;G642",
+    "页码": "43-48",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:30:28",
+    "论文唯一代码": "SSZK202304006"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "基于主动安全和数字孪生技术的智慧社区建设",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2023-06-20",
+    "引用量": "1",
+    "下载量": "411",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "赵雪莲",
+            "author_addresses": "石家庄学院理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "赵丽琴",
+            "author_addresses": "石家庄学院理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "25 ",
+    "期(Issue)": "04",
+    "摘要": " 社区治理作为社会治理的重要组成部分，其治理水平的有效提升对完善社会治理体系、提升社会治理效能、保障社会稳定具有重大意义。主动安全在社会治理领域的提出，在丰富主动安全内涵的同时，也给社会治理提供了新思路。伴随着智慧城市建设的发展浪潮，大数据、人工智能、云计算、数字孪生、区块链等技术在社会治理领域的扩展应用，为智慧社区的数字化治理平台建设提供了技术支持。从主动安全技术入手，搭建基于主动安全和数字孪生技术的数字化社区治理平台，能充分提升社区风险预测、预警和预控能力，辅助提升社会公共安全治理水平，完善公共安全体系，从而有效推动公共安全治理模式向事前预防转型。",
+    "关键词": [
+        "智慧社区",
+        "主动安全",
+        "数字孪生"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑;社会科学Ⅰ辑",
+    "专题": "中国政治与国际政治",
+    "分类号": "D669.3",
+    "页码": "65-69",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:30:38",
+    "论文唯一代码": "SSZK202304010"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "农村体育公共资源配置与经济高质量发展探索——评《农村体育公共资源均衡配置及实践路径研究》",
+    "状态": "正常",
+    "发表期刊": "中国农业气象",
+    "刊发时间": "2023-06-20",
+    "引用量": "0",
+    "下载量": "214",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "高伟",
+            "author_addresses": [
+                "石家庄学院安全工作处"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王昇",
+            "author_addresses": [
+                "石家庄学院国际交流与合作中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "44 ",
+    "期(Issue)": "06",
+    "摘要": " &lt;正&gt;新农村社会的高水平、高质量建设与发展，促使农村体育事业全新优化、改革发展，尤其是现代体育公共服务理念的社会影响力已扩展至农村社会，农村体育的创新、升级发展更是迅速成为国家、社会共同关注焦点之一。众所周知，农村体育事业的可持续、长远发展，离不开可支配性强的体育公共资源，所以寻求有利于促进农村体育进一步发展的突破口时，以农村体育发展实况为理论基础，强调农村体育公共资源合理配置，并重视农村体育经济实际发展进程。",
+    "关键词": [],
+    "基金资助": [],
+    "专辑": "基础科学;农业科技;社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G812.42",
+    "页码": "540",
+    "页数": "1",
+    "爬取时间": "2025-03-26 06:30:47",
+    "论文唯一代码": "ZGNY202306011"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "马克思共同体视角下社会工作参与社区治理的策略——基于石家庄市的经验研究",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2023-06-20",
+    "引用量": "2",
+    "下载量": "375",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘佩",
+            "author_addresses": [
+                "石家庄学院法学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "曹玮丽",
+            "author_addresses": [
+                "石家庄学院法学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李红霞",
+            "author_addresses": [
+                "石家庄学院图书馆"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "25 ",
+    "期(Issue)": "04",
+    "摘要": " 社会工作参与石家庄市社区治理取得了一定成绩，但仍然存在很多问题，比如活动碎片化、主体积极性不高、多元协作平台未达预期效果等。马克思共同体理论指出，社区治理旨在构建真正的共同体，并坚持以人民群众为中心，协调社区共同利益，最终促进人的自由与全面发展。所以，社会工作要将社区治理的过程理解为构建真正共同体的过程，在社区治理中促进人的自由与全面发展，并完善基于社区共同利益的多元协调机制。只有这样，才能实现“真正的共同体”。",
+    "关键词": [
+        "马克思共同体视角",
+        "社会工作",
+        "社区治理"
+    ],
+    "基金资助": [
+        "河北省社科基金项目“河北省‘三社联动’模式创新与社会工作发展研究”（HB19SH002）"
+    ],
+    "专辑": "社会科学Ⅱ辑;社会科学Ⅰ辑",
+    "专题": "中国政治与国际政治;社会学及统计学",
+    "分类号": "D669.3;C916",
+    "页码": "97-101",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:30:57",
+    "论文唯一代码": "SSZK202304016"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "民间舞技术在舞蹈表演中的应用策略",
+    "状态": "正常",
+    "发表期刊": "戏剧之家",
+    "刊发时间": "2023-06-20",
+    "引用量": "2",
+    "下载量": "53",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "罗丽娜",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘凯华",
+            "author_addresses": [
+                "河北师范大学附属民族学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "17",
+    "摘要": " 民间舞蹈以其悠久的历史、优美的姿态，在中华民族传统文化中占据着十分重要的位置，是传统文化的精髓所在，极具民族特色与地方特色。民间舞技术是民间舞蹈表演的核心，对于增强舞蹈表演的艺术性、塑造生动的艺术形象、传递真挚的艺术情感起到了至关重要的作用。民间舞蹈的独特之处就在于民间舞技术的运用，使其能充分展现出别具特色的文化内涵和艺术风格。本文主要以民间舞技术及其主要类型为切入点，充分论述了民间舞技术在舞蹈表演中的意义，简要概述了民间舞技术在舞蹈表演中的应用方法，进而引申出民间舞技术在舞蹈表演中的应用策略，旨在为民间舞蹈表演提供技术应用参考。",
+    "关键词": [
+        "民间舞技术",
+        "舞蹈",
+        "表演",
+        "应用",
+        "传承"
+    ],
+    "基金资助": [],
+    "专辑": "哲学与人文科学",
+    "专题": "音乐舞蹈",
+    "分类号": "J722.21;J712",
+    "页码": "130-132",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:31:05",
+    "论文唯一代码": "XJZT202317042"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "3种驴寄生圆线科线虫体表结构观察及其遗传进化研究",
+    "状态": "正常",
+    "发表期刊": "黑龙江畜牧兽医",
+    "刊发时间": "2023-06-20",
+    "引用量": "1",
+    "下载量": "57",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "菅蕊",
+            "author_addresses": [
+                "承德医学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "徐真",
+            "author_addresses": [
+                "河北工程大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李扬",
+            "author_addresses": [
+                "河北医科大学第二医院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "苏军华",
+            "author_addresses": [
+                "河北医科大学第二医院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "肖霄",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "杜娈英",
+            "author_addresses": [
+                "承德医学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "郝泽城",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "冯笑颜",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 9,
+            "author_name": "剧慧栋",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "juhuidong615@163.com."
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "12",
+    "摘要": " 为了探究寄生于驴消化道的3种圆线科线虫的体表结构及其分子生物学分类，试验对采自我国新疆地区驴(Equus asinus)肠道的槽形盅口线虫(Cyathostomum alveatum)、蒙氏盅口线虫(Cyathostomum montgomeryi)和双冠双冠线虫(Cylicodontophorus bicoronatus)标本使用扫描电镜观察并测量，同时对3种线虫的ITS基因进行PCR扩增，阳性产物测序后进行同源性分析并构建系统发育树。结果表明：槽形盅口线虫外叶冠细长，约为21枚，雄虫交合伞较短，生殖锥背唇有指状附属物，腹唇有乳突状突起，交合刺呈线状，远端有钩；蒙氏盅口线虫外叶冠细长，蜷曲向外，共21枚，雄虫交合伞较长，生殖锥背唇有1对囊状附属物，每个附属物上有1个乳突状凸起，交合刺呈线状，远端有钩；双冠双冠线虫口领与体部相接处只有1个较细的环沟，外叶冠约为30枚，雄虫生殖锥发育良好，腹唇呈圆锥形且有1个丘状突，背唇上有两个对称的刺状附属物，交合刺粗壮。测序得到的ITS基因序列与NCBI中其他双冠双冠线虫ITS基因序列的相似性为99.88%～100%,与盅口亚科其他种类线虫ITS基因序列的相似性为86.46%～96.45%;槽形盅口线虫和蒙氏盅口线虫ITS基因序列与盅口亚科其他种类线虫ITS基因序列的相似性分别为85.38%～96.42%和85.38%～96.11%。槽形盅口线虫和蒙氏盅口线虫与盅口属、杯冠属和冠环属线虫聚为一支，双冠双冠线虫与双冠属线虫聚为一支。说明使用扫描电镜可以对3种圆线科线虫体表结构进行精确观察，基于ITS基因的系统发育分析结果与形态学分类结果一致。",
+    "关键词": [
+        "驴",
+        "槽形盅口线虫",
+        "蒙氏盅口线虫",
+        "双冠双冠线虫",
+        "扫描电镜"
+    ],
+    "基金资助": [
+        "河北省自然科学基金面上项目(C2022106002)",
+        "石家庄学院博士科研启动项目(21BS006)",
+        "承德医学院高层次人才启动项目(201807)"
+    ],
+    "专辑": "农业科技",
+    "专题": "畜牧与动物医学",
+    "分类号": "S858.22",
+    "页码": "101-106",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:31:27",
+    "论文唯一代码": "HLJX202312017"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "塞罕坝地理研学活动方案设计",
+    "状态": "正常",
+    "发表期刊": "中学地理教学参考",
+    "刊发时间": "2023-06-20",
+    "引用量": "1",
+    "下载量": "720",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "郑红娟",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "孙中伟",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张国飞",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "18",
+    "摘要": " 研学旅行能提高学生环境观念、全球意识及家国情怀。文章以具有地理研学优势的塞罕坝为研学基地,围绕地理学科核心素养制订研学目标,在研学前提炼研学主题、确定研学线路及做好思想动员工作,在研学中从研学内容、研学任务、实施方式等方面进行地理研学方案设计,研学结束后对研学旅行目标达成度评价分析,系统总结反思,并提出改进设想。",
+    "关键词": [
+        "研学旅行",
+        "研学方案",
+        "塞罕坝精神"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "中等教育",
+    "分类号": "G633.55",
+    "页码": "73-76",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:31:38",
+    "论文唯一代码": "ZDCK202318024"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "石家庄市绿色制造业发展进程中民营企业家的生态素质培育——基于“双碳”目标要求下",
+    "状态": "正常",
+    "发表期刊": "上海商业",
+    "刊发时间": "2023-06-15",
+    "引用量": "0",
+    "下载量": "75",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王焕丽",
+            "author_addresses": [
+                "河北地质大学马克思主义学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李娟",
+            "author_addresses": [
+                "石家庄学院马克思主义学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "06",
+    "摘要": " 影响制造业民营企业绿色转型的关键因素之一是企业家素质，在“双碳”目标背景下，企业经济效益和生态文明建设的双重要求约束下，制造业民营企业家的生态素质的培育成为新时代的重要命题。本文试图从企业家生态公民素养、生态责任意识和生态道德培育的角度，分析企业家生态素质培育的问题。",
+    "关键词": [
+        "绿色转型",
+        "制造业民营企业家",
+        "生态素质"
+    ],
+    "基金资助": [
+        "2021—2022年度石家庄市哲学社会科学规划课题研究项目“‘双碳’目标下石家庄市绿色制造业发展路径研究”（4-12）"
+    ],
+    "专辑": "经济与管理科学;工程科技Ⅰ辑",
+    "专题": "环境科学与资源利用;工业经济;企业经济",
+    "分类号": "X322;F427;F276.5;F272.91",
+    "页码": "213-215",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:31:57",
+    "论文唯一代码": "SHSA202306068"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "聚乙烯支链结构研究",
+    "状态": "正常",
+    "发表期刊": "炼油与化工",
+    "刊发时间": "2023-06-15",
+    "引用量": "13",
+    "下载量": "162",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "于宏伟",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "吴雨靓",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "常美玲",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张美环",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "徐元媛",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "34 ",
+    "期(Issue)": "03",
+    "摘要": " 采用透射中红外(MIR)光谱(包括:一维透射MIR光谱、2阶导数透射MIR光谱、4阶导数透射MIR光谱及去卷积透射MIR光谱)分别开展了聚乙烯支链结构研究。试验发现,聚乙烯支链结构的红外吸收模式主要包括:■。聚乙烯支链结构的去卷积透射MIR光谱的谱图分辨能力要优于相应的一维透射MIR光谱、2阶导数透射MIR光谱及4阶导数透射MIR光谱。此项研究深度阐述了透射MIR光谱在重要的石油化工产品(聚乙烯)支链结构分析中的应用。",
+    "关键词": [
+        "聚乙烯",
+        "透射中红外光谱",
+        "支链结构"
+    ],
+    "基金资助": [
+        "河北省普通高等学校一流本科专业（化学工程与工艺）建设项目资助"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "有机化工",
+    "分类号": "TQ325.12",
+    "页码": "15-20",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:32:15",
+    "论文唯一代码": "HLJY202303004"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "《鸳鸯灯传》婚恋故事及其内涵研究",
+    "状态": "正常",
+    "发表期刊": "衡水学院学报",
+    "刊发时间": "2023-06-10",
+    "引用量": "0",
+    "下载量": "80",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王凯",
+            "author_addresses": "石家庄学院文学与历史学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "辛志英",
+            "author_addresses": "石家庄学院文学与历史学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "25 ",
+    "期(Issue)": "03",
+    "摘要": " 宋传奇《鸳鸯灯传》以青年男女婚恋嫁娶为主题，讲述了官宦世家男子与两位市井女性的感情纠葛，颇具传奇色彩。故事真实地反映了宋代社会影响巨大的财婚与榜下择婿等婚姻风俗，呈现出宋代读书人婚姻的运行模式及其潜在风险，也反映了经济因素在男子婚恋选择中所起的重要作用；同时，揭示出封建社会的一种普遍现象，即市井女性在丈夫发迹后被抛弃的悲惨命运。故事颇具理想色彩的大团圆结局，寄托了作者对妇女不幸遭遇的深切同情，也反映了女性对美满婚姻生活的期冀，同时让读者在虚构的世界中感受到正义的希望，从而获得些许慰藉。",
+    "关键词": [
+        "《鸳鸯灯传》",
+        "婚恋故事",
+        "宋代小说"
+    ],
+    "基金资助": [
+        "石家庄学院博士科研启动基金资助项目（21BS022）"
+    ],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学",
+    "专题": "中国文学",
+    "分类号": "I207.41",
+    "页码": "119-123",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:32:29",
+    "论文唯一代码": "HSSZ202303015"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "“疫后诸证”的历史源流考证及理论初探",
+    "状态": "正常",
+    "发表期刊": "中医杂志",
+    "刊发时间": "2023-06-02",
+    "引用量": "5",
+    "下载量": "658",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘凤爽",
+            "author_addresses": [
+                "河北中医学院",
+                "河北省中医药科学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "崔淑华",
+            "author_addresses": [
+                "河北省石家庄市人民医院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李娜",
+            "author_addresses": [
+                "河北省石家庄市人民医院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "臧红敏",
+            "author_addresses": [
+                "河北中医学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "刘旭照",
+            "author_addresses": [
+                "华北理工大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "徐建超",
+            "author_addresses": [
+                "河北中医学院",
+                "河北省石家庄市人民医院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "吴笛",
+            "author_addresses": [
+                "河北中医学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "杨丰文",
+            "author_addresses": [
+                "天津中医药大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 9,
+            "author_name": "宋金忠",
+            "author_addresses": [
+                "河北中医学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 10,
+            "author_name": "肖颖",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 11,
+            "author_name": "赵玉斌",
+            "author_addresses": [
+                "河北省石家庄市人民医院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "drzhyubin@163.com"
+        },
+        {
+            "author_order": 12,
+            "author_name": "张伯礼",
+            "author_addresses": [
+                "天津中医药大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "zhangbolipr@163.com"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "64 ",
+    "期(Issue)": "11",
+    "摘要": " 中医药学在长期与瘟疫抗争中，针对疫病复发及愈后症状的防治逐渐形成了完整的理论体系。疫病恢复期的一系列症状称为“疫后诸证”，通过整理历代医家文献，以时间为主线，梳理各时期对“疫后诸证”理论的认识，认为先秦时期是“疫后诸证”理论的萌芽期，初步阐述了其病因、病机、治法；汉唐时期将“疫后诸证”分为复证和瘥后证；宋金元时期丰富和发展了疫病理论；明清时期则从因、证、脉、治各方面作了归纳与创新，形成了“疫后诸证”完整的理论和证治体系。基于此，结合新型冠状病毒感染疫情防控经验，初步架构了“疫后诸证”的理论体系，为中医疫病恢复期治疗提供临床指导。",
+    "关键词": [
+        "疫后诸证",
+        "中医康复",
+        "新冠后状态"
+    ],
+    "基金资助": [
+        "国家重大科技专项“公共安全风险防控与应急技术装备”重点专项（2021YFC0863200）",
+        "国家中医药管理局新型冠状病毒感染肺炎中医药应急专项（2022ZYLCYJ02-1）",
+        "河北省省级重点研发项目（20277709D）",
+        "石家庄市科学技术研究与发展计划（201460463A）"
+    ],
+    "专辑": "医药卫生科技",
+    "专题": "中医学",
+    "分类号": "R228",
+    "页码": "1081-1084",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:32:52",
+    "论文唯一代码": "ZZYZ202311001"
+}

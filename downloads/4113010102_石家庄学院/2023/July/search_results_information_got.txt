@@ -1,0 +1,1121 @@
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "概念知识元的语义融合生成路径与框架",
+    "状态": "正常",
+    "发表期刊": "信息资源管理学报",
+    "刊发时间": "2023-07-26",
+    "引用量": "3",
+    "下载量": "344",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王子龙",
+            "author_addresses": [
+                "石家庄学院文学与历史学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "戎军涛",
+            "author_addresses": [
+                "中国人民大学信息资源管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "rjt-205@163.com"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "13 ",
+    "期(Issue)": "04",
+    "摘要": " 概念形态知识元的融合是知识创造的一种重要途径，也是自主知识体系创新的基础环节。揭示概念形态知识元的融合生成机理，是知识创造的重要基础理论问题。首先，对概念知识元的内涵、结构和内容描述模型进行了说明；其次，从语义重组视角揭示了概念知识元的生成路径；最后，在上述研究基础上构建了概念知识元的语义融合生成框架。概念知识元的语义融合生成路径主要有外来知识的引入、知识相关关系的发现和知识的选择性进化。概念知识元的语义融合生成框架包括知识元的获取、解析、关联构建和重组生成环节，各个环节由相应的心理机制控制。",
+    "关键词": [
+        "概念知识元",
+        "语义融合",
+        "知识创造",
+        "知识元生成",
+        "语义重组",
+        "知识进化"
+    ],
+    "基金资助": [],
+    "专辑": "信息科技",
+    "专题": "图书情报与数字图书馆",
+    "分类号": "G254",
+    "页码": "111-121",
+    "页数": "11",
+    "爬取时间": "2025-03-26 06:28:15",
+    "论文唯一代码": "XNZY202304012"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "基于CEEMDAN-LSTM的桥梁变形时间序列预测研究",
+    "状态": "正常",
+    "发表期刊": "地理空间信息",
+    "刊发时间": "2023-07-26",
+    "引用量": "1",
+    "下载量": "309",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "冯建强",
+            "author_addresses": [
+                "南水北调中线信息科技有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "宋昆仑",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "21 ",
+    "期(Issue)": "07",
+    "摘要": " 针对桥梁变形时间序列的高度复杂性和数据间的强相关性导致预测精度低的问题，在LSTM网络的基础上引入CEEMDAN分解算法，构建了一种基于CEEMDAN-LSTM的桥梁变形时间序列预测模型。首先利用CEEMDAN对桥梁变形时间序列进行分解，然后利用LSTM对分解得到的各子序列进行训练预测，最后叠加各子序列预测值得到模型的最终预测结果。利用某大桥南索塔X方向的变形时间序列数据对预测模型进行检验分析，并将预测结果与单一LSTM网络和EMD-LSTM模型的预测结果进行对比。结果表明，基于CEEMDAN-LSTM的桥梁变形时间序列预测模型精度高、实用性强。",
+    "关键词": [
+        "桥梁变形",
+        "CEEMDAN",
+        "LSTM",
+        "CEEMDAN-LSTM",
+        "时间序列预测"
+    ],
+    "基金资助": [
+        "应用型高校地理信息科学专业“融合式”创新创业教育模式研究资助项目（202102204029）"
+    ],
+    "专辑": "基础科学;工程科技Ⅱ辑",
+    "专题": "公路与水路运输",
+    "分类号": "U446",
+    "页码": "40-43",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:28:23",
+    "论文唯一代码": "DXKJ202307010"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "滑石粉去卷积法在中红外光谱教学中应用",
+    "状态": "正常",
+    "发表期刊": "煤炭与化工",
+    "刊发时间": "2023-07-26",
+    "引用量": "0",
+    "下载量": "72",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张美环",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "吴雨靓",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "周子轩",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "马星怡",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "刘荣",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "于宏伟",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "石家庄市麻醉药技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "杜林楠",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "46 ",
+    "期(Issue)": "07",
+    "摘要": " 采用中红外（MIR）光谱（包括：一维MIR光谱、二阶导数MIR光谱、四阶导数MIR光谱和去卷积MIR光谱）分别开展了滑石粉的结构研究。试验发现，滑石粉结构的红外吸收模式主要包括：滑石粉结构OH伸缩振动模式(ν<sub>OH-滑石粉</sub>)、滑石粉结构结晶水弯曲振动模式(δ(H<sub>2</sub>O-滑石粉（水）))、滑石粉结构Si-O伸缩振动模式(ν<sub>Si-O-滑石粉</sub>)、滑石粉结构OH弯曲振动模式(δ<sub>OH-滑石粉</sub>)和滑石粉结构中含有少量的白云石的特征红外吸收谱带(ν<sub>-滑石粉（白云石）</sub>)。研究发现：滑石粉的主要成分为水合硅酸镁和少量白云石。",
+    "关键词": [
+        "滑石粉",
+        "白云石",
+        "导数法",
+        "去卷积法",
+        "MIR光谱"
+    ],
+    "基金资助": [
+        "石家庄市高等教育科学研究项目（20230327）",
+        "石家庄学院2023年大学生创新创业训练计划项目（scxm057）"
+    ],
+    "专辑": "工程科技Ⅰ辑;社会科学Ⅱ辑",
+    "专题": "化学;有机化工;高等教育",
+    "分类号": "G642.4;O657.33-4;TQ460.4-4",
+    "页码": "150-155",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:28:34",
+    "论文唯一代码": "HHGZ202307038"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "阻燃板贴木皮胶粘剂的制备",
+    "状态": "正常",
+    "发表期刊": "煤炭与化工",
+    "刊发时间": "2023-07-26",
+    "引用量": "1",
+    "下载量": "93",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张伟",
+            "author_addresses": [
+                "石家庄常宏建筑装饰工程有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "周健",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "次立杰",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "苏翠伟",
+            "author_addresses": [
+                "石家庄常宏建筑装饰工程有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "胡江浦",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "陈石",
+            "author_addresses": [
+                "石家庄常宏建筑装饰工程有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "王康",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "许炳琨",
+            "author_addresses": [
+                "石家庄常宏建筑装饰工程有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "46 ",
+    "期(Issue)": "07",
+    "摘要": " 为了解决阻燃板与木皮粘接不牢的问题，通过分析阻燃板的表面形貌和界面特征，提出了一种新型聚丙烯酸酯胶粘剂的解决方案。通过由自由基聚合合成得到的带有羟基的聚丙烯酸酯预聚物与异氰酸酯固化剂复配，得到双组分聚氨酯型胶粘剂，通过配方调试，使该胶粘剂在杨木木皮饰面与阻燃板之间形成良好的粘接效果，并通过间接法（剪切强度）和直接法（木皮残留率） 2种方法进行评价。研究结果表明：所合成的丙烯酸酯预聚物的玻璃化转变温度（Tg）在20℃、羟值为25 mg KOH/g，主固比为5∶1、纳米钙填料用量为30%时，粘接效果最佳，其剪切强度可以达到3.10 MPa，木皮残留率为85%。",
+    "关键词": [
+        "阻燃板",
+        "薄木饰面",
+        "聚丙烯酸酯",
+        "胶粘剂",
+        "粘接强度"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "有机化工",
+    "分类号": "TQ433.436",
+    "页码": "122-126+130",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:28:44",
+    "论文唯一代码": "HHGZ202307032"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "唐代深州张鷟家族士人心态及作品研究",
+    "状态": "正常",
+    "发表期刊": "内江师范学院学报",
+    "刊发时间": "2023-07-25",
+    "引用量": "0",
+    "下载量": "114",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王凯",
+            "author_addresses": "石家庄学院文学与历史学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "辛志英",
+            "author_addresses": "石家庄学院文学与历史学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "38 ",
+    "期(Issue)": "07",
+    "摘要": " 唐代深州张氏家族是以张鷟、张薦、张读为代表的著名士人家族，他们既是朝廷官员，又是文学领域的大家。张鷟是盛唐士人的代表，他的作品《游仙窟》展现了盛唐文人的积极进取与张扬自信。中唐时期的张薦一改其祖父文风，其所撰《灵怪集》深沉稳重，文笔清雅绵丽，流露出张薦对时局的担忧与感慨，带有中唐士人普遍的怀旧与空幻心态。张读处于晚唐时期，此时的唐王朝已经显露末世迹象，张读所作《宣室志》流露出明显的消沉绝望、辞官归隐、避祸保命的心态。“三张”士人心态的变化，蕴涵整个唐朝在不同时期政治形势的变化轨迹。",
+    "关键词": [
+        "唐代深州",
+        "三张",
+        "文学作品",
+        "士人心态"
+    ],
+    "基金资助": [
+        "2022年河北省文化艺术科学规划和旅游研究项目“河北深州张鷟家族士人心态及作品研究”(HB22-YB040)"
+    ],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学",
+    "专题": "中国文学;中国古代史",
+    "分类号": "I206.2;K242",
+    "页码": "39-44",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:28:50",
+    "论文唯一代码": "NJSG202307007"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "图书情报领域知识元技术研究述评",
+    "状态": "正常",
+    "发表期刊": "图书馆学研究",
+    "刊发时间": "2023-07-25",
+    "引用量": "1",
+    "下载量": "531",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "戎军涛",
+            "author_addresses": [
+                "中国人民大学信息资源管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王丽华",
+            "author_addresses": [
+                "石家庄学院图书馆"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "07",
+    "摘要": " 基于知识元理论的技术应用研究已经成为图书情报学知识组织、知识计量、知识发现领域的前沿问题，其目的在于推动语义内容层面的知识获取和共享，满足用户多粒度、多层次、多维度的知识需求。文章对应用于图书情报领域的知识元抽取技术、知识元本体技术和知识元挖掘技术研究现状进行分析，在此基础上归纳总结知识元技术研究中存在的问题，最后展望知识元技术研究的未来趋势。当前知识元技术研究存在概念体系模糊、语义标注困难、关联挖掘有待突破和未能呈现用户导向等问题。未来知识元技术重点研究问题包括知识元标注技术基础研究、知识元图谱构建研究、知识元关联挖掘研究、知识元标准规范体系研究和用户认知导向研究等内容。未来知识元技术的研究有望推动知识组织与发现、知识计量与挖掘等知识服务领域取得突破进展。",
+    "关键词": [
+        "知识元技术",
+        "知识元挖掘",
+        "知识元本体",
+        "知识组织",
+        "图书情报"
+    ],
+    "基金资助": [],
+    "专辑": "信息科技",
+    "专题": "图书情报与数字图书馆",
+    "分类号": "G250;G353.1",
+    "页码": "9-15",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:29:15",
+    "论文唯一代码": "TSSS202307002"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "主题模型自动标记方法研究综述",
+    "状态": "正常",
+    "发表期刊": "计算机科学与探索",
+    "刊发时间": "2023-07-24 11:27",
+    "引用量": "0",
+    "下载量": "210",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "何东彬",
+            "author_addresses": [
+                "石家庄学院河北省物联网安全与传感器检测工程研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "陶莎",
+            "author_addresses": [
+                "中国农业大学农业农村部农业信息化标准化重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "朱艳红",
+            "author_addresses": [
+                "石家庄邮电职业技术学院河北省物联网智能感知与应用技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "任延昭",
+            "author_addresses": [
+                "北京工商大学计算机与信息工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "褚云霞",
+            "author_addresses": [
+                "石家庄学院河北省物联网安全与传感器检测工程研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "53945776@qq.com"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "17 ",
+    "期(Issue)": "12",
+    "摘要": " 主题模型常用于非结构化语料库和离散数据建模，抽取隐含主题分布。由于主题发现结果采用词列表形式，理解其含义较为困难。尽管通过人工标记可生成更具解释性和易理解的主题标签，但成本巨大缺乏可行性，而自动主题标记的研究为解决该问题提供了方法和思路。首先对当前最为流行的狄利克雷分配主题模型进行阐述与分析，并根据主题标签三种不同表现形式，基于短语、摘要和图片，将主题标记方法分为三种类型；之后围绕提高主题的可解释性，以生成的不同类型主题标签为线索，对近年来的相关研究成果进行梳理、分析和总结，并对不同标签的适用情境和可用性进行探讨；同时根据不同方法的特点进一步分类，重点对基于词法、子模优化和图排序方法生成摘要主题标签进行定量和定性分析，从学习类型、使用技术和数据来源出发，对比不同方法的差异；最后对主题自动标记研究存在的问题和趋势发展进行讨论，基于深度学习、与情感分析结合并不断拓展主题标记应用的场景，将是未来发展的重点和方向。",
+    "关键词": [
+        "主题模型",
+        "潜在狄利克雷分配(LDA)",
+        "主题标记",
+        "主题标签"
+    ],
+    "基金资助": [
+        "河北省重点研发计划项目（22320301D）",
+        "北京市科技计划课题（221100007122003）",
+        "河北省农业科技成果转化项目（V1672275144902）",
+        "石家庄学院博士科研启动基金项目（23BS018）~~"
+    ],
+    "专辑": "信息科技",
+    "专题": "计算机软件及计算机应用",
+    "分类号": "TP391.1",
+    "页码": "2861-2879",
+    "页数": "19",
+    "爬取时间": "2025-03-26 06:29:25",
+    "论文唯一代码": "KXTS202312005"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "一种耐久性生物基PA56镀铜导电织物的制备",
+    "状态": "正常",
+    "发表期刊": "印染",
+    "刊发时间": "2023-07-20",
+    "引用量": "1",
+    "下载量": "175",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "罗真梦",
+            "author_addresses": [
+                "东华大学化学与化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "杜培波",
+            "author_addresses": [
+                "东华大学化学与化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王娟",
+            "author_addresses": [
+                "石家庄学院,河北省纤维材料技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "蔡再生",
+            "author_addresses": [
+                "东华大学化学与化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "葛凤燕",
+            "author_addresses": [
+                "东华大学化学与化工学院",
+                "国家先进印染技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "DHUfyge@163.com"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "49 ",
+    "期(Issue)": "07",
+    "摘要": " 受邻苯三酚和氨基发生共价反应产生类似“生物胶水”的启发，采用单宁酸（TA）和3-氨丙基三乙氧基硅烷（APTES）产生杂化交联网络，并通过化学镀的方法在由戊二胺和已二酸生物发酵聚合而成的PA56织物基底上构筑高附着力的导电镀铜织物。探讨了TA和APTES的质量比、改性时间、催化剂用量、铜源用量及镀铜时间对织物导电性的影响。优化的镀铜工艺为：TA与APTES质量比为2∶1、聚合时间为3 h、硝酸银质量浓度为6 g/L、硫酸铜质量浓度为20 g/L、镀铜时间为90 min，镀铜织物表面电阻为0.028 Ω/sq。该镀铜织物具有良好的耐水洗和耐干湿摩擦性能，且透气性能良好。",
+    "关键词": [
+        "生物基PA56",
+        "铜",
+        "导电织物",
+        "单宁酸",
+        "3-氨丙基三乙氧基硅烷"
+    ],
+    "基金资助": [
+        "国家先进印染技术创新中心科研基金项目（ZJ2021A13）",
+        "河北省纤维材料技术创新中心科研基金项目（SG2020022）"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "轻工业手工业",
+    "分类号": "TS106",
+    "页码": "51-54+59",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:29:36",
+    "论文唯一代码": "YIRA202307012"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "地域文化资源对大学生价值观培养的意义",
+    "状态": "正常",
+    "发表期刊": "中学地理教学参考",
+    "刊发时间": "2023-07-20",
+    "引用量": "1",
+    "下载量": "132",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "高树芳",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "21",
+    "摘要": " &lt;正&gt;大学生应树立富强、民主、文明、和谐,自由、平等、公正、法治,爱国、敬业、诚信、友善的社会主义核心价值观。简单地说,高校要培养大学生的民族自信和文化自信,树立集体主义高于个人利益的价值观,独立自主、自强自立。在我国悠久的历史发展进程中,各地、各民族创造了丰富而灿烂的地域文化,其中独具特色的优秀传统文化和价值观念,",
+    "关键词": [],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "高等教育",
+    "分类号": "G641",
+    "页码": "89",
+    "页数": "1",
+    "爬取时间": "2025-03-26 06:29:43",
+    "论文唯一代码": "ZDCK202321038"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "IL/GO-TiO2的制备及其吸附-光催化协同降解性能研究",
+    "状态": "正常",
+    "发表期刊": "化工新型材料",
+    "刊发时间": "2023-07-14 13:23",
+    "引用量": "2",
+    "下载量": "280",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘红斐",
+            "author_addresses": [
+                "河北科技大学化工与制药工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王棵旭",
+            "author_addresses": [
+                "河北科技大学化工与制药工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张栋科",
+            "author_addresses": [
+                "河北科技大学化工与制药工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "赵地顺",
+            "author_addresses": [
+                "河北科技大学化工与制药工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "翟建华",
+            "author_addresses": [
+                "河北科技大学化工与制药工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "崔文广",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "河北科技大学理学院",
+                "石家庄市低碳能源材料重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "cuiwg0102@163.com"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "51 ",
+    "期(Issue)": "10",
+    "摘要": " 在非共价键的作用下将氧化石墨烯（GO）与咪唑基离子液体（IL）结合在一起，之后和纳米二氧化钛（TiO<sub>2</sub>）通过固态分散法制备出IL/GO-TiO<sub>2</sub>复合材料。通过FT-IR、SEM、XPS、UV-Vis对材料的结构和形态进行了表征，并研究了其作为吸附光催化剂在紫外光下去除甲基橙（MO）的效率。实验结果表明，通过IL对GO的功能化，使复合材料的吸附和光催化性能有了很大提升。IL/GO在减缓电子和空穴的重组速率的同时，扩大了TiO<sub>2</sub>的光吸收范围，使TiO<sub>2</sub>的光催化性能发挥得更好。羟基自由基和超氧自由基是IL/GO-TiO<sub>2</sub>复合材料光催化降解MO的主要活性物质。在催化剂投加量为0.325g/L、pH=3、MO浓度为20mg/L条件下对MO的去除效率可以达96.6%。",
+    "关键词": [
+        "光催化",
+        "氧化石墨烯",
+        "纳米二氧化钛",
+        "吸附",
+        "离子液体"
+    ],
+    "基金资助": [
+        "科技型中小企业创新基金(12C26211300719)",
+        "河北省高等学校科学技术研究项目(ZD2021420)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "材料科学;轻工业手工业;环境科学与资源利用",
+    "分类号": "X791;TB33",
+    "页码": "150-155",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:29:54",
+    "论文唯一代码": "HGXC202310027"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "中外合作办学背景下《制药工程导论》课程与思政一体化的教学探索与实践",
+    "状态": "正常",
+    "发表期刊": "现代畜牧科技",
+    "刊发时间": "2023-07-14",
+    "引用量": "1",
+    "下载量": "129",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张凯",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "徐元媛",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "冯笑颜",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "刘斯婕",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "07",
+    "摘要": " 在中外合作办学过程中，思政课程的重视程度较低，影响国际化人才的培养质量，推动课程思政体系建设，已经成为中外合作办学的工作重点之一。以《制药工程导论》课程为例，对《制药工程导论》课程的章节内容进行深入梳理，进一步挖掘课程相关的思政元素，将课程思政内容与专业课教学内容有机统一起来，结合“产教融合”的教学需求与本地就业需求，以期培养符合“京津冀一体化”战略的国际化应用型人才。",
+    "关键词": [
+        "合作办学",
+        "课程思政",
+        "制药工程",
+        "教学探索"
+    ],
+    "基金资助": [
+        "河北省人力资源和社会保障研究课题项目（RS-2022-1021）",
+        "石家庄学院教学改革研究与实践项目（国际化建设专项,GJZX-2022016）石家庄学院博士科研启动基金（No.20BS006）"
+    ],
+    "专辑": "农业科技;工程科技Ⅰ辑;社会科学Ⅱ辑",
+    "专题": "有机化工;高等教育",
+    "分类号": "TQ460-4;G648.9",
+    "页码": "158-160",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:30:03",
+    "论文唯一代码": "HLCM202307044"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "马克思主义经典文献的阅读价值——以高中思想政治教材引用为例",
+    "状态": "正常",
+    "发表期刊": "中学政治教学参考",
+    "刊发时间": "2023-07-10",
+    "引用量": "0",
+    "下载量": "370",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张子麟",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "郭冰洁",
+            "author_addresses": [
+                "山西省晋城市陵川第一中学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "25",
+    "摘要": " 高中思想政治教材对马克思主义经典文献的高频引用,直接反映高中学段阅读马克思主义经典文献的要求和指向。列宁曾将马克思主义哲学比作“一整块钢”,马克思也坦言自己的著作是“一个艺术的整体”。阅读马克思主义经典文献可以实现多重而统一的目标。在涵育师德修养方面,实现政治立场、人文情怀和思想理论有机统一;在统筹教学设计方面,实现教材、教法和学法有机统一;在奠基科学精神方面,实现明德、立业和践行有机统一。",
+    "关键词": [
+        "马克思主义经典文献",
+        "高中",
+        "思想政治教材",
+        "阅读价值"
+    ],
+    "基金资助": [
+        "河北省高等教育教学改革研究与实践项目“马克思主义经典著作涵育思政课教师核心素养的理论与实践研究”(项目编号:2021GJJG543)阶段性成果"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "中等教育",
+    "分类号": "G633.2",
+    "页码": "75-77",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:30:17",
+    "论文唯一代码": "ZXZZ202325036"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "高校国有资产分散式出租内部审计监督协同路径研究",
+    "状态": "正常",
+    "发表期刊": "财会通讯",
+    "刊发时间": "2023-07-10",
+    "引用量": "1",
+    "下载量": "262",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "何寰",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "13",
+    "摘要": " 国有资产分散式出租具有分散性和隐蔽性特点，而高校采用的单一内部审计为事后审计，难以对分散式出租全过程实现全面监督，使得高校内部审计工作大打折扣的同时，也造成了国有资产的流失。因此，探索一种能够实现高校分散式出租的资产全覆盖审计监督协同路径显得至关重要。本文以国有资产分散式出租治理目标为导向，整合审计监督力量，依托于S学院国有资产分散式出租内部审计情况，提出了推动内部审计工作向事前、事中审计转型；加强内部审计与国家审计、纪检监察监督力量协同；搭建审计监督协同全覆盖信息平台的审计监督路径，互助互补地推动监督资源整合和协同联动，全方位、高效地监督高校国有资产出租经营活动，最大程度避免高校国有资产的流失。",
+    "关键词": [
+        "分散式出租",
+        "国有资产",
+        "内部审计",
+        "国家审计"
+    ],
+    "基金资助": [],
+    "专辑": "经济与管理科学;社会科学Ⅱ辑",
+    "专题": "高等教育;宏观经济管理与可持续发展;会计;审计",
+    "分类号": "G647.5;F123.7;F239.45",
+    "页码": "125-129",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:30:25",
+    "论文唯一代码": "CKTX202313023"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "一株乳酸菌和酵母菌共培养方法的初探",
+    "状态": "正常",
+    "发表期刊": "北方牧业",
+    "刊发时间": "2023-07-05",
+    "引用量": "0",
+    "下载量": "580",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘少杰",
+            "author_addresses": [
+                "诺达生物科技(赞皇)有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张金朝",
+            "author_addresses": [
+                "诺达生物科技(赞皇)有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王宇",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王晓茹",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "13",
+    "摘要": " &lt;正&gt;随着饲用微生态制剂无毒害、绿色、成本低、无耐药性等优点的突显，现如今已成为养殖业的新星与研究热点。混合微生物制剂是将乳酸菌、酵母菌等益生菌复配在一起而使得混合微生物制剂功效得以提高，混合微生物制剂越来越多的应用于畜牧养业殖中。为让乳酸菌和酵母菌共培养时达到最佳生长状态，本试验先用同一培养基对两株菌同时优化，以便为后续两株菌种的共培养提供条件基础。再分别对乳酸菌和酵母菌在培养时间、转速、初始p H值、培养温度等培养条件进行优化，找出最适生长条件，最后在共培养阶段对接种量进行探索，以期为乳酸菌和酵母菌复配的混合微生物制剂的进一步研究与应用提供理论基础。",
+    "关键词": [],
+    "基金资助": [],
+    "专辑": "农业科技",
+    "专题": "畜牧与动物医学",
+    "分类号": "S816.7",
+    "页码": "15",
+    "页数": "1",
+    "爬取时间": "2025-03-26 06:30:36",
+    "论文唯一代码": "BFMY202313016"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "“三全育人”视域下高校学生就业困难群体帮扶机制研究",
+    "状态": "正常",
+    "发表期刊": "华章",
+    "刊发时间": "2023-07-01",
+    "引用量": "0",
+    "下载量": "179",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "檀慧",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "剧慧栋",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王敬贤",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "07",
+    "摘要": " 就业指导工作本身在思政工作范畴内，“三全育人”视域下高校推动就业困难群体帮扶机制优化和创新，有利于构建和谐稳定的校园环境，也可在提高人才培养质量时，早日构建大思政育人格局，形成具有我国特色的就业帮扶体系。通过了解“三全育人”视域下高校学生就业群体帮扶意义，分析就业困难群体形成原因，从构建全员、全过程、全方位就业困难群体帮扶机制入手，提升就业困难群体帮扶的针对性，可有效提高就业困难学生就业质量。",
+    "关键词": [
+        "“三全育人”",
+        "就业困难群体",
+        "帮扶"
+    ],
+    "基金资助": [
+        "2023年度河北省人力资源和社会保障研究课题——“‘三全育人’理念下高校就业困难群体就业帮扶机制研究”（课题编号：JRSHZ-2023-01089）"
+    ],
+    "专辑": "社会科学Ⅱ辑;经济与管理科学",
+    "专题": "人才学与劳动科学;高等教育;宏观经济管理与可持续发展",
+    "分类号": "G647.38;F249.2",
+    "页码": "96-98",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:30:46",
+    "论文唯一代码": "HAZH202307032"
+}

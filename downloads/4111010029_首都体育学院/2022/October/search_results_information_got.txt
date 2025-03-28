@@ -1,0 +1,1864 @@
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "运动生物力学发展现状及挑战",
+    "状态": "正常",
+    "发表期刊": "力学进展",
+    "刊发时间": "2022-10-31 10:18",
+    "引用量": "19",
+    "下载量": "2325",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘程林",
+            "author_addresses": [
+                "首都体育学院体育人工智能研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "liuchenglin@cupes.edu.cn"
+        },
+        {
+            "author_order": 2,
+            "author_name": "郝卫亚",
+            "author_addresses": [
+                "国家体育总局体育科学研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "霍波",
+            "author_addresses": [
+                "首都体育学院体育人工智能研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "huobo@cupes.edu.cn"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "53 ",
+    "期(Issue)": "01",
+    "摘要": " 狭义的运动生物力学特指人体运动中的生物力学,主要解决竞技体育领域中如何提高运动成绩和减少运动损伤的问题.随着相关学科的融合和发展,当前运动生物力学的研究已扩展到与人类运动相关的生物学、医学、力学等学科领域.近年来,智能测试、大数据分析、人工智能等技术快速发展,对运动生物力学实验、仿真方法产生了重要的影响,在不断拓展和深化着该学科的研究内容和方向的同时,也对运动生物力学发展提出了新的挑战.本文综述了近年来运动生物力学领域的研究现状,并指出了相关研究方向的关键问题及发展趋势:在理论建模和模拟仿真计算方面,肌肉本构理论及肌肉力计算准确性是重点和难点;实验测试的新技术在竞技体育运动项目中的应用研究中扮演重要角色,其中基于深度学习的人体关键点检测算法在解决竞技体育的非接触测量方面有突破性进展;对于骨、韧带、软骨、肌肉等组织的宏观损伤机制认识不断清晰,但对于其早期损伤预测以及跨尺度损伤发生机制的研究仍有待深入;智能可穿戴装备、人工智能等新技术开始应用于运动生物力学研究及实践,成为目前运动生物力学领域最具活力的研究方向之一.本文的综述表明当前运动生物力学研究越来越向智能化、个体化、定量化发展,并正在与相关学科不断交叉融合,持续推进着体育、健康、医疗等领域的科技创新发展.",
+    "关键词": [
+        "竞技体育",
+        "运动损伤与康复",
+        "体育人工智能",
+        "运动生物力学"
+    ],
+    "基金资助": [
+        "国家自然科学基金(12102277)",
+        "科技部重点研发计划“科技冬奥”专项",
+        "“国家科学化训练基地建设关键技术研究与示范”项目(2018YFF0300800)资助"
+    ],
+    "专辑": "基础科学;社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G804.6",
+    "页码": "198-238",
+    "页数": "41",
+    "爬取时间": "2025-03-26 03:13:43",
+    "论文唯一代码": "LXJZ202301004"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "中国老年人多病模式与身体活动水平及失能的关系",
+    "状态": "正常",
+    "发表期刊": "陕西师范大学学报(自然科学版)",
+    "刊发时间": "2022-10-31 09:56",
+    "引用量": "9",
+    "下载量": "714",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "肖文娟",
+            "author_addresses": [
+                "西安交通大学全球健康研究院/公共卫生学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "陈诗琪",
+            "author_addresses": [
+                "西安交通大学全球健康研究院/公共卫生学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李中英",
+            "author_addresses": [
+                "西安交通大学全球健康研究院/公共卫生学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "梁云羿",
+            "author_addresses": [
+                "西安交通大学全球健康研究院/公共卫生学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "舒婧",
+            "author_addresses": [
+                "西安交通大学全球健康研究院/公共卫生学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "张婧",
+            "author_addresses": [
+                "陕西师范大学体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "郭建军",
+            "author_addresses": [
+                "首都体育学院体医融合创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "苟波",
+            "author_addresses": [
+                "西安体育大学运动与健康科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 9,
+            "author_name": "史祖民",
+            "author_addresses": [
+                "卡塔尔大学健康学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 10,
+            "author_name": "孙晓敏",
+            "author_addresses": [
+                "西安交通大学全球健康研究院/公共卫生学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "gzhtxiaomin@163.com"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "50 ",
+    "期(Issue)": "06",
+    "摘要": " 基于2018年中国健康与养老追踪调查数据，分析了中国老年人(≥60岁)多病共存流行现状，探讨了不同多病状态与身体活动水平及失能的关系。利用因子分析法基于四分相关矩阵获得老年人的多病模式，采用有序logistic和Poisson回归分析多病模式与身体活动水平及失能的关系。结果表明：在9 634名老年人中，多病(≥2种)的患病率为94.6%。提取出的5种多病模式分别为内脏疾病、呼吸系统疾病、心脑血管与退行性疾病、精神与关节疾病和代谢紊乱疾病。呼吸系统疾病、心脑血管与退行性疾病和代谢紊乱疾病的因子得分水平越高，老年人的身体活动水平越低；同时，5种多病模式因子得分越高，老年人的失能风险也越高。我国老年人多病问题严峻，多病状态是其身体活动水平低和发生失能的高危因素，老年人的多病问题亟须采取干预措施。",
+    "关键词": [
+        "老年人",
+        "多病模式",
+        "身体活动",
+        "失能"
+    ],
+    "基金资助": [
+        "国家自然科学基金(81703220)"
+    ],
+    "专辑": "基础科学;医药卫生科技",
+    "专题": "预防医学与卫生学",
+    "分类号": "R161.7",
+    "页码": "87-94",
+    "页数": "8",
+    "爬取时间": "2025-03-26 03:13:47",
+    "论文唯一代码": "SXSZ202206010"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "短期低频脉冲磁场诱导经典瞬时感受器电位通道1对局部肌肉肌力提升后的保持与衰减变化轨迹",
+    "状态": "正常",
+    "发表期刊": "中国组织工程研究",
+    "刊发时间": "2022-10-28 14:48",
+    "引用量": "7",
+    "下载量": "179",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "厉中山",
+            "author_addresses": [
+                "东北大学体育部",
+                "福建师范大学体育科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "白石",
+            "author_addresses": [
+                "沈阳工业大学信息科学与工程学院",
+                "辽宁省磁医学检测与治疗专业技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "刘洁",
+            "author_addresses": [
+                "中国医科大学科学实验研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "杨铁黎",
+            "author_addresses": [
+                "首都体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "邹宇琪",
+            "author_addresses": [
+                "沈阳工业大学信息科学与工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "孔维签",
+            "author_addresses": [
+                "沈阳工业大学信息科学与工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "李伟",
+            "author_addresses": [
+                "沈阳工业大学信息科学与工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "张秦阳",
+            "author_addresses": [
+                "沈阳工业大学信息科学与工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 9,
+            "author_name": "陈松",
+            "author_addresses": [
+                "东北大学体育部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 10,
+            "author_name": "车同同",
+            "author_addresses": [
+                "清华大学体育部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 11,
+            "author_name": "李志远",
+            "author_addresses": [
+                "浙江大学公共体育与艺术部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 12,
+            "author_name": "关荣鑫",
+            "author_addresses": [
+                "东北大学体育部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 13,
+            "author_name": "王春露",
+            "author_addresses": [
+                "北京体育大学冰上运动学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "27 ",
+    "期(Issue)": "23",
+    "摘要": " 背景：短暂的低频脉冲磁场刺激可诱导和激活经典瞬时感受器电位通道1，并可提升人体局部肌肉(如肱二头肌)的最大自主收缩力与力量耐力。目的：通过可激活经典瞬时感受器电位通道1的特定低频脉冲磁场作为肌力提升手段，并观察短期刺激对人体肱二头肌最大自主收缩力与力量耐力提升后的变化衰减过程。方法：选取普通成年健康受试者27例，随机等分为训练组、照射组、训练+照射组。训练+照射组每次接受10 min低频脉冲磁场刺激后即刻进行抗阻训练，照射组只进行10 min低频脉冲磁场刺激，训练组采用抗阻训练，试验时间为8周，在正式试验的第1-12天进行短期肌力提升方案及力量水平后测，随后6周观察各组最大自主收缩力与力量耐力的衰减变化过程。结果与结论：(1)所有被试者随着试验时间的不断推进，最大自主收缩力值变化显著(P &lt;0.01)，时间交互效应明显，组间无交互效应，时间与分组交互效应不显著。(2)与初测值相比，照射组肌力衰减最大自主收缩力跟踪的第1,2,3,4周均显著高于初测值；训练组肌力衰减最大自主收缩力跟踪的第1,4周均显著高于初测值；与后测值相比，照射组最大自主收缩力值肌力衰减跟踪的第5,6周显著低于后测值；训练组最大自主收缩力肌力衰减跟踪的第5,6周显著低于后测值；训练+照射组肌力衰减最大自主收缩力跟踪的第1,5,6周显著低于后测值。(3)通过对3组最大自主收缩力变化曲线进行相关性分析可以看出，照射组整体最大自主收缩力肌力变化与训练组及训练+照射组最大自主收缩力变化趋势高度正相关，变化趋势高度一致。与照射组相比，训练组与训练+照射组最大自主收缩力具有更强的正相关性。(4)各组被试随着时间的推进，中值频率值均发生显著性变化(P &lt;0.01)，时间交互效应明显，时间点和分组交互作用对中值频率值变化具有显著性影响(P &lt;0.05)。(5)与初测值相比，照射组肌力衰减中值频率值跟踪的第2周显著高于初测值；训练+照射组所有肌力衰减中值频率值跟踪的第2周显著高于初测值；与后测值相比，照射组肌力衰减中值频率值跟踪均与后测无显著性差异；训练组肌力衰减中值频率值跟踪的第1,4周显著低于后测值；训练+照射组肌力衰减中值频率值跟踪的第1,2周显著低于后测值。(6)3组受试者力量耐力中值频率值变化曲线进行相关性分析可以看出，照射组与训练组和训练+照射组之间具备较低的正相关性，与训练组相比，训练+照射组与照射组之间的相关程度略高。(7)结果显示，在强度1.5 mT、频率3 300 Hz的脉冲磁场短期刺激方案使肌力增强后，最大自主收缩力衰减到初测值的周期为6周，与该试验抗阻训练的衰减周期及提升后的衰减速度一致，在衰减过程中相比进行抗阻训练的2组变化波动较小，无疲劳累积的影响，肌力保持水平较佳。力量耐力提升后至少可保持6周。相比抗阻训练的力量耐力变化，低频脉冲磁场刺激可免于疲劳累积的影响，抗疲劳能力持续增长与保持水平较好，抗阻训练结合脉冲磁场可观察到对耐力水平带来一定影响与增益效果，减少衰减过程的波动，利于耐力水平的保持。",
+    "关键词": [
+        "脉冲磁场",
+        "经典瞬时感受器电位通道1",
+        "TRPC1",
+        "力量素质",
+        "肌力衰减",
+        "短期效应",
+        "耐力",
+        "肱二头肌",
+        "收缩",
+        "肌力"
+    ],
+    "基金资助": [
+        "国家自然科学基金青年项目(62001313),项目负责人：白石",
+        "中国大学生体育协会一般项目(L202103003),项目负责人：厉中山",
+        "辽宁省科学技术计划项目(2021JH2/10300134,2020-MS-211),项目负责人：白石",
+        "2021年辽宁省教育厅基本科研项目(LJKZ0133),项目负责人：白石~~"
+    ],
+    "专辑": "医药卫生科技;基础科学",
+    "专题": "生物学;生物医学工程",
+    "分类号": "R318",
+    "页码": "3721-3727",
+    "页数": "7",
+    "爬取时间": "2025-03-26 03:13:54",
+    "论文唯一代码": "XDKF202323017"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "中国女排朱婷后排扣球运动生物力学特征分析",
+    "状态": "正常",
+    "发表期刊": "武术研究",
+    "刊发时间": "2022-10-27",
+    "引用量": "0",
+    "下载量": "247",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李艳荣",
+            "author_addresses": [
+                "首都体育学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "7 ",
+    "期(Issue)": "10",
+    "摘要": " 文章主要运用了文献资料法、录像观察法、Dartfish软件分析法、数理统计法等研究方法，对2019年世界女排联赛中国香港站、中国江门站的比赛中朱婷后排扣球特征进行系统的分析。研究得出的结论是：朱婷的身高、体重、扣球高度和BMI等非技术性指标，都具有明显优势；朱婷后排扣球时，准备姿势自然而放松，移动迅速；其助跑方式主要采用三步助跑；完成空中击球动作时充分展体收腹，挥臂的距离较大；落地时膝关节、踝关节主要起缓冲作用，落地后会及时撤步；朱婷后排扣球动作技术各阶段均处于较高水平，与二传、副攻的配合高度默契，值得中国女排后备主攻队员学习。",
+    "关键词": [
+        "后排扣球",
+        "运动生物力学",
+        "特征"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G842;G804.6",
+    "页码": "144-147",
+    "页数": "4",
+    "爬取时间": "2025-03-26 03:14:00",
+    "论文唯一代码": "WSKX202210040"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "抗阻训练增肌个体有效性及影响因素研究",
+    "状态": "正常",
+    "发表期刊": "北京体育大学学报",
+    "刊发时间": "2022-10-25",
+    "引用量": "4",
+    "下载量": "1500",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "杨晓琳",
+            "author_addresses": [
+                "北京体育大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李晓霞",
+            "author_addresses": [
+                "山东体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "吴剑",
+            "author_addresses": [
+                "首都体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "段佳妍",
+            "author_addresses": [
+                "北京体育大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "何子红",
+            "author_addresses": [
+                "国家体育总局体育科学研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "45 ",
+    "期(Issue)": "10",
+    "摘要": " 目的：比较抗阻训练增肌无效者改变强度后的效果变化，分析不同强度抗阻训练增肌有效性及影响因素，为成年人选择个体化、精准健身指导方案获得最大健康益处提供依据。方法：共进行2轮不同强度合计24周的抗阻训练。先进行第1轮12周中等强度（70%1 RM）抗阻训练（MIRT,n=206人），36周洗脱期后，MIRT无效者再进行第2轮12周高强度（87%1 RM）抗阻训练（HIRT,n=29人）。MIRT与HIRT前后测试卧推/深蹲1 RM、身体成分和肌肉厚度。计算个体Cohen’s d效果量（ES）,ES&lt;0.2为无效，ES≥0.2为有效，通过多重线性逐步回归进行增肌效果影响因素分析。结果：1)MIRT后，肌肉含量平均增加1.11%(-4.84%～8.38%,P&lt;0.05，无效率64%)，股直肌厚度平均增加0.15 cm(-0.44～0.67 cm,P&lt;0.05，无效率33%);HIRT肌肉含量平均提高1.31%(-2.86%～5.29%,P&lt;0.05，无效率55%)，股直肌厚度平均增加0.11 cm(-0.15～0.53 cm,P&lt;0.05，无效率48%)。2)33%的MIRT肌肉含量增加无效者，更换HIRT后有效提高了肌肉含量，33%的MIRT股直肌厚度增加无效者，更换HIRT后有效增加了股直肌厚度。3）初始脂肪含量（%）和性别（男0，女1）构建的线性逐步回归模型可以预测肌肉含量提高效果并可解释8.9%的效果差异；初始股直肌厚度和深蹲1 RM构建的线性逐步回归模型可以预测股直肌厚度增加效果并可解释21.4%的效果差异。结论：不同强度抗阻训练增肌有效率在36%～67%，通过改变训练强度可以提高约1/3增肌无效者的训练效果；初始脂肪含量和性别、初始股直肌厚度和深蹲1 RM分别是肌肉含量、股直肌厚度增加效果的影响因子，但解释度较低，今后需纳入其他因素进一步分析。",
+    "关键词": [
+        "抗阻训练",
+        "肌肉含量",
+        "股直肌厚度",
+        "个体效果"
+    ],
+    "基金资助": [
+        "国家重点研发计划项目“运动健康促进效果个体差异的生物学机制与健身指导方案”（项目编号：2018YFC2000602）",
+        "中央高校基本科研业务费专项资金资助课题（项目编号：2021TD003）"
+    ],
+    "专辑": "社会科学Ⅱ辑;基础科学",
+    "专题": "生物学;体育",
+    "分类号": "G804.2",
+    "页码": "101-113",
+    "页数": "13",
+    "爬取时间": "2025-03-26 03:14:05",
+    "论文唯一代码": "BJTD202210009"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "歼击机飞行员职业性颈痛康复疗效研究",
+    "状态": "正常",
+    "发表期刊": "空军航空医学",
+    "刊发时间": "2022-10-25",
+    "引用量": "1",
+    "下载量": "102",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "杨一卓",
+            "author_addresses": [
+                "空军特色医学中心康复医学科",
+                "首都体育学院体育融合创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘帅",
+            "author_addresses": [
+                "空军特色医学中心康复医学科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "凌梦钰",
+            "author_addresses": [
+                "空军特色医学中心康复医学科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张向阳",
+            "author_addresses": [
+                "空军特色医学中心空天医学总体论证研究室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "叶超群",
+            "author_addresses": [
+                "空军特色医学中心康复医学科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "yechaoqun@sina.com"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "39 ",
+    "期(Issue)": "05",
+    "摘要": " 目的 对比不同类型的康复方法对歼击机飞行员颈痛的康复疗效。方法 2019年11月—2021年5月，招募30名患颈痛的歼击机飞行员，随机分为3组，其中理疗组（10人）采用中频和磁振热治疗，力量组（10人）进行颈抗阻力量练习，运动控制组（10人）采用颈深屈肌力量练习和颈部运动控制练习，对比分析干预前后各组主观视觉模拟量表（visual analog scale,VAS）得分、颈部功能障碍指数（neckdisabilityindex,NDI）和颈部功能情况。结果 干预后，力量组和运动控制组VAS得分显著降低（P&lt;0.05）;3组VAS得分差异有统计学意义（P&lt;0.05）；运动控制组NDI得分降低（P&lt;0.001）。干预后，力量组右侧屈、左侧屈、颈后伸角度改善（P&lt;0.05），运动控制组颈屈、右侧屈、后伸改善显著（P&lt;0.05）。干预后，力量组右下旋转、右上旋转、颈左侧屈、左上旋转、右侧屈力量显著增加（t=0.671～0.914,P&lt;0.05）；运动控制组左上旋转、右侧屈、左侧屈和颈屈力量显著增加（P&lt;0.05）。干预后，各组间颈右侧屈和左上旋转力量差异有统计学意义（P&lt;0.05），其中运动控制组的颈右侧屈和左上旋力量优于理疗组（P&lt;0.05），力量组的颈左上旋转力量优于理疗组（t=-3.820,P=0.016）。干预后，运动控制组颈深屈肌力量、颈深屈肌激活改善明显（P&lt;0.05）;3组飞行员颈深屈肌力量差异有统计学意义（P&lt;0.05），其中运动控制组颈深屈肌力量的改善优于理疗组（P&lt;0.05）。结论 针对歼击机飞行员颈痛的康复训练，不仅要关注颈部肌肉力量和耐力，还要关注到运动控制异常导致神经肌肉运动控制的改变对颈痛的影响。通过颈深屈肌为主的颈部运动控制训练，可有效改善歼击机飞行员颈痛。",
+    "关键词": [
+        "颈痛",
+        "飞行员",
+        "运动控制",
+        "颈深屈肌"
+    ],
+    "基金资助": [
+        "中央军委后勤保障部重点项目（BKJ17J006）"
+    ],
+    "专辑": "医药卫生科技;工程科技Ⅱ辑",
+    "专题": "航空航天科学与工程;特种医学;军事医学与卫生",
+    "分类号": "R856.6",
+    "页码": "234-239",
+    "页数": "6",
+    "爬取时间": "2025-03-26 03:14:11",
+    "论文唯一代码": "ZJZY202205013"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "德国和日本体育学科发展特点、经验及启示",
+    "状态": "正常",
+    "发表期刊": "体育文化导刊",
+    "刊发时间": "2022-10-23",
+    "引用量": "10",
+    "下载量": "1342",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "骆同",
+            "author_addresses": [
+                "北京林业大学雄安校区规划建设指挥部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "骆秉全",
+            "author_addresses": [
+                "首都体育学院管理与传播学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "10",
+    "摘要": " 运用文献资料法、历史研究法、比较研究法等，对德国和日本体育学科体系、学位设置以及人才培养中课程设置的特点、经验等方面进行研究，并提出对我国的启示。德国和日本体育学科发展经验：重视母学科对体育学科发展的基础作用和学科交叉融合，重视人才培养质量和学科建设与社会的适应度，重视现代科技对体育学科发展的推动作用和科技成果创新与推广，重视体育学科发展中的文化传播和国际交流合作。启示：争取成为独立的学科门类是体育学科发展的关键所在，学科发展要密切关注社会需求、主动服务国家战略，学科建设要走特色化差异化发展道路，重视学科基础建设和国际交流与合作。",
+    "关键词": [
+        "体育教育",
+        "体育学科",
+        "学科体系",
+        "德国",
+        "日本"
+    ],
+    "基金资助": [
+        "北京市高等教育本科教学改革创新重点项目（100292020001）"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G807",
+    "页码": "102-109",
+    "页数": "8",
+    "爬取时间": "2025-03-26 03:14:14",
+    "论文唯一代码": "TYWS202210015"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "科技助力背景下视频助理裁判(VAR)技术对足球比赛判罚决策有效性和局限性的分析",
+    "状态": "正常",
+    "发表期刊": "体育科技文献通报",
+    "刊发时间": "2022-10-20",
+    "引用量": "10",
+    "下载量": "1199",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "傅明",
+            "author_addresses": [
+                "首都体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张业勤",
+            "author_addresses": [
+                "北京体育大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李丹阳",
+            "author_addresses": [
+                "北京体育大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "30 ",
+    "期(Issue)": "10",
+    "摘要": " 运用文献资料法、视频分析法、数据统计法，对视频助理裁判(VAR)技术在2018年俄罗斯国际足联世界杯和2020年亚足联U23亚洲杯中的应用情况进行视频观察分析。结果发现：VAR技术的应用有效提高了裁判员比赛决策的准确率，但其对于“四类”可介入事件中的主观性判罚决策仍存在局限。建议：正确认识、理解VAR技术的补充应用作用，场上比赛官员应该尽量消除对VAR技术的心理依赖，以此充分发挥该技术的补充作用，并将其应用效果拓展至最大。",
+    "关键词": [
+        "VAR技术",
+        "比赛判罚",
+        "比赛决策"
+    ],
+    "基金资助": [
+        "2021年北京高等教育“本科教学改革创新项目”(项目编号：100292021004),立项项目“人工智能技术背景下体育院校《足球裁判理论与实践》课程教学改革创新研究”"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G843",
+    "页码": "53-55+219",
+    "页数": "4",
+    "爬取时间": "2025-03-26 03:14:19",
+    "论文唯一代码": "SPOR202210009"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "音乐对无氧运动表现的影响——一项Meta分析",
+    "状态": "正常",
+    "发表期刊": "体育科技文献通报",
+    "刊发时间": "2022-10-20",
+    "引用量": "0",
+    "下载量": "464",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "黄明明",
+            "author_addresses": "首都体育学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "戴声誉",
+            "author_addresses": "首都体育学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "扆铮",
+            "author_addresses": "首都体育学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "30 ",
+    "期(Issue)": "10",
+    "摘要": " 目的：从无氧测试中的相对平均功率(AMP)、相对峰值功率(APP)、心率(HR)、RPE和疲劳值(FI)5个方面进行分析，探讨音乐对无氧运动表现的影响。方法：检索中国知网、Google Scholar、Web of Science、Pubmed等数据库，根据纳入标准对文献进行筛选，在质量评价后，筛选出最终文献，共纳入11篇文献，181名受试者；从中提取相关数据，采用Review 5.3进行Meta分析。结果：音乐在无氧运动中仅对峰值功率[MD=0.39,95%Cl(0.14,0.65),P=0.003&lt;0.05]和疲劳值[MD=1.74,95%Cl(0.11,3.38),P=0.04&lt;0.05]产生统计学差异，表现为实验组优于对照组。平均功率、心率、RPE与对照组相比均未表现出统计学差异。结论：音乐在无氧运动中仅对相对峰值功率和疲劳值有促进效果，在相对平均功率、心率和RPE方面音乐并没有起到显著的改善作用。",
+    "关键词": [
+        "音乐",
+        "无氧运动",
+        "运动表现",
+        "功率",
+        "Meta分析"
+    ],
+    "基金资助": [
+        "北京市教育科学青年专项课题(项目编号：CCEA171140)"
+    ],
+    "专辑": "社会科学Ⅱ辑;基础科学",
+    "专题": "生物学;体育",
+    "分类号": "G804.2",
+    "页码": "87-90+94",
+    "页数": "5",
+    "爬取时间": "2025-03-26 03:14:40",
+    "论文唯一代码": "SPOR202210017"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "有氧运动影响儿童认知的Meta分析",
+    "状态": "正常",
+    "发表期刊": "中国儿童保健杂志",
+    "刊发时间": "2022-10-18 11:06",
+    "引用量": "8",
+    "下载量": "982",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "钟晓珂",
+            "author_addresses": [
+                "首都体育学院研究生部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王志鹏",
+            "author_addresses": [
+                "清华大学附属小学昌平学校"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "蒋长好",
+            "author_addresses": [
+                "首都体育学院运动脑成像研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "jiangchanghao@cupes.edu.cn"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "30 ",
+    "期(Issue)": "11",
+    "摘要": " 目的 运用Meta分析方法探索有氧运动与儿童认知的关系，为有氧运动和儿童认知的关系提供借鉴。方法 通过检索中国知网、万方、维普、PubMed以及Web of Science等中英文数据库，筛选2011年1月—2021年12月关于有氧运动与儿童认知的随机对照试验研究。根据文献的纳入和排除标准，纳入较高质量的文献，使用PEDro量表对文献质量进行评估。使用Revman5.4和Stata12软件对纳入文献进行Meta分析，根据异质性检验结果选择随机效应模型或固定效应模型，计算合并SMD和95%CI,评估发表偏倚。结果 共纳入11篇文献，包括随机对照试验(n=10)和准实验设计(n=1)两种，共计2 052例被试。有氧运动可以提高儿童的注意(SMD为0.97,95%CI为0.34～1.61,Z分数为2.99,P=0.003),及高级认知执行功能-抑制控制(SMD为0.59,95%CI为0.07～1.10,Z分数为2.51,P=0.01),差异有统计学意义(P&lt;0.05);而对工作记忆和认知灵活性的影响差异无统计学意义(P&gt;0.05)。结论 有氧运动可以改善儿童的认知功能，但是对执行功能的子成分-抑制控制功能具有选择性影响。",
+    "关键词": [
+        "有氧运动",
+        "儿童",
+        "认知",
+        "Meta分析"
+    ],
+    "基金资助": [
+        "北京市社会科学基金项目(19YTA001)"
+    ],
+    "专辑": "医药卫生科技",
+    "专题": "预防医学与卫生学",
+    "分类号": "R179",
+    "页码": "1231-1236",
+    "页数": "6",
+    "爬取时间": "2025-03-26 03:14:43",
+    "论文唯一代码": "ERTO202211016"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "身体哲学视域下中国传统体育思想与西方传统体育思想的会通",
+    "状态": "正常",
+    "发表期刊": "首都体育学院学报",
+    "刊发时间": "2022-10-17 16:39",
+    "引用量": "7",
+    "下载量": "1097",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "苑文静",
+            "author_addresses": [
+                "首都体育学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "34 ",
+    "期(Issue)": "05",
+    "摘要": " 从身体哲学的角度对中西方传统体育思想进行比较分析后认为：中国传统体育思想与西方传统体育思想虽然有差异，但是也有相同之处。从身体哲学的角度比较分析中西方传统体育思想，不仅能找到2个思想体系在认知方式、实践层面存在的差异根源，而且也能从中找到中国传统体育思想与西方传统体育融合发展的方向。中国传统体育的身体与心理合一性与身心学理论在思想上相贯通；中国传统体育的身体与道德合一性与身体美学在理论上相融合；中国传统体育的身体与精神合一性与游戏论在思想上相融合。中国传统体育思想与西方传统体育思想的会通既是中华体育文化与西方体育文化的会通，也是中华优秀传统体育文化与现代奥林匹克运动文化的融合。",
+    "关键词": [
+        "身体哲学",
+        "中国传统体育思想",
+        "西方传统体育思想",
+        "身心学",
+        "身体美学",
+        "游戏论"
+    ],
+    "基金资助": [
+        "国家社会科学基金一般项目（21BTY043）"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G811;G812",
+    "页码": "525-530+567",
+    "页数": "7",
+    "爬取时间": "2025-03-26 03:14:46",
+    "论文唯一代码": "BTSF202205007"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "基于ArcGIS的东三省滑雪场分布特征及优化研究",
+    "状态": "正常",
+    "发表期刊": "体育科技",
+    "刊发时间": "2022-10-15",
+    "引用量": "1",
+    "下载量": "264",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "闫纪红",
+            "author_addresses": [
+                "吉首大学体育科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "代新语",
+            "author_addresses": [
+                "首都体育学院运动训练研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张帅",
+            "author_addresses": [
+                "国家体育总局冬季运动管理中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "05",
+    "摘要": " 为丰富研究范式，促进我国冰雪运动的发展，文章将研究范畴扩展到地理地貌、社会经济等领域，以东北三省170个滑雪场为研究样本,对我国东三省滑雪场馆的数目、省域分布特征进行分析，以点状要素形态呈现在东三省图层上，系统分析其空间分布方向和范围、空间结构类型、空间分布密度、空间分布规律，在空间角度上为滑雪场馆选址及发展提供依据。结果表明：东北三省滑雪场分布不均衡，空间结构以省会为中心呈聚集结构；全省可划分成3级密度区；滑雪场的分布受限于气候条件，并与人口、经济水平呈高度正相关；沿旅游景区周边分布，校企联合尚未形成；在东三省全部170个滑雪场中共有46个处于高校30km缓冲区之内，可作为校企合作的试点企业，填补冰雪人才缺口，促进冰雪产业的发展。据此，研究提出未来应保持“体育+旅游”的优良模式，重点布局“校企联合”的冰雪人才培养模式，逐步使东三省滑雪场成为集运动训练、体育教学、科学研究、体育竞赛和体育旅游的综合体育场馆。",
+    "关键词": [
+        "空间分布",
+        "地理可视化",
+        "滑雪场"
+    ],
+    "基金资助": [
+        "吉首大学2020年博士课题资助项目（JDTY202A03）"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G863.1",
+    "页码": "27-29+32",
+    "页数": "4",
+    "爬取时间": "2025-03-26 03:14:50",
+    "论文唯一代码": "TYKJ202205009"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "国内外优秀男子职业高尔夫球员一号木挥杆技术三维对比分析",
+    "状态": "正常",
+    "发表期刊": "中国体育科技",
+    "刊发时间": "2022-10-15",
+    "引用量": "10",
+    "下载量": "401",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "毕志远",
+            "author_addresses": [
+                "太原师范学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王泽峰",
+            "author_addresses": [
+                "国家体育总局体育科学研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "w_tennis@163.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "展更豪",
+            "author_addresses": [
+                "首都体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "徐华雨",
+            "author_addresses": [
+                "首都体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "赵紫龙",
+            "author_addresses": [
+                "河北体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "吴淑元",
+            "author_addresses": [
+                "首都体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "58 ",
+    "期(Issue)": "10",
+    "摘要": " 目的：探究中国男子职业高尔夫球员与国外PGA锦标赛优秀职业球员一号木挥杆技术差异和影响击球效果的运动控制变量。方法：采用三维录像解析方法对6名中国男子职业高尔夫球员和6名国外PGA锦标赛职业球员一号木挥杆技术动作进行分析。结果：1）国外球员的击球瞬间杆头线速度（CSI）和出球速度（Vexit）显著大于国内球员（P&lt;0.05）,CSI和Vexit呈正相关（P&lt;0.05），杆头偏移位移（D4）与出球角度（AD）呈正相关（P&lt;0.05）;2）国外球员与国内球员的过渡时间（T1）具有显著性差异（P&lt;0.05）,T1与CSI、Vexit、峰值X-因子具有显著相关性（P&lt;0.05）;3）国外球员与国内球员的上杆顶点X-因子、峰值X-因子、手腕运动开始时的前臂角度（A9）具有显著性差异（P&lt;0.05），横向肩角变化量（ΔA2）与起飞角（AL）呈正相关（P&lt;0.05），峰值X-因子与Vexit呈正相关（P&lt;0.05）,A9与CSI和Vexit呈正相关（P&lt;0.05）。结论：1）国外球员的挥杆速度与击球效果比国内球员更具优势，提高挥杆速度是提高出球速度和增加击球距离的有效途径，减少准备与击球时的杆头偏移位移是减小出球角度和提高击球精度的有效途径；2）国内球员与国外球员相比，上杆顶点附近的过渡时间较少，建议适当延长过渡时间，有利于增加峰值X-因子，从而提高CSI和Vexit，以达到增加击球距离的目的；3）准备姿势横向躯干角、上杆顶点横向球杆角是影响出球角度的相关指标，准备与击球的横向肩角变化量是影响起飞角度的相关指标，增大上杆顶点时X-因子和峰值X-因子、延迟手腕释放的时间有利于提高出球速度。",
+    "关键词": [
+        "高尔夫球",
+        "一号木挥杆",
+        "击球效果",
+        "X-因子"
+    ],
+    "基金资助": [
+        "国家体育总局体育科学研究所基本科研业务费资助项目（基本22-37）"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G849.3",
+    "页码": "21-27",
+    "页数": "7",
+    "爬取时间": "2025-03-26 03:14:53",
+    "论文唯一代码": "ZGTY202210004"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "突发公共卫生事件背景下《体育教学》期刊刊网融合发展探索与实践",
+    "状态": "正常",
+    "发表期刊": "天津科技",
+    "刊发时间": "2022-10-15",
+    "引用量": "2",
+    "下载量": "42",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李海燕",
+            "author_addresses": [
+                "首都体育学院期刊部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "何心",
+            "author_addresses": [
+                "首都体育学院研究生部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王丹丹",
+            "author_addresses": [
+                "首都体育学院研究生部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "49 ",
+    "期(Issue)": "10",
+    "摘要": " 在总结新冠肺炎疫情暴发期间《体育教学》杂志疫情专栏运营的基础上，探讨突发公共卫生事件背景下期刊的刊网融合发展经验和此状态下期刊发展的新出路。通过对《体育教学》杂志微信订阅号推送文章的内容、浏览量信息进行对比，从内容浏览量、期刊影响力角度描述浏览量高位篇目的特征。刊网融合视域下，面对突发公共卫生事件，期刊应迅速找准自身定位，精确把握稿件来源，尽早确立组稿框架，科学规划内容，同时积极开展问卷调研，提升用户使用体验，联合自媒体平台，以多渠道提升期刊影响力。",
+    "关键词": [
+        "公共卫生",
+        "刊网融合",
+        "发展经验"
+    ],
+    "基金资助": [
+        "北京市教委北京高校高精尖学科建设项目“科技创新服务能力建设——高精尖学科建设”(PXM2021＿014206＿000030)"
+    ],
+    "专辑": "基础科学;信息科技",
+    "专题": "出版",
+    "分类号": "G237.5",
+    "页码": "91-94",
+    "页数": "4",
+    "爬取时间": "2025-03-26 03:14:57",
+    "论文唯一代码": "TJKJ202210022"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "中国铁人三项协会脱钩改革的制度困境与出路——基于新制度理论的视角",
+    "状态": "正常",
+    "发表期刊": "武汉体育学院学报",
+    "刊发时间": "2022-10-15",
+    "引用量": "6",
+    "下载量": "772",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "陈冬伟",
+            "author_addresses": [
+                "福建师范大学体育科学学院",
+                "湖南医药学院体育艺术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王凯珍",
+            "author_addresses": [
+                "首都体育学院休闲与社会体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "汪流",
+            "author_addresses": [
+                "首都体育学院休闲与社会体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "56 ",
+    "期(Issue)": "10",
+    "摘要": " 基于作者2020年参与“十四五”铁人三项项目发展规划编制的系列调研资料，以新制度理论作为分析框架，分析中国铁人三项协会脱钩改革的制度困境，寻找中国铁人三项协会改革的出路。认为中国铁人三项协会脱钩改革的制度困境包括：协会的行业自治权缺乏必要的制度维护，非营利性运营的制度规定具有模糊性，影响协会获取生存与发展的资源；协会运行的制度在规范性维度尚有缺失，制约协会脱钩的进程；协会改革参与主体对认知性维度的制度存在片面性、差异性理解，导致脱钩改革制度的认同困境。提出：调整协会改革规制性维度的制度，增强制度的适用性；完善规范性维度的制度，促进协会健康有序运行；秉承多元化理念建构协会脱钩改革认知性维度的制度，满足不同利益主体对脱钩改革的价值诉求。",
+    "关键词": [
+        "中国铁人三项协会",
+        "脱钩改革",
+        "新制度理论",
+        "规制性维度",
+        "规范性维度",
+        "认知性维度"
+    ],
+    "基金资助": [
+        "国家社会科学基金项目“我国城市社区体育治理的践行困境与推进路径研究”(20BTY083)"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G888.1",
+    "页码": "44-51",
+    "页数": "8",
+    "爬取时间": "2025-03-26 03:15:00",
+    "论文唯一代码": "WTXB202210006"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "基于液态金属应变传感器监控射箭动作拉力变化的实证研究",
+    "状态": "正常",
+    "发表期刊": "武汉体育学院学报",
+    "刊发时间": "2022-10-15",
+    "引用量": "0",
+    "下载量": "231",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王骏昇",
+            "author_addresses": [
+                "首都体育学院体育教育训练学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "陈舒雅",
+            "author_addresses": [
+                "首都体育学院体育教育训练学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "杨子涵",
+            "author_addresses": [
+                "首都医科大学生物医学工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "唐立雪",
+            "author_addresses": [
+                "首都医科大学生物医学工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "56 ",
+    "期(Issue)": "10",
+    "摘要": " 目的：开发一种新的液态金属应变传感器对射箭动作拉力进行监控。方法：设计和制造液态金属应变传感器，标定传感器的信号值与拉力之间的关系并对健将级运动员射箭的拉力特征进行分析。结果：(1)研发的传感器可以测量0%～160%之间的应变；在重复拉伸1 500次的过程后，信号变化率小于1.5%。(2)传感器最佳位置为离弓稍92 mm处，该处拉力拟合值与实际值的偏差范围为0.5%～2%。(3)实时反馈了运动员王X射箭不同动作阶段拉力图像，监控了关键阶段的力和时间。结论：(1)本液态金属应变传感器具有较好的可重复性和有效性。(2)重点监控了射箭瞄准阶段、声动反应阶段的拉力和时间，弥补了前人对射箭拉力的研究空白，为提高射箭竞技水平提供实验数据支撑。",
+    "关键词": [
+        "运动训练",
+        "射箭训练",
+        "训练监控",
+        "液态金属应变传感器",
+        "拉力特征"
+    ],
+    "基金资助": [
+        "北京市社会科学青年项目(19YTC033)"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G887",
+    "页码": "82-86",
+    "页数": "5",
+    "爬取时间": "2025-03-26 03:15:05",
+    "论文唯一代码": "WTXB202210011"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "媒介融合背景下纪录片的跨界研究",
+    "状态": "正常",
+    "发表期刊": "中国电视",
+    "刊发时间": "2022-10-15",
+    "引用量": "20",
+    "下载量": "1629",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘兰",
+            "author_addresses": [
+                "首都体育学院管理与传播学院广播电视教研室"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "10",
+    "摘要": " 媒介融合为纪录片提供了创新思路。数字技术和互联网思维影响着纪录片的美学走向,加速了纪录片的创作转型。本文探讨了媒介融合背景下纪录片创作转型问题,发现纪录片创作开始突破原有边界,实现包括形态跨界、语态跨界、视角跨界、创作跨界、传播跨界等全方位的跨领域发展。纪录片的跨界顺应了媒介融合的时代要求,将纪录片的专业精神与融媒体时代的传播方式相结合,探索出灵活多样的美学手法与传播模式。",
+    "关键词": [
+        "纪录片",
+        "融媒体",
+        "美学杂糅",
+        "网络语态",
+        "跨媒体传播"
+    ],
+    "基金资助": [
+        "北京市社会科学基金研究基地项目〈项目编号:17JDYTB005〉的阶段性研究成果"
+    ],
+    "专辑": "哲学与人文科学;信息科技",
+    "专题": "戏剧电影与电视艺术;新闻与传媒",
+    "分类号": "J952;G206",
+    "页码": "81-86",
+    "页数": "6",
+    "爬取时间": "2025-03-26 03:15:07",
+    "论文唯一代码": "ZGDD202210016"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "新媒体时代传统武术污名化的过程及消除策略",
+    "状态": "正常",
+    "发表期刊": "首都体育学院学报",
+    "刊发时间": "2022-10-14 14:49",
+    "引用量": "21",
+    "下载量": "1415",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李刚刚",
+            "author_addresses": "首都体育学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张长念",
+            "author_addresses": "首都体育学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "zhangchangnian@cupes.edu.cn"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "34 ",
+    "期(Issue)": "05",
+    "摘要": " 近年来，因为个别伪“大师”、假“掌门”进行商业炒作恶意捆绑传统武术，从而损害了传统武术的正面形象，使传统武术陷入污名化的非议之境。传统武术当前的传承与发展遭遇困境与此不无关系。运用文献研究法、逻辑分析法、网络调查法、访谈法，以3个短视频发布平台为调查对象，在分析传统武术被污名化而产生的不良影响的基础上，梳理消极网络社会情绪致使传统武术污名化的过程。分析认为：消极网络社会情绪贯穿了传统武术污名化的全过程，是传统武术污名形成和扩散的重要原因。短视频发布平台评论区的易被消极情绪传染的受众形成了充满愤恨的社会情绪，成为传统武术被污名化的开端；对传统武术带有对立情绪的群体之间在短视频发布平台评论区的留言形成了传统武术的污名标签，体现了有些人对传统武术的刻板印象；而群体感染消极网络社会情绪又使传统武术陷入了污名化舆论的深渊。基于以上提出：中国武术协会对短视频发布平台的传统武术视频内容应加强监控；短视频发布平台应建立正确的新闻观和价值观，并要加强对视频内容的自治。",
+    "关键词": [
+        "互联网",
+        "新媒体",
+        "消极网络社会情绪",
+        "传统武术",
+        "污名化",
+        "消除策略"
+    ],
+    "基金资助": [
+        "2021年度北京市社会科学基金项目（21YTB024）"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G852",
+    "页码": "531-537",
+    "页数": "7",
+    "爬取时间": "2025-03-26 03:15:11",
+    "论文唯一代码": "BTSF202205008"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "飞轮抗阻训练对老年人骨骼肌肌肥大、肌肉力量和平衡能力影响的Meta分析",
+    "状态": "正常",
+    "发表期刊": "首都体育学院学报",
+    "刊发时间": "2022-10-14 14:49",
+    "引用量": "8",
+    "下载量": "1399",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王皎琴",
+            "author_addresses": [
+                "首都体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "傅鸿浩",
+            "author_addresses": [
+                "华中科技大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张强",
+            "author_addresses": [
+                "首都体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张明",
+            "author_addresses": [
+                "北京体育大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "zhang23126@163.com"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "34 ",
+    "期(Issue)": "05",
+    "摘要": " 目的：系统评价飞轮抗阻训练对老年人骨骼肌肌肥大、肌肉力量和平衡能力的影响效果。方法：从Web of Science、Pubmed、Cochrane library、SportDiscus、Scopus、中国知网、万方数据库中，检索各数据库建库起始时间至2021年11月的相关随机对照试验文献，经筛选文献、提取资料并评价纳入研究的偏倚风险后，采用“Review Manager 5.3”软件进行Meta分析。结果：Meta分析显示，飞轮抗阻训练后，老年人骨骼肌肌肥大有所改善（SMD=0.43,95%CI为[0.13, 0.73], p=0.006），达到小效应量；肌肉力量显著改善，等速肌力（SMD=0.66, 95%CI为[0.18, 1.14], p=0.007）达到中等效应量，最大自主随意收缩（SMD=0.71, 95%CI为[0.09, 1.32], p=0.02）达到中等效应量；平衡能力显著改善，30 s坐立起测试显著改善（SMD=0.69, 95%CI为[0.35, 1.04],p&lt;0.000 1），达到中等效应量；计时起立—走测试显著改善（SMD=-0.92, 95%CI为[-1.35,-0.49], p&lt;0.000 1），达到大效应量。结论：飞轮抗阻训练能显著改善老年人骨骼肌肌肥大、肌肉力量和平衡能力，但关于飞轮抗阻训练对老年人骨骼肌肌肥大、肌肉力量和平衡能力的影响因素，例如：最佳惯性负荷、运动形式、负荷量以及干预周期等仍需进一步探究。建议在今后的研究中进行多中心、大样本和长期的随机对照试验，从而为临床提供更加可靠的循证依据。",
+    "关键词": [
+        "老年人",
+        "飞轮抗阻训练",
+        "骨骼肌肌肥大",
+        "肌肉力量",
+        "平衡能力",
+        "Meta分析"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G808.1",
+    "页码": "568-579",
+    "页数": "12",
+    "爬取时间": "2025-03-26 03:15:14",
+    "论文唯一代码": "BTSF202205012"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "我国体医养相结合的健康促进服务模式的实践研究",
+    "状态": "正常",
+    "发表期刊": "首都体育学院学报",
+    "刊发时间": "2022-10-14 08:53",
+    "引用量": "16",
+    "下载量": "1980",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "曹雷",
+            "author_addresses": [
+                "中南大学",
+                "吉首大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "钟丽萍",
+            "author_addresses": [
+                "湖南工业大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "909016826@qq.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "范成文",
+            "author_addresses": [
+                "湖南工业大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "湛冰",
+            "author_addresses": [
+                "首都体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "34 ",
+    "期(Issue)": "05",
+    "摘要": " 发展健康养老服务业正在成为我国解决人口老龄化问题的一项措施。主要运用实地调查法和电话访谈法，调查了上海市、浙江省和湖南省较为典型的体医养相结合的健康促进服务主体，将其提供的体医养相结合的健康促进服务模式分别界定为“上海模式”“浙江模式”和“湖南模式”。“上海模式”是政府主导的体育服务企业嵌入社区居家养老服务主体的健康促进服务模式；“浙江模式”是政府与企业合作满足老年人居家养老需求的健康促进服务模式；“湖南模式”则是供需链中的不同企业以合作方式满足老年人健康养老需求的健康促进服务模式。3种模式在整合体育服务资源、医疗服务资源、养老服务资源，引导市场主体参与方面取得了一定的成效，但是目前相关政策不完善，整合体育服务资源、医疗服务资源和养老服务资源的总体效率不高；提供体医养相结合的健康促进服务的市场主体遇到了公益性与盈利性相互冲突的困境；提供体医养相结合的健康促进服务的专业性技能型护理人员短缺；提供体医养相结合的健康促进服务的智能科技产品的适老化设计存在不足。基于以上提出了体医养相结合的健康促进服务模式的推进策略。",
+    "关键词": [
+        "体医结合",
+        "体医养结合",
+        "体育服务",
+        "健康促进服务",
+        "体育服务资源"
+    ],
+    "基金资助": [
+        "2020年北京市哲学社会科学基金（20YTB018）",
+        "湖南省教育厅科学研究重点项目(20A145)",
+        "湖南省哲学社会科学基金青年项目（21YBQ064）"
+    ],
+    "专辑": "社会科学Ⅱ辑;医药卫生科技",
+    "专题": "医药卫生方针政策与法律法规研究",
+    "分类号": "R197.1",
+    "页码": "516-524",
+    "页数": "9",
+    "爬取时间": "2025-03-26 03:15:25",
+    "论文唯一代码": "BTSF202205006"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "机器人定量辅助训练对脑卒中恢复期偏瘫患者上肢异常运动模式的即刻影响:一项表面肌电研究",
+    "状态": "正常",
+    "发表期刊": "中日友好医院学报",
+    "刊发时间": "2022-10-11",
+    "引用量": "3",
+    "下载量": "238",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "雷思艺",
+            "author_addresses": [
+                "中日友好医院康复医学科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "葛瑞东",
+            "author_addresses": [
+                "中日友好医院康复医学科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "高蓓瑶",
+            "author_addresses": [
+                "中日友好医院康复医学科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "郭京伟",
+            "author_addresses": [
+                "中日友好医院康复医学科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "gjwbox2@sina.com"
+        },
+        {
+            "author_order": 5,
+            "author_name": "郑鑫鑫",
+            "author_addresses": [
+                "中日友好医院康复医学科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "韩子轩",
+            "author_addresses": [
+                "首都体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "徐天翼",
+            "author_addresses": [
+                "南京医科大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "周佳",
+            "author_addresses": [
+                "北京中医药大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "36 ",
+    "期(Issue)": "05",
+    "摘要": " 目的：在上肢机器人定量辅助模式下，采用表面肌电（sEMG）测定脑卒中恢复期偏瘫患者肩前屈动作的肌肉激活时序及激活水平，探究定量辅助训练对脑卒中恢复期偏瘫患者上肢异常运动模式的即刻影响。方法：选取在中日友好医院康复医学科住院的男性脑卒中偏瘫患者9例为试验组，同年龄段匹配正常男性8例为对照组。试验组分别在上肢机器人辅助和无辅助下进行肩关节前屈，同时采集三角肌前束、三角肌侧束、斜方肌上部、肱二头肌和肱三头肌的肌电信号，与对照组自然状态肩前屈的肌电信号比较，进一步分析各组肌群的激活时序和激活水平。结果：无辅助下，与对照组比较，所有肌肉激活水平升高（P&lt;0.05），激活时序改变（P&lt;0.05）。上肢机器人定量辅助下，三角肌前束激活水平降低（P&gt;0.05），更接近正常对照组；三角肌前束和三角肌侧束的激活时序回归正常（P&gt;0.05）。三角肌前束与三角肌侧束的激活水平在辅助下与正常人的差异显著小于无辅助下与正常人的差异（P&lt;0.05）。结论：定量辅助下，各块肌肉激活时序更接近正常，同时降低了主动肌的激活水平，由此推测上肢机器人训练可能改变脑卒中恢复期偏瘫患者的异常运动模式。",
+    "关键词": [
+        "表面肌电图",
+        "恢复期",
+        "即刻影响",
+        "偏瘫",
+        "上肢机器人"
+    ],
+    "基金资助": [
+        "中央保健科研课题（2020YB25）"
+    ],
+    "专辑": "医药卫生科技",
+    "专题": "神经病学",
+    "分类号": "R743.3",
+    "页码": "267-271",
+    "页数": "5",
+    "爬取时间": "2025-03-26 03:15:28",
+    "论文唯一代码": "ZRYH202205003"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "协同育人视域下高校社团传承优秀传统体育文化的实践研究",
+    "状态": "正常",
+    "发表期刊": "创新创业理论研究与实践",
+    "刊发时间": "2022-10-10",
+    "引用量": "2",
+    "下载量": "205",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "朱君怡",
+            "author_addresses": [
+                "首都体育学院管理与传播学院",
+                "湖南文理学院体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李瑾璇",
+            "author_addresses": [
+                "湖南文理学院体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "54141174@qq.com"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "5 ",
+    "期(Issue)": "19",
+    "摘要": " 在协同育人理念越来越受到重视并在高校教育、教学、管理等领域得到有效落实的时代背景下，更有效地发挥高校社团的作用，大力推动协同育人机制建设，是高校社团建设、管理、服务的重要内容。充分发挥高校社团协同育人功能，大力传承优秀传统体育文化，对构建协同育人机制具有重要作用。该文对此进行了研究与探讨，在分析协同育人视域下高校社团传承优秀传统体育文化重要性的基础上，重点分析了高校社团传承优秀传统体育文化的制约因素，最后提出优化对策。",
+    "关键词": [
+        "协同育人",
+        "高校社团",
+        "传统体育文化",
+        "传承",
+        "实践研究",
+        "对策"
+    ],
+    "基金资助": [
+        "2021年湖南省大学生创新创业训练计划项目：协同育人视域下高校社团传承优秀传统体育文化的实践研究（课题编号：3250）",
+        "湖南文理学院思想政治工作质量提升工程精品项目：高校社团“文化传承”+“文化育人”体系构建与实践—以龙舟社团为例"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G807.4",
+    "页码": "103-105",
+    "页数": "3",
+    "爬取时间": "2025-03-26 03:15:30",
+    "论文唯一代码": "CXYL202219029"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "高校资产管理工作中常见问题及对策",
+    "状态": "正常",
+    "发表期刊": "办公室业务",
+    "刊发时间": "2022-10-05",
+    "引用量": "2",
+    "下载量": "309",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "穆亚杰",
+            "author_addresses": "首都体育学院实验室与国有资产管理处",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "徐颖",
+            "author_addresses": "首都体育学院实验室与国有资产管理处",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "19",
+    "摘要": " 随着高校办学规模的不断壮大，高校所拥有的资产众多，投入资产的数量及价值更大，资产种类多样化，导致资产管理工作繁琐复杂，新常态背景下的资产管理工作成为高校未来发展的物质基石。本文对高校资产管理工作当中存在的问题及对策进行了具体分析和探讨。",
+    "关键词": [
+        "高校",
+        "资产管理",
+        "问题",
+        "建议"
+    ],
+    "基金资助": [],
+    "专辑": "经济与管理科学;社会科学Ⅱ辑",
+    "专题": "高等教育;会计",
+    "分类号": "G647.5",
+    "页码": "76-78",
+    "页数": "3",
+    "爬取时间": "2025-03-26 03:15:32",
+    "论文唯一代码": "BGYW202219023"
+}

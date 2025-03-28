@@ -1,0 +1,5997 @@
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "基坑免降水开挖的组合式冻结法支护工艺研究",
+    "状态": "正常",
+    "发表期刊": "铁道标准设计",
+    "刊发时间": "2022-11-30 10:03",
+    "引用量": "3",
+    "下载量": "244",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张松",
+            "author_addresses": [
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "岳祖润",
+            "author_addresses": [
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "yzr1898@qq.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "卢相忠",
+            "author_addresses": [
+                "唐山开滦建设(集团)有限责任公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张庆武",
+            "author_addresses": [
+                "唐山开滦建设(集团)有限责任公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "孙铁成",
+            "author_addresses": [
+                "石家庄铁道大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "胡田飞",
+            "author_addresses": [
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "亓源水",
+            "author_addresses": [
+                "石家庄铁道大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "张俊洋",
+            "author_addresses": [
+                "苏州轨道交通市域一号线有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "68 ",
+    "期(Issue)": "02",
+    "摘要": " 近年来，随着地下水资源保护力度的不断增大，对基坑工程进行免降水开挖的需求愈加紧迫。为解决富水地层基坑工程施工中的免降水问题，提出一种新的基坑支护方法：传统悬挂式止水帷幕与水平冻土止水帷幕相结合的“组合式冻结法”。根据以往市政工程中的冻结法施工经验，总结组合式冻结法的施工流程，提出泄压孔、温度限位孔和局部冻结技术相结合的冻胀控制措施，以及利用冻结管嵌入地连墙的界面区强化措施。通过模型试验对组合式冻结法的可行性进行验证，试验结果表明，组合式冻结法可以有效实现基底的支护，在冻结薄弱环节临时竖井、地连墙附近冻结壁承载能力满足设计要求；观测发现地层冻结对地连墙强度和变形无明显影响。",
+    "关键词": [
+        "组合式冻结法",
+        "基坑工程",
+        "免降水开挖",
+        "模型试验",
+        "冻土止水帷幕"
+    ],
+    "基金资助": [
+        "国家自然科学基金项目(52178340)",
+        "开滦(集团)有限责任公司科研项目(K2020-03)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU753",
+    "页码": "143-149",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:43:40",
+    "论文唯一代码": "TDBS202402020"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "考虑片理倾角的钻爆法隧道松动圈演变规律研究",
+    "状态": "正常",
+    "发表期刊": "地下空间与工程学报",
+    "刊发时间": "2022-11-29 13:27",
+    "引用量": "3",
+    "下载量": "296",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王景春",
+            "author_addresses": "石家庄铁道大学安全工程与应急管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘凯林",
+            "author_addresses": "石家庄铁道大学安全工程与应急管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "925544643@qq.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李永昊",
+            "author_addresses": "石家庄铁道大学安全工程与应急管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "杨秋亮",
+            "author_addresses": "石家庄铁道大学安全工程与应急管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "常子红",
+            "author_addresses": "石家庄铁道大学安全工程与应急管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "19 ",
+    "期(Issue)": "05",
+    "摘要": " 为探究片岩隧道钻爆法开挖围岩松动圈演变规律，以牛栾村隧道为依托，运用地质雷达法对现场松动圈范围进行探测；采用数值仿真方法，模拟不同倾角片岩隧道爆破开挖过程，分析围岩松动圈的分布范围及演变规律。结果表明：受片理影响隧道松动圈并不总沿轮廓线对称分布，且水平与竖直方向不对称性的表现程度不同；由于内部片理构造与外部爆破开挖扰动的共同作用，片岩极易沿片理方向发生破坏，松动圈的形成也易沿片理方向发展；随着钻爆开挖的进行，松动范围呈非线性累积扩展状态，4次钻爆之后对初次产生的松动圈影响不再明显，隧道各部位累积程度不同；地质雷达的使用能够有效地实现隧道多次钻爆后围岩松动范围的探测。",
+    "关键词": [
+        "隧道",
+        "松动圈",
+        "钻爆法",
+        "片岩",
+        "片理倾角"
+    ],
+    "基金资助": [
+        "国家自然科学基金(71941014,51608336)",
+        "河北省教育厅在读研究生创新能力培养资助项目(YC2022067)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "公路与水路运输",
+    "分类号": "U455.41",
+    "页码": "1602-1610",
+    "页数": "9",
+    "爬取时间": "2025-03-26 06:43:49",
+    "论文唯一代码": "BASE202305022"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "高铁隧道内地下水作用下双块式无砟轨道道床板裂缝扩展研究",
+    "状态": "正常",
+    "发表期刊": "铁道标准设计",
+    "刊发时间": "2022-11-28 14:40",
+    "引用量": "6",
+    "下载量": "336",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘成坤",
+            "author_addresses": [
+                "石家庄铁道大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "陈进杰",
+            "author_addresses": [
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室",
+                "河北省岩土工程安全与变形控制重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "黄守刚",
+            "author_addresses": [
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "huangshougang@sina.com"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王瑞",
+            "author_addresses": [
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "陈龙",
+            "author_addresses": [
+                "石家庄铁道大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "李杨",
+            "author_addresses": [
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "68 ",
+    "期(Issue)": "02",
+    "摘要": " 针对我国高速铁路隧道内CRTSⅠ型双块式无砟轨道施工阶段道床板开裂问题，运用有限元软件建立隧道-无砟轨道三维实体模型，研究地下水作用下隧道内无砟轨道各结构层位移隆起变化规律，并结合FRANC3D软件，在道床板结构受力最不利位置插入不同形状的预制三维裂缝，分析水压、裂缝长度对道床板裂缝扩展的影响。研究结果表明：(1)三角形荷载作用相较于均布荷载作用时，道床板位移隆起量虽有所减小，但地下水压的反复作用始终会影响轨道结构的平顺性，甚至导致道床板与仰拱填充间出现离缝；(2)裂缝长度是裂缝失稳扩展的控制因素，在排水系统完全堵塞时，建议将裂缝长度控制在200 mm以内；(3)水压为裂缝扩展的关键影响因素，同等条件下水压越大，道床板裂缝扩展越迅速，均布荷载下道床板裂缝尖端应力强度因子是对应三角形荷载下的1.2～1.4倍。",
+    "关键词": [
+        "高速铁路",
+        "铁路隧道",
+        "双块式无砟轨道",
+        "道床板裂缝",
+        "水压荷载",
+        "应力强度因子"
+    ],
+    "基金资助": [
+        "河北省自然科学基金项目(E2021210142)",
+        "成兰铁路科技研究计划重大课题(02CL-JSFW-2022-001)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "铁路运输",
+    "分类号": "U213.244",
+    "页码": "39-44+51",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:44:01",
+    "论文唯一代码": "TDBS202402006"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "新一轮体育课程教学改革视域下的“大单元体育教学”",
+    "状态": "正常",
+    "发表期刊": "体育学刊",
+    "刊发时间": "2022-11-28",
+    "引用量": "48",
+    "下载量": "4850",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张以",
+            "author_addresses": [
+                "成都大学体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "赵晓丹",
+            "author_addresses": [
+                "石家庄铁道大学体育部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "毛振明",
+            "author_addresses": [
+                "北京师范大学体育与运动学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "29 ",
+    "期(Issue)": "06",
+    "摘要": " 体育的大单元教学具有特殊的概念含义和具体的操作方法。就“单元教学”与“体育单元教学”概念辨析、大单元体育教学对体育教学的独特意义、单元层次、大单元体育教学的时长、体育教学单元规模决定因素、大单元体育教学的类型、不适合采用大单元体育教学的内容等进行讨论。研究认为，一般性的大单元体育教学还不足以真正实现《“健康中国2030”规划纲要》中“基本实现青少年熟练掌握一项以上运动技能”的目标任务，能够完成这一目标任务和实现“教会、勤练、常赛”教改任务的教学模式是“可选择性的专项化体育教学”，即属于超大单元的“体育走班制教学”。",
+    "关键词": [
+        "学校体育",
+        "大单元体育教学",
+        "教会、勤练、常赛",
+        "“健康中国2030”规划纲要",
+        "体育走班制教学"
+    ],
+    "基金资助": [
+        "国家社会科学基金重点项目“基于精准测量、精准分析、精准干预工作大幅提升中国学生体质的实验研究”(19ATY009)"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G807",
+    "页码": "127-133",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:44:22",
+    "论文唯一代码": "TYXK202206019"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "智媒时代主流意识形态传播的媒介逻辑及其内在向度",
+    "状态": "正常",
+    "发表期刊": "百色学院学报",
+    "刊发时间": "2022-11-28",
+    "引用量": "0",
+    "下载量": "273",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "杜宝君",
+            "author_addresses": "石家庄铁道大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "樊瑞科",
+            "author_addresses": "石家庄铁道大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "35 ",
+    "期(Issue)": "06",
+    "摘要": " 智媒时代下科学认识主流意识形态传播的媒介逻辑，需要把握好“变”与“不变”的辩证关系。“变”的是主流意识形态传播的实施模式和呈现形式，“不变”的是主流意识形态传播的价值旨归和内在要求。基于智媒时代生存交往的现实需要，主流意识形态传播必须遵循智媒技术的运作机理。理性审视主流意识形态传播的媒介逻辑所包含的二元向度和内在关系，有助于我们从整体上确立主流意识形态传播媒介逻辑的实践理路。",
+    "关键词": [
+        "智媒时代",
+        "主流意识形态",
+        "媒介逻辑",
+        "内在向度"
+    ],
+    "基金资助": [
+        "河北省教育厅重点项目“人工智能时代我国社会主义意识形态建设研究”（批准号：SD2022059）",
+        "石家庄铁道大学研究生创新资助项目“智能媒体时代我国主流意识形态有效传播研究”（批准号：YC2022069）"
+    ],
+    "专辑": "社会科学Ⅱ辑;信息科技",
+    "专题": "新闻与传媒",
+    "分类号": "G206",
+    "页码": "75-80",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:44:31",
+    "论文唯一代码": "MZSF202206009"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "基于三维重构的原岩硬性结构面抗剪强度",
+    "状态": "正常",
+    "发表期刊": "科学技术与工程",
+    "刊发时间": "2022-11-28",
+    "引用量": "2",
+    "下载量": "323",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "周玉鹿",
+            "author_addresses": [
+                "石家庄铁道大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "袁维",
+            "author_addresses": [
+                "石家庄铁道大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "yuanweisuper001@126.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "徐江",
+            "author_addresses": [
+                "贵州省水利水电勘测设计研究院有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王安礼",
+            "author_addresses": [
+                "贵州省水利水电勘测设计研究院有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "王伟",
+            "author_addresses": [
+                "石家庄铁道大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "22 ",
+    "期(Issue)": "33",
+    "摘要": " 节理面形貌特征是影响岩石节理面剪切破坏的重要因素。具有相同形貌特征的岩石节理面，沿不同剪切方向其力学行为存在差异性。结合三维激光扫描和3D打印技术，针对天然节理岩石的表面形貌进行逆向处理，将其制备为不同剪切方向的人工节理试样，并进行5种法向应力条件下的直剪试验。依据室内试验结果与理论分析，提出了定量计算节理面三维粗糙度与沿剪切方向接触面积有效系数值的方法，建立了不同剪切方向下含有三维形貌参数的抗剪强度模型。结果表明，影响剪胀角的因素与节理面的粗糙度系数和沿剪切方向接触面积有效系数值有关；沿不同的剪切方向会得到不同的剪胀角。基于剪切破坏的爬升和摩擦效应理论，并利用非线性拟合方法，得到峰值剪胀角的变化规律。最后，与已有的Barton抗剪强度公式进行对比分析，进而验证了该方法的合理性。",
+    "关键词": [
+        "节理粗糙度系数",
+        "峰值抗剪强度",
+        "直接剪切试验",
+        "岩体节理"
+    ],
+    "基金资助": [
+        "河北省自然科学基金优秀青年基金(E2021210041)河北省自然科学基金创新群体项目(E2021210128)",
+        "河北省教育厅重点项目(ZD2020333)"
+    ],
+    "专辑": "工程科技Ⅱ辑;基础科学",
+    "专题": "地质学;建筑科学与工程",
+    "分类号": "TU452",
+    "页码": "14852-14860",
+    "页数": "9",
+    "爬取时间": "2025-03-26 06:44:41",
+    "论文唯一代码": "KXJS202233037"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "智媒时代我国主流意识形态传播的现实挑战及优化建议",
+    "状态": "正常",
+    "发表期刊": "浙江树人大学学报",
+    "刊发时间": "2022-11-28",
+    "引用量": "4",
+    "下载量": "644",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "樊瑞科",
+            "author_addresses": "石家庄铁道大学马克思主义学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "杜宝君",
+            "author_addresses": "石家庄铁道大学马克思主义学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "22 ",
+    "期(Issue)": "06",
+    "摘要": " “万物皆媒、人机共生、虚实交融”的智能媒体已成为影响我国主流意识形态传播实效的重要因素，理应纳入主流意识形态传播工作的考量范畴。智能媒体赋能我国主流意识形态有效传播，既具备理论上的可能性，也具备现实上的必要性。与此同时，我国主流意识形态面临着智媒算法赋权造成的认同脱嵌风险、数字符码操纵导致的价值失范危机、平台资本逻辑引发的边缘化隐忧、西方媒介霸权带来的严峻安全威胁等全新传播风险。鉴于此，应将培育智媒素养、推进智媒重塑、提升智传能力和加大科研创新等方面作为重要着力点，推动智媒时代我国主流意识形态的有效传播。",
+    "关键词": [
+        "智能媒体",
+        "主流意识形态",
+        "有效传播"
+    ],
+    "基金资助": [
+        "河北省社会科学基金一般项目(HB19MK006)",
+        "河北省教育厅重点项目(SD2022059)",
+        "石家庄铁道大学研究生创新资助项目(YC2022069)"
+    ],
+    "专辑": "社会科学Ⅱ辑;社会科学Ⅰ辑;信息科技",
+    "专题": "中国共产党;思想政治教育;新闻与传媒",
+    "分类号": "G206;D261.5;D64",
+    "页码": "75-83",
+    "页数": "9",
+    "爬取时间": "2025-03-26 06:44:56",
+    "论文唯一代码": "ZJSR202206009"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "联合多层时空切片和二分思想的视频浓缩",
+    "状态": "正常",
+    "发表期刊": "合肥工业大学学报(自然科学版)",
+    "刊发时间": "2022-11-28",
+    "引用量": "2",
+    "下载量": "100",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张云佐",
+            "author_addresses": [
+                "石家庄铁道大学信息科学与技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "郑婷婷",
+            "author_addresses": [
+                "石家庄铁道大学信息科学与技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "蔡昭权",
+            "author_addresses": [
+                "汕尾职业技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "45 ",
+    "期(Issue)": "11",
+    "摘要": " 视频浓缩是高效表达监控视频的重要方式，提取目标管是视频浓缩的基本步骤。现有的视频浓缩大多基于目标检测和跟踪生成目标管，应用于包含拥挤场景的监控视频时，性能表现不佳。文章提出一种稀疏-拥挤视频的浓缩框架(sparse-crowed video synopsis, SCVS),将输入视频分为稀疏和拥挤片段分别处理。首先提出一种基于多层时空切片联合的稀疏和拥挤片段划分方法，以二分思想为基础联合多层时空切片分割稀疏和拥挤片段；其次对分割后的稀疏片段提取目标管，进行管优化重排得到稀疏场景的浓缩视频；最后融合稀疏浓缩视频和拥挤片段生成浓缩视频。实验结果表明，SCVS框架有效避免了现有方法在拥挤场景下性能不佳的问题，具有较高的压缩比和目标留存比以及良好的视觉体验。",
+    "关键词": [
+        "时空切片",
+        "二分思想",
+        "拥挤视频",
+        "视频浓缩"
+    ],
+    "基金资助": [
+        "国家自然科学基金资助项目(6170234762027801)",
+        "广东省重点领域研发计划资助项目(2019B01037002)",
+        "河北省自然科学基金资助项目(F2022210007F2017210161)",
+        "河北省高等学校科学技术研究资助项目(ZD2022100QN2017132)",
+        "中央引导地方科技发展资金资助项目(226Z0501G)"
+    ],
+    "专辑": "工程科技Ⅱ辑;信息科技",
+    "专题": "计算机软件及计算机应用",
+    "分类号": "TP391.41",
+    "页码": "1478-1483",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:45:12",
+    "论文唯一代码": "HEFE202211007"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "城市污水专用杀菌剂的复配及其在混凝土中适用性研究",
+    "状态": "正常",
+    "发表期刊": "混凝土",
+    "刊发时间": "2022-11-27",
+    "引用量": "2",
+    "下载量": "115",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "杨雪超",
+            "author_addresses": [
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室",
+                "石家庄铁道大学材料科学与工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "孔丽娟",
+            "author_addresses": [
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室",
+                "石家庄铁道大学材料科学与工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李欣",
+            "author_addresses": [
+                "石家庄铁道大学材料科学与工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "廖科强",
+            "author_addresses": [
+                "石家庄铁道大学材料科学与工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "11",
+    "摘要": " 基于城市污水对混凝土的微生物腐蚀作用机制，检测了7种单一杀菌剂以及复配的三合一杀菌剂对强化污水中产酸菌和硫酸盐还原菌的灭杀效果及时效性，并研究了将优选杀菌剂掺入混凝土中对其流动性及强度的影响。结果表明，单一品种杀菌剂作用效果有限，基于优选的铜酞菁、戊二醛、溴化钠及四羟甲基硫酸磷这4种杀菌剂复配的三合一杀菌剂，当其掺量为750 mg/L时杀菌率接近100%，且时效性好，掺入60 h后杀菌率仅降低了0.3%。当把杀菌剂作为功能组分掺入混凝土时，铜钛菁无论对混凝土流动性还是强度均有一定程度提高，四羟甲基硫酸磷和戊二醛的掺量不宜超过0.1%，溴化钠的掺入则会降低混凝土强度。复配的三合一杀菌剂中，铜四戊和铜戊溴应用效果最佳，不仅对混凝土的流动性和强度均无不利影响，甚至还会有所改善，非常适合作为外加剂掺入混凝土中来提高其在污水环境下的耐微生物腐蚀性。",
+    "关键词": [
+        "杀菌剂",
+        "产酸菌",
+        "硫酸盐还原菌",
+        "混凝土",
+        "强度"
+    ],
+    "基金资助": [
+        "国家自然科学基金（51878421）",
+        "河北省自然科学基金（E2019210284）",
+        "校级研究生创新资助项目（YC2019059）"
+    ],
+    "专辑": "工程科技Ⅱ辑;工程科技Ⅰ辑",
+    "专题": "无机化工;建筑科学与工程",
+    "分类号": "TU528",
+    "页码": "177-182",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:45:26",
+    "论文唯一代码": "HLTF202211037"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "可展式铁路抢修梁的技术方案研究与力学分析",
+    "状态": "正常",
+    "发表期刊": "铁道标准设计",
+    "刊发时间": "2022-11-26 18:25",
+    "引用量": "1",
+    "下载量": "153",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张非凡",
+            "author_addresses": [
+                "石家庄铁道大学河北省交通应急保障工程技术研究中心",
+                "石家庄铁道大学安全工程与应急管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "徐光兴",
+            "author_addresses": [
+                "石家庄铁道大学河北省交通应急保障工程技术研究中心",
+                "石家庄铁道大学安全工程与应急管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "xugx@stdu.edu.cn"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李明阳",
+            "author_addresses": [
+                "石家庄铁道大学河北省交通应急保障工程技术研究中心",
+                "石家庄铁道大学安全工程与应急管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "68 ",
+    "期(Issue)": "01",
+    "摘要": " 为解决既有铁路梁部抢修器材存在的强度刚度低、通车速度慢、拼架时间长、储存运输不便等问题，基于可展结构的特点，提出一种可展式铁路抢修梁的技术方案和架设方法：通过不同数量中间构架的纵向拼组并调整构架的展开状态，可使抢修梁适应32 m和24 m跨度的桥梁抢修；通过小型机具的辅助，可使抢修梁实现导梁架设以加快抢修进度；利用ANSYS软件建立32 m跨度抢修梁的有限元模型，并对抢修梁进行静力学分析和模态分析；利用UM软件建立C70敞车和CRH380A高铁动车的多体动力学模型，对抢修梁进行车桥耦合振动分析。结果表明：抢修梁跨中上弦杆、梁端右倾斜腹杆和梁端销轴对抢修梁的安全性起控制作用；抢修梁一阶自振频率为5.965 Hz,对应振型为横向弯曲，说明抢修梁的横向刚度较弱；货运列车通过抢修梁时，重车编组对桥梁响应不利，空车编组对车辆响应不利；影响桥梁安全性和车辆运行安全性的指标均随车速的提高而非线性增长。经分析，可展抢修梁的力学性能满足相关规范的要求，且货运列车和高铁列车能够分别以最高60 km/h和100 km/h的车速安全通过抢修梁。",
+    "关键词": [
+        "铁路桥梁",
+        "铁路抢修梁",
+        "可展桥梁",
+        "架设方案",
+        "有限元模型",
+        "车桥耦合分析"
+    ],
+    "基金资助": [
+        "国家重点研发计划项目(2016YFC0802207)",
+        "河北省教育厅在读研究生创新能力培养资助项目(CXZZSS2022111)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "铁路运输;公路与水路运输",
+    "分类号": "U216;U445.7",
+    "页码": "117-125",
+    "页数": "9",
+    "爬取时间": "2025-03-26 06:45:38",
+    "论文唯一代码": "TDBS202401017"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "无绝缘移频轨道电路在无砟轨道运用中的复线互阻抗计算",
+    "状态": "正常",
+    "发表期刊": "中南大学学报(自然科学版)",
+    "刊发时间": "2022-11-26",
+    "引用量": "3",
+    "下载量": "102",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李智宇",
+            "author_addresses": [
+                "石家庄铁道大学交通运输学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "阳晋",
+            "author_addresses": [
+                "北京全路通信信号研究设计院集团有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "邹军",
+            "author_addresses": [
+                "电力系统及发电设备控制和仿真国家重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "zoujun@tsinghua.edu.cn"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "53 ",
+    "期(Issue)": "11",
+    "摘要": " 首先，提出基于AET的无穷积分项求解方法，解决无砟轨道互阻抗参数数值计算中计算复杂度高、用时长的问题；其次，通过与有限元仿真结果相对比，验证求解方法的正确性；最后基于数值计算，以路基无砟轨道为例，分别研究频率、土壤电导率、钢筋和轨道高度等参数对钢轨互感的影响规律。研究结果表明：无砟轨道中钢筋对于互感影响最大为31.81%；高铁无砟线路互感参数测量应按不同频率进行，无砟轨道中轨道电路设计时应考虑适当缩短钢轨上、下行线路的并行长度等。",
+    "关键词": [
+        "轨道电路",
+        "无砟轨道",
+        "钢筋",
+        "互感",
+        "数值计算"
+    ],
+    "基金资助": [
+        "国家自然科学基金资助项目(U183420024)~~"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "铁路运输",
+    "分类号": "U284.2",
+    "页码": "4580-4588",
+    "页数": "9",
+    "爬取时间": "2025-03-26 06:45:48",
+    "论文唯一代码": "ZNGD202211037"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "某铜矿膏体充填体物理力学性能演化规律研究",
+    "状态": "正常",
+    "发表期刊": "采矿技术",
+    "刊发时间": "2022-11-26",
+    "引用量": "1",
+    "下载量": "172",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "卞宇轩",
+            "author_addresses": [
+                "石家庄铁道大学安全工程与应急管理学院",
+                "石家庄铁道大学河北省金属矿山安全高效开采技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘钦月",
+            "author_addresses": [
+                "石家庄铁道大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "靳德正",
+            "author_addresses": [
+                "石家庄铁道大学安全工程与应急管理学院",
+                "石家庄铁道大学河北省金属矿山安全高效开采技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "田雪",
+            "author_addresses": [
+                "石家庄铁道大学安全工程与应急管理学院",
+                "石家庄铁道大学河北省金属矿山安全高效开采技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "王豪奎",
+            "author_addresses": [
+                "石家庄铁道大学安全工程与应急管理学院",
+                "石家庄铁道大学河北省金属矿山安全高效开采技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "22 ",
+    "期(Issue)": "06",
+    "摘要": " 在金属矿开采中，膏体充填体的强度是反映充填体稳定性的重要参数。因此，有必要研究膏体充填体的强度演化规律。以某铜矿膏体充填体为研究对象，开展充填体的室内养护试验，研究砂灰比和养护时间对膏体充填体强度的影响规律，并建立考虑砂灰比和养护时间的膏体充填体强度预测模型。研究结果表明，膏体充填体的强度随砂灰比的增大而逐渐减小，而随着养护时间的增加呈现逐渐增加的趋势。该研究可为矿山进行膏体充填体的配合比设计提供理论基础，对加快我国绿色矿山建设，保证充填体的稳定性具有重要的指导意义。",
+    "关键词": [
+        "膏体充填体",
+        "砂灰比",
+        "养护时间",
+        "抗压强度"
+    ],
+    "基金资助": [
+        "国家自然科学基金资助项目(51979170)",
+        "河北省自然科学基金资助项目(E2021210128)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "矿业工程",
+    "分类号": "TD853.34",
+    "页码": "41-45",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:46:06",
+    "论文唯一代码": "SJCK202206010"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "均匀流场下平单轴光伏支架扭转气动失稳特征试验研究",
+    "状态": "正常",
+    "发表期刊": "振动工程学报",
+    "刊发时间": "2022-11-25 16:05",
+    "引用量": "3",
+    "下载量": "631",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "马文勇",
+            "author_addresses": [
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室",
+                "石家庄铁道大学道路与铁道工程安全保障省部共建教育部重点实验室",
+                "石家庄铁道大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "康霄汉",
+            "author_addresses": [
+                "石家庄铁道大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张晓斌",
+            "author_addresses": [
+                "石家庄铁道大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "陈伟",
+            "author_addresses": [
+                "石家庄铁道大学机械工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "谭强",
+            "author_addresses": [
+                "江苏国强兴晟能源科技有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "37 ",
+    "期(Issue)": "05",
+    "摘要": " 由于发电量明显高于固定式光伏系统，平单轴光伏发电系统近些年得到了广泛的应用。平单轴光伏支架由于扭转刚度较低，在大风天气下容易出现扭转气动失稳现象，从而造成支架结构破坏。为了进一步深入了解该振动的发生条件和机理，本研究通过节段模型测振风洞试验研究结构自振频率、倾角、阻尼等参数对扭转气动失稳的影响，分析了气动阻尼和气动刚度随着风速和倾角的变化规律。研究表明，平单轴光伏支架的扭转气动失稳表现出较强的气动耦合效应，气动阻尼和气动刚度是影响平单轴光伏支架气动失稳的重要参数，对风速和倾角的变化较为敏感，该失稳现象具备自激振动的特点；扭转刚度的提高在某些倾角下可以有效地限制振幅，同时可提高结构在各倾角的临界风速；扭转气动失稳的倾角范围为-15°～20°，0°倾角附近临界风速较高，若采用小倾角进行保护时，建议将大风保护角度设为0°。",
+    "关键词": [
+        "气动失稳",
+        "平单轴光伏支架",
+        "风洞试验",
+        "临界风速",
+        "气动阻尼"
+    ],
+    "基金资助": [
+        "河北省自然科学基金杰出青年基金资助项目（E2021210053）"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "电力工业",
+    "分类号": "TM615",
+    "页码": "838-846",
+    "页数": "9",
+    "爬取时间": "2025-03-26 06:46:23",
+    "论文唯一代码": "ZDGC202405012"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "基于优化同步误差补偿方法的多电机同步控制",
+    "状态": "正常",
+    "发表期刊": "自动化与仪器仪表",
+    "刊发时间": "2022-11-25",
+    "引用量": "9",
+    "下载量": "375",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "任彬",
+            "author_addresses": "石家庄铁道大学机械工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "倪腾龙",
+            "author_addresses": "石家庄铁道大学机械工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "赵增旭",
+            "author_addresses": "石家庄铁道大学机械工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "11",
+    "摘要": " 机器设备的同步控制是运动控制领域的热点研究内容，同步精度对加工质量等要素存在显著影响，但易受扰动影响。针对多电机同步控制精度易受外部扰动等因素影响，提出了一种基于优化同步误差补偿方法的偏差耦合算法。引入增益方程对同步误差补偿值进行动态调节，并应用基于改进交叉和变异算子的自适应遗传算法(Adaptive Genetic Algorithm Based on Improved Crossover and Mutation Operator, ECIM-AGA)对方程中的增益系数取值进行寻优。通过建立4台电机的仿真实验，与传统偏差耦合算法相比，结果表明，所提方法的超调量σ分别降低了29.26%、4.19%、2.77%和33.99%,全局同步误差分别下降了40.27%、11.70%、29.74%和28.04%,具有更佳的同步精度。",
+    "关键词": [
+        "电机控制",
+        "多电机同步控制",
+        "偏差耦合",
+        "同步误差补偿"
+    ],
+    "基金资助": [
+        "国家自然科学基金重点项目(12032017)",
+        "河北省教育厅青年基金项目(QN2019232)",
+        "河北省自然科技基金资助项目(E2019210299)"
+    ],
+    "专辑": "信息科技;工程科技Ⅱ辑",
+    "专题": "电力工业",
+    "分类号": "TM301.2",
+    "页码": "87-91+96",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:46:35",
+    "论文唯一代码": "ZDYY202211019"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "涂层类型对混凝土抗盐冻性能的影响",
+    "状态": "正常",
+    "发表期刊": "材料导报",
+    "刊发时间": "2022-11-25",
+    "引用量": "6",
+    "下载量": "340",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "肖阳",
+            "author_addresses": [
+                "黑龙江省公路建设中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张亮",
+            "author_addresses": [
+                "吉黑高速山河(吉黑省界)至哈尔滨(永源镇)段工程建设项目办"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张宿峰",
+            "author_addresses": [
+                "黑龙江省公路建设中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张平",
+            "author_addresses": [
+                "吉黑高速山河(吉黑省界)至哈尔滨(永源镇)段工程建设项目办"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "张盼盼",
+            "author_addresses": [
+                "交通运输部公路科学研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "刘亚州",
+            "author_addresses": [
+                "石家庄铁道大学材料科学与工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "7387758@qq.com"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "36 ",
+    "期(Issue)": "S2",
+    "摘要": " 通过开展混凝土盐冻试验，研究了盐冻环境下不同类型涂层的附着力变化，分析了涂层结构、底漆类型和涂层性质对混凝土单位面积剥落量的影响，结合涂层微观形貌和孔结构变化，分析了混凝土抗盐冻性能提升机理。结果表明，盐冻环境下硅烷涂料和溶剂型环氧涂料(底漆)+溶剂型氟碳涂料(面漆)的界面粘结性能较为优异，前者附着力较盐冻前增大了12.1%,而后者附着力则仅降低了21.6%。溶剂型环氧涂料(底漆)+溶剂型氟碳涂料(面漆)对混凝土抗剥蚀性能的改善效果最为显著，相应混凝土单位面积剥落量较未防护时降幅高达81.8%。盐冻环境下不同类型涂层表面均生成了不同数量的微裂缝，其孔结构粗化，溶剂型环氧涂料(底漆)+溶剂型氟碳涂料(面漆)的微观结构劣化最为轻微。本工作为寒冷地区盐冻环境下混凝土防护涂层设计提供了试验和理论依据。",
+    "关键词": [
+        "盐冻",
+        "涂层类型",
+        "附着力",
+        "剥落量",
+        "机理"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅰ辑;工程科技Ⅱ辑",
+    "专题": "无机化工;建筑科学与工程",
+    "分类号": "TU528",
+    "页码": "214-221",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:46:49",
+    "论文唯一代码": "CLDB2022S2037"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "城市叙事空间研究综述",
+    "状态": "正常",
+    "发表期刊": "居舍",
+    "刊发时间": "2022-11-25",
+    "引用量": "0",
+    "下载量": "191",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "范砚婷",
+            "author_addresses": "石家庄铁道大学建筑与艺术学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张桐馨",
+            "author_addresses": "石家庄铁道大学建筑与艺术学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "黄振兴",
+            "author_addresses": "石家庄铁道大学建筑与艺术学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "33",
+    "摘要": " 本文主要对叙事理论在空间设计领域的研究进行梳理和分析，通过对相关文献内容的归纳及评析，总结出叙事理论对空间设计的影响与作用，论述了叙事理论对城市空间设计规划的重要性，最后指出在空间设计领域内叙事理论的发展方向。",
+    "关键词": [
+        "叙事空间",
+        "叙事理论",
+        "综述"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU984.113",
+    "页码": "151-153",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:46:59",
+    "论文唯一代码": "JUSH202233042"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "铁渣转运廊道粉尘分布规律及其影响因素模拟研究",
+    "状态": "正常",
+    "发表期刊": "安全与环境工程",
+    "刊发时间": "2022-11-25",
+    "引用量": "4",
+    "下载量": "210",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "任晓芬",
+            "author_addresses": [
+                "石家庄铁道大学机械工程学院",
+                "河北工程大学能源与环境工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "郭军霞",
+            "author_addresses": [
+                "河北工程大学能源与环境工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "郜玉聪",
+            "author_addresses": [
+                "河北工程大学能源与环境工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张蕾",
+            "author_addresses": [
+                "河北工程大学能源与环境工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "丛晓春",
+            "author_addresses": [
+                "山东省土木工程防灾减灾重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "29 ",
+    "期(Issue)": "06",
+    "摘要": " 铁渣转运过程中会产生大量粉尘，危害工人身体健康，因此掌握铁渣转运廊道内粉尘分布规律及其主要影响因素对降低粉尘浓度、保障作业人员身心健康尤为重要。对某钢铁企业铁渣转运廊道内风速、温湿度和呼吸性粉尘浓度进行了现场测定与分析，建立了廊道的三维几何模型，采用Fluent软件模拟了不同铁渣温度、室外环境温度、皮带运行速度条件下廊道内粉尘运移及分布规律，并与实测结果进行了对比分析，以验证模型的准确性和有效性。结果表明：人行道中间截面粉尘质量浓度沿廊道长度方向逐渐增大，且在廊道中后部粉尘质量浓度大于700μg/m<sup>3</sup>,超过工作场所粉尘浓度限值；廊道内粉尘质量浓度随铁渣温度升高而增大，随室外环境温度的增高而增大，随皮带运行速度的增加逐渐减小，综合考虑，皮带运行速度宜设定为2.5 m/s;通过正交实验设计与极差分析，得到皮带运行速度是影响粉尘浓度分布的主要因素，其次为铁渣温度、室外环境温度。该研究结果可为改善廊道内作业环境提供数据支撑和研究思路。",
+    "关键词": [
+        "铁渣转运廊道",
+        "呼吸性粉尘",
+        "粉尘分布",
+        "影响因素",
+        "数值模拟"
+    ],
+    "基金资助": [
+        "河北省自然科学基金项目(E2019402354)",
+        "河北省教育厅高校科学技术研究青年基金项目(QN2018048)",
+        "山东省自然科学基金项目(ZR202103020683)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "冶金工业;环境科学与资源利用",
+    "分类号": "X757",
+    "页码": "184-191",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:47:13",
+    "论文唯一代码": "KTAQ202206022"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "基于EfficientDet与Vision Transformer的接触网吊弦故障检测",
+    "状态": "正常",
+    "发表期刊": "铁道科学与工程学报",
+    "刊发时间": "2022-11-24 10:08",
+    "引用量": "10",
+    "下载量": "549",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "卞建鹏",
+            "author_addresses": "石家庄铁道大学电气与电子工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "bjp210@126.com"
+        },
+        {
+            "author_order": 2,
+            "author_name": "薛秀茹",
+            "author_addresses": "石家庄铁道大学电气与电子工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "崔跃华",
+            "author_addresses": "石家庄铁道大学电气与电子工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "徐皓",
+            "author_addresses": "石家庄铁道大学电气与电子工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "鲁一铭",
+            "author_addresses": "石家庄铁道大学电气与电子工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "20 ",
+    "期(Issue)": "06",
+    "摘要": " 针对传统检测方法在铁路接触网吊弦故障状态检测中存在识别率低，识别速度慢的问题，提出一种基于轻量型网络EfficientDet与Vision Transformer网络相结合的接触网吊弦状态检测算法。该算法包括目标定位和分类检测2个部分，利用改进EfficientDet进行吊弦定位，将定位出的吊弦送入改进Vision Transformer网络进行故障类别检测。首先，使用空洞卷积替代EfficientDet网络中第2层和第3层的普通卷积，以扩大感受野，并用CBAM代替原网络中的SE注意力机制，汇聚吊弦的高层语义信息，使得改进后的EfficientDet能有效定位出接触网中尺寸占比较小的吊弦；其次，为减少参数量并保留较大范围的特征相关性，应用4个3×3的小卷积替代Vision Transformer中Embedding的16×16的卷积层，以深度提取浅层与深层特征之间的联系，同时对比当Num-head取值不同时，分析注意力机制对空间信息的影响，以确定吊弦故障分类检测的最优模型；最后分别与定位网络YOLOv3,Faster R-CNN和分类网络AlexNet,VGG16进行对比分析，吊弦定位模型的准确率为95.2%，实时速率为31帧/s，故障检测模型的准确率达到98.6%，实时速率为28帧/s。实验表明所提出的算法能够快速准确地检测出小目标吊弦的故障状态，有效地提高了铁路接触网智能巡检的效率。",
+    "关键词": [
+        "接触网吊弦故障检测",
+        "EfficientDet",
+        "Vision Transformer",
+        "智能巡检"
+    ],
+    "基金资助": [
+        "国家自然科学基金资助项目(51307112)",
+        "国网河北省电力有限公司课题资助项目(kj2021-024)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "铁路运输",
+    "分类号": "U226",
+    "页码": "2340-2349",
+    "页数": "10",
+    "爬取时间": "2025-03-26 06:47:24",
+    "论文唯一代码": "CSTD202306036"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "冰刀用高强韧Si3N4陶瓷的制备与性能研究",
+    "状态": "正常",
+    "发表期刊": "硅酸盐通报",
+    "刊发时间": "2022-11-22 14:51",
+    "引用量": "1",
+    "下载量": "118",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张诚",
+            "author_addresses": "石家庄铁道大学材料科学与工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张光磊",
+            "author_addresses": "石家庄铁道大学材料科学与工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "zhgl@stdu.edu.cn"
+        },
+        {
+            "author_order": 3,
+            "author_name": "郝宁",
+            "author_addresses": "石家庄铁道大学材料科学与工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "于刚",
+            "author_addresses": "石家庄铁道大学材料科学与工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "秦国强",
+            "author_addresses": "石家庄铁道大学材料科学与工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "41 ",
+    "期(Issue)": "12",
+    "摘要": " 以α-Si<sub>3</sub>N<sub>4</sub>粉为原料，MgO-La<sub>2</sub>O<sub>3</sub>-Lu<sub>2</sub>O<sub>3</sub>为三元复合烧结助剂，采用气压烧结工艺制备Si<sub>3</sub>N<sub>4</sub>陶瓷条，研究烧结助剂及添加β-Si<sub>3</sub>N<sub>4</sub>增强相对Si<sub>3</sub>N<sub>4</sub>陶瓷微观结构及力学性能的影响。结果表明，三元复合烧结助剂促进了烧结的致密化，提高了材料的力学性能，在最高烧结温度1 750℃、复合烧结助剂添加量8%（质量分数）时，得到密度为3.172 8 g/cm<sup>3</sup>、维氏硬度达到15.85 GPa、断裂韧性和抗弯强度分别为9.69 MPa·m<sup>1/2</sup>和1 029 MPa的冰刀用Si<sub>3</sub>N<sub>4</sub>陶瓷。添加β-Si<sub>3</sub>N<sub>4</sub>材料的断裂韧性得到提高，最高达到10.33 MPa·m<sup>1/2</sup>。Si<sub>3</sub>N<sub>4</sub>陶瓷本身的高硬度与加入的稀土氧化物使得所制备冰刀的硬度与润滑性能得到提高，表面性能优良。",
+    "关键词": [
+        "冰刀",
+        "Si3N4陶瓷",
+        "稀土",
+        "三元复合助剂",
+        "气压烧结",
+        "力学性能"
+    ],
+    "基金资助": [
+        "河北省技术创新引导计划(20471101D)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "无机化工;轻工业手工业",
+    "分类号": "TQ174.7;TS952.6",
+    "页码": "4425-4431",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:47:33",
+    "论文唯一代码": "GSYT202212035"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "城域货运交通的环境容量机会经济价值测算研究",
+    "状态": "正常",
+    "发表期刊": "石家庄铁道大学学报(社会科学版)",
+    "刊发时间": "2022-11-22",
+    "引用量": "0",
+    "下载量": "82",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李艳丽",
+            "author_addresses": "石家庄铁道大学管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王泽远",
+            "author_addresses": "石家庄铁道大学管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李立芬",
+            "author_addresses": "石家庄铁道大学管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "16 ",
+    "期(Issue)": "04",
+    "摘要": " 减少城域货运交通污染物排放量,合理利用大气环境容量,对生产生活产生巨大的经济价值。本文以京津冀为例,选用三年行动计划中的货运增量和专用线里程为依据,通过GREET模型估算城域货运公铁交通方式污染物排放量,构建机会经济价值测算模型,将减排量以排污权市场交易、用于其他行业生产和减少政府治理费用的方式对机会经济价值进行估算。结果表明,柴油重卡、天然气重卡和油气混合重卡转为城域绿色运输的机会经济价值分别为232 756.2万元、33 324.66万元和45 533.75万元。",
+    "关键词": [
+        "城域货运",
+        "交通方式",
+        "大气环境容量",
+        "机会经济价值"
+    ],
+    "基金资助": [
+        "河北省社科基金重点项目“京津冀环境成本的区域特征及协调机制研究”(HB20GL001)"
+    ],
+    "专辑": "社会科学Ⅱ辑;工程科技Ⅱ辑;经济与管理科学",
+    "专题": "公路与水路运输;交通运输经济",
+    "分类号": "F512;U125",
+    "页码": "23-28",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:47:40",
+    "论文唯一代码": "SJTS202204003"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "京津冀高铁网络社会效益分析",
+    "状态": "正常",
+    "发表期刊": "石家庄铁道大学学报(社会科学版)",
+    "刊发时间": "2022-11-22",
+    "引用量": "2",
+    "下载量": "396",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王勇",
+            "author_addresses": [
+                "中国铁路北京局集团有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "邸晓新",
+            "author_addresses": [
+                "中国铁路北京局集团有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "高伟",
+            "author_addresses": [
+                "中国铁路设计集团有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "康学建",
+            "author_addresses": [
+                "石家庄铁道大学国际学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "王兴举",
+            "author_addresses": [
+                "石家庄铁道大学国际学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "16 ",
+    "期(Issue)": "04",
+    "摘要": " 本文以京津冀高铁网络为例,从直接社会效益和间接社会效益出发,建立综合评价指标体系,运用数据包络分析方法,建立改进的C<sup>2</sup>R模型,分析京津冀高铁网络的社会效益。研究结果表明,2009—2020年的相对效率值均大于1,京津冀地区高铁的投入均产生良好的社会效益,投入与产出均达到有效配置。其中2020年相对效率值为4.38,投入产出效益最明显。2009年、2010年、2011年、2014年和2020年的规模效益值小于1,表示京津冀地区高铁建设运行的投入和产出效果良好。2020年京津冀高铁网络在产出效益和规模效益方面都达到最优状态。该研究结果将为京津冀高铁网络社会效益分析研究提供参考,也为高铁建设投资和优化产业结构提供依据。",
+    "关键词": [
+        "京津冀高铁网络",
+        "社会效益",
+        "投入产出效益",
+        "数据包络分析"
+    ],
+    "基金资助": [
+        "中国国家铁路集团有限公司科技研究开发计划软科学课题(2020F026)",
+        "河北省高等学校科学研究项目重点课题(ZD2021336)"
+    ],
+    "专辑": "社会科学Ⅱ辑;工程科技Ⅱ辑;经济与管理科学",
+    "专题": "铁路运输;交通运输经济",
+    "分类号": "F532.8",
+    "页码": "1-8",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:47:51",
+    "论文唯一代码": "SJTS202204017"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "改良语势模型视域下中文国际传播策略研究",
+    "状态": "正常",
+    "发表期刊": "石家庄铁道大学学报(社会科学版)",
+    "刊发时间": "2022-11-22",
+    "引用量": "0",
+    "下载量": "184",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘立勇",
+            "author_addresses": [
+                "北京外国语大学中国语言文学学院",
+                "石家庄铁道大学语言文化学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王立军",
+            "author_addresses": [
+                "石家庄铁道大学语言文化学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "16 ",
+    "期(Issue)": "04",
+    "摘要": " 语言的国际传播是诸多复杂因素交互的动态过程,其中语言自身属性以及语言产品对语言传播的促进作用应给予充分重视。在融合语言活力和语言影响力评估模型基础上提出的语势概念,为语言国际传播提供了新的研究视角。本文在进一步充实和拓展语势概念内涵后,改良了现有的语势模型,探讨其构成要素在中文国际传播过程中的作用及交互关系。持续扩大以中文为母语和二语的人口数量,提高以中文为载体的语言产品数量和质量,是提升中文语势的根本策略,而语势提升不仅是中文走向国际化的重要路径,也是构建中国语言文化全球传播体系的重要组成部分。",
+    "关键词": [
+        "语势",
+        "改良语势模型",
+        "语言人口",
+        "语言积淀",
+        "中文国际传播"
+    ],
+    "基金资助": [
+        "河北省社会科学基金项目“基于语料库的‘中国故事’话语研究”(HB21YY022)"
+    ],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学;信息科技",
+    "专题": "中国语言文字;新闻与传媒",
+    "分类号": "H195;G206",
+    "页码": "64-69",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:47:59",
+    "论文唯一代码": "SJTS202204009"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "乡村治理效能提升的困境及解决思路——以历史借鉴为视角",
+    "状态": "正常",
+    "发表期刊": "石家庄铁道大学学报(社会科学版)",
+    "刊发时间": "2022-11-22",
+    "引用量": "7",
+    "下载量": "281",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "窦竹君",
+            "author_addresses": [
+                "石家庄铁道大学马克思主义学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "16 ",
+    "期(Issue)": "04",
+    "摘要": " 影响传统中国基层社会治理效能的关键要素包括文化建设、组织建设、制度建设、保障机制几个方面。文化建设型塑国家认同,奠定社会治理文化基础,并以价值观指引、评判社会治理;组织建设重在选任品行高尚有威望的管理人员,以组织福利凝练利益共同体进而形成治理共同体;制度建设具有针对性、可操作性,进而实现因地、因时、因俗而治;官府为基层治理提供最终保障。这些对今天提升治理效能具有重要借鉴。针对当前乡村治理中存在的问题,应以化礼成俗、善恶评判加强道德建设;把好基层组织用人关,大力发展治理微组织,发挥农民专业合作社治理作用,发展集体经济,夯实治理共同体基础;增强人们的熟悉度以筑牢基层治理的感情基础;增强村规民约的针对性、可操作性和执行力。",
+    "关键词": [
+        "乡村治理",
+        "治理效能",
+        "村规民约"
+    ],
+    "基金资助": [
+        "河北省社科基金项目“河北省乡村治理体系建设路径研究”(HB18SH027)"
+    ],
+    "专辑": "社会科学Ⅱ辑;社会科学Ⅰ辑",
+    "专题": "政党及群众组织",
+    "分类号": "D422.6",
+    "页码": "29-35+49",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:48:06",
+    "论文唯一代码": "SJTS202204004"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "生态语言学视域下汉语冀方言的研究与保护",
+    "状态": "正常",
+    "发表期刊": "石家庄铁道大学学报(社会科学版)",
+    "刊发时间": "2022-11-22",
+    "引用量": "2",
+    "下载量": "395",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "胡丛欢",
+            "author_addresses": [
+                "石家庄铁道大学语言文化学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "16 ",
+    "期(Issue)": "04",
+    "摘要": " 本文在生态语言学的研究背景下,探讨河北方言生态环境与语言演变之间的关联及内在规律,并举例说明自然地理环境对方言发展演变的影响。由于生态、语言、文化三者是彼此依存相辅共生的关系,因此需从整体性系统性角度讨论河北方言的生态与语言文化之间的关系。最后,基于语言发展与生态保护的现实要求与长远意义,河北省应积极建立语言监测与评估标准、加强方言保护的宣传引导、提升保护生态环境的意识,探索生态与文明的地域特色,实现“生态”与“文明”共赢。",
+    "关键词": [
+        "生态语言学",
+        "河北方言",
+        "文化",
+        "生态"
+    ],
+    "基金资助": [
+        "2021年河北省教育厅人文社会科学类青年基金项目“生态语言学视域下汉语冀方言整体性和系统性研究”(SQ2021040)"
+    ],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学",
+    "专题": "中国语言文字",
+    "分类号": "H172.1",
+    "页码": "70-75",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:48:13",
+    "论文唯一代码": "SJTS202204010"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "高速铁路安全防护条例立法理念及相关问题研究",
+    "状态": "正常",
+    "发表期刊": "石家庄铁道大学学报(社会科学版)",
+    "刊发时间": "2022-11-22",
+    "引用量": "0",
+    "下载量": "122",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王岳森",
+            "author_addresses": "石家庄铁道大学管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李小光",
+            "author_addresses": "石家庄铁道大学管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "16 ",
+    "期(Issue)": "04",
+    "摘要": " 我国高速铁路线长站多,且高密度行车、高强度运营,面临的安全风险大。各类事故致因复杂,不确定性突出,急需通过法治化治理促进科学运营与精细化管理,以求最大限度地杜绝和减少事故发生。推进高铁安全防护条例立法,首先需以习近平法治思想为指导,把以人民为中心的立法理念贯穿于立法和未来执法落实的全过程。其次应加强党的领导,注重安全防护的过程管理,并从中体现出党的主张和人民意志的高度统一。同时要突出预防为主,坚持正确的立法原则,聚焦防护重点,特别要注重路地协同机制的构建,在立法进程和安全防护实际工作中体现出习近平法治思想的人民性与实践性。另外,要立足中国的法制实践,针对中国铁路安全管理的特点,深入调查研究,直面各种复杂和存在争议的问题,尽可能予以科学定性、正面回应或提出务实可行的建议,全面提升安全工作水平。",
+    "关键词": [
+        "高速铁路",
+        "安全防护",
+        "立法理念"
+    ],
+    "基金资助": [
+        "国家铁路局课题“高速铁路安全防护条例立法准备及相关重点问题研究”"
+    ],
+    "专辑": "社会科学Ⅱ辑;社会科学Ⅰ辑",
+    "专题": "经济法",
+    "分类号": "D922.296",
+    "页码": "92-97",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:48:21",
+    "论文唯一代码": "SJTS202204014"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "基于CFD模拟技术的城市绿化对风环境影响研究",
+    "状态": "正常",
+    "发表期刊": "石家庄铁道大学学报(社会科学版)",
+    "刊发时间": "2022-11-22",
+    "引用量": "4",
+    "下载量": "312",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘瑞杰",
+            "author_addresses": [
+                "石家庄铁道大学建筑与艺术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "闫星宇",
+            "author_addresses": [
+                "石家庄铁道大学建筑与艺术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王鑫",
+            "author_addresses": [
+                "中铁工程设计咨询集团有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "16 ",
+    "期(Issue)": "04",
+    "摘要": " 本文以提升城市公园人行层风环境舒适度为目标,通过PHOENICS数值模拟的方式,研究探索不同植被类型和不同植被类型搭配对人行高度处风速的影响特征,并提出适合不同风况下的植被类型搭配组合,以期为公园风环境设计研究提供参考依据。研究结果显示,两种植物类型搭配中,小乔木+大灌木对人行层高度风速衰减效率最佳,大乔木+中乔木对风速影响范围最大;三种植物类型搭配中,中乔木+小乔木+大灌木对人行层高度风速衰减效率最佳,大乔木+中乔木+小乔木对风速影响范围最大。",
+    "关键词": [
+        "景观风环境",
+        "植物类型",
+        "植物配置",
+        "城市公园"
+    ],
+    "基金资助": [
+        "河北省科技厅项目“河北县城低碳发展潜力和转型路径研究——以正定为例”",
+        "河北省社科规划办项目“新型城镇化视域下河北历史文化名城风貌活态保护研究”(202150302350003)",
+        "河北省研究生创新资助项目“基于‘源—流—汇’理论的城市公园通风廊道风环境研究”(CXZZSS2021077)"
+    ],
+    "专辑": "社会科学Ⅱ辑;基础科学;工程科技Ⅱ辑",
+    "专题": "气象学;建筑科学与工程",
+    "分类号": "TU985;TU119",
+    "页码": "104-108",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:48:29",
+    "论文唯一代码": "SJTS202204016"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "新时代党史教育融入高校思政课的路径探究",
+    "状态": "正常",
+    "发表期刊": "石家庄铁道大学学报(社会科学版)",
+    "刊发时间": "2022-11-22",
+    "引用量": "8",
+    "下载量": "539",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "边凤花",
+            "author_addresses": "石家庄铁道大学马克思主义学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "吕泽昕",
+            "author_addresses": "石家庄铁道大学马克思主义学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "16 ",
+    "期(Issue)": "04",
+    "摘要": " 开展党史教育是高校铸魂育人的重要环节,是贯彻落实党的教育方针的本质要求,扎实推进新时代党史教育工作部署,是把党和国家各项事业推向前进的必修课。习近平总书记在党史学习教育动员大会上深刻阐释了开展党史教育的重大意义,为高校思政党史教育提供了根本遵循。本文立足百年党史新起点,深入探究高校开展党史教育的必要性以及所要遵循的基本原则,从统筹教学关系、创新融合三大课堂、整合红色党史资源三个维度探索党史教育融入高校思政课的现实路径,以期通过党史教育增强思想政治理论课的理论性和实效性,在学思践悟中帮助学生树立正确历史观、党史观,让党史教育真正入脑入心。",
+    "关键词": [
+        "高校思政课",
+        "党史教育",
+        "现实路径"
+    ],
+    "基金资助": [
+        "河北省高等学校人文社会科学研究项目“高校思想政治教育理论课教学史研究”(SD2021005)"
+    ],
+    "专辑": "社会科学Ⅱ辑;社会科学Ⅰ辑",
+    "专题": "中国共产党;高等教育",
+    "分类号": "G641;D261",
+    "页码": "81-86",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:48:34",
+    "论文唯一代码": "SJTS202204012"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "“课程思政”视域下高校创新创业教育实践探索",
+    "状态": "正常",
+    "发表期刊": "石家庄铁道大学学报(社会科学版)",
+    "刊发时间": "2022-11-22",
+    "引用量": "16",
+    "下载量": "421",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "齐荣光",
+            "author_addresses": "石家庄铁道大学管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "贾丽丽",
+            "author_addresses": "石家庄铁道大学管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "吕岱瑶",
+            "author_addresses": "石家庄铁道大学管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "陈艳春",
+            "author_addresses": "石家庄铁道大学管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "16 ",
+    "期(Issue)": "04",
+    "摘要": " 创新创业教育是我国高等学校人才培养的重要内容,立德树人成果是检验高校各项工作开展情况的根本准则。不断探索课程思政视域下创新创业教育的方法和路径是当今高等教育面临的重要问题。应以专业课程为载体,实现课程思政教育与创新创业教育的有机融合;以学科竞赛为契机,从作品选题、团队组建到商业计划书撰写,全过程加强学生的品德修为,培养学生的创新能力;以科研项目孵化基地为平台,实现理论指导与创新实践的有机统一;以打造创新创业体系为依托,多角度多思维开拓思政育人新前景,实现教学相长,形成思政课程学习统一体,培养全面发展的创新型人才。",
+    "关键词": [
+        "课程思政",
+        "创新创业教育",
+        "立德树人"
+    ],
+    "基金资助": [
+        "河北省高等教育教学改革研究项目“《财务报表分析》课程思政育人体系建设研究与实践”(2020GJJG574)河北省高等教育教学改革研究项目“管理类专业课程”项目式教学“设计与实践研究”(2020GJJG175)",
+        "河北省人事厅项目“数字经济转型对我省就业的影响及对策”(JRS-2022-1041)"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "高等教育",
+    "分类号": "G647.38;G641",
+    "页码": "87-91",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:48:43",
+    "论文唯一代码": "SJTS202204013"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "大数据分析在饲料企业供应链管理中的应用",
+    "状态": "正常",
+    "发表期刊": "中国饲料",
+    "刊发时间": "2022-11-20",
+    "引用量": "9",
+    "下载量": "537",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "温何雨",
+            "author_addresses": [
+                "驻马店幼儿师范高等专科学校"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "夏凡",
+            "author_addresses": [
+                "河北建材职业技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "孙斯亮",
+            "author_addresses": [
+                "石家庄铁道大学四方学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "22",
+    "摘要": " 当前饲料企业供应链物流运输规划不够科学，对饲料产业供应链数据的分析挖掘不足，供应链运营成本存在较高风险。在饲料企业供应链管理中应用大数据分析可以提升饲料企业供应链物流的效率，降低供应链风险，提高供应链管理水平，构建敏捷供应链。饲料企业构建供应链战略联盟，打造饲料产业全供应链大数据平台，以大数据为支撑制定相应的饲料产业供应链战略决策，综合应用大数据与其他现代信息技术，加强饲料产业大数据人才引进与培养。",
+    "关键词": [
+        "大数据分析",
+        "饲料企业",
+        "供应链管理"
+    ],
+    "基金资助": [],
+    "专辑": "农业科技;信息科技;经济与管理科学",
+    "专题": "计算机软件及计算机应用;农业经济;企业经济",
+    "分类号": "F324.6;TP311.13;F274",
+    "页码": "95-98",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:48:52",
+    "论文唯一代码": "SLGZ202222017"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "新工科人才培养模式下高校教学督导工作的创新性——评《治理视域下高校教学督导工作的思考与实践》",
+    "状态": "正常",
+    "发表期刊": "中国油脂",
+    "刊发时间": "2022-11-20",
+    "引用量": "2",
+    "下载量": "429",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "杜丽华",
+            "author_addresses": [
+                "石家庄铁道大学语言文化学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "47 ",
+    "期(Issue)": "11",
+    "摘要": " &lt;正&gt;教学督导工作是高校内部教学质量监控与保障体系的组成部分，对于确保教学效率和教学质量，促进高校的可持续发展具有重要的作用。教学督导工作作为教学质量的重要保障体系，是高校实现自我管理、自我约束、自我完善的基本教学管理制度。一些高校纷纷成立了教学监督工作委员会，聘请学术造诣深厚和教学管理经验丰富的教师担任委员会的成员。但在高等教育快速发展的背景下，教学督导工作的环境在逐渐复杂化，传统的督导模式和方法已经无法满足其发展需要。",
+    "关键词": [],
+    "基金资助": [
+        "河北省教育厅高等教育教学改革研究与实践项目《新工科人才培养模式下的高校教学督导工作创新性研究》(2020GJJG179)"
+    ],
+    "专辑": "工程科技Ⅰ辑;社会科学Ⅱ辑",
+    "专题": "高等教育",
+    "分类号": "G647.3",
+    "页码": "164",
+    "页数": "1",
+    "爬取时间": "2025-03-26 06:48:56",
+    "论文唯一代码": "ZYZZ202211031"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "极限状态法和容许应力法用于重载铁路钢筋混凝土梁受力性能评价的对比",
+    "状态": "正常",
+    "发表期刊": "铁道建筑",
+    "刊发时间": "2022-11-20",
+    "引用量": "2",
+    "下载量": "201",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "许宏伟",
+            "author_addresses": [
+                "石家庄铁道大学道路与铁道工程安全保障教育部重点实验室",
+                "石家庄铁道大学河北省大型结构健康诊断与控制重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "于子杰",
+            "author_addresses": [
+                "石家庄铁道大学道路与铁道工程安全保障教育部重点实验室",
+                "石家庄铁道大学河北省大型结构健康诊断与控制重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "刘永前",
+            "author_addresses": [
+                "石家庄铁道大学道路与铁道工程安全保障教育部重点实验室",
+                "石家庄铁道大学河北省大型结构健康诊断与控制重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "liuyq_stdu@126.com"
+        },
+        {
+            "author_order": 4,
+            "author_name": "李勇",
+            "author_addresses": [
+                "石家庄铁道大学道路与铁道工程安全保障教育部重点实验室",
+                "石家庄铁道大学河北省大型结构健康诊断与控制重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "62 ",
+    "期(Issue)": "11",
+    "摘要": " 为了探究一座足尺重载铁路钢筋混凝土T梁的抗弯承载力，并与Q/CR 9300—2018《铁路桥涵设计规范（极限状态法）》和TBJ 2—1985《铁路桥涵设计规范》规定的设计承载能力进行对比，进而对极限状态法和容许应力法设计理论进行对比分析，选取一片采用容许应力法设计的12 m跨度钢筋混凝土足尺T梁（专桥（88）1024）作为研究对象，首先基于两种设计方法进行正截面抗弯承载力计算，继而根据静力加载破坏试验中钢筋应力、T梁的变形和裂缝发展状况以及最终破坏状态，得到T梁实际承载能力并与理论分析结果进行对比。结果表明：破坏试验得到的实际承载能力是极限状态法计算的1.59倍，说明按容许应力法设计的钢筋混凝土T梁抗弯承载力有较大的安全储备；极限状态法的钢筋应力容许值略低于容许应力法的容许值，实际钢筋应力比理论计算值低9%，约为极限状态法容许值的95.8%，能满足极限状态法的要求；挠度的试验值比两种理论计算的挠度低约8%，满足挠度的容许值要求；裂缝宽度的试验值均比理论计算值大21%，但仍满足裂缝宽度的容许值要求。该梁经过多年运营，其抗弯承载力、应力、挠度和裂缝宽度仍可满足铁路桥涵设计规范极限状态法的要求。",
+    "关键词": [
+        "重载铁路桥梁",
+        "极限状态法",
+        "容许应力法",
+        "静力加载破坏试验",
+        "钢筋混凝土T梁"
+    ],
+    "基金资助": [
+        "河北省重点研发计划（20375410D,21375403D）",
+        "河北省自然科学基金（E2020210017）",
+        "石家庄铁道大学优秀青年科学基金（201801）",
+        "河北省研究生创新研究基金（CXZZSS2022109,CXZZSS2022110）"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "公路与水路运输",
+    "分类号": "U441",
+    "页码": "67-72",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:49:10",
+    "论文唯一代码": "TDJZ202211015"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "加强地方高校高层次人才引进资金管理的建议",
+    "状态": "正常",
+    "发表期刊": "财务与会计",
+    "刊发时间": "2022-11-20",
+    "引用量": "2",
+    "下载量": "257",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张旺芝",
+            "author_addresses": [
+                "河北师范大学",
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘珊",
+            "author_addresses": [
+                "石家庄铁道大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "成军",
+            "author_addresses": [
+                "河北省财政政策信息服务中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "22",
+    "摘要": " &lt;正&gt;地方高校为提高人才引进资金使用效能，需要对人才引进专项资金精准化管理，加强人才引进资金的预算管理，完善资金绩效评价机制，有效促进人才发展。（一）加强资金预算管理，科学规划和分配高层次人才引进资金地方高校应将人才资金预算与发展实际相结合，科学规划和分配高层次人才资金，精准匹配地方高校的办学目标与发展需要，",
+    "关键词": [],
+    "基金资助": [
+        "河北省省级科技计划软科学研究专项资助“河北省科技人才分类评价指标体系构建与应用研究”<21557667D>的阶段性成果之一"
+    ],
+    "专辑": "经济与管理科学;社会科学Ⅱ辑",
+    "专题": "高等教育;会计",
+    "分类号": "G647.5",
+    "页码": "80-81",
+    "页数": "2",
+    "爬取时间": "2025-03-26 06:49:17",
+    "论文唯一代码": "CWKJ202222022"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "双边磁通切换直线电机无速度传感器控制",
+    "状态": "正常",
+    "发表期刊": "控制工程",
+    "刊发时间": "2022-11-20",
+    "引用量": "0",
+    "下载量": "235",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘晋",
+            "author_addresses": "石家庄铁道大学电气与电子工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "闻程",
+            "author_addresses": "石家庄铁道大学电气与电子工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "wencheng0308@163.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "杜巍",
+            "author_addresses": "石家庄铁道大学电气与电子工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "刘君宇",
+            "author_addresses": "石家庄铁道大学电气与电子工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "吕凯琳",
+            "author_addresses": "石家庄铁道大学电气与电子工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "29 ",
+    "期(Issue)": "11",
+    "摘要": " 为了实现良好的双边磁通切换永磁直线电机(DLFSPM)的速度辨识，提出了一种带锁相环的滑模观测器进行控制。首先，基于DLFSPM电机特性，建立其数学模型，并设计该电机的传统滑模观测器的控制策略；然后针对传统滑模观测器存在抖动和角度偏差的问题，引入锁相环算法，并使用新切换函数代替符号函数，从而消弱抖振和较小角度偏差；最后对该系统在速度突变、负载突变工况下的动态性能进行仿真研究。仿真结果表明，优化后的滑模观测器控制策略能有效减小系统抖振，速度识别精准，波动小，电机工作平稳，鲁棒性好，动态响应快，证明了所提控制策略的可行性和有效性。",
+    "关键词": [
+        "轨道交通",
+        "磁通切换永磁直线电机",
+        "滑模控制",
+        "锁相环"
+    ],
+    "基金资助": [
+        "国家自然科学基金青年科学基金资助项目(51807124)",
+        "河北省自然科学基金青年项目(E2018210162)",
+        "河北省教育厅青年拔尖人才项目(BJ2020054)",
+        "河北省硕士研究生创新资助项目(CXZZSS2020067)"
+    ],
+    "专辑": "信息科技;工程科技Ⅱ辑",
+    "专题": "电力工业;自动化技术",
+    "分类号": "TM359.4;TP273",
+    "页码": "2161-2168",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:49:27",
+    "论文唯一代码": "JZDF202211033"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "三角形网格序列表示的人体动作识别",
+    "状态": "正常",
+    "发表期刊": "计算机辅助设计与图形学学报",
+    "刊发时间": "2022-11-18 10:43",
+    "引用量": "8",
+    "下载量": "165",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王辉",
+            "author_addresses": [
+                "石家庄铁道大学信息科学与技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "宋佳豪",
+            "author_addresses": [
+                "石家庄铁道大学信息科学与技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "丁铂栩",
+            "author_addresses": [
+                "石家庄铁道大学信息科学与技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "何鹏",
+            "author_addresses": [
+                "石家庄铁道大学信息科学与技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "曹俊杰",
+            "author_addresses": [
+                "大连理工大学数学科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "jjcao@dlut.edu.cn"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "34 ",
+    "期(Issue)": "11",
+    "摘要": " 鉴于现有的人体动作识别研究工作主要是基于骨架和视频表示的,提出三角形网格序列表示的人体动作分类方法.首先,选用三角形网格序列中的首帧模型作为模板,利用形状差异算子计算序列的后续帧相对于模板模型的差异,并表示为形状差异信息张量;然后,将形状差异信息张量输入由二维卷积网络与长短期记忆网络组合而成的深度网络中,提取时序动作特征,实现人体动作分类.实验结果表明,该方法在人体动作数据集AMASS上的分类准确率达到了100.00%.",
+    "关键词": [
+        "三角形网格序列",
+        "动作识别",
+        "长短期记忆网络"
+    ],
+    "基金资助": [
+        "国家自然科学基金(61972267)",
+        "河北省高等学校科学技术研究重点项目(ZD2021333)",
+        "河北省教育厅在读研究生创新能力培养资助项目(CXZZSS2021081)"
+    ],
+    "专辑": "信息科技;工程科技Ⅱ辑",
+    "专题": "计算机软件及计算机应用",
+    "分类号": "TP391.41",
+    "页码": "1723-1730",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:49:42",
+    "论文唯一代码": "JSJF202211009"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "基于双流降维EEMD-CNN滚动轴承故障诊断",
+    "状态": "正常",
+    "发表期刊": "国防交通工程与技术",
+    "刊发时间": "2022-11-18",
+    "引用量": "3",
+    "下载量": "340",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "郭梓良",
+            "author_addresses": "石家庄铁道大学机械工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "郝如江",
+            "author_addresses": "石家庄铁道大学机械工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王一帆",
+            "author_addresses": "石家庄铁道大学机械工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "杨文哲",
+            "author_addresses": "石家庄铁道大学机械工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "赵瑞祥",
+            "author_addresses": "石家庄铁道大学机械工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "20 ",
+    "期(Issue)": "06",
+    "摘要": " 为了提高滚动轴承故障分类的准确率，提出了一种将EEMD与一维卷积神经网络(1D-CNN)相结合的滚动轴承故障识别方法。首先利用EEMD算法将轴承故障振动信号分解为若干条IMF分量，筛选确定可以充分体现故障类型的IMF分量，将原始数据和筛选出的IMF分量分别采用主成分分析算法(PCA)进行降维处理，并将处理后的PCA-IMF分量和原始数据分量分别作为1D-CNN的输入数据进行网络训练和测试，得到故障识别结果。通过对比分析，与EEMD-CNN、EEMD-随机森林等方法的平均准确率进行横向比较，结果表明，EEMD-CNN方法用来识别故障类型更为准确。",
+    "关键词": [
+        "滚动轴承",
+        "故障诊断",
+        "EEMD-PCA",
+        "一维卷积神经网络(1D-CNN)"
+    ],
+    "基金资助": [
+        "国家自然科学基金(11872256)"
+    ],
+    "专辑": "工程科技Ⅱ辑;信息科技",
+    "专题": "机械工业;自动化技术",
+    "分类号": "TH133.33;TP277",
+    "页码": "30-33",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:49:57",
+    "论文唯一代码": "GFJT202206008"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "高校公共卫生突发事件治理：概念界定、现状分析和应对路径",
+    "状态": "正常",
+    "发表期刊": "华北理工大学学报(社会科学版)",
+    "刊发时间": "2022-11-18",
+    "引用量": "7",
+    "下载量": "797",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "耿晨皓",
+            "author_addresses": [
+                "华北理工大学管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王胜本",
+            "author_addresses": [
+                "石家庄铁道大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "郝翔宇",
+            "author_addresses": [
+                "华北理工大学管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "曹志辉",
+            "author_addresses": [
+                "华北理工大学管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "22 ",
+    "期(Issue)": "06",
+    "摘要": " 公共卫生突发事件频发，给国家和人民生命财产带来了严重威胁，有效应对高校公共卫生突发事件是社会治理的一项重点内容。而在疫情防控常态化下，高校师生能否采取相关措施做好防范工作，有效应对公共卫生突发事件，成为打赢疫情防控攻坚战、保障高校安全稳定的重中之重。从治理角度出发，对我国目前高校公共卫生突发事件进行概念界定、现状分析，提出加强统筹规划、制定应急预案、增加物资储备、扩大应急队伍建设等应对路径，保障高校师生身体健康和生命安全。",
+    "关键词": [
+        "公共卫生突发事件",
+        "治理",
+        "概念界定",
+        "现状分析",
+        "应对路径"
+    ],
+    "基金资助": [
+        "河北省自然科学基金项目“基于共生理论的重大突发公共卫生事件中的医防协同机制优化研究”(课题编号：G2020209002)"
+    ],
+    "专辑": "社会科学Ⅱ辑;医药卫生科技",
+    "专题": "医药卫生方针政策与法律法规研究;高等教育",
+    "分类号": "G647;R197",
+    "页码": "49-54",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:50:26",
+    "论文唯一代码": "HLXB202206008"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "隧道装配式仰拱V型接头衬砌结构受力特征研究",
+    "状态": "正常",
+    "发表期刊": "国防交通工程与技术",
+    "刊发时间": "2022-11-18",
+    "引用量": "3",
+    "下载量": "222",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "赵晓勇",
+            "author_addresses": [
+                "中铁第一勘察设计院集团有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "秦哲麟",
+            "author_addresses": [
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室",
+                "石家庄铁道大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "高新强",
+            "author_addresses": [
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室",
+                "石家庄铁道大学土木工程学院",
+                "河北省交通工程结构力学行为演变与控制重点实验室",
+                "河北省金属矿山安全高效开采技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "gxqgaoxinqiang@163.com"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王飞",
+            "author_addresses": [
+                "中铁第一勘察设计院集团有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "齐凯",
+            "author_addresses": [
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室",
+                "石家庄铁道大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "樊浩博",
+            "author_addresses": [
+                "石家庄铁道大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "朱正国",
+            "author_addresses": [
+                "石家庄铁道大学土木工程学院",
+                "河北省金属矿山安全高效开采技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "20 ",
+    "期(Issue)": "06",
+    "摘要": " 利用“荷载-结构”模型，采用ABAQUS分析软件建立了隧道马蹄形断面装配式仰拱衬砌结构三维模型，分析了在Ⅲ、Ⅳ、Ⅴ、Ⅵ级围岩荷载下，仰拱块与边墙连接处V型接头凸起长度分别为3、5、8、10 cm时仰拱块及二次衬砌拱墙的受力特征和安全系数。研究发现，当V型接头凸起长度为5～8 cm时，仰拱块接头处受到的压力、摩擦力最小；二次衬砌与仰拱块接头处的接触程度随V型接头凸起长度的增加而减小，随围岩等级的降低而增加；仰拱块顶板的最大水平拉应力会随接头凸起长度的增加而增大，当围岩等级为Ⅴ、Ⅵ级时，仰拱块腹板上方的顶板处可能会出现受拉破坏；装配式仰拱衬砌结构的安全系数会随接头凸起长度的增加而先增大后减小，并且Ⅴ、Ⅵ级围岩中不宜采用装配式仰拱衬砌。",
+    "关键词": [
+        "矿山法隧道",
+        "装配式仰拱",
+        "V型接头受力",
+        "接触紧密程度",
+        "衬砌安全系数"
+    ],
+    "基金资助": [
+        "中国铁建股份有限公司科技重大专项(2019-A04,2019-A05)",
+        "陕西省重点研发项目(2022SF-198)",
+        "中铁第一勘察设计院集团有限公司科研项目(院科19-15-01,19-18-01)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "公路与水路运输",
+    "分类号": "U451.4",
+    "页码": "11-16+60",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:50:52",
+    "论文唯一代码": "GFJT202206004"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "两尺度Duffing系统的动力吸振器减振研究",
+    "状态": "正常",
+    "发表期刊": "力学学报",
+    "刊发时间": "2022-11-18",
+    "引用量": "7",
+    "下载量": "323",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "万洪林",
+            "author_addresses": [
+                "石家庄铁道大学数理系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李向红",
+            "author_addresses": [
+                "石家庄铁道大学数理系",
+                "石家庄铁道大学机械工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "申永军",
+            "author_addresses": [
+                "石家庄铁道大学机械工程学院",
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王艳丽",
+            "author_addresses": [
+                "石家庄铁道大学机械工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "54 ",
+    "期(Issue)": "11",
+    "摘要": " 两尺度耦合的Duffing系统存在复杂振动,此类振动具有振幅大、频率高的特点,对系统的危害不容忽视.研究了线性动力吸振器对低频参数激励下Duffing系统的振动控制问题,通过对比耦合动力吸振器前后系统的时间历程图、相图,发现加入动力吸振器后系统会由单一振动模式转变为混合振动模式(簇发振动),振动幅值明显减小,尤其对高频振动部分抑制明显.利用快慢分析法,当参数激励为慢变过程时得到相应的自治系统,并发现自治系统稳定性与分岔行为对非自治系统振动响应具有明显调节作用.研究结果表明,虽然耦合动力吸振器前后自治系统均发生叉形分岔,但是加入吸振器后自治系统稳定性发生变化,稳定中心变为渐进稳定的焦点,稳定平衡线对非自治系统轨线的吸引力增强,使得响应振动幅值减小;另外轨线在不同吸引子之间的跳跃次数减少,也是导致响应振动幅值减小的另一个原因.通过对参数激励的相关参数减振效果分析,发现加入的动力吸振器在较大的振动幅值和频率范围内都能起到抑制系统振动的作用.为两尺度系统耦合线性动力吸振器减振研究提供了理论依据.",
+    "关键词": [
+        "Duffing系统",
+        "振动控制",
+        "动力吸振器",
+        "簇发振动",
+        "快慢分析法"
+    ],
+    "基金资助": [
+        "国家自然科学基金资助项目(12172233,U1934201,11672191)"
+    ],
+    "专辑": "基础科学;工程科技Ⅱ辑",
+    "专题": "工业通用技术及设备",
+    "分类号": "TB535.1",
+    "页码": "3136-3146",
+    "页数": "11",
+    "爬取时间": "2025-03-26 06:51:01",
+    "论文唯一代码": "LXXB202211016"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "生态维度：丰富和发展马克思自然生产力理论的新视角",
+    "状态": "正常",
+    "发表期刊": "生产力研究",
+    "刊发时间": "2022-11-15",
+    "引用量": "2",
+    "下载量": "527",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "韩培花",
+            "author_addresses": "石家庄铁道大学马克思主义学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "汪双楼",
+            "author_addresses": "石家庄铁道大学马克思主义学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "朱天罡",
+            "author_addresses": "石家庄铁道大学马克思主义学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "11",
+    "摘要": " 受到社会发展条件的限制，马克思的自然生产力理论分析偏重于物质产品的生产和对自然的开发与利用，对生态环境的财富性质讨论不足，缺少生态产品的经济分析，这也为当代马克思自然生产力的发展提供了新方向和理论增长点。生态生产力范畴的出现是这种新发展的突出体现，它对自然生产力概念的内涵和外延进行了扩展，丰富了自然生产力范畴的层次，推动着马克思主义经济理论和实践的重要变革。",
+    "关键词": [
+        "生态维度",
+        "自然生产力",
+        "生态生产力"
+    ],
+    "基金资助": [
+        "2022年河北省研究生示范课程项目“科学社会主义理论与实践”（KCJSX2022072）"
+    ],
+    "专辑": "经济与管理科学;工程科技Ⅰ辑;哲学与人文科学",
+    "专题": "环境科学与资源利用;哲学;经济理论及经济思想史",
+    "分类号": "X2;F014.1;F091.91",
+    "页码": "14-17+32",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:51:10",
+    "论文唯一代码": "SCLY202211003"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "基于多级索引的高维数据近似最近邻搜索",
+    "状态": "正常",
+    "发表期刊": "计算机仿真",
+    "刊发时间": "2022-11-15",
+    "引用量": "5",
+    "下载量": "103",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "杨凤丽",
+            "author_addresses": "石家庄铁道大学四方学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李娜",
+            "author_addresses": "石家庄铁道大学四方学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "刘仁芬",
+            "author_addresses": "石家庄铁道大学四方学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "39 ",
+    "期(Issue)": "11",
+    "摘要": " 当前的高维数据最近邻搜索方法大多应用单级索引，导致近邻搜索稳定性较差，且时间开销较大。为此提出基于多级索引的高维数据近似最近邻搜索方法。利用二级距离敏感哈希算法(M2LSH)实现多级索引。将第一次哈希处理的高维数据输入哈希桶内，使用二次哈希映射桶号，使其在一维空间中呈现。依据各桶内数据量完成临近哈希桶合并，将新哈希桶作为候选搜索集合，实现高维数据近似最近邻搜索。实验结果表明：不同相邻桶距离下，所提算法优化后的近似比率均可保持在1左右，搜索效果大幅度提升，且稳定性较好；将该算法的哈希函数数量和哈希桶宽度分别设置为12、3,能获得更优异的搜索效果，并极大地节省时间开销，说明多级索引是处理高维数据近似最近邻问题的有效方法。",
+    "关键词": [
+        "多级索引",
+        "高维数据",
+        "近似最近邻",
+        "距离敏感哈希",
+        "哈希桶"
+    ],
+    "基金资助": [],
+    "专辑": "信息科技",
+    "专题": "计算机软件及计算机应用",
+    "分类号": "TP311.13",
+    "页码": "398-401",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:51:25",
+    "论文唯一代码": "JSJZ202211078"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "寒区隧道洞口段空气幕保温理论研究",
+    "状态": "正常",
+    "发表期刊": "铁道学报",
+    "刊发时间": "2022-11-15",
+    "引用量": "10",
+    "下载量": "442",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王仁远",
+            "author_addresses": [
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "朱永全",
+            "author_addresses": [
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "7935526@163.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "高焱",
+            "author_addresses": [
+                "淮阴工学院交通工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "方智淳",
+            "author_addresses": [
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "张红钰",
+            "author_addresses": [
+                "河北建设集团天辰建筑工程有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "王道远",
+            "author_addresses": [
+                "河北交通职业技术学院路桥工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "44 ",
+    "期(Issue)": "11",
+    "摘要": " 为保证寒区隧道在服役期间不发生冻害，根据相似原理搭建隧道温度场模型试验台，研究寒冷季节隧道内温度的变化规律，并提出一种新型的主动保温措施-隧道洞口段空气幕保温措施。使用流函数叠加与热平衡原理，得出空气幕保温措施的控制方程，使用叠加原理及贝塞尔特征函数推导出在空气幕作用下，寒区隧道洞口断面处围岩的径向温度解析解，最后以正盘台隧道为算例，验证该保温措施的可行性。研究结论表明：外界环境温度和围岩温度是影响寒区隧道温度场的主要因素；采用控制方程计算，图像结果显示空气幕保温措施可有效防止隧道冻害；隧道径向温度理论解与有限元计算结果相差较小，解析法可为今后的工程实践提供理论基础。",
+    "关键词": [
+        "寒区隧道",
+        "温度场",
+        "模型试验",
+        "空气幕",
+        "保温措施"
+    ],
+    "基金资助": [
+        "国家自然科学基金(51778380,51808248)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "公路与水路运输",
+    "分类号": "U453",
+    "页码": "144-153",
+    "页数": "10",
+    "爬取时间": "2025-03-26 06:51:35",
+    "论文唯一代码": "TDXB202211018"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "融合自注意力机制的Conv-LSTM边坡位移预测方法",
+    "状态": "正常",
+    "发表期刊": "金属矿山",
+    "刊发时间": "2022-11-15",
+    "引用量": "10",
+    "下载量": "439",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "郑海青",
+            "author_addresses": [
+                "石家庄铁道大学电气与电子工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "赵越磊",
+            "author_addresses": [
+                "石家庄铁道大学电气与电子工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "宗广昌",
+            "author_addresses": [
+                "石家庄铁道大学电气与电子工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "孙晓云",
+            "author_addresses": [
+                "石家庄铁道大学电气与电子工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "靳强",
+            "author_addresses": [
+                "河北金隅鼎鑫水泥有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "11",
+    "摘要": " 露天矿边坡的稳定性直接影响到矿山的安全生产,边坡位移监测数据是表征边坡变形发展过程的重要参量,通过对监测数据进行分析研究,有助于实现滑坡预警。以河北金隅鼎鑫水泥有限公司某开采中的矿山边坡为例,基于监测点采集的边坡位移数据,建立了基于卷积—长短期记忆网络(Conv-LSTM)的多因素边坡位移预测模型。利用长短期记忆网络(Long Short-term Memory,LSTM)提取位移时间序列中的时序信息,通过卷积层提取位移序列中隐藏的深层特征。针对卷积层对于数据之间内部特征提取不充分的问题,引入自注意力机制(Self-attention Mechanism)充分提取边坡位移数据之间的关系特征。试验结果表明:融合自注意力机制的Conv-LSTM边坡位移预测模型的预测准确率较高,与原始位移序列的相关性较好,能更真实地反映边坡变形规律。",
+    "关键词": [
+        "露天边坡",
+        "神经网络",
+        "位移预测",
+        "自注意力机制"
+    ],
+    "基金资助": [
+        "国家自然科学基金项目(编号:51674169)",
+        "河北省自然科学基金重点项目(编号:F2019210243)",
+        "河北省高等学校科学技术研究项目(编号:ZD2019140)",
+        "河北省省级科技计划(编号:22375413D)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "矿业工程",
+    "分类号": "TD804",
+    "页码": "193-197",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:51:52",
+    "论文唯一代码": "JSKS202211025"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "高校图书馆服务创新与泛在学习环境融合的路径研究",
+    "状态": "正常",
+    "发表期刊": "产业与科技论坛",
+    "刊发时间": "2022-11-15",
+    "引用量": "0",
+    "下载量": "81",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "侯鑫磊",
+            "author_addresses": [
+                "石家庄铁道大学图书馆"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "21 ",
+    "期(Issue)": "22",
+    "摘要": " 泛在学习是正式学习的延伸，高校图书馆应为师生提供更加便利的泛在学习环境，并依托泛在学习环境开展创新服务。本文以高校图书馆服务创新与泛在学习环境融合为研究主题，分析了两者融合的目的，即学习空间、学习模式、学习情境以及实现条件，并提出了两者融合的具体途径。",
+    "关键词": [
+        "泛在学习",
+        "高等学校",
+        "图书馆",
+        "创新服务"
+    ],
+    "基金资助": [
+        "2020年度石家庄铁道大学校级项目“图书馆服务创新支撑大学生泛在学习研究”(编号：Z2020-1)阶段性成果"
+    ],
+    "专辑": "经济与管理科学;信息科技",
+    "专题": "图书情报与数字图书馆",
+    "分类号": "G258.6;G252",
+    "页码": "259-261",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:52:00",
+    "论文唯一代码": "CYYT202222111"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "控制电缆弱磁场分布特性分析",
+    "状态": "正常",
+    "发表期刊": "国外电子测量技术",
+    "刊发时间": "2022-11-15",
+    "引用量": "1",
+    "下载量": "145",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "田行军",
+            "author_addresses": [
+                "石家庄铁道大学电气与电子工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "袁泽萱",
+            "author_addresses": [
+                "石家庄铁道大学电气与电子工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "1712471242@qq.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "杨静",
+            "author_addresses": [
+                "石家庄铁道大学电气与电子工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "姚琪",
+            "author_addresses": [
+                "大唐国际发电股份有限公司张家口发电分公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "闫辉",
+            "author_addresses": [
+                "石家庄铁道大学电气与电子工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "王昭雷",
+            "author_addresses": [
+                "国网河北省电力有限公司检修分公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "41 ",
+    "期(Issue)": "11",
+    "摘要": " 针对目前控制电缆传输空间紧张与电缆隧道内磁场复杂的的问题，基于解析计算、数值计算和现场实测相结合的方法，以发电厂常用的四芯控制电缆(450/750 V)为计算对象，分析了控制电缆工频磁场特性及控制电缆注入特定信号后的磁场分布特性，讨论了芯线注入和铠装注入两种注入信号方式下的磁场特性，通过数据对比得出最优信号注入方式。结果表明，控制电缆正常工作时产生的工频磁场强度在标准规定的曝露安全限值以内；控制电缆路径检测系统的注入信号与正常工作的控制电缆之间不会相互产生影响；不同信号注入的方法中芯线注入信号的方式产生的磁场更稳定，电缆路径检测系统的接收装置更容易检测到信号。对实际控制电缆隧道内的磁场进行现场测量，所得数据与仿真计算值吻合较好。",
+    "关键词": [
+        "控制电缆",
+        "工频磁场",
+        "解析计算",
+        "芯线",
+        "铠装层"
+    ],
+    "基金资助": [
+        "朔黄铁路供电系统整定与试验管理系统研究项目(CSIEZB170205059)资助"
+    ],
+    "专辑": "信息科技;工程科技Ⅱ辑",
+    "专题": "电力工业",
+    "分类号": "TM75",
+    "页码": "94-101",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:52:09",
+    "论文唯一代码": "GWCL202211014"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "盾构隧道下穿不同基桩数量群桩基础施工影响",
+    "状态": "正常",
+    "发表期刊": "铁道工程学报",
+    "刊发时间": "2022-11-15",
+    "引用量": "5",
+    "下载量": "277",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "汤劲松",
+            "author_addresses": [
+                "道路与铁道工程安全保障省部共建教育部重点实验室(石家庄铁道大学)"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张宝",
+            "author_addresses": [
+                "石家庄铁道大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "赵书银",
+            "author_addresses": [
+                "中铁十六局集团有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "姜景双",
+            "author_addresses": [
+                "中铁十六局集团北京轨道交通工程建设有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "39 ",
+    "期(Issue)": "11",
+    "摘要": " 研究目的:在盾构隧道下穿群桩基础的施工过程中，不同大小的承台面积和基桩数量，对于盾构下穿群桩基础有什么影响，是地铁隧道施工中值得关注的问题之一。为探究盾构隧道下穿施工对不同大小承台和不同数量基桩群桩基础的影响，以低承台摩擦型群桩基础为研究对象，分析盾构隧道正向下穿和侧向下穿不同大小承台群桩基础的承台沉降和倾斜规律，以及侧向下穿时的承台水平位移。研究结论:(1)盾构隧道下穿群桩基础时，同一水平间距条件下，承台顶中心位置沉降均随着承台面积和基桩数的增大而增大，而对承台倾斜度影响差别不大；(2)侧向下穿时，承台水平位移随着承台面积和基桩数的增大而增大；(3)当水平间距小于2倍洞径，特别是盾构隧道正向下穿群桩基础时，承台大小和基桩数对群桩基础的沉降影响较大，群桩效应较为明显；(4)本研究成果可为盾构隧道下穿群桩基础的设计与施工提供借鉴和参考。",
+    "关键词": [
+        "盾构隧道",
+        "下穿施工",
+        "群桩基础",
+        "承台大小",
+        "基桩数量"
+    ],
+    "基金资助": [
+        "河北省自然科学基金资助项目(E2014210021)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "公路与水路运输;建筑科学与工程",
+    "分类号": "U455.43;TU473.1",
+    "页码": "94-99",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:52:21",
+    "论文唯一代码": "TDGC202211016"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "基于灰色模糊语言的铁路隧道施工风险评估",
+    "状态": "正常",
+    "发表期刊": "铁道工程学报",
+    "刊发时间": "2022-11-15",
+    "引用量": "15",
+    "下载量": "548",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王鹏",
+            "author_addresses": [
+                "北京交通大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "魏强",
+            "author_addresses": [
+                "中国国家铁路集团有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王景春",
+            "author_addresses": [
+                "石家庄铁道大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "赵国堂",
+            "author_addresses": [
+                "北京交通大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "39 ",
+    "期(Issue)": "11",
+    "摘要": " 研究目的:复杂艰险地区的铁路建设，隧道占比较高且超长深埋隧道众多，面临工程地质复杂、地震频繁强烈、自然灾害频发、施工条件艰难等建设难题，塌方、涌水、岩爆等施工安全事故极易发生。为防范隧道施工事故，建立灰色模糊语言理论的隧道施工风险评估模型，为铁路隧道施工风险管控提供科学合理的方法。研究结论:(1)针对铁路隧道施工过程中的风险因素兼具灰色、模糊性与随机性的特点，在区间不确定语言变量理论基础上给出区间灰色模糊不确定语言变量的概念，建立了灰色模糊语言理论的铁路隧道施工风险评估模型；(2)从“安全、质量、工期、环境”4个属性，考虑自然天气、地质条件、设备维护、风险应对措施等11个影响因子，建立了风险分析层次结构；(3)以某复杂铁路隧道工程施工为例，验证模型的可行性和有效性，工程实例表明地质条件、自然天气等因素对施工影响较大；(4)本文建立的模型能够更全面、更真实地利用专家意见对铁路隧道施工风险因素进行评估，可为复杂铁路隧道风险管控提供科学合理的依据。",
+    "关键词": [
+        "铁路隧道施工",
+        "风险评估",
+        "多属性群决策",
+        "区间灰色模糊不确定语言变量"
+    ],
+    "基金资助": [
+        "国家自然科学基金项目(71941014)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "铁路运输;公路与水路运输",
+    "分类号": "U455.1;U215.8",
+    "页码": "106-112",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:52:36",
+    "论文唯一代码": "TDGC202211018"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "具有分数阶非线性金融风险系统模型的动力学行为控制",
+    "状态": "正常",
+    "发表期刊": "安徽大学学报(自然科学版)",
+    "刊发时间": "2022-11-15",
+    "引用量": "3",
+    "下载量": "305",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李博",
+            "author_addresses": [
+                "河北工业大学经济管理学院",
+                "中国银行股份有限公司河北省分行"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘国欣",
+            "author_addresses": [
+                "石家庄铁道大学数理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张霞",
+            "author_addresses": [
+                "石家庄铁道大学交通运输学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "46 ",
+    "期(Issue)": "06",
+    "摘要": " 基于非线性动力学理论讨论了具有记忆特性的分数阶金融系统风险模型，研究系统在平衡点处的稳定性，分析表明该分数阶系统模型描述的金融风险系统存在分岔、混沌等极其复杂的动力学行为.通过逆优化和增加反馈增益两种控制方法对系统混沌动力学行为进行干预控制，并讨论了两种控制方法的鲁棒性，发现增加反馈增益控制及加大其反馈增益系数，可提高系统的稳定运动控制效果.研究结果为金融系统规避风险提供理论依据.",
+    "关键词": [
+        "金融风险系统",
+        "非线性动力学",
+        "分数阶理论",
+        "混沌运动及控制"
+    ],
+    "基金资助": [
+        "国家自然科学基金资助项目(11471218)",
+        "河北省高等学校科学技术研究基金资助项目(ZD20131017)"
+    ],
+    "专辑": "基础科学;经济与管理科学",
+    "专题": "数学;金融",
+    "分类号": "F830;O231",
+    "页码": "27-34",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:53:12",
+    "论文唯一代码": "AHDX202206005"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "高速铁路隧道衬砌裂缝内的气动压力特性",
+    "状态": "正常",
+    "发表期刊": "中国铁道科学",
+    "刊发时间": "2022-11-15",
+    "引用量": "6",
+    "下载量": "251",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "陈一铂",
+            "author_addresses": [
+                "石家庄铁道大学大型结构健康诊断与控制研究所",
+                "西南交通大学交通隧道工程教育部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "高阳",
+            "author_addresses": [
+                "石家庄铁道大学大型结构健康诊断与控制研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "gaoyang_sjz@163.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "赵维刚",
+            "author_addresses": [
+                "石家庄铁道大学大型结构健康诊断与控制研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "马伟斌",
+            "author_addresses": [
+                "中国铁道科学研究院集团有限公司铁道建筑研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "王志伟",
+            "author_addresses": [
+                "中国铁道科学研究院集团有限公司铁道建筑研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "徐飞",
+            "author_addresses": [
+                "石家庄铁道大学大型结构健康诊断与控制研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "06",
+    "摘要": " 针对高速铁路隧道缺陷混凝土衬砌裂缝扩展带来的影响，研究气动荷载作用下衬砌裂缝内气体压力的大小及分布规律。基于质量守恒定律、动量定理和能量守恒定律，推导高速铁路隧道衬砌裂缝内控制体的气动压力方程并求解；应用FLUENT软件对裂缝内气动压力进行数值模拟，验证控制方程计算结果，并分析衬砌表面荷载幅值、裂缝开口量、裂纹深度、裂缝顶端宽度4种因素对裂缝内气动压力的影响。结果表明：沿着裂缝深度方向，气动压力呈增大趋势，且最大值发生在裂缝尖端处；衬砌表面荷载和裂缝开口量的增加会不同程度地促进压力峰值增加，裂缝顶端宽度的增加反而会造成缝内压力峰值降低，裂缝深度对压力峰值则几乎没有影响；裂缝内气动压力峰值与缝外气动压力幅值、裂缝开口量基本成正比关系，而与裂缝深度成反比关系，与裂缝顶端宽度二次方大致成反比关系；衬砌表面气压作为压力入口，其大小不会对裂缝内压力造成非线性影响。",
+    "关键词": [
+        "高速铁路隧道",
+        "衬砌结构",
+        "裂缝",
+        "气动压力"
+    ],
+    "基金资助": [
+        "国家自然科学基金资助项目（51978425,51808359）",
+        "中国铁路总公司科技研究开发计划课题（K2018G013）",
+        "河北省自然科学基金资助项目（E2019210356）"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "公路与水路运输",
+    "分类号": "U451.4",
+    "页码": "89-95",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:53:49",
+    "论文唯一代码": "ZGTK202206010"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "基于隧道纵向实测变形的力学状态反演分析方法",
+    "状态": "正常",
+    "发表期刊": "中国铁道科学",
+    "刊发时间": "2022-11-15",
+    "引用量": "3",
+    "下载量": "372",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张彩亮",
+            "author_addresses": [
+                "中国铁道科学研究院研究生部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张玉芳",
+            "author_addresses": [
+                "中国铁道科学研究院集团有限公司铁道建筑研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "zyf16898@126.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "赵尚毅",
+            "author_addresses": [
+                "中国铁道科学研究院集团有限公司铁道建筑研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张志国",
+            "author_addresses": [
+                "石家庄铁道大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "袁坤",
+            "author_addresses": [
+                "中国铁道科学研究院集团有限公司铁道建筑研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "周文皎",
+            "author_addresses": [
+                "中国铁道科学研究院集团有限公司铁道建筑研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "06",
+    "摘要": " 针对滑坡、塌陷、采空区等不良地质现象导致隧道产生的较大变形，基于无限长弹性地基梁模型，结合隧道实测纵向变形曲线，通过引入等效准则和等效荷载概念，提出1种计算隧道变形后力学状态的弹性反演分析方法。作为1种简化计算方法，该方法基于峰值位移、平均弯曲转角可反推得到等效集中荷载作用下，竖向和水平2个方向的隧道弯曲、剪切、扭转内力和平均等效荷载，并确定等效集中荷载的作用方向。依托某穿过2座煤矿采空区的病害隧道工程进行反演分析，验证提出方法的合理性和可行性。结果表明：对比依托工程实测的拱段与按无限长梁模型计算理论上的拱段，在远离洞口侧时二者的长度值较为接近，最小误差为1.21 m，误差率为3%；采用仿真模拟，将得到的反演平均等效荷载施加于隧道衬砌横截面，此时衬砌混凝土开裂区的裂缝分布与病害隧道的实际开裂情况高度一致。弹性反演分析方法具有一定的合理性，按最大位移和平均弯曲转角相结合的计算方式能保证反演结果偏于保守。",
+    "关键词": [
+        "隧道",
+        "纵向变形",
+        "弹性地基梁",
+        "反演分析",
+        "等效荷载",
+        "力学状态"
+    ],
+    "基金资助": [
+        "中国铁路总公司科技研究开发计划课题（P2018G001）",
+        "云南省交通运输厅科技计划项目（云交科教2018-34）"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "公路与水路运输",
+    "分类号": "U456",
+    "页码": "96-105",
+    "页数": "10",
+    "爬取时间": "2025-03-26 06:54:17",
+    "论文唯一代码": "ZGTK202206011"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "铁路工程工期影响因素及相关性分析",
+    "状态": "正常",
+    "发表期刊": "中国铁路",
+    "刊发时间": "2022-11-15",
+    "引用量": "3",
+    "下载量": "240",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "魏强",
+            "author_addresses": [
+                "中国国家铁路集团有限公司工程管理中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张浩",
+            "author_addresses": [
+                "石家庄铁道大学经济管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "695190756@qq.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "姜金凤",
+            "author_addresses": [
+                "北京交通大学土木建筑工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "余小周",
+            "author_addresses": [
+                "中国国家铁路集团有限公司工程管理中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "刘维庆",
+            "author_addresses": [
+                "石家庄铁道大学经济管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "11",
+    "摘要": " 铁路项目施工具有线状特点，工期影响因素较多，各因素之间相互联系紧密。基于工程专家访谈和作者工作经验，提出4个方面、29个具体影响因素，利用复杂网络模型，刻画出影响因素间的直接关系，并进行影响因素节点出度排序。在进一步影响因素相关性研究中，确立建设单位的主导作用、施工单位的主责作用、施工现场的核心地位，需要各参与方一体化协同管理，积极适应外部环境变化，降低突发事件对铁路工程施工工期的延误。",
+    "关键词": [
+        "铁路工程",
+        "工期影响因素",
+        "复杂网络",
+        "工期管理体系"
+    ],
+    "基金资助": [
+        "中国国家铁路集团有限公司科技研究开发计划项目（N2020G039）"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "铁路运输",
+    "分类号": "U215.1",
+    "页码": "16-22",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:54:31",
+    "论文唯一代码": "TLZG202211003"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "一种含放大机构、惯容和接地刚度的动力吸振器的参数优化",
+    "状态": "正常",
+    "发表期刊": "振动与冲击",
+    "刊发时间": "2022-11-15",
+    "引用量": "6",
+    "下载量": "458",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "杨晓彤",
+            "author_addresses": [
+                "石家庄铁道大学机械工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "申永军",
+            "author_addresses": [
+                "石家庄铁道大学机械工程学院",
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王俊锋",
+            "author_addresses": [
+                "中车唐山机车车辆有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "41 ",
+    "期(Issue)": "21",
+    "摘要": " 惯容、放大机构、接地刚度及其组合结构等常用于振动控制中，有着较为良好的减振效果。提出了一种含放大机构和惯容的接地刚度动力吸振器（dynamic vibration absorber, DVA）,该模型以Voigt DVA为基础，引入放大机构、惯容和接地刚度提高系统的减振性能。依据H<sub>∞</sub>优化准则对吸振器进行了参数优化。首先，建立系统的运动微分方程，基于扩展的固定点理论推导出最优频率比，进而求出系统稳定状态下的最优刚度比及其对应的惯容最佳工作范围，通过基于摄动的方法得到系统近似阻尼比设计公式。最后，通过MATLAB软件计算数值解验证了解析解的正确性。在简谐激励条件下，与现有的DVA进行对比，证明了该模型具有良好的减振效果，并在随机激励下进一步进行了验证。研究过程和结果对新型动力吸振器的设计和应用有一定的参考意义。",
+    "关键词": [
+        "动力吸振器",
+        "参数优化",
+        "放大机构",
+        "惯容",
+        "固定点理论"
+    ],
+    "基金资助": [
+        "国家自然科学基金(U193420111772206)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "工业通用技术及设备",
+    "分类号": "TB535.1",
+    "页码": "308-315",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:54:41",
+    "论文唯一代码": "ZDCJ202221035"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "新建地铁车站零距离下穿既有地铁车站扰动变形规律控制",
+    "状态": "正常",
+    "发表期刊": "技术与市场",
+    "刊发时间": "2022-11-15",
+    "引用量": "2",
+    "下载量": "70",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "黄章君",
+            "author_addresses": [
+                "中铁隧道集团二处有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "韩现民",
+            "author_addresses": [
+                "石家庄铁道大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "谭建兵",
+            "author_addresses": [
+                "中铁隧道集团二处有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王康",
+            "author_addresses": [
+                "石家庄铁道大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "李文江",
+            "author_addresses": [
+                "石家庄铁道大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "29 ",
+    "期(Issue)": "11",
+    "摘要": " 依托郑州地铁4号线会展中心站工程，采用三维地质力学模型，对下穿施工各阶段工况下既有车站主体结构(底板道床)的变形规律进行了模拟研究；以确保原有地铁行车安全和不影响原有结构承载力为控制目标，建立了相应的变形控制管理基准；结合现场监测数据，对施工效果进行了评价。",
+    "关键词": [
+        "地铁车站",
+        "零距离下穿",
+        "变形特征",
+        "变形控制基准"
+    ],
+    "基金资助": [],
+    "专辑": "经济与管理科学;工程科技Ⅱ辑",
+    "专题": "铁路运输",
+    "分类号": "U231.4",
+    "页码": "66-69",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:54:51",
+    "论文唯一代码": "JSYS202211019"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "一种残差注意力迁移学习方法及其在滚动轴承故障诊断中的应用",
+    "状态": "正常",
+    "发表期刊": "中国机械工程",
+    "刊发时间": "2022-11-11 16:28",
+    "引用量": "32",
+    "下载量": "1487",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "赵靖",
+            "author_addresses": [
+                "北京交通大学机械与电子控制工程学院",
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "杨绍普",
+            "author_addresses": [
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李强",
+            "author_addresses": [
+                "北京交通大学机械与电子控制工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "qli3@bjtu.edu.cn"
+        },
+        {
+            "author_order": 4,
+            "author_name": "刘永强",
+            "author_addresses": [
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室",
+                "石家庄铁道大学机械工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "34 ",
+    "期(Issue)": "03",
+    "摘要": " 提出了一种基于残差注意力卷积神经网络(CSRA-CNN)的迁移学习算法，用于提高滚动轴承的故障诊断精度。在卷积神经网络模型中加入残差注意力机制，使模型在训练过程中更加注重故障特征的提取，从而有效提高迁移准确率。为了测评基于残差注意力卷积神经网络的性能，将其与传统卷积神经网络在不同迁移学习策略下的结果进行对比。用动力传动故障诊断综合实验台和高速列车综合实验台对所提算法进行了验证，该方法可以完成变转速以及变转速变载荷下轴承不同健康状态的迁移学习，且迁移效果均优于传统的卷积神经网络。",
+    "关键词": [
+        "迁移学习",
+        "轴承故障诊断",
+        "残差注意力",
+        "特征提取"
+    ],
+    "基金资助": [
+        "国家自然科学基金(11790282,12032017,12002221,11872256)",
+        "河北省科技计划(20310803D)",
+        "河北省自然科学基金(A2020210028)"
+    ],
+    "专辑": "工程科技Ⅱ辑;信息科技",
+    "专题": "机械工业;自动化技术",
+    "分类号": "TH133.33;TP183",
+    "页码": "332-343",
+    "页数": "12",
+    "爬取时间": "2025-03-26 06:55:01",
+    "论文唯一代码": "ZGJX202303010"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "气升式微藻培养反应器曝气结构与性能优化数值模拟研究",
+    "状态": "正常",
+    "发表期刊": "安全与环境学报",
+    "刊发时间": "2022-11-11 10:09",
+    "引用量": "2",
+    "下载量": "410",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "韩飞",
+            "author_addresses": "石家庄铁道大学机械工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "叶斌华",
+            "author_addresses": "石家庄铁道大学机械工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "石向星",
+            "author_addresses": "石家庄铁道大学机械工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "焦永刚",
+            "author_addresses": "石家庄铁道大学机械工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "赵青云",
+            "author_addresses": "石家庄铁道大学机械工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "钟凯强",
+            "author_addresses": "石家庄铁道大学机械工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "23 ",
+    "期(Issue)": "12",
+    "摘要": " 利用计算流体动力学（Computational Fluid Dynamics, CFD）软件并采用欧拉模型模拟不同曝气结构的光生物反应器流场，湍流模型为标准k-ε模型。（1）通过在4种结构（球形、球冠、下半球、平板）中对5种参数（气含率、平均气速、平均液速、湍流动能、传质系数）进行分析，结果显示球形结构具有更好的曝气效果。其中，球形结构平均液速相较于平板结构提高了约52%,湍流动能相较于下半球结构高约78%。（2）研究反应器高度对曝气效果的影响，结果显示生物反应器的最优高度为30～40 cm。生物反应器高度为30 cm时，湍流动能最大，为0.182 m<sup>2</sup>/s<sup>2</sup>,比高度为20 cm时增大了约30%。（3）将双曝气头与单个曝气头的曝气性能进行比较，结果发现双曝气头具有更好的曝气效果。26孔双曝气头的湍流动能最高，为0.213 m<sup>2</sup>/s<sup>2</sup>;36孔双曝气头的湍流动能低于26孔双曝气头的湍流动能，为0.189 m<sup>2</sup>/s<sup>2</sup>,比球形结构的湍流动能提高约25%;36个孔的双曝气头传质系数为1.089 s<sup>-1</sup>,相较于球形装置的传质系数提高约56.9%。",
+    "关键词": [
+        "环境工程学",
+        "微孔曝气器",
+        "微藻",
+        "气液两相流",
+        "数值模拟",
+        "生物反应器"
+    ],
+    "基金资助": [
+        "河北省高等学校科学技术研究项目(QN2018025)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "环境科学与资源利用",
+    "分类号": "X701;X17",
+    "页码": "4472-4480",
+    "页数": "9",
+    "爬取时间": "2025-03-26 06:55:13",
+    "论文唯一代码": "AQHJ202312031"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "大型铁路客站结构健康监测现状与发展思考",
+    "状态": "正常",
+    "发表期刊": "铁道标准设计",
+    "刊发时间": "2022-11-10 10:07",
+    "引用量": "12",
+    "下载量": "639",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "杜彦良",
+            "author_addresses": [
+                "石家庄铁道大学安全工程与应急管理学院",
+                "深圳大学土木与交通工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张浩",
+            "author_addresses": [
+                "石家庄铁道大学安全工程与应急管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "zhanghao@stdu.edu.cn"
+        },
+        {
+            "author_order": 3,
+            "author_name": "刘伯奇",
+            "author_addresses": [
+                "中国铁道科学研究院集团有限公司铁道建筑研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "67 ",
+    "期(Issue)": "03",
+    "摘要": " 随着我国铁路建设的快速发展，各种大型复杂现代化铁路客站相继建成并投入使用，呈现出体型新颖、结构庞大、受力状态复杂、运营维护要求高、人员高度聚集等特点，如何保障其运营安全至关重要。在此背景下，结构健康监测技术备受关注。系统梳理大型铁路站房的组成、结构特点和典型病害，明确大型铁路站房主要监测对象和监测内容，总结铁路客站结构健康监测关键技术研究和工程应用现状，并结合《铁路客站结构健康监测技术标准》编制过程中的调研、讨论和争议，分析当前存在的关键问题及未来发展趋势，以期促进大型铁路客站健康监测技术的应用和发展。",
+    "关键词": [
+        "大型复杂铁路客站",
+        "运营安全",
+        "结构健康监测",
+        "技术标准",
+        "工程应用"
+    ],
+    "基金资助": [
+        "中国铁道科学研究院院基金重大课题(2021yj314)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU317",
+    "页码": "1-9+16",
+    "页数": "10",
+    "爬取时间": "2025-03-26 06:55:23",
+    "论文唯一代码": "TDBS202303001"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "武强年画的文化意蕴及其价值探析",
+    "状态": "正常",
+    "发表期刊": "衡水学院学报",
+    "刊发时间": "2022-11-10",
+    "引用量": "4",
+    "下载量": "386",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "马逸初",
+            "author_addresses": [
+                "石家庄铁道大学建筑与艺术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "杨斌",
+            "author_addresses": [
+                "河北经贸大学经济管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "裴天娇",
+            "author_addresses": [
+                "衡水学院文学与传播学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "24 ",
+    "期(Issue)": "06",
+    "摘要": " 武强年画的内容、取材、创作灵感均来自民间，是一种极具民间特色的绘画体裁。其表现形式变化多样，有窗画、灶画、门画等。武强年画的题材丰富，可以分为吉祥文化、寄托信仰、优良传统、记载生活等四个方面。武强年画是我国首批非物质文化遗产，体现着丰富的文化意蕴。无论是年画内容本身所呈现的历史价值，还是文化价值，抑或是艺术价值，已然被广泛认可，具有重要的研究价值。",
+    "关键词": [
+        "武强年画",
+        "文化意蕴",
+        "民俗文化"
+    ],
+    "基金资助": [
+        "河北省文化艺术科学规划和旅游研究项目（HB20-QN033）"
+    ],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学",
+    "专题": "美术书法雕塑与摄影",
+    "分类号": "J218.3",
+    "页码": "114-118",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:55:33",
+    "论文唯一代码": "HSSZ202206027"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "基于TBM掘进参数的围岩实时识别方法研究",
+    "状态": "正常",
+    "发表期刊": "铁道技术标准(中英文)",
+    "刊发时间": "2022-11-10",
+    "引用量": "2",
+    "下载量": "248",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "徐飞",
+            "author_addresses": [
+                "石家庄铁道大学基础设施安全与应急铁路行业重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王忠顺",
+            "author_addresses": [
+                "石家庄铁道大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "杜立杰",
+            "author_addresses": [
+                "石家庄铁道大学基础设施安全与应急铁路行业重点实验室",
+                "石家庄铁道大学机械工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "tbmdu@qq.com"
+        },
+        {
+            "author_order": 4,
+            "author_name": "全永威",
+            "author_addresses": [
+                "新疆额尔齐斯河投资开发(集团)有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "赵向波",
+            "author_addresses": [
+                "新疆额尔齐斯河投资开发(集团)有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "单鹏飞",
+            "author_addresses": [
+                "石家庄铁道大学机械工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "4 ",
+    "期(Issue)": "11",
+    "摘要": " 随着我国经济与科学技术的发展以及大规模多数量基建工程建设爆发期的到来，TBM凭借其高效、优质、安全、环保、自动化程度高的特点被越来越广泛地应用。但是由于地下地质情况难以进行精确地描述以及前期地质勘察资料准确性不足，常常导致TBM设备对围岩条件适应性差、施工速度慢，甚至存在被卡被困和被损坏的风险。本文以某TBM工程为背景，将收集到的掘进数据清洗后建立围岩类别变化与掘进参数之间的相关性关系，采用建立掘进特征参数与围岩级别线性回归预测模型的方法，得到可靠的围岩识别结果，研究成果对TBM安全高效施工、降低TBM施工风险具有一定参考价值。",
+    "关键词": [
+        "TBM",
+        "掘进参数",
+        "特征参数",
+        "围岩识别"
+    ],
+    "基金资助": [
+        "新疆某重大工程科技计划项目(EQ075/FY056)",
+        "国家自然科学基金(52078311)",
+        "河北省青年拔尖人才项目(BJ2020055)",
+        "中国博士后科学基金(2019M663553)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "公路与水路运输",
+    "分类号": "U451.2",
+    "页码": "1-6",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:55:45",
+    "论文唯一代码": "TDBZ202211001"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "中国桥墩抢修器材现状及思考",
+    "状态": "正常",
+    "发表期刊": "铁道技术标准(中英文)",
+    "刊发时间": "2022-11-10",
+    "引用量": "2",
+    "下载量": "124",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "陈士通",
+            "author_addresses": [
+                "石家庄铁道大学基础设施安全与应急铁路行业重点实验室",
+                "石家庄铁道大学大型基础设施性能与安全省部共建协同创新中心",
+                "石家庄铁道大学河北省交通应急保障工程技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘子玉",
+            "author_addresses": [
+                "石家庄铁道大学基础设施安全与应急铁路行业重点实验室",
+                "石家庄铁道大学大型基础设施性能与安全省部共建协同创新中心",
+                "石家庄铁道大学河北省交通应急保障工程技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "支墨墨",
+            "author_addresses": [
+                "石家庄铁道大学基础设施安全与应急铁路行业重点实验室",
+                "石家庄铁道大学大型基础设施性能与安全省部共建协同创新中心",
+                "石家庄铁道大学河北省交通应急保障工程技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "4 ",
+    "期(Issue)": "11",
+    "摘要": " 桥梁在暴恐、战争、撞击、自然灾害突发下易遭受损坏，且不易修复，桥墩作为梁体的支撑结构，其出现损伤将会导致整座桥梁的通行中断，因此，开展紧急状态下的桥墩快速抢通与修复研究十分必要。首先归纳中国铁路与公路桥墩抢修器材发展现状，结合当前及未来发展需求分析其存在的不足，不足之处主要体现在使用种类单一、应用范围局限、拼架技术匮乏、结构形式单调、不具备“临-永”转换功能等方面，在此基础上提出解决思路及方法，可为提升桥墩应急保障能力提供技术支撑。",
+    "关键词": [
+        "桥墩",
+        "应急抢修",
+        "保障能力",
+        "公路",
+        "铁路",
+        "综述"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "公路与水路运输",
+    "分类号": "U445.7",
+    "页码": "14-19",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:55:59",
+    "论文唯一代码": "TDBZ202211003"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "机械清筛对重载铁路常见跨度简支T梁运营性能影响研究",
+    "状态": "正常",
+    "发表期刊": "铁道技术标准(中英文)",
+    "刊发时间": "2022-11-10",
+    "引用量": "0",
+    "下载量": "71",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘永前",
+            "author_addresses": [
+                "石家庄铁道大学基础设施安全与应急铁路行业重点实验室",
+                "石家庄铁道大学安全工程与应急管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "郑晓光",
+            "author_addresses": [
+                "石家庄铁道大学基础设施安全与应急铁路行业重点实验室",
+                "石家庄铁道大学安全工程与应急管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "陈树礼",
+            "author_addresses": [
+                "石家庄铁道大学基础设施安全与应急铁路行业重点实验室",
+                "石家庄铁道大学安全工程与应急管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "4 ",
+    "期(Issue)": "11",
+    "摘要": " 以某重载铁路常见跨度桥梁大机捣固清筛施工为背景，基于理论分析和现场试验检测相结合的方法，在清筛前后进行试验检测，开展机械清筛对重载铁路简支T梁运营性能影响规律研究。结果表明：采用机械清筛后，道床板结、脏污情况明显改善且整体稳定性得到一定程度提升，桥跨结构横向振幅、竖向振幅、横向加速度、竖向加速度以及墩顶横向振幅等运营性能指标明显改善，而桥跨结构跨中动挠度、动应变和相应动力系数的变化则不明显。",
+    "关键词": [
+        "重载铁路",
+        "机械清筛",
+        "简支T梁",
+        "运营性能",
+        "试验检测"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "铁路运输",
+    "分类号": "U239.4",
+    "页码": "7-13",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:56:13",
+    "论文唯一代码": "TDBZ202211002"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "铁路基础设施风险辨识方法的发展和瓶颈分析",
+    "状态": "正常",
+    "发表期刊": "铁道技术标准(中英文)",
+    "刊发时间": "2022-11-10",
+    "引用量": "3",
+    "下载量": "129",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李浩然",
+            "author_addresses": [
+                "石家庄铁道大学基础设施安全与应急铁路行业重点实验室",
+                "石家庄铁道大学安全与应急管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "马遥",
+            "author_addresses": [
+                "石家庄铁道大学基础设施安全与应急铁路行业重点实验室",
+                "石家庄铁道大学安全与应急管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "丁海乐",
+            "author_addresses": [
+                "石家庄铁道大学基础设施安全与应急铁路行业重点实验室",
+                "石家庄铁道大学安全与应急管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "魏哲",
+            "author_addresses": [
+                "石家庄铁道大学基础设施安全与应急铁路行业重点实验室",
+                "石家庄铁道大学安全与应急管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "4 ",
+    "期(Issue)": "11",
+    "摘要": " 中国铁路基础设施体量巨大，工程结构安全隐患多、使用寿命短、病害频发问题严重，现有风险辨识的方法无法满足工程实际需要。本文分析国内外铁路行业风险管理现状，梳理预先危险性分析法、故障类型及影响分析法、危险与可操作性研究法等风险辨识方法及其适用性，归纳总结铁路基础设施风险辨识方法存在的瓶颈，分析得出国内外基础设施标准不同、铁路基础设施风险辨识任务的复杂性和历史建造数据不清是风险辨识和控制的重要障碍的结论。",
+    "关键词": [
+        "铁路",
+        "基础设施",
+        "风险辨识",
+        "方法",
+        "瓶颈"
+    ],
+    "基金资助": [
+        "国家铁路局课题研究计划(KF2021-007)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "铁路运输",
+    "分类号": "U215.8",
+    "页码": "20-24",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:56:23",
+    "论文唯一代码": "TDBZ202211004"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "浅析中国传统民居绿色节能技术",
+    "状态": "正常",
+    "发表期刊": "四川建材",
+    "刊发时间": "2022-11-10",
+    "引用量": "2",
+    "下载量": "307",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "黄克俭",
+            "author_addresses": "石家庄铁道大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张旭",
+            "author_addresses": "石家庄铁道大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "黄子坤",
+            "author_addresses": "石家庄铁道大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "48 ",
+    "期(Issue)": "11",
+    "摘要": " 我国疆域辽阔、历史悠久，不同地域与民族的传统民居形式千姿百态，但无论形式如何变化都反映了当地的风俗习惯，遵循着本土的自然法则“因地制宜”。中国传统民居经过长时间的发展，其无论在文化艺术层面还是科学技术层面都有很高的造诣。人们为了更好地适应自然，享受更舒适的生活，用自己的劳动和智慧使建筑功能在躲避自然灾害与绿色节能方面得到长足的发展。现如今，社会正面临严重的资源危机、环境危机，为了应对危机，建筑设计也应该走绿色节能和可持续发展路线，在创新的同时吸收前辈们被动式绿色节能的技术成果。通过从中国传统民居的规划选址(宏观)、建筑空间组合(中观)和材质构造选取(微观)层面来分析总结我国传统民居在节能技术方面的成就，指出中国传统民居节能技术的不足，总结传统民居节能技术对现代城乡建设的启示。",
+    "关键词": [
+        "中国传统民居",
+        "绿色节能建筑",
+        "传统建筑"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU201.5;TU241.5",
+    "页码": "10-12+15",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:56:36",
+    "论文唯一代码": "SCJZ202211005"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "粉砂土路基施工质量GeoGauge检测有效性分析",
+    "状态": "正常",
+    "发表期刊": "工程建设与设计",
+    "刊发时间": "2022-11-10",
+    "引用量": "1",
+    "下载量": "43",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "何进",
+            "author_addresses": [
+                "河北省高速公路京雄筹建处"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘树阁",
+            "author_addresses": [
+                "石家庄铁道大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "杨广庆",
+            "author_addresses": [
+                "石家庄铁道大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "21",
+    "摘要": " 为了深入研究GeoGauge使用的有效性，以常见的粉砂土公路路基结构为模拟对象，基于室内模型试验和三维有限元数值模拟，研究分析GeoGauge的检测影响深度以及含水率、压实度变化对测试结果的影响。结果表明：GeoGauge在粉砂土路基中的影响深度在25cm左右；GeoGauge检测刚度值随着含水率的增大，呈现出先增大后减小的变化趋势，且最大刚度值在最优含水率附近；GeoGauge检测刚度值随着压实度的增加而增大，且刚度和压实度之间存在良好的指数关系。",
+    "关键词": [
+        "数值模拟",
+        "Geo Gauge",
+        "影响深度",
+        "模型试验"
+    ],
+    "基金资助": [
+        "河北省交通运输厅科技项目(JX-202009)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "公路与水路运输",
+    "分类号": "U416.1",
+    "页码": "62-64",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:56:52",
+    "论文唯一代码": "GCJS202221019"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "轮对非线性动力学模型稳定性和分岔特性研究",
+    "状态": "正常",
+    "发表期刊": "力学学报",
+    "刊发时间": "2022-11-09 14:07",
+    "引用量": "3",
+    "下载量": "415",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王鹏",
+            "author_addresses": [
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室",
+                "石家庄铁道大学交通运输学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "杨绍普",
+            "author_addresses": [
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "刘永强",
+            "author_addresses": [
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室",
+                "石家庄铁道大学机械工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "刘鹏飞",
+            "author_addresses": [
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "赵义伟",
+            "author_addresses": [
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室",
+                "石家庄铁道大学交通运输学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "张兴",
+            "author_addresses": [
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室",
+                "石家庄铁道大学交通运输学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "55 ",
+    "期(Issue)": "02",
+    "摘要": " 为了探究轮对系统的横向失稳问题,考虑了陀螺效应和一系悬挂阻尼的影响作用,建立非线性轮轨接触关系的轮对动力学模型,研究轮对系统的蛇行稳定性、Hopf分岔特性及迁移转化机理.通过稳定性判据获得了轮对系统失稳临界速度.采用中心流形定理和规范型方法对轮对动力学模型进行化简,得到与轮对系统分岔特性相同的一维复变量方程,理论推导求得轮对系统的第一Lyapunov系数的表达式,根据其符号即可判断轮对系统的Hopf分岔类型.讨论了不同参数对轮对系统Hopf分岔临界速度的影响,探究了轮对系统的超临界、亚临界Hopf分岔域在二维参数空间的分布规律.利用数值模拟得到轮对系统的3种典型Hopf分岔图,验证了轮对系统超临界、亚临界Hopf分岔域分布规律的正确性.结果表明,轮对系统的临界速度随着等效锥度的增大而减小,随着一系悬挂的纵向刚度和纵向阻尼的增大而增大,随着纵向蠕滑系数的增大呈先增大后减小.系统参数变化会引起轮对系统Hopf分岔类型发生改变,即亚临界与超临界Hopf分岔相互迁移转化.轮对系统Hopf分岔域在二维参数空间的分布规律对于轮对系统参数匹配和优化设计具有一定的指导意义.",
+    "关键词": [
+        "陀螺效应",
+        "蛇行稳定性",
+        "中心流形定理",
+        "极限环",
+        "Hopf分岔"
+    ],
+    "基金资助": [
+        "国家自然科学基金(11790282,12172235,12072208,52072249)",
+        "石家庄铁道大学国家重点实验室开放基金(ZZ2021-13)资助项目"
+    ],
+    "专辑": "基础科学;工程科技Ⅱ辑",
+    "专题": "铁路运输",
+    "分类号": "U270.11",
+    "页码": "462-475",
+    "页数": "14",
+    "爬取时间": "2025-03-26 06:57:05",
+    "论文唯一代码": "LXXB202302015"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "轨道电路系统长钢轨电容补偿电磁脉冲耦合效应",
+    "状态": "正常",
+    "发表期刊": "强激光与粒子束",
+    "刊发时间": "2022-11-09 10:37",
+    "引用量": "2",
+    "下载量": "107",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "杨轶轩",
+            "author_addresses": [
+                "北京全路通信信号研究设计院集团传输所",
+                "石家庄铁道大学信息科学与技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "高志伟",
+            "author_addresses": [
+                "石家庄铁道大学信息科学与技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "gao_zhiwei@163.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "吴腾",
+            "author_addresses": [
+                "石家庄铁道大学信息科学与技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "叶志红",
+            "author_addresses": [
+                "重庆邮电大学通信与信息工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "35 ",
+    "期(Issue)": "02",
+    "摘要": " 结合时域有限差分(FDTD)方法、传输线方程和长钢轨激励场快速计算方法,研究了一种高效的时域混合算法,实现长钢轨电容补偿电磁脉冲耦合效应的时域快速计算。首先,为避免对钢轨不规则结构的直接建模,根据趋肤效应,将钢轨等效为管状导体模型并提取对应的单位长度分布参数。然后,根据长钢轨激励场快速计算方法,快速计算长钢轨沿线电场分布,并结合传输线方程构建钢轨等效圆柱模型与补偿电容一体化的电磁耦合模型。最后,使用FDTD方法求解传输线方程,获取钢轨沿线各点的电磁脉冲耦合响应。研究结果表明,钢轨耦合电流波形不断展宽,但是峰值随长度增加到一定值后达到饱和状态,此结论可为轨道电路系统电磁防护设计提供重要的数据支撑。",
+    "关键词": [
+        "长钢轨",
+        "轨道电路",
+        "补偿电容",
+        "FDTD",
+        "传输线方程"
+    ],
+    "基金资助": [],
+    "专辑": "基础科学;工程科技Ⅱ辑",
+    "专题": "铁路运输",
+    "分类号": "U284.2",
+    "页码": "55-62",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:57:21",
+    "论文唯一代码": "QJGY202302007"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "基于Transformer的三维模型小样本识别方法",
+    "状态": "正常",
+    "发表期刊": "计算机应用",
+    "刊发时间": "2022-11-08 08:40",
+    "引用量": "3",
+    "下载量": "295",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王辉",
+            "author_addresses": "石家庄铁道大学信息科学与技术学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "wangh@stdu.edu.cn"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李建红",
+            "author_addresses": "石家庄铁道大学信息科学与技术学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "06",
+    "摘要": " 针对三维模型的分类问题，提出一种基于Transformer的三维（3D）模型小样本识别方法。首先，将支持和查询样本的3D点云模型输入特征提取模块中，以得到特征向量；然后，在Transformer模块中计算支持样本的注意力特征；最后，利用余弦相似性网络，计算查询与支持样本的关系分数。在ModelNet 40数据集上，相较于两层长短期记忆（Dual-LSTM）方法，所提方法的5-way 1-shot和5-way 5-shot的识别准确率分别提高了34.54和21.00个百分点；同时，所提方法在ShapeNet Core数据集上也取得了较高的准确率。实验结果表明，所提方法能够更准确地识别全新的3D模型类别。",
+    "关键词": [
+        "小样本识别",
+        "三维模型",
+        "注意力机制",
+        "点云神经网络",
+        "元学习"
+    ],
+    "基金资助": [
+        "国家自然科学基金资助项目（61972267）",
+        "河北省高等学校科学技术研究重点项目（ZD2021333）~~"
+    ],
+    "专辑": "信息科技",
+    "专题": "计算机软件及计算机应用;自动化技术",
+    "分类号": "TP391.41;TP18",
+    "页码": "1750-1758",
+    "页数": "9",
+    "爬取时间": "2025-03-26 06:57:33",
+    "论文唯一代码": "JSJY202306012"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "管幕预筑结构构件受弯性能试验",
+    "状态": "正常",
+    "发表期刊": "吉林大学学报(工学版)",
+    "刊发时间": "2022-11-08 08:14",
+    "引用量": "5",
+    "下载量": "258",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张艳青",
+            "author_addresses": [
+                "道路与铁道工程安全保障省部共建教育部重点实验室(石家庄铁道大学)",
+                "石家庄铁道大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "吕宇宣",
+            "author_addresses": [
+                "石家庄铁道大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "韩石",
+            "author_addresses": [
+                "石家庄铁道大学土木工程学院",
+                "新疆生产建设兵团兴新职业技术学院建筑与水利工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "hanshi1998@163.com"
+        },
+        {
+            "author_order": 4,
+            "author_name": "尤龙飞",
+            "author_addresses": [
+                "石家庄铁道大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "曾俊",
+            "author_addresses": [
+                "石家庄铁道大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "侯飞阳",
+            "author_addresses": [
+                "石家庄铁道大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "53 ",
+    "期(Issue)": "05",
+    "摘要": " 以连接件设置为参数，对管幕预筑结构构件的受弯性能进行试验研究，通过观察试件的裂缝发展及破坏形态，量测试件的荷载、挠度、应变，研究管幕预筑结构的受力机理，分析连接件的设置对管幕预筑结构构件受弯性能的影响。试验结果表明：管幕预筑结构受弯构件与等截面双钢板混凝土受弯构件的破坏过程及受力机理有较大差别，其破坏一般出现在钢管与平钢板相交的位置，源于钢管幕在弧形钢管与平钢板相交的凹角处有被拉平的趋势，破坏始于对拉筋及立柱的屈服，终于钢管幕与混凝土完全分离后钢板的屈服；设置对拉钢筋连接件可大幅度提升管幕预筑结构受弯构件的力学性能。",
+    "关键词": [
+        "地下工程",
+        "管幕预筑结构",
+        "受弯性能",
+        "连接件",
+        "承载力"
+    ],
+    "基金资助": [
+        "国家自然科学基金青年科学基金项目（52008271）",
+        "河北省大学生创新创业项目（S202010107080）"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU93",
+    "页码": "1390-1399",
+    "页数": "10",
+    "爬取时间": "2025-03-26 06:57:45",
+    "论文唯一代码": "JLGY202305017"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "磁力爬柱机器人结构设计与运动分析",
+    "状态": "正常",
+    "发表期刊": "机械设计与制造",
+    "刊发时间": "2022-11-08",
+    "引用量": "4",
+    "下载量": "383",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王战中",
+            "author_addresses": [
+                "石家庄铁道大学机械工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "赵童",
+            "author_addresses": [
+                "石家庄铁道大学机械工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "杜启鑫",
+            "author_addresses": [
+                "张家口职业技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张明亮",
+            "author_addresses": [
+                "石家庄铁道大学机械工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "11",
+    "摘要": " 针对高铁站雨棚金属支柱缺陷检测问题，提出一种可在金属支柱壁面实现90°转向的磁力吸附爬柱机器人。该机器人可在支柱上完成前进后退、90°转向与调节工作间隙等动作。通过对机器人在静止与行走时进行静力学分析，得出合适的磁吸附力，并采用Ansys软件对40块（6×4×2.5）cm Halbach阵列布局的永磁铁块在不同工作间隙下进行磁吸附力仿真计算，确定合理的工作间隙。以此为依据，通过Adams软件对各个动作进行仿真分析，验证了机器人的可行性。实验验证了仿真结果的准确性。",
+    "关键词": [
+        "爬柱机器人",
+        "90°转向",
+        "Halbach弧形阵列",
+        "磁吸附装置",
+        "Adams仿真"
+    ],
+    "基金资助": [
+        "高温超导磁悬浮列车动力学建模及控制策略研究（BJ2018019）"
+    ],
+    "专辑": "工程科技Ⅱ辑;信息科技",
+    "专题": "自动化技术",
+    "分类号": "TP242",
+    "页码": "280-284",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:57:55",
+    "论文唯一代码": "JSYZ202211058"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "考虑衬砌接头非线性作用的基坑开挖诱发邻近地铁隧道横向变形分析",
+    "状态": "正常",
+    "发表期刊": "中国公路学报",
+    "刊发时间": "2022-11-07 10:00",
+    "引用量": "0",
+    "下载量": "585",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张治国",
+            "author_addresses": [
+                "上海理工大学环境与建筑学院",
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室",
+                "Department of Civil and Environmental Engineering National University of Singapore",
+                "自然资源部丘陵山地地质灾害防治重点实验室福建省地质灾害重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "陈杰",
+            "author_addresses": [
+                "上海理工大学环境与建筑学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "朱正国",
+            "author_addresses": [
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "Pan YT",
+            "author_addresses": [
+                "Department of Civil and Environmental Engineering National University of Singapore"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "吴钟腾",
+            "author_addresses": [
+                "自然资源部丘陵山地地质灾害防治重点实验室福建省地质灾害重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "陈仲侃",
+            "author_addresses": [
+                "上海理工大学环境与建筑学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "",
+    "卷(Volume)": "No record",
+    "期(Issue)": "No record",
+    "摘要": " 目前针对基坑开挖诱发隧道横向结构变形的解析理论研究，一般将隧道衬砌视为无接头存在的整环或将衬砌接头刚度取为定值，较少考虑衬砌接头非线性特性带来的影响。基于衬砌接头抗弯刚度非线性计算模型，采用状态空间法对衬砌接头刚度进行迭代求解，探究了基坑开挖影响下衬砌接头非线性作用对隧道横向内力及变形的影响。首先，基于Mindlin应力解求得考虑环间剪切力作用的基坑开挖在隧道衬砌周围产生的附加荷载；接着，将隧道衬砌接头简化为由螺栓、核心混凝土、内部及外部填充混凝土四部分组成的模型，考虑“矩形-抛物线”混凝土应力应变关系，得到“接头分离前-接头分离后填充混凝土未接触-填充混凝土接触”三阶段状态的衬砌接头抗弯刚度非线性变化关系；然后，基于状态空间法得到衬砌接头、管片段及整环的内力位移传递关系，求解出考虑衬砌接头非线性影响的基坑开挖作用下隧道横向内力及变形。最后，采用工程监测数据及模型试验结果与本文理论解进行对比验证。此外，针对基坑开挖尺寸(开挖长度、深度)和衬砌接头相关参数(螺栓等级、衬砌厚度)进行了影响因素分析。分析结果表明，随着开挖尺寸的增加，其对拱顶、拱腰附加弯矩的影响小于拱底，对拱肩附加剪力的影响小于拱脚；开挖深度变化对衬砌变形影响增大，而开挖长度变化对衬砌变形影响减小。随着螺栓等级和衬砌厚度减小，其对拱顶、拱腰附加弯矩的影响大于拱底，对拱肩附加剪力的影响大于拱脚，对衬砌变形的影响增大。接头受力位于不同阶段对衬砌附加轴力影响较小。",
+    "关键词": [
+        "隧道工程",
+        "衬砌接头非线性",
+        "状态空间法",
+        "横截面变形",
+        "三阶段变化过程",
+        "基坑开挖"
+    ],
+    "基金资助": [
+        "国家自然科学基金资助项目(No.41772331，No.41977247，No.42177145)",
+        "自然资源部丘陵山地地质灾害防治重点实验室（福建省地质灾害重点实验室）课题(FJKLGH2020K004)",
+        "省部共建交通工程结构力学行为与系统安全国家重点实验室课题(KF2022-07)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "铁路运输;建筑科学与工程",
+    "分类号": "U231;TU753",
+    "页码": "",
+    "页数": "19",
+    "爬取时间": "2025-03-26 06:58:07",
+    "论文唯一代码": "ZGGL20221104000"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "基于智能家居控制系统的单片机与PLC设计实践教学",
+    "状态": "正常",
+    "发表期刊": "建筑结构",
+    "刊发时间": "2022-11-07",
+    "引用量": "6",
+    "下载量": "1728",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "何朝峰",
+            "author_addresses": "石家庄铁道大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "石彦辉",
+            "author_addresses": "石家庄铁道大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "52 ",
+    "期(Issue)": "21",
+    "摘要": " &lt;正&gt;随着智能家居行业的不断发展，智能家居控制系统的设计显得尤为重要。其中主控器单片机与PLC是控制系统得以正常运行的关键一环。作为电子信息专业的重点课程，单片机与PLC原理和应用依托于行业的现实需求，院校应着重培养学生的实践和应用创新能力，以为行业输送更多的实用型人才，而课程实践是实现这一目标的重要途径。",
+    "关键词": [],
+    "基金资助": [
+        "石家庄铁道大学校级重点（编号：Z2021-14）"
+    ],
+    "专辑": "工程科技Ⅱ辑;社会科学Ⅱ辑;信息科技",
+    "专题": "建筑科学与工程;高等教育;自动化技术",
+    "分类号": "G642;TU855-4",
+    "页码": "154",
+    "页数": "1",
+    "爬取时间": "2025-03-26 06:58:12",
+    "论文唯一代码": "JCJG202221024"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "岜沙苗寨铜鼓坪声场仿真模拟研究",
+    "状态": "正常",
+    "发表期刊": "当代建筑",
+    "刊发时间": "2022-11-05",
+    "引用量": "1",
+    "下载量": "186",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "马建军",
+            "author_addresses": "石家庄铁道大学建筑与艺术学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "毛琳箐",
+            "author_addresses": "石家庄铁道大学建筑与艺术学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "84062296@qq.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张鑫",
+            "author_addresses": "石家庄铁道大学建筑与艺术学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "11",
+    "摘要": " 苗族铜鼓坪既是传统的观演空间，又是重要的祭祀空间，因此其在民族文化中具有着重要的艺术审美价值与精神价值。本文选取一个典型的铜鼓坪作为研究对象，运用ODEON软件建立了仿真模型，以混响时间T30、早期衰变时间、语言明晰度C80的值作为评价声场特性的指标，探讨了声场仿真在传统开敞空间的科学性与实用性。",
+    "关键词": [
+        "传统开敞空间",
+        "铜鼓坪",
+        "岜沙苗寨"
+    ],
+    "基金资助": [
+        "国家自然科学基金青年科学基金项目（编号：51808356）",
+        "河北省高等学校人文社会科学研究青年拔尖人才项目（编号：BJS2022008）",
+        "石家庄铁道大学基本科研业务费科研项目（编号：SCT202004）"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU112",
+    "页码": "121-124",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:58:21",
+    "论文唯一代码": "JZDD202211026"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "一种低时延虚拟网络功能映射及调度优化算法",
+    "状态": "正常",
+    "发表期刊": "西安交通大学学报",
+    "刊发时间": "2022-11-04 15:57",
+    "引用量": "6",
+    "下载量": "185",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘光远",
+            "author_addresses": [
+                "石家庄铁道大学信息科学与技术学院",
+                "河北省电磁环境效应与信息处理重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "曹晶仪",
+            "author_addresses": [
+                "石家庄铁道大学信息科学与技术学院",
+                "河北省电磁环境效应与信息处理重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "庞紫园",
+            "author_addresses": [
+                "石家庄铁道大学信息科学与技术学院",
+                "河北省电磁环境效应与信息处理重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "黄书翠",
+            "author_addresses": [
+                "石家庄铁道大学信息科学与技术学院",
+                "河北省电磁环境效应与信息处理重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "57 ",
+    "期(Issue)": "02",
+    "摘要": " 针对传统虚拟网络功能映射及调度服务时间长、不稳定的问题，提出了一种新的虚拟网络功能映射及调度优化算法。以虚拟网络功能链路传输时延与实例化时延整体最小化为目标，建立虚拟网络功能映射及调度模型，通过设计一种低时延映射及调度算法(GABL),根据虚拟网络功能与虚拟机之间的映射集合，优化虚拟网络功能映射节点的选择问题及调度顺序问题，求解出最短时间的网络功能虚拟化映射及调度方案。GABL算法采用两段式初始化技术，将虚拟网络功能和虚拟机分别进行初始化，提高初始解的质量；利用具有锦标赛策略的人工蜂群算法对问题进行求解，保留优秀基因与种群多样性，避免陷入局部最优；采用局部搜索算法在可行解附近进行寻优，加快求最优解的速度。仿真实验结果表明：GABL算法具有稳定性强、收敛性快等特点，能够有效降低虚拟网络功能映射及调度服务时间；与GATS算法相比，GABL算法的服务完成时间减少了15%。",
+    "关键词": [
+        "虚拟网络功能",
+        "低时延",
+        "网络功能虚拟化",
+        "人工蜂群算法",
+        "局部搜索"
+    ],
+    "基金资助": [
+        "国家自然科学基金资助项目(62106157)",
+        "国家重点研发计划资助项目(2018YFB1701403)",
+        "河北省自然科学基金资助项目(F2017210118)"
+    ],
+    "专辑": "工程科技Ⅱ辑;信息科技",
+    "专题": "互联网技术",
+    "分类号": "TP393.01",
+    "页码": "121-130",
+    "页数": "10",
+    "爬取时间": "2025-03-26 06:58:32",
+    "论文唯一代码": "XAJT202302013"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "主动退市下中小股东权益保护研究",
+    "状态": "正常",
+    "发表期刊": "财会通讯",
+    "刊发时间": "2022-11-04",
+    "引用量": "12",
+    "下载量": "1346",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "董香兰",
+            "author_addresses": [
+                "石家庄铁道大学经济管理学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "22",
+    "摘要": " 在上市企业的主动退市中如何保护中小股东的权益是重中之重，我国现行的主动退市决议模式通过增强中小股东的表决权来约束控股股东的决议，同时保护其合法权益。我国主动退市制度存在一定缺失，文章从中小股东的知情权、决策权和退出权角度分析现行主动退市制度，并分析在主动退市实践中企业对中小股东权益的保护情况，通过对策建议为主动退市制度的完善和中小股东权益保护提供借鉴。",
+    "关键词": [
+        "中小股东",
+        "权益保护",
+        "主动退市",
+        "决策权",
+        "退出权"
+    ],
+    "基金资助": [
+        "国家社会科学基金重点项目“生态位理论范式下的股东关系及其经济后果研究”（项目编号：13AGL003）",
+        "河北省高等学校人文社会科学重点项目“混改背景下股东生态位对企业创新效率的影响”（项目编号：SD181031）",
+        "河北省社会科学基金青年项目“混改背景下公司治理结构及其经济后果研究”（项目编号：HB18GL064）阶段性研究成果"
+    ],
+    "专辑": "经济与管理科学;社会科学Ⅰ辑",
+    "专题": "经济法",
+    "分类号": "D922.291.91;D922.287",
+    "页码": "133-136",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:58:43",
+    "论文唯一代码": "CKTX202222024"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "波浪作用下海底隧道氯离子侵蚀劣化时变分析",
+    "状态": "正常",
+    "发表期刊": "岩土工程学报",
+    "刊发时间": "2022-11-03 16:39",
+    "引用量": "4",
+    "下载量": "515",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张治国",
+            "author_addresses": [
+                "上海理工大学环境与建筑学院",
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室",
+                "国家海洋局北海预报中心山东省海洋生态环境与防灾减灾重点实验室",
+                "自然资源部丘陵山地地质灾害防治重点实验室,福建省地质灾害重点实验室",
+                "新加坡国立大学土木与环境工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "叶铜",
+            "author_addresses": [
+                "上海理工大学环境与建筑学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "朱正国",
+            "author_addresses": [
+                "石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "Pan YT",
+            "author_addresses": [
+                "新加坡国立大学土木与环境工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "吴钟腾",
+            "author_addresses": [
+                "自然资源部丘陵山地地质灾害防治重点实验室,福建省地质灾害重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "45 ",
+    "期(Issue)": "07",
+    "摘要": " 浅水区海底隧道处于复杂波动水力环境中，既有理论研究一般只在静水环境中计入氯离子自由扩散对隧道衬砌的侵蚀作用，而较少考虑海洋波浪力对衬砌结构腐蚀的促进作用。首先采用适用于浅水区的Stokes二阶波浪理论确定了海床表面的波浪压力，基于Biot固结理论获得了隧道衬砌周围的水压响应；接着利用改进的Fick第二定律同时考虑水压和浓度梯度驱动下的氯离子扩散，并采用指数型强度劣化模型描述服役时间内衬砌混凝土的劣化效应；最后结合波浪作用下衬砌氯离子侵蚀效应进行了海底隧道衬砌承载力计算，并将理论解析解与数值模型和既有的试验结果进行了对比，获得了较好的一致性。结果表明，忽略动态波浪压力对衬砌混凝土中氯离子渗流的促进作用，将低估衬砌混凝土内部的氯离子扩散速度，随着波浪周期增加，衬砌内部氯离子侵蚀入渗的最大深度明显增大；而不考虑衬砌强度劣化效应会明显高估隧道结构的服役寿命，不利于海底隧道服役期间的安全储备。",
+    "关键词": [
+        "海底盾构隧道",
+        "Stokes二阶波",
+        "氯离子侵蚀",
+        "衬砌劣化",
+        "时变解析"
+    ],
+    "基金资助": [
+        "国家自然科学基金项目（41977247,42177145）",
+        "山东省海洋生态环境与防灾减灾重点实验室课题（201703）",
+        "省部共建交通工程结构力学行为与系统安全国家重点实验室课题（KF2022-07）",
+        "自然资源部丘陵山地地质灾害防治重点实验室课题（FJKLGH2020K004）"
+    ],
+    "专辑": "工程科技Ⅱ辑;基础科学",
+    "专题": "地球物理学;公路与水路运输;水利水电工程",
+    "分类号": "U459.5;TV139.26",
+    "页码": "1323-1332",
+    "页数": "10",
+    "爬取时间": "2025-03-26 06:59:03",
+    "论文唯一代码": "YTGC202307001"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "考虑非饱和浸润区的改进Green-Ampt模型",
+    "状态": "正常",
+    "发表期刊": "岩土力学",
+    "刊发时间": "2022-11-01 14:25",
+    "引用量": "12",
+    "下载量": "712",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李强",
+            "author_addresses": [
+                "石家庄铁道大学土木工程学院",
+                "石家庄铁道大学道路与铁道工程安全保障省部共建教育部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "贾森",
+            "author_addresses": [
+                "石家庄铁道大学土木工程学院",
+                "石家庄铁道大学道路与铁道工程安全保障省部共建教育部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李鑫",
+            "author_addresses": [
+                "石家庄铁道大学土木工程学院",
+                "石家庄铁道大学道路与铁道工程安全保障省部共建教育部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "xinli@stdu.edu.cn"
+        },
+        {
+            "author_order": 4,
+            "author_name": "武璧泽",
+            "author_addresses": [
+                "石家庄铁道大学土木工程学院",
+                "石家庄铁道大学道路与铁道工程安全保障省部共建教育部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "尚艳亮",
+            "author_addresses": [
+                "石家庄铁路职业技术学院铁道工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "董俊",
+            "author_addresses": [
+                "中铁第四勘察设计院集团有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "12",
+    "摘要": " 经典Green-Ampt入渗模型计算简单，广泛应用于土壤入渗问题的研究，但在湿润锋处理上采用明显的干湿分离界面，存在一定的理论假设。鉴于此，基于饱和区-非饱和浸润区分层模型，结合达西定律，推导出入渗过程中饱和区厚度与非饱和浸润区厚度关系的理论公式，提出了水分剖面理论模型，消除了饱和区厚度和浸润区厚度的关系假设。在此基础上，建立了考虑土壤水分剖面形状和非饱和浸润区等效参数的改进Green-Ampt模型，并采用试验和有限元数值仿真对该模型进行了验证，结果表明：该模型有很高的精度，对不同类型的土有很好的适应性。同时该模型求解简单，参数物理意义明确，便于工程应用。",
+    "关键词": [
+        "Green-Ampt模型",
+        "水分剖面模型",
+        "非饱和浸润区",
+        "入渗深度",
+        "非饱和渗流"
+    ],
+    "基金资助": [
+        "河北省自然科学基金(No.E2019210304,No.E2021210092)",
+        "河北省青年拔尖人才项目资助",
+        "河北省省级科技计划资助(No.22375412D)~~"
+    ],
+    "专辑": "工程科技Ⅱ辑;基础科学",
+    "专题": "地质学;建筑科学与工程",
+    "分类号": "TU43",
+    "页码": "3484-3492+3502",
+    "页数": "10",
+    "爬取时间": "2025-03-26 06:59:25",
+    "论文唯一代码": "YTLX202212024"
+}
+{
+    "学校id": "4113010107",
+    "学校": "石家庄铁道大学",
+    "论文类型": "期刊",
+    "论文题目": "基于VMD的FMCW毫米波雷达胸壁微动检测",
+    "状态": "正常",
+    "发表期刊": "现代电子技术",
+    "刊发时间": "2022-11-01",
+    "引用量": "5",
+    "下载量": "652",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "周佳丰",
+            "author_addresses": "石家庄铁道大学信息科学与技术学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘永泽",
+            "author_addresses": "石家庄铁道大学信息科学与技术学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "45 ",
+    "期(Issue)": "21",
+    "摘要": " 人体的呼吸和心脏跳动导致的胸壁微动可通过毫米波雷达的相位变化进行记录。为了从相位中提取胸壁的微动历史，估计出呼吸和心跳的频率，提出了一种生命体征信号的提取与分离方法。首先，对毫米波雷达中频信号进行傅里叶变换，确定胸壁所处距离单元；接着，针对此距离单元中的相位进行提取与解缠绕，将相位转换为距离变量后得到包含呼吸和心跳信息的生命体征信号；最后，利用变分模态分解（VMD）算法从生命体征信号中分解得到的模态函数中确定呼吸信号和心跳信号，再采用傅里叶变换估计两者的频率。实验中，采集30 s的人体数据进行验证，成功提取到了生命体征信号波形，并分离出了呼吸和心跳信号，呼吸和心跳频率误差在8%以内。分析实验结果表明，文中所提的信号提取与分离方法能得到有效的生命体征信号，并从中估计出较为准确的呼吸和心跳频率。",
+    "关键词": [
+        "胸壁微动",
+        "毫米波雷达",
+        "调频连续波",
+        "变分模态分解",
+        "中频信号处理",
+        "生命体征信号",
+        "呼吸频率",
+        "心跳频率"
+    ],
+    "基金资助": [
+        "河北省自然科学基金项目（F2019210253）"
+    ],
+    "专辑": "信息科技;基础科学;医药卫生科技",
+    "专题": "生物学;生物医学工程;电信技术",
+    "分类号": "TN957.51;R318",
+    "页码": "43-49",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:59:33",
+    "论文唯一代码": "XDDJ202221008"
+}

@@ -1,0 +1,1982 @@
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "超细高岭土结构及热变性的研究",
+    "状态": "正常",
+    "发表期刊": "硫磷设计与粉体工程",
+    "刊发时间": "2024-07-31",
+    "引用量": "0",
+    "下载量": "43",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "杜林楠",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "柴嘉欣",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "赵心怡",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "刘晴晴",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "赫士博",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "于宏伟",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "河北省麻醉药技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "yhw0411@163.com"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "04",
+    "摘要": " 研究超细高岭土的分子结构和热变性可为其应用研究提供重要的科学依据。试验采用中红外光谱及变温中红外光谱技术，测定了超细高岭土结构主要官能团的光谱数据，试验结果显示：(1)超细高岭土主要官能团—OH、Si—O、Al—OH的红外吸收峰主要有4种振动模式；(2)温度的升高会加强游离羟基分子间氢键的缔合作用，Si—O吸收峰的频率发生明显红移，其他官能团没有规律性改变。",
+    "关键词": [
+        "超细高岭土",
+        "结构",
+        "热变性",
+        "中红外光谱",
+        "变温中红外光谱"
+    ],
+    "基金资助": [
+        "石家庄市麻醉药技术创新中心项目(石科[2019]34号)",
+        "河北省生物制药国际联合中心项目(冀科外函[2022]3号)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学;矿业工程",
+    "分类号": "TD985;O657.33",
+    "页码": "20-24+57",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:33:15",
+    "论文唯一代码": "LLFT202404006"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "香油结构研究",
+    "状态": "正常",
+    "发表期刊": "煤炭与化工",
+    "刊发时间": "2024-07-26",
+    "引用量": "0",
+    "下载量": "33",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘凯",
+            "author_addresses": [
+                "河北立诚检测科技有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "吉一帆",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "柴嘉欣",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "李穆婵",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "田晨阳",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "王宁",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "杜林楠",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "于宏伟",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "河北省麻醉药技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "47 ",
+    "期(Issue)": "07",
+    "摘要": " 采用中红外（MIR）光谱技术（包括：一维MIR光谱、二阶导数MIR光谱、四阶导数MIR光谱和退卷积MIR光谱）分别开展了香油结构的研究。实验发现，香油结构的主要红外吸收模式包括：CH3官能团不对称伸缩振动模式(ν<sub>asCH<sub>3</sub>-香油</sub>)、CH<sub>2</sub>官能团不对称伸缩振动模式(ν<sub>asCH<sub>2</sub>-香油</sub>)、CH<sub>3</sub>官能团对称伸缩振动模式(ν<sub>sCH<sub>3</sub>-香油</sub>)、CH<sub>2</sub>官能团对称伸缩振动模式(ν<sub>sCH<sub>2</sub>-香油</sub>)、C=O官能团伸缩振动模式（νC=O-香油）、蛋白质结构酰胺Ⅰ带模式(ν<sub>amide-Ⅰ-香油</sub>)、C=C官能团伸缩振动模式(ν<sub>C=C-香油</sub>)、蛋白质结构酰胺Ⅱ带模式(ν<sub>amide-Ⅱ-香油</sub>)、CH<sub>2</sub>官能团变角振动模式(δ<sub>CH<sub>2</sub>-香油</sub>)、CH<sub>3</sub>官能团不对称变角振动模式(δ<sub>asCH<sub>3</sub>-香油</sub>)、CH<sub>3</sub>官能团对称变角振动模式(δ<sub>sCH<sub>3</sub>-香油</sub>)、C-O官能团伸缩振动模式(ν<sub>C-O-香油</sub>)和CH<sub>2</sub>官能团面内摇摆振动模式(ρ<sub>CH<sub>2</sub>-香油</sub>)。研究发现，香油的主要成分是油脂、蛋白质及多糖。为香油结构研究建立一个方法学，具有重要的应用研究价值。",
+    "关键词": [
+        "香油",
+        "结构",
+        "一维中红外光谱",
+        "二阶导数中红外光谱",
+        "四阶导数中红外光谱",
+        "退卷积中红外光谱"
+    ],
+    "基金资助": [
+        "石家庄市麻醉药技术创新中心项目（石科[2019]34号）",
+        "河北省生物制药国际联合中心项目（冀科外函[2022]3号）"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学;一般化学工业;轻工业手工业",
+    "分类号": "O657.33;TS225",
+    "页码": "141-147+160",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:33:26",
+    "论文唯一代码": "HHGZ202407033"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "桑葚果实、桑葚干酒和桑葚利口酒中酚类化合物的高效液相色谱串联电喷雾二级质谱分析及其抗氧化活性比较",
+    "状态": "正常",
+    "发表期刊": "食品与发酵工业",
+    "刊发时间": "2024-07-25",
+    "引用量": "2",
+    "下载量": "467",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张文娜",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "石家庄市食品工程技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "魏萌",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "韩爱云",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "石家庄市食品工程技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "陈佳",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "胡连霞",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "解立斌",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "李亚楠",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "白佳敏",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 9,
+            "author_name": "剧慧栋",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "juhuidong@aliyun.com"
+        },
+        {
+            "author_order": 10,
+            "author_name": "陈永民",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "43993871@qq.com"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "50 ",
+    "期(Issue)": "14",
+    "摘要": " 为了解桑葚果酒和桑葚果实在酚类化合物的种类、含量及抗氧化活性之间的差异，该研究以桑葚果实、桑葚干酒和桑葚利口酒为试材，采用高效液相色谱串联电喷雾二级质谱（high performance liquid chromatographyelectron spray ionization-mass spectrometry/mass spectrometry,HPLC-ESI-MS/MS）对酚类化合物进行定性定量分析。HPLC-ESI-MS/MS分析结果表明，在桑葚果实、桑葚干酒和桑葚利口酒中均检测到花青素-3-葡萄糖苷和花青素-3-芸香糖苷，而花葵素-3-芸香糖苷和4-丙酮酸-花青素-3-葡萄糖苷分别只在桑葚干酒和桑葚利口酒中被检测到。同时，桑葚干酒和桑葚利口酒中花青素-3-葡萄糖苷和花青素-3-芸香糖苷的含量均显著低于桑葚果实。此外，在桑葚果实中鉴定的8种非花色苷多酚中，仅有4种存在于桑葚干酒和桑葚利口酒中。相较于桑葚果实，桑葚干酒和利口酒中原儿茶素、二氢槲皮素和槲皮素的含量显著升高。桑葚果实DPPH自由基清除能力介于桑葚干酒和利口酒之间。综上，桑葚果酒和桑葚果实中酚类化合物的种类、含量及抗氧化活性之间差异显著。",
+    "关键词": [
+        "桑葚果实",
+        "桑葚果酒",
+        "酚类化合物",
+        "DPPH自由基清除能力"
+    ],
+    "基金资助": [
+        "第四次全国中药资源普查项目（Z135080000022）",
+        "大学生创新创业训练计划项目（scxm051）",
+        "石家庄市第三批高层次人才项目（石办字[2021]21号）"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学;轻工业手工业",
+    "分类号": "TS262.7;O657.63",
+    "页码": "246-252",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:33:37",
+    "论文唯一代码": "SPFX202414032"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "艺术设计课程体系下工业设计专业创新创业人才培养模式研究",
+    "状态": "正常",
+    "发表期刊": "大众文艺",
+    "刊发时间": "2024-07-25",
+    "引用量": "1",
+    "下载量": "74",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "陈晓鲁",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "14",
+    "摘要": " 创新创业是国内的经济发展的重要动力之一，党和国家高度重视创新创业教育工作，大力推动高校创新创业教育改革。同时，国家在“十三五”规划纲要中，提出建设工业设计中心和设立工业设计研究院的决定，体现了工业设计在社会经济发展中的重要作用。文章结合在艺术设计培养模式下工业设计专业的特点，从专业课程教学体系、师资团队建设、实践平台搭建等方面展开讨论，旨在建立工业设计专业与社会各方面广泛的联系，全方位培养学生创新创业的意识，形成一套切实有效工业设计专业人才创新创业教育模式。",
+    "关键词": [
+        "艺术设计课程体系",
+        "工业设计",
+        "创新创业教育",
+        "人才培养模式"
+    ],
+    "基金资助": [
+        "石家庄学院2023年度校级教学改革研究与实践项目“艺术设计专业课程体系下创新创业人才培养模式研究”（课题编号：JGXM-202336Y,课题主持人：陈晓鲁）阶段性研究成果"
+    ],
+    "专辑": "哲学与人文科学;工程科技Ⅱ辑;社会科学Ⅱ辑",
+    "专题": "工业通用技术及设备;高等教育",
+    "分类号": "G647.38;TB47-4",
+    "页码": "126-128",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:33:44",
+    "论文唯一代码": "DZLU202414042"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "环境规制对畜禽养殖业碳排放的影响",
+    "状态": "正常",
+    "发表期刊": "饲料研究",
+    "刊发时间": "2024-07-21 07:02",
+    "引用量": "0",
+    "下载量": "289",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "魏雨蒙",
+            "author_addresses": [
+                "石家庄学院科研处"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李朝阳",
+            "author_addresses": [
+                "石家庄学院碳中和研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "47 ",
+    "期(Issue)": "16",
+    "摘要": " 随着畜禽养殖业快速发展，能源消耗和碳排放量不断增加，对生态环境可持续性产生了一定影响。文章旨在揭示环境规制在畜禽养殖业碳减排方面的潜在效果，助力畜禽养殖业实现绿色低碳发展。基于2011—2022年我国30个省份面板数据，通过构建计量模型，探究环境规制对畜禽养殖业碳排放的影响。结果显示，环境规制政策的实施能够显著降低畜禽养殖业碳排放，且该结果具有一定稳健性。异质性检验结果显示，高强度环境规制对畜禽养殖业碳排放的影响效应大于低强度环境规制；在东部和中部地区，环境规制对畜禽养殖业碳排放的影响更为显著。研究表明，加快健全碳排放、碳足迹管理等环境规制对于减少畜禽养殖业碳排放、早日实现“双碳”目标具有重要意义。",
+    "关键词": [
+        "畜禽养殖业",
+        "碳排放",
+        "环境规制",
+        "绿色低碳"
+    ],
+    "基金资助": [
+        "河北省高等学校人文社会科学研究项目（项目编号：SQ2023046）"
+    ],
+    "专辑": "农业科技;工程科技Ⅰ辑;经济与管理科学",
+    "专题": "环境科学与资源利用;农业基础科学;畜牧与动物医学;农业经济",
+    "分类号": "X322;F326.3",
+    "页码": "186-190",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:34:11",
+    "论文唯一代码": "SLYJ202416033"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "乙基纤维素结构中红外-近红外光谱组学研究",
+    "状态": "正常",
+    "发表期刊": "纺织科学与工程学报",
+    "刊发时间": "2024-07-20",
+    "引用量": "3",
+    "下载量": "155",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "杜林楠",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "杨珊珊",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "孔晓美",
+            "author_addresses": [
+                "河北科技大学化学与制药工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王春润",
+            "author_addresses": [
+                "河北科技大学化学与制药工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "田晨阳",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "柴嘉欣",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "吉一帆",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "于宏伟",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "河北省麻醉药技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "41 ",
+    "期(Issue)": "03",
+    "摘要": " 采用中红外（MIR）光谱和近红外（NIR）光谱技术对不同厂家不同粘度型号产品的乙基纤维素结构进行研究。实验发现,乙基纤维素的MIR-NIR光谱吸收模式主要包括:O-H基团伸缩振动模式(ν<sub>O-H-乙基纤维素-MIR</sub>)、CH<sub>3</sub>基团不对称伸缩振动模式(ν<sub>asCH3-乙基纤维素-MIR</sub>)、CH<sub>3</sub>基团对称伸缩振动模式(ν<sub>sCH3-乙基纤维素-MIR</sub>)、CH<sub>2</sub>基团不对称伸缩振动模式(ν<sub>asCH2-乙基纤维素-MIR</sub>)、C-H基团伸缩振动模式(ν<sub>C-H-乙基纤维素-MIR</sub>)、CH<sub>3</sub>基团对称弯曲振动模式(δ<sub>sCH3-乙基纤维素-MIR</sub>)、C-O基团伸缩振动模式(ν<sub>C-O-乙基纤维素-MIR</sub>)、OC<sub>2</sub> H<sub>3</sub>基团振动模式(ν<sub>OC2H3-乙基纤维素-MIR</sub>)、ν<sub>C-H-乙基纤维素-MIR</sub>和ν<sub>sCH-乙基纤维素-MIR</sub>的合频(ν<sub>-1-乙基纤维素-NIR</sub>)、ν<sub>asCH3-乙基纤维素-MIR</sub>和ν<sub>asCH2-乙基纤维素-MIR</sub>的合频(ν<sub>-2-乙基纤维素-NIR</sub>)、ν<sub>O-H-乙基纤维素-MIR</sub>的一级倍频(ν<sub>-3-乙基纤维素-NIR</sub>)和ν<sub>O-H-乙基纤维素-MIR</sub>的二级倍频(ν<sub>-4-乙基纤维素-NIR</sub>)。研究发现,不同厂家不同粘度型号产品的乙基纤维素主要官能团对应的红外吸收频率及OC<sub>2</sub>H<sub>3</sub>基团的相对含量均存在一定的差异性。MIR-NIR光谱组学开展重要的纺织原料（乙基纤维素）结构研究,具有重要的应用研究价值。",
+    "关键词": [
+        "中红外光谱",
+        "近红外光谱",
+        "乙基纤维素",
+        "结构"
+    ],
+    "基金资助": [
+        "石家庄市麻醉药技术创新中心项目(石科[2019] 34号)",
+        "河北省生物制药国际联合中心项目(冀科外函[2022]3号)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学;轻工业手工业",
+    "分类号": "O657.33;TS102",
+    "页码": "91-100+109",
+    "页数": "11",
+    "爬取时间": "2025-03-26 06:34:40",
+    "论文唯一代码": "CDFZ202403015"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "社交媒体假新闻检测：基本理论、方法及研究方向",
+    "状态": "正常",
+    "发表期刊": "软件导刊",
+    "刊发时间": "2024-07-19 08:40",
+    "引用量": "0",
+    "下载量": "424",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "赵梦凡",
+            "author_addresses": [
+                "郑州西亚斯学院计算机与软件工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张钰涛",
+            "author_addresses": [
+                "郑州西亚斯学院计算机与软件工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "赵铤钊",
+            "author_addresses": [
+                "石家庄学院理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "23 ",
+    "期(Issue)": "09",
+    "摘要": " 社交媒体平台的迅速发展不仅极大增强了信息的可访问性，而且加速了假新闻的传播。假新闻的爆炸性增长不仅损害社会稳定，还会侵蚀公众对媒体的信任。在自然语言处理领域中，假新闻检测是一个关键而富有挑战性的任务。为此，首先给出假新闻的定义，深入分析其特征；其次从新闻内容、社交语境、传播网络和混合方法 4个角度对现有假新闻检测方法进行分析与评估，介绍相关模型性能、常用数据集以及评价指标；最后，总结并分析目前假新闻检测研究中存在的问题，提出后续可能的研究方向。",
+    "关键词": [
+        "社交网络",
+        "假新闻",
+        "自然语言处理",
+        "早期检测",
+        "可解释性"
+    ],
+    "基金资助": [
+        "河南省民办普通高等学校学科专业建设资助项目（教办政法[2020]162号）"
+    ],
+    "专辑": "信息科技",
+    "专题": "计算机软件及计算机应用",
+    "分类号": "TP391.1",
+    "页码": "31-40",
+    "页数": "10",
+    "爬取时间": "2025-03-26 06:34:48",
+    "论文唯一代码": "RJDK202409004"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "课程思政建设视角下会计学本科专业转型路径研究",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2024-07-18",
+    "引用量": "0",
+    "下载量": "174",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "胡海川",
+            "author_addresses": [
+                "河北地质大学管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "赵佳娜",
+            "author_addresses": [
+                "石家庄学院经济管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "598323863@163.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "曹慧",
+            "author_addresses": [
+                "河北地质大学管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "26 ",
+    "期(Issue)": "04",
+    "摘要": " 在推进高等教育道德理念培育以及学生人格塑造的基础工作中，思想政治教育发挥着不可替代的作用，落实立德树人根本任务仍然是新时代教育的核心目标。会计学本科专业人才的培养应顺势而为，以课程思政建设为重要抓手，积极探索专业转型发展的新方向，对人才培养理念进行创新和优化。在教育理念方面，应当充分关注经济事件的后果及影响，不断强化道德教育，提升学生政治认知高度；在教学内容方面，应将思政理念及思政要素充分融入，优化会计思政教育内容，使思政教育贯穿核心课程的始终；在授课方法方面，要充分重视线上和线下课程建设，并将两者充分融合。",
+    "关键词": [
+        "课程思政",
+        "会计人才培养",
+        "教学创新"
+    ],
+    "基金资助": [
+        "河北省高等教育教学改革研究与实践项目“‘思政领航+科技赋力’的会计学专业智能化转型研究与实践”（2022GJJG300）"
+    ],
+    "专辑": "社会科学Ⅱ辑;经济与管理科学",
+    "专题": "高等教育;会计",
+    "分类号": "G642;F230-4",
+    "页码": "114-118+123",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:35:01",
+    "论文唯一代码": "SSZK202404018"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "基于“两微一抖”的石家庄城市形象塑造对策研究",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2024-07-18",
+    "引用量": "1",
+    "下载量": "179",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "赵冰",
+            "author_addresses": "石家庄学院新闻与传媒学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "田建恩",
+            "author_addresses": "石家庄学院新闻与传媒学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李红陛",
+            "author_addresses": "石家庄学院新闻与传媒学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "26 ",
+    "期(Issue)": "04",
+    "摘要": " 社交媒体平台开辟了城市形象塑造和对外传播的新渠道，但也存在着文化折扣和社交倦怠现象。新浪微博、微信和抖音三大主流社交媒体平台对石家庄城市形象的塑造与推广具有较大影响。在塑造和传播石家庄城市形象时首先要做好顶层设计，其次要提高社交平台的入驻率，再次要实现协同发声，以统一的声音对外传递信息。此外，还要根据目标受众的需求定制内容，并加强对舆情的监控和管理。",
+    "关键词": [
+        "城市形象",
+        "社交媒体",
+        "塑造路径",
+        "石家庄"
+    ],
+    "基金资助": [
+        "石家庄市社科专家培养项目“基于‘两微一抖’石家庄市城市形象塑造路径研究”（2023zjpy79）"
+    ],
+    "专辑": "社会科学Ⅱ辑;信息科技",
+    "专题": "社会学及统计学;新闻与传媒",
+    "分类号": "G206;C912.81",
+    "页码": "93-101",
+    "页数": "9",
+    "爬取时间": "2025-03-26 06:35:22",
+    "论文唯一代码": "SSZK202404015"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "基于运动想象的脑电信号处理研究综述",
+    "状态": "正常",
+    "发表期刊": "物联网技术",
+    "刊发时间": "2024-07-18",
+    "引用量": "0",
+    "下载量": "845",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "董雷",
+            "author_addresses": [
+                "石家庄学院机电学院",
+                "石家庄学院石家庄市数字医疗康复技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "孙建起",
+            "author_addresses": [
+                "石家庄学院机电学院",
+                "石家庄学院石家庄市数字医疗康复技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "龚聪",
+            "author_addresses": [
+                "石家庄学院机电学院",
+                "石家庄学院科研处"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "苏飞",
+            "author_addresses": [
+                "石家庄市高新区长江社区卫生服务中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "14 ",
+    "期(Issue)": "07",
+    "摘要": " 近年来，脑机接口技术及应用发展迅速，已成为一种能够将人的意图转化为控制信号，使残障人士可以通过运动想象就能实现与外界环境进行交互的新兴技术。脑机接口系统通过脑电信号采集设备对大脑产生的相应电信号进行提取，经过分类处理后与外部设备连接，使其能够与外界进行信息交互。脑机接口技术无论是在科学研究还是实际应用中，都有很高的价值。文中围绕运动想象脑电信号处理关键技术进行阐述，分析了脑电信号处理各环节的原理及算法的优缺点，为今后脑电技术的研究提供参考。",
+    "关键词": [
+        "脑机接口",
+        "运动想象",
+        "信息交互",
+        "脑电信号处理",
+        "人机交互",
+        "脑机融合"
+    ],
+    "基金资助": [
+        "石家庄市科技计划重点研发项目(221130253A)石家庄市科技计划项目(221200543)",
+        "2023年度河北省人力资源社会保障科研合作课题(JRSHZ-2023-01086)"
+    ],
+    "专辑": "信息科技;基础科学;医药卫生科技",
+    "专题": "生物学;生物医学工程;电信技术",
+    "分类号": "R318;TN911.7",
+    "页码": "104-106",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:35:39",
+    "论文唯一代码": "WLWJ202407029"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "改革开放初期正定县域治理的实践探索及其现实意义",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2024-07-18",
+    "引用量": "0",
+    "下载量": "159",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘刚",
+            "author_addresses": "石家庄学院马克思主义学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王芳",
+            "author_addresses": "石家庄学院马克思主义学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "26 ",
+    "期(Issue)": "04",
+    "摘要": " 县域在党的组织结构和国家政权结构中处在承上启下的关键位置，县域治理是国家治理体系和治理能力现代化的关键节点。改革开放初期，正定县在习近平同志的领导下进行了一系列县域治理的实践探索，形成了一整套县域治理的路径和方法，留下了宝贵的思想财富、精神财富和实践成果。在当前的县域治理实践中，要传承弘扬这些财富和成果，从中汲取智慧和力量，从而进一步提升县域治理效能，加快推进县域治理现代化。",
+    "关键词": [
+        "改革开放初期",
+        "正定县",
+        "县域治理"
+    ],
+    "基金资助": [
+        "2023年度石家庄市西柏坡精神研究课题“改革开放初期正定县域治理路径探索及其现实意义研究”（SJZXBPKT-202302）"
+    ],
+    "专辑": "社会科学Ⅱ辑;社会科学Ⅰ辑",
+    "专题": "行政学及国家行政管理",
+    "分类号": "D630",
+    "页码": "37-41",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:35:48",
+    "论文唯一代码": "SSZK202404005"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "历史与传说的双重变奏——“刘秀传说在石家庄”的历史演进及文化内涵",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2024-07-18",
+    "引用量": "0",
+    "下载量": "89",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王慧杰",
+            "author_addresses": [
+                "石家庄学院文学与历史学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "26 ",
+    "期(Issue)": "04",
+    "摘要": " 民间传说可以反映民众对社会历史、价值追求、民间信仰的多方面认知，是民族文化的活化石。通过查阅文献和田野考察，“王莽赶刘秀”的传说在石家庄地区广为流传。该传说的流行与英雄崇拜、民众心理需求以及封建统治者提倡密切相关，是石家庄独特文化品格的集中体现。如今当地有关部门已经采取多种方式，对“刘秀传说在石家庄”这一非遗项目进行了有效的整理和合理的开发，使其不仅能够得以保护和传承，还能在现代社会中发挥更大的作用。",
+    "关键词": [
+        "刘秀传说在石家庄",
+        "民间文化",
+        "历史演进"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学",
+    "专题": "中国文学",
+    "分类号": "I207.7",
+    "页码": "78-81",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:35:55",
+    "论文唯一代码": "SSZK202404012"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "利用红色资源塑造河北省会城市形象研究",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2024-07-18",
+    "引用量": "0",
+    "下载量": "194",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "杨谷旸",
+            "author_addresses": [
+                "石家庄学院美术与设计学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "26 ",
+    "期(Issue)": "04",
+    "摘要": " 城市形象的设计塑造离不开城市本地文化资源的开发利用，而石家庄所特有的以西柏坡为代表的红色文化资源则是城市形象塑造的重要文化源泉。利用红色文化资源塑造石家庄城市形象包括两个方面：一是城市外在视觉形象的塑造，充分利用红色资源打造具有鲜明特色的城市景观、城市标识、城市色彩，以形成与城市文化和谐统一的外部视觉形象；二是城市内部文化形象的塑造，利用以西柏坡为代表的红色文化精神塑造城市管理形象、城市服务形象和城市精神形象，以形成与人文、历史、民风相适应的内部文化形象，提高整体市民的精神思想水平和对外影响力。",
+    "关键词": [
+        "城市形象塑造",
+        "红色资源利用",
+        "高质量发展"
+    ],
+    "基金资助": [
+        "河北省高等学校人文社会科学研究项目“利用红色资源构建河北省会城市形象研究”（SQ2023140）"
+    ],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学",
+    "专题": "美术书法雕塑与摄影;文化",
+    "分类号": "J505;G127",
+    "页码": "88-92",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:36:04",
+    "论文唯一代码": "SSZK202404014"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "新文科背景下大学英语课程思政建设路径",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2024-07-18",
+    "引用量": "2",
+    "下载量": "343",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "赵南南",
+            "author_addresses": "石家庄学院外国语学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "贺宇涛",
+            "author_addresses": "石家庄学院外国语学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "26 ",
+    "期(Issue)": "04",
+    "摘要": " 作为普通高校一门重要的公共必修课，大学英语课程具有工具性和人文性的双重性质。在新文科建设背景下，如何搞好大学英语课程思政建设是目前大学英语教学改革面临的一个重要问题。为有效推进课程思政建设，提高人才培养质量，在大学英语教学过程中，必须明确教学目标，创新教学理念，充分挖掘思政元素，丰富课程内容，创新教学方法，强化育人成效，优化课程教学评价，加强师资队伍建设，提升教师育人意识和育人能力，从而更好地培养能担当民族复兴大任的新时代人才。",
+    "关键词": [
+        "大学英语",
+        "课程思政",
+        "新文科"
+    ],
+    "基金资助": [
+        "河北省高等学校英语教学改革研究与实践项目“新文科建设背景下大学英语课程思政教学研究”（2022YYJG071）",
+        "石家庄学院专业认证专项教学改革研究与实践项目“师范类专业认证背景下大学英语课程思政教学研究”（JGXM-202205Z）"
+    ],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学",
+    "专题": "外国语言文字",
+    "分类号": "H319",
+    "页码": "119-123",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:36:19",
+    "论文唯一代码": "SSZK202404019"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "视觉传达设计专业课程思政建设路径研究",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2024-07-18",
+    "引用量": "1",
+    "下载量": "235",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "彭飞",
+            "author_addresses": [
+                "石家庄学院美术与设计学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "26 ",
+    "期(Issue)": "04",
+    "摘要": " 课程思政建设不仅能丰富专业课程教学的内涵，还能为培养高素质专业人才提供支持。基于视觉传达设计专业传统教学模式存在思政元素与专业内容融合不足、课程思政建设缺乏系统性、实践教学课程思政建设滞后等问题，视觉传达设计专业课程思政建设应根据本专业特点，从教师观念更新和能力提升、人才培养体系建设、分类课程教学模式改革等方面，推动课程思政教育理念的落实，提升人才培养的质量。",
+    "关键词": [
+        "课程思政",
+        "视觉传达专业",
+        "教学改革"
+    ],
+    "基金资助": [
+        "河北省高等教育教学改革研究与实践项目“融入课程思政理念的‘视觉传达’专业学科的教学模式改革研究”（2022GJJG546）"
+    ],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学",
+    "专题": "美术书法雕塑与摄影;高等教育",
+    "分类号": "J524-4;G641",
+    "页码": "124-126",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:36:25",
+    "论文唯一代码": "SSZK202404020"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "数智融合时代高校意识形态建设的机遇、困境与对策",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2024-07-18",
+    "引用量": "1",
+    "下载量": "443",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "宋羽",
+            "author_addresses": [
+                "石家庄学院学生工作部(处)"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "魏金普",
+            "author_addresses": [
+                "石家庄学院学生工作部(处)"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张余",
+            "author_addresses": [
+                "石家庄学院教师工作部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张智",
+            "author_addresses": [
+                "石家庄学院办公室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "郑坤",
+            "author_addresses": [
+                "石家庄学院学生工作部(处)"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "26 ",
+    "期(Issue)": "04",
+    "摘要": " 数智融合时代，加强高校意识形态建设是顺应媒体传播新样态发展的现实需要，是维护高校意识形态安全的必然选择，也是增强高校主流意识形态凝聚力和吸引力的内在要求。新形势下，高校意识形态建设面临多元价值观念广泛传播弱化主流意识形态价值引领、主流意识形态话语表达脱离学生实际需求“、圈层”消解主流意识形态理念认同、推荐算法离散主流意识形态叙事完整性等困境。因此，强化社会主义意识形态阵地建设、构建符合媒介传播特点的意识形态话语内容体系、推动主流意识形态传播方式创新、提升辅导员意识形态工作能力是推动高校意识形态建设提质增效的关键。",
+    "关键词": [
+        "数智融合时代",
+        "高校",
+        "意识形态",
+        "多维策略"
+    ],
+    "基金资助": [
+        "河北省社会科学基金项目“大数据时代加强高校网络意识形态话语权建设研究”（HB22ZZ004）",
+        "石家庄市社会科学界联合会2023年度社科专家培养项目“基于大数据视角的高校网络舆情应对路径研究”（2023zjpy72）"
+    ],
+    "专辑": "社会科学Ⅱ辑;社会科学Ⅰ辑",
+    "专题": "思想政治教育;高等教育",
+    "分类号": "G641;D64",
+    "页码": "127-132",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:36:37",
+    "论文唯一代码": "SSZK202404021"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "高质量的“U-G-I-S-C”教师教育模式构建研究",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2024-07-18",
+    "引用量": "0",
+    "下载量": "130",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "郑爽",
+            "author_addresses": "石家庄学院教师教育学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王茹",
+            "author_addresses": "石家庄学院教师教育学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "房琛",
+            "author_addresses": "石家庄学院教师教育学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "26 ",
+    "期(Issue)": "04",
+    "摘要": " “U-G-I-S-C”教师教育模式能满足教师教育一体化发展、大学和中小学共同利益实现与优势发挥最大化、实现中国式现代化和教育强国建设培养卓越中小学教师的需要。为进一步提高我国教师教育质量，可从以下几方面优化“U-G-I-S-C”教师教育模式运行策略：明晰合作理念和共同利益目标，合作关系从松散走向共生；建立平等协商和高效工作机制，合作效果从单兵作战走向互惠共赢；共同发展教育作为爱的事业，从利益联合走向文化融合；增进技术赋能，促进教师培养从断裂式走向全程浸入式并基于循证的教师教育过程；完善保障机制，汇聚各方组织的巨大合力。",
+    "关键词": [
+        "高质量",
+        "“U-G-I-S-C”",
+        "教师教育模式"
+    ],
+    "基金资助": [
+        "河北省应用技术大学研究会项目“基于‘U-G-I-S-C’联盟的卓越小学全科教师培养模式改革与实践研究”（JY2023065）"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "高等教育",
+    "分类号": "G659.2",
+    "页码": "133-137",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:36:53",
+    "论文唯一代码": "SSZK202404022"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "河北大学生红色书籍阅读状况调查与分析",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2024-07-18",
+    "引用量": "0",
+    "下载量": "218",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "高正方",
+            "author_addresses": "石家庄学院文学与历史学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "马明慧",
+            "author_addresses": "石家庄学院文学与历史学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "汤晓慧",
+            "author_addresses": "石家庄学院文学与历史学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张玉莎",
+            "author_addresses": "石家庄学院文学与历史学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "26 ",
+    "期(Issue)": "04",
+    "摘要": " 红色书籍是宣传弘扬革命精神的重要载体，所蕴含的红色文化内涵具有独特的教化功能。通过调查和分析河北大学生红色书籍的阅读状况，发现部分大学生对红色书籍阅读和了解兴趣弱化、红色书籍宣介推广方式缺乏创新、部分红色书籍装帧设计缺乏吸引力等问题。因此，应从红色书籍的传播方式、装帧设计、阅读方式等方面入手，结合现代科技手段和新媒体资源，实现阅读推广工作形式与内容的双重创新，从而有效推动大学生群体广泛阅读红色书籍。",
+    "关键词": [
+        "河北",
+        "大学生",
+        "红色文化",
+        "红色书籍",
+        "阅读推广"
+    ],
+    "基金资助": [
+        "共青团河北省委青少年发展研究课题“河北青年大学生红色书籍阅读状况研究”（2022HBQN64）"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "高等教育",
+    "分类号": "G641",
+    "页码": "150-153",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:37:03",
+    "论文唯一代码": "SSZK202404025"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "高校人事档案数据安全治理：困境与策略",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2024-07-18",
+    "引用量": "0",
+    "下载量": "147",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李晓芹",
+            "author_addresses": [
+                "石家庄学院人事处"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "26 ",
+    "期(Issue)": "04",
+    "摘要": " 随着信息技术的进步，高校人事档案管理的数据化已成为提升管理效率、保护档案资料、实现资源共享的必然趋势。当前，高校人事档案数据安全治理还面临一些困境，比如治理体系设计理念缺乏生态的价值导向、制度设计缺乏明确的实践标准、技术管理缺乏有针对性的的安全策略体系及人员素质不足以适应数据化要求等。对此，提出了针对化的解决策略，包括引入生态治理理念、完善细化相关制度内容、建立安全技术策略体系及优化用人培养机制。未来新技术环境下，高校应持续关注档案数据化建设和数据治理领域的最新动态和技术趋势，不断完善和优化现有的数据化建设路径，调整数据安全治理策略，以适应新的技术挑战和需求变化。",
+    "关键词": [
+        "人事档案",
+        "档案数据安全",
+        "档案馆",
+        "高校现代化治理"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "高等教育",
+    "分类号": "G647.24",
+    "页码": "154-157",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:37:09",
+    "论文唯一代码": "SSZK202404026"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "聚苯乙烯分子结构及热变性研究",
+    "状态": "正常",
+    "发表期刊": "保定学院学报",
+    "刊发时间": "2024-07-17",
+    "引用量": "4",
+    "下载量": "246",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "于宏伟",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "河北省麻醉药技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "田晨阳",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "刘荣",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "37 ",
+    "期(Issue)": "04",
+    "摘要": " 采用中红外（MIR）光谱（包括：一维MIR光谱及二阶导数MIR光谱）研究聚苯乙烯分子结构.实验发现，聚苯乙烯分子结构红外吸收模式主要包括：ν<sub>C-H</sub>，ν<sub>as CH2</sub>，ν<sub>s CH2</sub>，ν<sub>C=C</sub>,β<sub>C-H</sub>,γ<sub>R=CH2</sub>和γ<sub>C-H</sub>.采用二维MIR光谱进一步研究聚苯乙烯分子热变性.研究发现，聚苯乙烯分子主要官能团(ν<sub>C-H</sub>，ν<sub>as CH2</sub>，ν<sub>s CH2</sub>，ν<sub>C=C</sub>,β<sub>C-H</sub>,γ<sub>R=CH2</sub>和γ<sub>C-H</sub>)热敏感程度及变化快慢顺序都存在着较大的差异性，并对相关机理展开研究，拓展了三级MIR光谱在重要的食品包装及机械材料（聚苯乙烯）分子结构及热变性的研究范围.",
+    "关键词": [
+        "聚苯乙烯",
+        "中红外光谱",
+        "二维中红外光谱",
+        "分子结构",
+        "热变性"
+    ],
+    "基金资助": [
+        "石家庄市麻醉药技术创新中心项目（石科【2019】34号）",
+        "河北省生物制药国际联合中心项目（冀科外函【2022】3号）"
+    ],
+    "专辑": "社会科学Ⅱ辑;工程科技Ⅰ辑",
+    "专题": "化学",
+    "分类号": "O657.33;O631",
+    "页码": "111-119",
+    "页数": "9",
+    "爬取时间": "2025-03-26 06:37:20",
+    "论文唯一代码": "BDSZ202404015"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "聚四氟乙烯无定型相结构中红外光谱研究",
+    "状态": "正常",
+    "发表期刊": "化学推进剂与高分子材料",
+    "刊发时间": "2024-07-16 09:17",
+    "引用量": "1",
+    "下载量": "172",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李雨情",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "柴嘉欣",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "周悦茉",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "关鑫伟",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "常美玲",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "于宏伟",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "yhw0411@163.com"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "22 ",
+    "期(Issue)": "04",
+    "摘要": " 采用3种中红外(MIR)光谱附件(衰减全反射MIR光谱附件、透射MIR光谱附件及漫反射MIR光谱附件)及4种谱图处理技术(一维MIR光谱技术、二阶导数MIR光谱技术、四阶导数MIR光谱技术及去卷积MIR光谱技术)分别开展了聚四氟乙烯无定型相的结构研究。实验发现，3种MIR光谱附件中，采用衰减全反射MIR光谱附件和透射MIR光谱附件可较好地开展聚四氟乙烯无定型相结构研究。4种谱图处理技术中，去卷积MIR光谱技术的谱图分辨能力要优于其他3种。进一步开展了聚四氟乙烯分子无定型相结构半定量研究，推测聚四氟乙烯分子无定型相的质量分数近似为5%。本项研究拓展了MIR光谱在重要的高分子材料(聚四氟乙烯)无定型相结构方面的研究范围，具有重要的应用研究价值。",
+    "关键词": [
+        "中红外光谱",
+        "聚四氟乙烯",
+        "无定型相",
+        "结构"
+    ],
+    "基金资助": [
+        "石家庄市麻醉药技术创新中心项目(2023)",
+        "河北省生物制药国际联合中心项目(2023)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学;有机化工",
+    "分类号": "TQ325.4;O657.33",
+    "页码": "69-74",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:37:50",
+    "论文唯一代码": "HXTJ202404013"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "高职院校教师自我效能感与工作价值观的关系——职业承诺和生命意义感的中介作用",
+    "状态": "正常",
+    "发表期刊": "教育学术月刊",
+    "刊发时间": "2024-07-15",
+    "引用量": "1",
+    "下载量": "1488",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "赵雨荻",
+            "author_addresses": [
+                "上海师范大学心理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "苗培周",
+            "author_addresses": [
+                "石家庄学院教师教育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张军田",
+            "author_addresses": [
+                "河北轨道运输职业技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "07",
+    "摘要": " 本研究采用教师自我效能感量表(TSE)(简版)、教师工作价值观量表（TWVS）、教师职业承诺问卷和生命意义量表中文版（MLQ）对1065名在职高职院校教师进行调查，目的是探讨高职院校教师自我效能感对工作价值观的直接影响，以及职业承诺和生命意义感在影响机制中的中介效应。结果表明：自我效能感可以显著正向预测教师的工作价值观；自我效能感可以分别通过职业承诺和生命意义感的部分中介作用间接影响教师的工作价值观。研究建议，建立筛查和培养机制，提升高职教师自我效能感；建立高职教师关怀机制，提升教师职业承诺；注重高职教师自我成长，提升生命意义感。",
+    "关键词": [
+        "高职院校教师",
+        "自我效能感",
+        "工作价值观",
+        "职业承诺",
+        "生命意义感"
+    ],
+    "基金资助": [
+        "2019年河北省人力资源社会保障研究课题科研合作项目“河北省技工院校产教融合人才培养支持体系研究”（编号：JRSHZ-2019-02075）"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "教育理论与教育管理;职业教育",
+    "分类号": "G443;G715.1",
+    "页码": "66-73",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:38:09",
+    "论文唯一代码": "YANG202407006"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "空间理论视角下传统文化资源的传承创新——基于福州村庙安置的案例研究",
+    "状态": "正常",
+    "发表期刊": "福州大学学报(哲学社会科学版)",
+    "刊发时间": "2024-07-15",
+    "引用量": "0",
+    "下载量": "132",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "姜宏",
+            "author_addresses": [
+                "福建省社会主义学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王立洋",
+            "author_addresses": [
+                "石家庄学院外国语学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王杰",
+            "author_addresses": [
+                "福州大学人文社会科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "38 ",
+    "期(Issue)": "04",
+    "摘要": " 空间是承载民间信仰的容器。在城市化进程中，民间信仰空间面临着被拆迁的命运。福州将拆迁的20余座村庙，通过建设闽俗阁的方式进行集中安置，“各路神灵”比邻而居，在不同维度重构了村庙空间。在物理空间维度，采用私有空间的压缩与公用空间的扩张方式增强其公共性。在社会空间维度，村庙作为纽带连接了村民原有的社会关系，并扩展了更广泛的社会交往。在精神空间维度，村庙从宗教空间转变为民俗空间，村庙信仰文化的扬弃让村庙空间更加包容开放。闽俗阁集中安置的方式在城市中保留了村庙空间，为传统空间的现代转型提供了可资借鉴的路径：利用传统文化资源再造城市公共空间，着眼于协商合作的多元主体共治，多维度着手促进空间的现代转型。",
+    "关键词": [
+        "城市化",
+        "民间信仰",
+        "拆迁安置",
+        "空间重构"
+    ],
+    "基金资助": [
+        "国家社会科学基金青年项目“社会工作参与乡村社会治理共同体建设的路径研究”(21CSH063)"
+    ],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学",
+    "专题": "文化;考古;宗教",
+    "分类号": "K878.6;B933;G127",
+    "页码": "149-155",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:38:24",
+    "论文唯一代码": "FZDS202404017"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "基于PLC和组态王的反应器实验平台设计",
+    "状态": "正常",
+    "发表期刊": "自动化应用",
+    "刊发时间": "2024-07-10",
+    "引用量": "0",
+    "下载量": "90",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "田粒卜",
+            "author_addresses": [
+                "石家庄学院机电学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "汲蕾",
+            "author_addresses": [
+                "国网石家庄供电公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "陈鹏",
+            "author_addresses": [
+                "河北鲲能电力工程咨询有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "65 ",
+    "期(Issue)": "13",
+    "摘要": " 以反应器工业流程为基础，搭建了多参数的反应器实验平台。使用西门子S7-200系列PLC作为控制器，完成了控制程序开发与调试；使用Kingview组态软件完成了监控界面设计。该实验平台为PLC、过程控制以及组态王等相关课程提供了多个实验项目，加深了学生对专业课程的理解及融合运用，更好地提升了学生的综合性实验能力，还满足了学生学科竞赛的需求，有助于新工科的人才培养。",
+    "关键词": [
+        "过程控制",
+        "实验平台",
+        "反应器"
+    ],
+    "基金资助": [
+        "教育部产学合作协同育人项目（202102044003）",
+        "石家庄市高等教育科学研究项目（20230308）",
+        "石家庄学院一流本科课程（YLKC-202120）",
+        "河北省分布式能源应用技术创新中心资助项目（SG20182050）"
+    ],
+    "专辑": "信息科技;工程科技Ⅰ辑",
+    "专题": "有机化工;自动化技术",
+    "分类号": "TP273;TQ052",
+    "页码": "113-116+125",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:38:33",
+    "论文唯一代码": "ZDHT202413029"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "汽油机油分子结构及热变性研究",
+    "状态": "正常",
+    "发表期刊": "西安文理学院学报(自然科学版)",
+    "刊发时间": "2024-07-05",
+    "引用量": "5",
+    "下载量": "58",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "于宏伟",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "河北省麻醉药技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "田晨阳",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李穆婵",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "吉一帆",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "韩一诺",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "吴雨靓",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "27 ",
+    "期(Issue)": "03",
+    "摘要": " 采用中红外（MIR）光谱研究了汽油机油（简称:机油）的分子结构.实验发现,机油分子结构的红外吸收模式主要包括:CH<sub>3</sub>基团不对称伸缩振动模式(v<sub>asCH3-机油</sub>)、CH<sub>3</sub>基团对称伸缩振动模式(v<sub>sCH3-机油</sub>)、CH<sub>2</sub>基团不对称伸缩振动模式(v<sub>asCH2-机油</sub>)、CH<sub>2</sub>基团对称伸缩振动模式(v<sub>sCH2-机油</sub>)、C=O基团伸缩振动模式(v<sub>C=O-机油</sub>)、CH<sub>3</sub>基团对称变角振动模式(δ<sub>sCH3-机油</sub>)、CH<sub>2</sub>基团变角振动模式(δ<sub>CH2-机油</sub>)和CH<sub>2</sub>基团面内摇摆振动模式(ρ<sub>CH2-机油</sub>).进一步开展了机油分子结构变温MIR光谱研究.实验发现:随着测定温度的升高（303～523 K）,机油分子主要官能团对应的红外吸收频率及强度均有明显的改变.最后采用二维MIR光谱进一步开展了机油分子结构热稳定性的研究.本项研究拓展了三级MIR光谱在重要的精细石油化工产品（机油）结构及热变性的研究范围.",
+    "关键词": [
+        "机油",
+        "中红外光谱",
+        "变温中红外光谱",
+        "二维中红外光谱",
+        "结构",
+        "热变性"
+    ],
+    "基金资助": [
+        "石家庄市麻醉药技术创新中心项目(石科【2019】34号)",
+        "河北省生物制药国际联合中心项目(冀科外函【2022】3号)"
+    ],
+    "专辑": "基础科学;工程科技Ⅰ辑",
+    "专题": "化学;燃料化工;石油天然气工业",
+    "分类号": "O657.33;TE626.3",
+    "页码": "76-84",
+    "页数": "9",
+    "爬取时间": "2025-03-26 06:38:51",
+    "论文唯一代码": "XAJY202403011"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "多特征融合方法在马铃薯图像快速检测中的应用",
+    "状态": "正常",
+    "发表期刊": "机械设计与制造",
+    "刊发时间": "2024-07-03 12:47",
+    "引用量": "2",
+    "下载量": "315",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李英辉",
+            "author_addresses": [
+                "石家庄职业技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王晓寰",
+            "author_addresses": [
+                "燕山大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "赵翠俭",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "08",
+    "摘要": " 针对目前马铃薯图像病虫害检测方法识别精度低、效率不高等问题。这里提出了一种主成分分析的特征加权融合自适应算法和改进支持向量机相结合的马铃薯病虫害快速检测方法。主成分分析的特征加权融合自适应算法完成特征块选择、主分量提取、加权和融合。融合后的特征采用决策树的思想，通过改进的支持向量机逐级分类。通过试验进行对比分析。结果表明，与传统的检测方法相比，该方法具有更高的检测精度和更短的执行时间。在病虫害、3类病害和10类虫害的检测准确率分别为98.45%、97.33%和98.00%，运行时间分别为4.81s、3.74s和4.65s。该检测方法为图像病虫害快速检测技术的发展提供了理论方法和依据。",
+    "关键词": [
+        "病虫害检测",
+        "马铃薯图像",
+        "主成分分析",
+        "支持向量机",
+        "快速检测"
+    ],
+    "基金资助": [
+        "国家科学基金面上项目（52077191）"
+    ],
+    "专辑": "工程科技Ⅱ辑;农业科技;信息科技",
+    "专题": "植物保护;计算机软件及计算机应用",
+    "分类号": "TP391.41;S435.32",
+    "页码": "54-58",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:39:04",
+    "论文唯一代码": "JSYZ202408010"
+}

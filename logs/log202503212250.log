@@ -1,0 +1,156 @@
+2025-03-21 22:50:27,017 - make_task_list.py[line:106] - INFO: 任务是school-year-month形
+2025-03-21 22:50:28,107 - make_task_list.py[line:106] - INFO: 任务是school-year-month形
+2025-03-21 22:50:28,115 - crawl.py[line:81] - INFO: downloads\4111010001_北京大学\2022\January文件夹已经建立
+2025-03-21 22:50:28,116 - crawl.py[line:81] - INFO: downloads\4111010001_北京大学\2022\February文件夹已经建立
+2025-03-21 22:50:28,117 - crawl.py[line:81] - INFO: downloads\4111010001_北京大学\2022\March文件夹已经建立
+2025-03-21 22:50:28,117 - crawl.py[line:81] - INFO: downloads\4111010001_北京大学\2022\April文件夹已经建立
+2025-03-21 22:50:28,122 - crawl.py[line:81] - INFO: downloads\4111010001_北京大学\2022\May文件夹已经建立
+2025-03-21 22:50:28,122 - crawl.py[line:81] - INFO: downloads\4111010001_北京大学\2022\June文件夹已经建立
+2025-03-21 22:50:28,123 - crawl.py[line:81] - INFO: downloads\4111010001_北京大学\2022\July文件夹已经建立
+2025-03-21 22:50:28,129 - crawl.py[line:81] - INFO: downloads\4111010001_北京大学\2022\August文件夹已经建立
+2025-03-21 22:50:28,134 - crawl.py[line:81] - INFO: downloads\4111010001_北京大学\2022\September文件夹已经建立
+2025-03-21 22:50:28,226 - crawl.py[line:81] - INFO: downloads\4111010001_北京大学\2022\October文件夹已经建立
+2025-03-21 22:50:36,867 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-21 22:50:38,044 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-21 22:50:38,141 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-21 22:50:38,295 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-21 22:50:38,643 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-21 22:50:38,884 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-21 22:50:38,885 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-21 22:50:39,863 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-21 22:50:39,876 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-21 22:50:40,266 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-21 22:50:44,884 - crawl.py[line:267] - INFO: 992 records found, divided into 20 pages
+2025-03-21 22:50:45,104 - crawl.py[line:267] - INFO: 883 records found, divided into 18 pages
+2025-03-21 22:50:45,777 - crawl.py[line:267] - INFO: 939 records found, divided into 19 pages
+2025-03-21 22:50:45,984 - crawl.py[line:267] - INFO: 1022 records found, divided into 21 pages
+2025-03-21 22:50:46,135 - crawl.py[line:267] - INFO: 802 records found, divided into 17 pages
+2025-03-21 22:50:46,863 - crawl.py[line:267] - INFO: 899 records found, divided into 18 pages
+2025-03-21 22:50:47,003 - crawl.py[line:267] - INFO: 921 records found, divided into 19 pages
+2025-03-21 22:50:47,613 - crawl.py[line:267] - INFO: 856 records found, divided into 18 pages
+2025-03-21 22:50:48,094 - crawl.py[line:267] - INFO: 1042 records found, divided into 21 pages
+2025-03-21 22:50:48,392 - crawl.py[line:267] - INFO: 876 records found, divided into 18 pages
+2025-03-21 22:50:52,296 - common.py[line:135] - ERROR: 检查ZFKL202204003是否已经处理过出错！
+2025-03-21 22:50:53,290 - common.py[line:135] - ERROR: 检查ZGZY202218030是否已经处理过出错！
+2025-03-21 22:50:53,291 - common.py[line:135] - ERROR: 检查JDXK202212007是否已经处理过出错！
+2025-03-21 22:50:53,738 - crawl.py[line:299] - INFO: SHGC202201028已经爬过啦！
+2025-03-21 22:50:53,952 - crawl.py[line:299] - INFO: SHGC202201019已经爬过啦！
+2025-03-21 22:50:54,260 - crawl.py[line:299] - INFO: SHGC202201026已经爬过啦！
+2025-03-21 22:50:54,478 - crawl.py[line:299] - INFO: JYJY202201019已经爬过啦！
+2025-03-21 22:50:54,537 - common.py[line:135] - ERROR: 检查ZGYZ202208001是否已经处理过出错！
+2025-03-21 22:50:54,538 - common.py[line:135] - ERROR: 检查XIXY202204011是否已经处理过出错！
+2025-03-21 22:50:54,599 - common.py[line:135] - ERROR: 检查YYDB202211009是否已经处理过出错！
+2025-03-21 22:50:54,639 - crawl.py[line:299] - INFO: JIYJ202201002已经爬过啦！
+2025-03-21 22:50:54,803 - crawl.py[line:299] - INFO: DMSJ202201004已经爬过啦！
+2025-03-21 22:50:55,026 - crawl.py[line:299] - INFO: MBDH202201010已经爬过啦！
+2025-03-21 22:50:55,132 - common.py[line:135] - ERROR: 检查WYLL202204005是否已经处理过出错！
+2025-03-21 22:50:55,358 - crawl.py[line:299] - INFO: MZBL202202048已经爬过啦！
+2025-03-21 22:50:55,578 - crawl.py[line:299] - INFO: MZBL202202018已经爬过啦！
+2025-03-21 22:50:55,856 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:50:56,022 - common.py[line:135] - ERROR: 检查NXDX202204013是否已经处理过出错！
+2025-03-21 22:50:56,130 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:50:56,606 - common.py[line:135] - ERROR: 检查XYGZ202204001是否已经处理过出错！
+2025-03-21 22:50:56,652 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:50:56,991 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:50:57,481 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:50:57,931 - crawl.py[line:379] - INFO: 论文：(ZFKL202204003) 子页面信息提取完成！
+2025-03-21 22:50:58,041 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:50:58,115 - crawl.py[line:472] - INFO: 论文：(ZFKL202204003) 子页面信息处理全部结束！
+2025-03-21 22:50:58,471 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:50:58,966 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:50:59,336 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:50:59,600 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:50:59,844 - crawl.py[line:604] - INFO: 论文：ZGZY202218030无基金资助！
+2025-03-21 22:50:59,937 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:51:00,384 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:51:00,742 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:51:00,769 - crawl.py[line:379] - INFO: 论文：(ZGZY202218030) 子页面信息提取完成！
+2025-03-21 22:51:00,865 - crawl.py[line:379] - INFO: 论文：(XIXY202204011) 子页面信息提取完成！
+2025-03-21 22:51:00,925 - crawl.py[line:472] - INFO: 论文：(ZGZY202218030) 子页面信息处理全部结束！
+2025-03-21 22:51:00,941 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:51:01,081 - crawl.py[line:472] - INFO: 论文：(XIXY202204011) 子页面信息处理全部结束！
+2025-03-21 22:51:01,389 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:51:01,541 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:51:01,558 - crawl.py[line:379] - INFO: 论文：(WYLL202204005) 子页面信息提取完成！
+2025-03-21 22:51:01,749 - crawl.py[line:472] - INFO: 论文：(WYLL202204005) 子页面信息处理全部结束！
+2025-03-21 22:51:01,810 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:51:02,204 - crawl.py[line:379] - INFO: 论文：(ZGYZ202208001) 子页面信息提取完成！
+2025-03-21 22:51:02,245 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:51:02,339 - crawl.py[line:379] - INFO: 论文：(JDXK202212007) 子页面信息提取完成！
+2025-03-21 22:51:02,480 - crawl.py[line:472] - INFO: 论文：(JDXK202212007) 子页面信息处理全部结束！
+2025-03-21 22:51:02,527 - crawl.py[line:472] - INFO: 论文：(ZGYZ202208001) 子页面信息处理全部结束！
+2025-03-21 22:51:02,546 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:51:02,701 - crawl.py[line:379] - INFO: 论文：(NXDX202204013) 子页面信息提取完成！
+2025-03-21 22:51:02,726 - crawl.py[line:299] - INFO: ZLCY202201017已经爬过啦！
+2025-03-21 22:51:02,821 - crawl.py[line:299] - INFO: QBLL202203003已经爬过啦！
+2025-03-21 22:51:02,821 - crawl.py[line:472] - INFO: 论文：(NXDX202204013) 子页面信息处理全部结束！
+2025-03-21 22:51:02,915 - crawl.py[line:299] - INFO: ZLCY202201005已经爬过啦！
+2025-03-21 22:51:03,113 - crawl.py[line:299] - INFO: GDYB202205004已经爬过啦！
+2025-03-21 22:51:03,318 - crawl.py[line:299] - INFO: HNZX202202014已经爬过啦！
+2025-03-21 22:51:03,520 - crawl.py[line:299] - INFO: TWSZ202206012已经爬过啦！
+2025-03-21 22:51:03,635 - crawl.py[line:299] - INFO: CSGH202201004已经爬过啦！
+2025-03-21 22:51:03,741 - crawl.py[line:299] - INFO: STXZ202208004已经爬过啦！
+2025-03-21 22:51:03,857 - crawl.py[line:299] - INFO: QKYX202208012已经爬过啦！
+2025-03-21 22:51:03,955 - crawl.py[line:299] - INFO: HJGC202208001已经爬过啦！
+2025-03-21 22:51:04,950 - crawl.py[line:299] - INFO: QKYX202208009已经爬过啦！
+2025-03-21 22:51:05,058 - crawl.py[line:299] - INFO: DLKX202201009已经爬过啦！
+2025-03-21 22:51:05,272 - crawl.py[line:592] - INFO: 论文：JJZK202208036无关键词！
+2025-03-21 22:51:05,287 - crawl.py[line:299] - INFO: KXTB202203001已经爬过啦！
+2025-03-21 22:51:05,318 - crawl.py[line:604] - INFO: 论文：JJZK202208036无基金资助！
+2025-03-21 22:51:05,488 - crawl.py[line:299] - INFO: RMLT202202010已经爬过啦！
+2025-03-21 22:51:05,908 - crawl.py[line:299] - INFO: YYPF202201013已经爬过啦！
+2025-03-21 22:51:06,442 - crawl.py[line:299] - INFO: ZLZD202201002已经爬过啦！
+2025-03-21 22:51:06,548 - crawl.py[line:379] - INFO: 论文：(YYDB202211009) 子页面信息提取完成！
+2025-03-21 22:51:06,713 - crawl.py[line:472] - INFO: 论文：(YYDB202211009) 子页面信息处理全部结束！
+2025-03-21 22:51:06,933 - crawl.py[line:299] - INFO: ZLZD202201003已经爬过啦！
+2025-03-21 22:51:07,328 - crawl.py[line:379] - INFO: 论文：(LKGP202204015) 子页面信息提取完成！
+2025-03-21 22:51:07,393 - crawl.py[line:379] - INFO: 论文：(XYGZ202204001) 子页面信息提取完成！
+2025-03-21 22:51:07,404 - crawl.py[line:299] - INFO: ZLZD202201004已经爬过啦！
+2025-03-21 22:51:07,422 - crawl.py[line:472] - INFO: 论文：(LKGP202204015) 子页面信息处理全部结束！
+2025-03-21 22:51:07,549 - crawl.py[line:472] - INFO: 论文：(XYGZ202204001) 子页面信息处理全部结束！
+2025-03-21 22:51:07,672 - crawl.py[line:379] - INFO: 论文：(JJZK202208036) 子页面信息提取完成！
+2025-03-21 22:51:07,790 - crawl.py[line:299] - INFO: ZLZD202201005已经爬过啦！
+2025-03-21 22:51:07,798 - crawl.py[line:472] - INFO: 论文：(JJZK202208036) 子页面信息处理全部结束！
+2025-03-21 22:51:08,018 - crawl.py[line:299] - INFO: ZGWK202202021已经爬过啦！
+2025-03-21 22:51:08,289 - crawl.py[line:299] - INFO: ZGZL202202010已经爬过啦！
+2025-03-21 22:51:08,791 - crawl.py[line:299] - INFO: ZLZD202201008已经爬过啦！
+2025-03-21 22:51:09,140 - crawl.py[line:604] - INFO: 论文：JYJY202207025无基金资助！
+2025-03-21 22:51:10,505 - crawl.py[line:604] - INFO: 论文：QKYX202226013无基金资助！
+2025-03-21 22:51:11,638 - crawl.py[line:379] - INFO: 论文：(ZFKL202206007) 子页面信息提取完成！
+2025-03-21 22:51:11,743 - crawl.py[line:379] - INFO: 论文：(JYJY202207025) 子页面信息提取完成！
+2025-03-21 22:51:11,887 - crawl.py[line:472] - INFO: 论文：(ZFKL202206007) 子页面信息处理全部结束！
+2025-03-21 22:51:11,949 - crawl.py[line:472] - INFO: 论文：(JYJY202207025) 子页面信息处理全部结束！
+2025-03-21 22:51:12,057 - crawl.py[line:379] - INFO: 论文：(QKYX202226013) 子页面信息提取完成！
+2025-03-21 22:51:12,237 - crawl.py[line:472] - INFO: 论文：(QKYX202226013) 子页面信息处理全部结束！
+2025-03-21 22:51:12,691 - crawl.py[line:604] - INFO: 论文：BYDB202204001无基金资助！
+2025-03-21 22:51:13,998 - crawl.py[line:604] - INFO: 论文：BMGC202206001无基金资助！
+2025-03-21 22:51:14,029 - crawl.py[line:379] - INFO: 论文：(BYDB202204001) 子页面信息提取完成！
+2025-03-21 22:51:14,031 - crawl.py[line:604] - INFO: 论文：BYDB202202004无基金资助！
+2025-03-21 22:51:14,522 - crawl.py[line:472] - INFO: 论文：(BYDB202204001) 子页面信息处理全部结束！
+2025-03-21 22:51:15,287 - crawl.py[line:604] - INFO: 论文：CBGJ202208011无基金资助！
+2025-03-21 22:51:15,796 - crawl.py[line:379] - INFO: 论文：(BMGC202206001) 子页面信息提取完成！
+2025-03-21 22:51:16,181 - crawl.py[line:379] - INFO: 论文：(BYDB202202004) 子页面信息提取完成！
+2025-03-21 22:51:16,213 - crawl.py[line:472] - INFO: 论文：(BMGC202206001) 子页面信息处理全部结束！
+2025-03-21 22:51:16,433 - crawl.py[line:472] - INFO: 论文：(BYDB202202004) 子页面信息处理全部结束！
+2025-03-21 22:51:16,792 - crawl.py[line:379] - INFO: 论文：(CBGJ202208011) 子页面信息提取完成！
+2025-03-21 22:51:17,069 - crawl.py[line:379] - INFO: 论文：(WBXB202205007) 子页面信息提取完成！
+2025-03-21 22:51:17,087 - crawl.py[line:472] - INFO: 论文：(CBGJ202208011) 子页面信息处理全部结束！
+2025-03-21 22:51:17,406 - crawl.py[line:472] - INFO: 论文：(WBXB202205007) 子页面信息处理全部结束！
+2025-03-21 22:51:18,891 - crawl.py[line:299] - INFO: ZLZD202201010已经爬过啦！
+2025-03-21 22:51:19,137 - crawl.py[line:299] - INFO: ZLZD202201011已经爬过啦！
+2025-03-21 22:51:19,292 - crawl.py[line:299] - INFO: ZLZD202201015已经爬过啦！
+2025-03-21 22:51:19,564 - crawl.py[line:299] - INFO: ZLZD202201017已经爬过啦！
+2025-03-21 22:51:19,735 - crawl.py[line:299] - INFO: ZLZD202201018已经爬过啦！
+2025-03-21 22:51:20,100 - crawl.py[line:299] - INFO: JPXB202201020已经爬过啦！
+2025-03-21 22:51:20,457 - crawl.py[line:299] - INFO: JPXB202201016已经爬过啦！
+2025-03-21 22:51:20,775 - crawl.py[line:379] - INFO: 论文：(BJDZ202203003) 子页面信息提取完成！
+2025-03-21 22:51:20,788 - crawl.py[line:299] - INFO: YYPF202201017已经爬过啦！
+2025-03-21 22:51:21,058 - crawl.py[line:299] - INFO: YYPF202201023已经爬过啦！
+2025-03-21 22:51:21,281 - crawl.py[line:472] - INFO: 论文：(BJDZ202203003) 子页面信息处理全部结束！
+2025-03-21 22:51:21,407 - crawl.py[line:299] - INFO: YYPF202201026已经爬过啦！
+2025-03-21 22:51:21,887 - crawl.py[line:81] - INFO: downloads\4111010001_北京大学\2022\November文件夹已经建立
+2025-03-21 22:51:21,888 - crawl.py[line:81] - INFO: downloads\4111010001_北京大学\2022\December文件夹已经建立
+2025-03-21 22:51:21,899 - crawl.py[line:81] - INFO: downloads\4111010001_北京大学\2023\January文件夹已经建立
+2025-03-21 22:51:21,901 - crawl.py[line:81] - INFO: downloads\4111010001_北京大学\2023\February文件夹已经建立
+2025-03-21 22:51:21,909 - crawl.py[line:81] - INFO: downloads\4111010001_北京大学\2023\March文件夹已经建立
+2025-03-21 22:51:21,997 - crawl.py[line:81] - INFO: downloads\4111010001_北京大学\2023\April文件夹已经建立

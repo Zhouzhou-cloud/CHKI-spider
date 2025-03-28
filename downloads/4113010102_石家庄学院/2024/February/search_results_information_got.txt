@@ -1,0 +1,1263 @@
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "归脾汤对慢性心肌缺血大鼠氧化应激和凋亡作用的研究",
+    "状态": "正常",
+    "发表期刊": "河北中医药学报",
+    "刊发时间": "2024-02-29",
+    "引用量": "2",
+    "下载量": "418",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "吴江立",
+            "author_addresses": [
+                "河北中医药大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "贾玉涛",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "代成",
+            "author_addresses": [
+                "河北中医药大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "周伟伟",
+            "author_addresses": [
+                "河北中医药大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "李爱英",
+            "author_addresses": [
+                "河北中医药大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "39 ",
+    "期(Issue)": "01",
+    "摘要": " 目的：观察归脾汤对慢性心肌缺血大鼠氧化应激和凋亡的影响。方法：40只SD大鼠分为4组：正常对照组、模型组、归脾汤低剂量组、归脾汤高剂量组。除对照组外，其余各组经高脂饲料喂养和腹腔注射异丙肾上腺素建立慢性心肌缺血大鼠模型。归脾汤给药15 d后，苏木精-伊红(HE)染色观察心脏病理学形态变化，ELISA法检测心脏组织超氧化物歧化酶(SOD)、丙二醛(MDA)、过氧化氢酶(CAT)和谷胱甘肽过氧化物酶(GSH-Px)水平，免疫组化检测活化的半胱天冬酶-3(Cleaved caspase-3)、BCL-Associated X(Bax)和B淋巴细胞瘤-2(Bcl-2)的表达。结果：HE染色结果显示，与对照组相比，模型组大鼠心肌组织排列紊乱，伴炎性细胞浸润，心肌坏死。与模型组相比，归脾汤低、高剂量组大鼠心肌组织受损程度减轻。与对照组相比，模型组大鼠心脏中SOD和GSH-Px含量下降(P&lt;0.05),CAT水平下降不显著(P&gt;0.05),MDA含量升高(P&lt;0.05)。与模型组相比，低、高剂量归脾汤组大鼠心脏中SOD和GSH-Px水平升高(P&lt;0.05),MDA水平降低(P&lt;0.05),低剂量归脾汤组大鼠心脏中CAT水平升高(P&lt;0.05)。免疫组化染色结果显示与正常组大鼠相比，模型组大鼠心肌组织中Cleaved caspase-3和Bax表达增多(P&lt;0.05)、Bcl-2表达降低(P&lt;0.05),与模型组相比，低、高剂量归脾汤组大鼠心脏中Cleaved caspase-3和Bax的表达降低(P&lt;0.05),Bcl-2表达增高(P&lt;0.05)。结论：归脾汤可以减轻心肌缺血损伤，保护心肌，其机制可能与抑制氧化应激、降低细胞凋亡有关。",
+    "关键词": [
+        "归脾汤",
+        "冠心病",
+        "氧化应激",
+        "凋亡"
+    ],
+    "基金资助": [
+        "河北省中医药管理局资助项目：No.2022088",
+        "石家庄学院博士科研启动基金项目：No.22BS007"
+    ],
+    "专辑": "医药卫生科技",
+    "专题": "中药学",
+    "分类号": "R285.5",
+    "页码": "1-3+13",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:31:17",
+    "论文唯一代码": "HZYX202401001"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "高等院校“时代新人”培育策略探析——基于“三个务必”的引领",
+    "状态": "正常",
+    "发表期刊": "石家庄职业技术学院学报",
+    "刊发时间": "2024-02-28",
+    "引用量": "0",
+    "下载量": "120",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张靖怡",
+            "author_addresses": [
+                "石家庄学院文学与历史学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "夏青",
+            "author_addresses": [
+                "石家庄装备制造学校办公室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "罗永忠",
+            "author_addresses": [
+                "石家庄学院文学与历史学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "36 ",
+    "期(Issue)": "01",
+    "摘要": " 高等院校要努力培养时代新人，落实“立德树人”根本任务。“三个务必”重要论断对于培养新时代社会主义建设者和接班人具有重要价值。在思想引领、品格塑造和行动激励等方面，基于“三个务必”培育“时代新人”,以思想为引领，筑牢“时代新人”精神之魂；打造高素质教师队伍，发挥教师的关键作用；营造浓厚的校园文化育人氛围；推进实践载体建设，助力“时代新人”健康成长。",
+    "关键词": [
+        "高等院校",
+        "“时代新人”",
+        "立德树人",
+        "“三个务必”"
+    ],
+    "基金资助": [
+        "石家庄市社科专家培养项目(2023zjpy63)"
+    ],
+    "专辑": "社会科学Ⅱ辑;社会科学Ⅰ辑",
+    "专题": "中国共产党;高等教育",
+    "分类号": "D261;G641",
+    "页码": "61-65",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:31:19",
+    "论文唯一代码": "SJZB202401012"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "阿瑞匹坦乳液氢键作用近红外光谱研究",
+    "状态": "正常",
+    "发表期刊": "煤炭与化工",
+    "刊发时间": "2024-02-26",
+    "引用量": "0",
+    "下载量": "138",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王春润",
+            "author_addresses": [
+                "河北科技大学化学与制药工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "雷晓静",
+            "author_addresses": [
+                "河北科技大学化学与制药工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李泽腾",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "周子轩",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "常美玲",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "张勇",
+            "author_addresses": [
+                "河北科技大学化学与制药工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "常明",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "河北省麻醉药技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "王丽欣",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "47 ",
+    "期(Issue)": "02",
+    "摘要": " 为了研究阿瑞匹坦乳液的稳定性开展了阿瑞匹坦乳液氢键作用研究。分别研究不同浓度阿瑞匹坦乳液（包括：供试品溶液1、供试品溶液2、供试品溶液3、供试品溶液4和供试品溶液5）的近红外（NIR）光谱。结果表明，阿瑞匹坦乳液近红外光谱红外吸收模式主要包括：ν<sub>阿瑞匹坦乳液</sub>-1-NIR (9 000～6 000 cm<sup>-1</sup>)和ν<sub>阿瑞匹坦乳液</sub>-2-NIR (6 000～4 000 cm<sup>-1</sup>)，氯化钠会破坏水分子间的氢键作用（供试品溶液1和供试品溶液2），而阿瑞匹坦乳液会进一步加强水分子间的氢键作用（供试品溶液3、供试品溶液4和供试品溶液5），而之间也存在着一个巧妙的平衡。",
+    "关键词": [
+        "氯化钠",
+        "阿瑞匹坦",
+        "注射用乳液",
+        "氢键作用",
+        "近红外光谱",
+        "稳定性"
+    ],
+    "基金资助": [
+        "河北科技大学大学生创新创业孵化项目（2023A015）",
+        "石家庄市麻醉药技术创新中心项目（2023）",
+        "河北省生物制药国际联合中心项目（2023）"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学;有机化工",
+    "分类号": "O657.33;TQ460.72",
+    "页码": "149-156",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:31:22",
+    "论文唯一代码": "HHGZ202402033"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "数字孪生村落：传统村落全要素智慧化营建新范式",
+    "状态": "正常",
+    "发表期刊": "西安建筑科技大学学报(社会科学版)",
+    "刊发时间": "2024-02-25",
+    "引用量": "2",
+    "下载量": "384",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "冯晓刚",
+            "author_addresses": [
+                "西安建筑科技大学建筑学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "宋昆仑",
+            "author_addresses": [
+                "石家庄学院资源与环境科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "马启云",
+            "author_addresses": [
+                "黄南州住房和城乡建设局"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "李萌",
+            "author_addresses": [
+                "西安建筑科技大学建筑学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "周在辉",
+            "author_addresses": [
+                "西安建筑科技大学建筑学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "李凤霞",
+            "author_addresses": [
+                "西安建筑科技大学建筑学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "01",
+    "摘要": " 工业与生态文明对传统农耕文明的不断侵蚀，导致了传统农耕文明的不断消亡。为了实现对传统村落全方位要素的保护目标，以数字孪生技术为驱动内核，就传统村落全要素保护的内涵与外延、体系架构、建设路径及关键技术等展开讨论。结果表明，数字孪生村落的全要素智慧营建是一项复杂的系统性工程，需要从顶层设计、标准体系、建设路径与示范应用四个维度进行深化研究；新型测绘耦合数字孪生技术为传统村落的全要素智慧化管控与运维奠定了数据与技术基础，结合实际保护需求与建设目标的“二阶段”体系划分，以期为传统村落的产学研用一体化保护、协同发展与综合利用提供方法借鉴。",
+    "关键词": [
+        "传统村落",
+        "数字孪生",
+        "全要素",
+        "智慧营建",
+        "范式"
+    ],
+    "基金资助": [
+        "陕西省社会科学基金年度项目“乡村振兴驱动的传统村落数字记忆建构研究”(2023F013)",
+        "黄南州城乡与住房建设局课题“黄南州2020年国家传统村落集中连片保护利用示范州测绘建档项目”(20210543)"
+    ],
+    "专辑": "社会科学Ⅱ辑;工程科技Ⅱ辑;信息科技",
+    "专题": "建筑科学与工程;计算机软件及计算机应用",
+    "分类号": "TP399;TU982.29",
+    "页码": "39-45",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:31:25",
+    "论文唯一代码": "XJZS202401006"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "物联网环境下光纤通信网络总线链路丢包率推断",
+    "状态": "正常",
+    "发表期刊": "激光杂志",
+    "刊发时间": "2024-02-25",
+    "引用量": "0",
+    "下载量": "109",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "祁瑞丽",
+            "author_addresses": [
+                "石家庄学院计算机科学与工程学院",
+                "河北省物联网智能感知与应用技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "冯玖",
+            "author_addresses": [
+                "石家庄学院计算机科学与工程学院",
+                "河北省物联网智能感知与应用技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "孟军英",
+            "author_addresses": [
+                "石家庄学院计算机科学与工程学院",
+                "河北省物联网智能感知与应用技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "45 ",
+    "期(Issue)": "02",
+    "摘要": " 光纤通信网络总线链路在应用过程中容易受到带宽限制，导致光纤通信网络链路丢包率检测精度差、推断效率低，不能满足用户数据传输需求。为此，提出物联网环境下光纤通信网络总线链路丢包率推断方法。根据光纤通信网络路由矩阵，获取物联网环境下光纤网络的通信状态，依据时序分析策略检测网络总线链路数据传输中的薄弱环节，分析不同时段间变量的关联性，建立线性回归模型，计算下个时段预测值，获取总线链路传输状态。计算每条线路的时空关联性，结合背景流量，采用最小二乘法推断链路丢包率。实验结果表明，所提方法的故障识别率高于95%,误差因子与相对误差在0.2和0.02以下，推断耗时低于2 ms,为光纤通信网络的数据传输提供参考。",
+    "关键词": [
+        "物联网环境",
+        "光纤通信网络",
+        "链路丢包率推断",
+        "时序分析",
+        "时空关联性"
+    ],
+    "基金资助": [
+        "河北省教育厅高等学校科学研究项目(No.ZD20132013)",
+        "石家庄市科学技术研究与发展计划项目(No.211790711)",
+        "石家庄市高等教育科学研究项目(No.20220328)"
+    ],
+    "专辑": "信息科技",
+    "专题": "电信技术",
+    "分类号": "TN929.11",
+    "页码": "169-173",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:31:27",
+    "论文唯一代码": "JGZZ202402029"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "原位漫反射中红外光谱在氢氧化钠杂质分析的应用",
+    "状态": "正常",
+    "发表期刊": "上海计量测试",
+    "刊发时间": "2024-02-25",
+    "引用量": "3",
+    "下载量": "126",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张美环",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李雨情",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "宗鹤宸",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王静伟",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "宗雪晴",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "于宏伟",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "51 ",
+    "期(Issue)": "01",
+    "摘要": " 对原位漫反射中红外光谱开展了氢氧化钠杂质研究。实验发现：氢氧化钠杂质主要包括：少量碳酸钠和水。碳酸钠分子主要的红外吸收模式包括：C=O基团伸缩振动模式(ν<sub>C=O-Na<sub>2</sub>CO<sub>3</sub></sub>)和CO<sub>3</sub>基团面内弯曲振动模式(β<sub>CO<sub>3</sub>-Na<sub>2</sub>CO<sub>3</sub></sub>)的合频峰(ν<sub>C=O-Na<sub>2</sub>CO<sub>3</sub></sub>+β<sub>CO<sub>3</sub>-Na<sub>2</sub>CO<sub>3</sub></sub>);C=O基团伸缩振动模式(ν<sub>C=O-Na<sub>2</sub>CO<sub>3</sub></sub>);CO<sub>3</sub>基团不对称伸缩振动模式(ν<sub>asCO<sub>3</sub>-Na<sub>2</sub>CO<sub>3</sub></sub>);CO<sub>3</sub>基团对称伸缩振动模式(ν<sub>sCO<sub>3</sub>-Na<sub>2</sub>CO<sub>3</sub></sub>);CO<sub>3</sub>基团面外弯曲振动模式(r<sub>CO<sub>3</sub>-Na<sub>2</sub>CO<sub>3</sub></sub>)及CO<sub>3</sub>基团面内弯曲振动模式(β<sub>CO<sub>3</sub>-Na<sub>2</sub>CO<sub>3</sub></sub>)；水分子主要的红外吸收模式包括：OH基团伸缩振动模式(ν<sub>OH-H<sub>2</sub>O</sub>)。原位漫反射中红外光谱在氢氧化钠杂质分析领域，具有重要的应用研究价值。",
+    "关键词": [
+        "原位漫反射中红外光谱",
+        "杂质",
+        "氢氧化钠",
+        "碳酸钠",
+        "水"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑;工程科技Ⅰ辑",
+    "专题": "化学;无机化工",
+    "分类号": "O657.33;TQ131.12",
+    "页码": "28-32+36",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:31:29",
+    "论文唯一代码": "SJLC202401010"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "驴消化道3种线虫的扫描电镜观察及其系统发育分析",
+    "状态": "正常",
+    "发表期刊": "中国兽医杂志",
+    "刊发时间": "2024-02-22",
+    "引用量": "0",
+    "下载量": "205",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "菅蕊",
+            "author_addresses": [
+                "承德医学院基础医学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张文娜",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张东红",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "解立斌",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "宋素洁",
+            "author_addresses": [
+                "河北资源环境职业技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "冯笑颜",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "剧慧栋",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "河北省疑难细菌研究重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "juhuidong615@163.com"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "60 ",
+    "期(Issue)": "02",
+    "摘要": " 为深入研究采集到的驴消化道3种寄生线虫的体表形态及其系统发育关系，本试验利用扫描电子显微镜技术首次对寄生于驴消化道内的马圆形线虫[Strongylus equinus(Mueller, 1780)]、无齿圆形线虫[Strongylus edentatus(Looss, 1900)]和杯状彼得洛夫线虫[Petrovinema poculatum(Looss, 1900)]的体表形态进行详细观察和描述。提取线虫核糖体DNA内转录间隔区(ITS)基因，对其进行系统发育分析，建立系统发育树。扫描电子显微镜观察结果显示，马圆形线虫有内叶冠80枚，外叶冠180枚，雄虫生殖锥具有2对指状突起，一长一短；无齿圆形线虫有外叶冠80枚，雄虫尾部生殖锥较长，具有2对附属物，分别为乳头状和细长状；杯状彼得洛夫线虫外叶冠呈刺状，32枚，雄虫尾部具有1对小囊状附属物。系统发育分析结果显示，上述3种线虫形态学鉴定结果与系统发育树中该种的分类学地位一致。本试验结果为上述3种线虫的分类鉴定提供更精确的形态和分子生物学依据。",
+    "关键词": [
+        "驴",
+        "马圆形线虫",
+        "无齿圆形线虫",
+        "杯状彼得洛夫线虫",
+        "扫描电子显微镜"
+    ],
+    "基金资助": [
+        "河北省自然科学基金面上项目(C2022106002)",
+        "石家庄学院博士科研启动基金(21BS006)",
+        "承德医学院高层次人才启动资金(201807)"
+    ],
+    "专辑": "农业科技",
+    "专题": "畜牧与动物医学",
+    "分类号": "S858.22",
+    "页码": "65-72",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:31:32",
+    "论文唯一代码": "ZSYZ202402010"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "基于多器官特征融合的枣品种识别方法",
+    "状态": "正常",
+    "发表期刊": "农业机械学报",
+    "刊发时间": "2024-02-20 16:23",
+    "引用量": "4",
+    "下载量": "389",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "许楠",
+            "author_addresses": [
+                "河北农业大学信息科学与技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "苑迎春",
+            "author_addresses": [
+                "河北农业大学信息科学与技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "nd_hd_yyc@163.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "雷浩",
+            "author_addresses": [
+                "河北农业大学信息科学与技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "孟惜",
+            "author_addresses": [
+                "石家庄学院未来信息技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "何振学",
+            "author_addresses": [
+                "河北农业大学信息科学与技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "55 ",
+    "期(Issue)": "04",
+    "摘要": " 针对自然场景下的枣品种识别问题，以枣果为研究对象的机器视觉技术已成为枣品种精准识别的主流方法之一。针对枣品种存在类间差异小、类内差异大的问题，提出了一种基于多器官特征融合的枣品种识别方法。首先利用YOLO v3检测算法将采集的自然场景图像中的枣果和叶片器官分割提取，提出了基于笛卡尔乘积构建两器官组合对的枣品种多样本数据集，然后基于EfficientNetV2网络模型，设计了能够充分学习两器官特征相关性的融合策略来提升模型性能，引入了逐步迁移训练方式以提升枣品种识别效率。最后，在构建的包含20个枣品种数据集上进行了大量实验，得到97.04%的识别准确率，明显优于现有研究结果，并且在训练时间和收敛速度上，本方法也有一定提升。结果表明该方法能够有效融合枣品种枣果和叶片器官的特征信息，可为其他品种识别研究提供参考。",
+    "关键词": [
+        "枣品种识别",
+        "笛卡尔乘积",
+        "特征融合",
+        "迁移学习",
+        "YOLO v3"
+    ],
+    "基金资助": [
+        "国家自然科学基金项目(62102130)",
+        "河北省自然科学基金项目(F2020204003)"
+    ],
+    "专辑": "农业科技;信息科技",
+    "专题": "园艺;计算机软件及计算机应用",
+    "分类号": "TP391.41;S665.1",
+    "页码": "213-220+240",
+    "页数": "9",
+    "爬取时间": "2025-03-26 06:31:34",
+    "论文唯一代码": "NYJX202404021"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "欧洲研究区跨区域协同创新治理举措及启示",
+    "状态": "正常",
+    "发表期刊": "科技管理研究",
+    "刊发时间": "2024-02-20",
+    "引用量": "0",
+    "下载量": "338",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘慧",
+            "author_addresses": [
+                "石家庄学院经济管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "金·范德波特",
+            "author_addresses": [
+                "布鲁塞尔自由大学法律与犯罪学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "44 ",
+    "期(Issue)": "04",
+    "摘要": " 协同创新共同体建设遇到的最大困难是跨区域协同治理问题，可以说治理机制是否有效直接决定跨区域协同创新效果。建设欧洲研究区是欧盟促进其成员国间跨区域协同创新的重要举措，目标是整合成员国创新资源和力量以提升欧盟整体创新竞争力。欧盟成员国创新能力不平衡，为实现各国有效跨区域协同治理，欧盟搭建了欧盟及其成员国和地区多层治理下的共同治理框架，通过设立欧洲研究区咨询建议机构、注重决策的民主化形成政策咨询建议机制，通过编制《欧洲研究区发展报告》《欧洲研究区发展路线图》和纳入“欧洲学期”构建监督机制，并开发基金工具、项目工具和各种对话机制等治理工具，在成员国间建立创新伙伴关系，推进各国创新资源、项目和政策的协同，提升欧盟治理能力、改善欧盟创新系统失灵问题。欧洲研究区加强创新能力发展不平衡地区间协同创新治理方面的经验对中国跨区域协同创新共同体建设，在加强不同层级主体共同治理、形成有效咨询建议机制、设计多种互补治理工具等方面带来有益启示。",
+    "关键词": [
+        "欧洲研究区",
+        "创新治理",
+        "创新系统",
+        "咨询建议机制",
+        "监督机制",
+        "治理工具",
+        "协同创新",
+        "创新共同体"
+    ],
+    "基金资助": [
+        "河北省“三三三人才工程”项目“河北省谷子产业集群创新价值链建设研究”（C20221181）",
+        "石家庄市社科专家培养项目“京津冀协同背景下石家庄市数字经济发展对策研究”（2023zjpy74）"
+    ],
+    "专辑": "基础科学;经济与管理科学",
+    "专题": "经济体制改革",
+    "分类号": "F113.2",
+    "页码": "159-166",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:31:37",
+    "论文唯一代码": "KJGL202404018"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "高效液相色谱-蒸发光散射检测法测定戊二胺的成分含量",
+    "状态": "正常",
+    "发表期刊": "广东化工",
+    "刊发时间": "2024-02-15",
+    "引用量": "0",
+    "下载量": "228",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "杨梦茜",
+            "author_addresses": [
+                "美邦美和生物科技有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "穆玉敏",
+            "author_addresses": [
+                "美邦美和生物科技有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张浩月",
+            "author_addresses": [
+                "美邦美和生物科技有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "刘丽荣",
+            "author_addresses": [
+                "美邦美和生物科技有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "翟宇杰",
+            "author_addresses": [
+                "美邦美和生物科技有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "任丽梅",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "石家庄学院河北省高校微生物制药应用技术研发中心",
+                "石家庄学院河北省生物制药国际联合研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "51 ",
+    "期(Issue)": "03",
+    "摘要": " 利用反向液相色谱串联蒸发光检测器开发建立了一种新的检测戊二胺分析方法。蒸发光检测器通用性好，克服了戊二胺无紫外及可见光吸收特性所带来的的缺点。采用依利特C18色谱柱分离，甲醇-水进行洗脱，蒸发光检测器进行检测，以外标法定量。通过此方法，在10 min内可以实现戊二胺及其原料L-赖氨酸的分离与含量测定。此两种物质的分离度可达到2以上，戊二胺的线性范围(94.5～1890)μg/mL,L-赖氨酸的线性范围(95～1890)μg/mL，相关系数(r)为0.9992～0.9999，线性关系良好，3个不同浓度水平的加标实验表明，戊二胺的回收率为97.05%～100.16%,RSD值为0.42%～1.46%。此方法操作简单，灵敏度高准确性好，测试效率高，适用于生物合成戊二胺及尼龙56等过程中的分析检测。",
+    "关键词": [
+        "戊二胺",
+        "生物合成",
+        "蒸发光散射",
+        "外标法",
+        "尼龙56"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学;有机化工",
+    "分类号": "O657.72;TQ226",
+    "页码": "143-145+153",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:31:39",
+    "论文唯一代码": "GDHG202403057"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "义务教育阶段语文教材儒家文献选编研究",
+    "状态": "正常",
+    "发表期刊": "延安职业技术学院学报",
+    "刊发时间": "2024-02-15",
+    "引用量": "0",
+    "下载量": "118",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王峥",
+            "author_addresses": [
+                "石家庄学院文学与历史学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "邢晓",
+            "author_addresses": [
+                "石家庄学院文学与历史学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李丽姣",
+            "author_addresses": [
+                "石家庄市盛世长安小学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "38 ",
+    "期(Issue)": "01",
+    "摘要": " 义务教育阶段语文教材编选的大量儒家文献可分为“儒家经典”相关篇目和其他涉及儒家思想的文章两类。从编选规律看，编写者对儒家文献的教学要求较高，尤其突出“守信”“修养君子人格”“勤学”等思想，同时在“爱国”“民本”两方面有意与红色文化结合。这样的选编规律透露出编写者希望借由儒家文献引导青少年形成正确的道德观和人生价值观，并在爱国主义方面实现道德、家国和红色文化贯通的多重教育意义。教师应对儒家文献形成整体教学意识，深刻体会儒家思想与红色文化的关系，还要在系统勾画的基础上采用“创设现实情境”的方法实施教学。",
+    "关键词": [
+        "义务教育",
+        "语文教材",
+        "儒家",
+        "选编",
+        "教学"
+    ],
+    "基金资助": [
+        "石家庄市教育科学“十四五”年度规划课题“‘双减’背景下义务教育阶段语文教材儒家经典选编特点及教学策略研究”（2021107）",
+        "河北省高等学校人文社会科学研究青年拔尖人才项目“‘七十子’辞令研究”（BJS2022030）"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "中等教育",
+    "分类号": "G633.3",
+    "页码": "38-44",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:31:41",
+    "论文唯一代码": "YAXB202401008"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "石蜡油中杂质结构中红外光谱研究",
+    "状态": "正常",
+    "发表期刊": "炼油与化工",
+    "刊发时间": "2024-02-15",
+    "引用量": "7",
+    "下载量": "166",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "吴雨靓",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李穆婵",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "田晨阳",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王宁",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "赵心怡",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "于宏伟",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "河北省麻醉药技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "35 ",
+    "期(Issue)": "01",
+    "摘要": " 采用中红外（MIR）光谱技术开展了石蜡油及其杂质的结构研究。实验发现：石蜡油结构红外吸收模式主要包括：CH<sub>3</sub>基团不对称伸缩振动模式(ν<sub>as CH3-石蜡油</sub>)、CH<sub>3</sub>基团对称伸缩振动模式(ν<sub>s CH3-石蜡油</sub>)、CH<sub>2</sub>基团不对称伸缩振动模式(ν<sub>as CH2-石蜡油</sub>)、CH<sub>2</sub>基团对称伸缩振动模式(ν<sub>s CH2-石蜡油</sub>)、CH<sub>2</sub>基团弯曲振动模式(δ<sub>CH2-石蜡油</sub>)、CH<sub>3</sub>基团不对称弯曲振动模式(δ<sub>as CH3-石蜡油</sub>)、CH<sub>3</sub>基团对称弯曲振动模式(δ<sub>s CH3-石蜡油</sub>)、CH<sub>2</sub>基团面内摇摆振动模式(ρ<sub>CH2-石蜡油</sub>)。石蜡油中杂质结构红外吸收模式主要包括：水分子伸缩振动模式(ν<sub>H2O-杂质-水</sub>)、芳基基团C-H伸缩振动模式(ν<sub>C-H-杂质-芳基</sub>)、羰基基团C=O伸缩振动模式(ν<sub>C=O-杂质-羰基</sub>)、水分子弯曲振动模式(δ<sub>H2O-杂质-水</sub>)、芳基基团C=C伸缩振动模式(ν<sub>C=C-杂质-芳基</sub>)、酰胺基团第Ⅰ特征红外吸收谱带(ν<sub>amideⅠ-杂质-酰胺</sub>)和酰胺基团第Ⅱ特征红外吸收谱带(ν<sub>amideⅡ-杂质-酰胺</sub>)。石蜡油杂质结构主要包括：芳基化合物、羰基化合物、酰胺化合物及水。MIR光谱初步开展了石蜡油及其杂质结构定性研究，具有重要的应用研究价值。",
+    "关键词": [
+        "中红外光谱",
+        "石蜡油",
+        "结构",
+        "杂质"
+    ],
+    "基金资助": [
+        "河北省生物制药国际联合中心项目（2023）",
+        "石家庄市麻醉药技术创新中心项目（2023）"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学;燃料化工;石油天然气工业",
+    "分类号": "O657.33;TE626.88",
+    "页码": "14-18",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:31:44",
+    "论文唯一代码": "HLJY202401004"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "基于词嵌入的科研主题排序研究",
+    "状态": "正常",
+    "发表期刊": "北方工业大学学报",
+    "刊发时间": "2024-02-15",
+    "引用量": "0",
+    "下载量": "87",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "何东彬",
+            "author_addresses": [
+                "石家庄学院未来信息技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "陶莎",
+            "author_addresses": [
+                "中国农业大学农业农村部农业信息化标准化重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "任延昭",
+            "author_addresses": [
+                "北京工商大学计算机与信息工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "朱艳红",
+            "author_addresses": [
+                "石家庄邮电职业技术学院计算机系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "385741540@qq.com"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "36 ",
+    "期(Issue)": "01",
+    "摘要": " 为准确把握科研领域内文献主题的发展变化，常利用隐式语义特征提取科研主题分布。但由于主题挖掘技术本身的限制，并非所有主题都具有同等重要性或意义。有些主题可能包含太多背景词，信息空泛，或者主题词之间缺乏连贯性，导致主题缺乏实际意义。针对上述问题，在已有研究基础上，基于词嵌入，提出一种新的多维度评估主题质量算法；针对科研文档的特点，利用语料库的统计特征对无意义主题距离评估方法进行优化，并最终将二者融合到一个统一的主题排序框架中。实验结果表明，本文提出的方法可以有效提高主题排序整体效果，能够识别出非重要和质量差的主题，主题排序的整体效果优于现有方法。",
+    "关键词": [
+        "主题模型",
+        "潜在狄利克雷分配(LDA)",
+        "主题排序",
+        "科研主题",
+        "词嵌入"
+    ],
+    "基金资助": [
+        "河北省重点研发计划项目(22320301D)",
+        "河北省农业科技成果转化项目(V1672275144902)",
+        "北京市科技计划课题项目(221100007122003)",
+        "石家庄学院博士科研启动基金项目(23BS018)"
+    ],
+    "专辑": "工程科技Ⅱ辑;信息科技",
+    "专题": "计算机软件及计算机应用",
+    "分类号": "TP391.1",
+    "页码": "136-149",
+    "页数": "14",
+    "爬取时间": "2025-03-26 06:31:46",
+    "论文唯一代码": "BFGY202401016"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "地方高校图书馆参与社区公共文化服务影响因素及对策研究",
+    "状态": "正常",
+    "发表期刊": "教育教学论坛",
+    "刊发时间": "2024-02-14",
+    "引用量": "2",
+    "下载量": "167",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王现忠",
+            "author_addresses": [
+                "石家庄学院图书馆"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "07",
+    "摘要": " 研究地方高校图书馆参与社区公共文化服务的影响因素与对策，通过文献综述阐明了地方高校图书馆在社区中的角色认知和演变。进一步分析了社区需求与期望、资源与合作伙伴、技术与数字化转型、管理与人才培养等方面的影响因素。强调了这些因素之间的紧密关联，提出需求导向的规划、资源整合与合作创新、技术应用与用户体验提升，以及管理优化与人才培养等对策，为图书馆更好地参与社区公共文化服务提供了有效路径。为地方高校图书馆在社区公共文化服务领域的发展提供了深入的分析和综合的建议。",
+    "关键词": [
+        "地方高校图书馆",
+        "社区公共文化服务",
+        "影响因素",
+        "对策"
+    ],
+    "基金资助": [
+        "2023年度石家庄市社科专家培养项目“共享理念下石家庄市属高校图书馆参与优质公共文化服务的对策研究”（2023zjpy71）"
+    ],
+    "专辑": "社会科学Ⅱ辑;信息科技",
+    "专题": "图书情报与数字图书馆",
+    "分类号": "G252;G258.6",
+    "页码": "33-36",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:31:49",
+    "论文唯一代码": "JYJU202407009"
+}

@@ -1,0 +1,5761 @@
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "丙烯酸乳液改性麦秸纤维及其对水泥基材料性能的影响",
+    "状态": "正常",
+    "发表期刊": "混凝土与水泥制品",
+    "刊发时间": "2023-06-30 12:04",
+    "引用量": "2",
+    "下载量": "169",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "姜德民",
+            "author_addresses": [
+                "北方工业大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "吕树辰",
+            "author_addresses": [
+                "北方工业大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "lsc19961117@163.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "姜迪",
+            "author_addresses": [
+                "北方工业大学建筑与艺术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "徐浩东",
+            "author_addresses": [
+                "北方工业大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "07",
+    "摘要": " 采用3种丙烯酸聚合物乳液（纯丙乳液、苯丙乳液、硅丙乳液）对麦秸纤维进行了改性处理，对比分析了未改性和改性麦秸纤维的吸水率、润湿性、抗拉强度，并进行了微观分析。在此基础上，研究了改性麦秸纤维对水泥基材料力学性能的影响。结果表明：与未改性麦秸纤维相比，3种改性麦秸纤维的吸水率均降低，疏水性和抗拉强度均提高；与纯丙乳液和苯丙乳液改性麦秸纤维相比，硅丙乳液改性麦秸纤维的吸水率最低，疏水性和抗拉强度最高；与未改性麦秸纤维增强水泥基材料相比，3种改性麦秸纤维增强水泥基材料的抗压、抗折强度提高，韧性增强，其中，硅丙乳液改性麦秸纤维对水泥基材料的增强、增韧作用相对最好。",
+    "关键词": [
+        "丙烯酸聚合物乳液",
+        "改性",
+        "麦秸纤维",
+        "水泥基材料",
+        "性能"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑;工程科技Ⅰ辑",
+    "专题": "无机化工;建筑科学与工程",
+    "分类号": "TU528.572",
+    "页码": "51-56",
+    "页数": "6",
+    "爬取时间": "2025-03-26 01:12:34",
+    "论文唯一代码": "HNTW202307008"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "氢能产业政策及商业化模式分析",
+    "状态": "正常",
+    "发表期刊": "发电技术",
+    "刊发时间": "2023-06-30",
+    "引用量": "9",
+    "下载量": "982",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李建林",
+            "author_addresses": [
+                "北京未来电化学储能系统集成技术创新中心(北方工业大学)"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "邵晨曦",
+            "author_addresses": [
+                "北京未来电化学储能系统集成技术创新中心(北方工业大学)"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张则栋",
+            "author_addresses": [
+                "北京未来电化学储能系统集成技术创新中心(北方工业大学)"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "梁忠豪",
+            "author_addresses": [
+                "北京未来电化学储能系统集成技术创新中心(北方工业大学)"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "曾飞",
+            "author_addresses": [
+                "国网江苏省电力有限公司电力科学研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "44 ",
+    "期(Issue)": "03",
+    "摘要": " 氢能是我国新能源体系中重要的组成部分，其市场规模和应用场景也在不断扩大。在国家各类政策的指导下，各省市依据其区域特点在燃料电池汽车等领域发布了相关政策，这在一定程度上加快了氢能迈向商业化的步伐。基于此，针对燃料电池等方面梳理了国家层面以及地方氢能政策，分析了氢能应用领域、各省市未来发展规划的政策要点以及盈利模式。最后，针对目前的氢能商业化进程给出相应的建议，为今后提升氢能效益提供一定的参考。",
+    "关键词": [
+        "氢能",
+        "新能源",
+        "燃料电池",
+        "商业化模式"
+    ],
+    "基金资助": [
+        "国家自然科学基金项目(52277211)",
+        "北方工业大学科研启动基金项目(110051360022XN107-03)~~"
+    ],
+    "专辑": "工程科技Ⅱ辑;经济与管理科学",
+    "专题": "动力工程;新能源;工业经济",
+    "分类号": "TK91;F426.2",
+    "页码": "287-295",
+    "页数": "9",
+    "爬取时间": "2025-03-26 01:12:44",
+    "论文唯一代码": "SLJX202303001"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "“工程估价”课程线上线下混合式教学建设探讨",
+    "状态": "正常",
+    "发表期刊": "科技风",
+    "刊发时间": "2023-06-30",
+    "引用量": "1",
+    "下载量": "92",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "许炳",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "赵孟",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "关明倩",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "18",
+    "摘要": " 线上线下混合模式教学不仅顺应信息时代教学改革发展的潮流，还极大地完善了教学体系与提高教学质量。本文探讨了线上线下混合式教学在“工程估价”课程中的应用，重点研究教学模式存在的问题、线上平台的选择、课程实施和成绩评定等方面，促进“工程估价”课程线上线下混合式教学建设。混合式教学不仅不受时间与空间的局限性，还充分调动学生对学习的自主能力并且提高学生的实践操作能力，进而提升了“工程估价”课程的教学效果。",
+    "关键词": [
+        "线上线下",
+        "工程估价",
+        "教学建设"
+    ],
+    "基金资助": [],
+    "专辑": "基础科学;工程科技Ⅱ辑;社会科学Ⅱ辑",
+    "专题": "建筑科学与工程;高等教育",
+    "分类号": "G642;TU723.3-4",
+    "页码": "127-129",
+    "页数": "3",
+    "爬取时间": "2025-03-26 01:12:54",
+    "论文唯一代码": "KJFT202318043"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "基于联邦学习和深度残差网络的入侵检测",
+    "状态": "正常",
+    "发表期刊": "计算机应用",
+    "刊发时间": "2023-06-30",
+    "引用量": "3",
+    "下载量": "574",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "郑超",
+            "author_addresses": "北方工业大学信息学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "978120437@qq.com"
+        },
+        {
+            "author_order": 2,
+            "author_name": "邬悦婷",
+            "author_addresses": "北方工业大学信息学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "肖珂",
+            "author_addresses": "北方工业大学信息学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "S1",
+    "摘要": " 深度学习被广泛应用到入侵检测领域，但大多数研究的重点是通过改进算法提高入侵检测的准确率，却忽视了在实际应用中单个用户拥有的数据无法满足训练需求的问题。为了实现网络入侵检测模型在训练过程中保护用户隐私安全的同时，仍具有对网络流量数据检测异常的能力，提出一种基于联邦学习并融合深度残差网络（ResNet）和注意力机制的入侵检测模型FL-SEResNet(Federation Learning Squeeze-and-Excitation network ResNet)。在训练过程中，通过对数据压缩、解压、分发、加密和聚合等操作，可以在保护参与者数据隐私的同时，通过多方参与提供足够的训练数据。在NSL-KDD和UNSW-NB15数据集上，所提模型在多分类实验的识别准确率分别为84.22%和80.38%。在NSL-KDD上，与同属于联邦学习的CNN-FL相比，对多分类的识别准确率提升了1.82个百分点，对少数类R2L(Remote to Local)的识别准确率提升了24.94个百分点。",
+    "关键词": [
+        "联邦学习",
+        "多标签学习",
+        "入侵检测",
+        "网络流量检测",
+        "卷积神经网络"
+    ],
+    "基金资助": [],
+    "专辑": "信息科技",
+    "专题": "互联网技术;自动化技术",
+    "分类号": "TP393.08;TP18",
+    "页码": "133-138",
+    "页数": "6",
+    "爬取时间": "2025-03-26 01:13:04",
+    "论文唯一代码": "JSJY2023S1022"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "强风化炭质板岩地层隧道限阻耗能大变形控制技术研究",
+    "状态": "正常",
+    "发表期刊": "中国安全生产科学技术",
+    "刊发时间": "2023-06-30",
+    "引用量": "2",
+    "下载量": "161",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "崔光耀",
+            "author_addresses": [
+                "北方工业大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "克旭",
+            "author_addresses": [
+                "北方工业大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "郭艳军",
+            "author_addresses": [
+                "四川电力设计咨询有限责任公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "魏杭杭",
+            "author_addresses": [
+                "北方工业大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "19 ",
+    "期(Issue)": "06",
+    "摘要": " 为解决高地应力强风化炭质板岩地层隧道大变形技术难题，以某强风化炭质板岩地层隧道大变形处治为研究背景，采用室内试验及数值仿真方法对限阻耗能大变形控制技术进行研究。研究结果表明：反预折纹管结构型式限阻耗能装置承载力与吸能效果均优于其他结构型式装置；将反预折纹管限阻耗能装置施设于钢架后，钢架变形有所减小，隧道衬砌结构整体应力有所降低，安全系数有所增加，监测断面最小安全系数增加15.79%,表明反预折纹管限阻耗能装置可作为高地应力强风化炭质板岩地层隧道大变形环向处治措施。研究结果可为类似工程大变形处治设计提供参考。",
+    "关键词": [
+        "隧道工程",
+        "大变形",
+        "高地应力",
+        "强风化炭质板岩",
+        "限阻耗能"
+    ],
+    "基金资助": [
+        "国家自然科学基金项目(52178378)"
+    ],
+    "专辑": "工程科技Ⅰ辑;工程科技Ⅱ辑",
+    "专题": "公路与水路运输",
+    "分类号": "U457",
+    "页码": "98-104",
+    "页数": "7",
+    "爬取时间": "2025-03-26 01:13:16",
+    "论文唯一代码": "LDBK202306014"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "基于高分辨率网络的地铁人体姿态估计研究",
+    "状态": "正常",
+    "发表期刊": "铁路技术创新",
+    "刊发时间": "2023-06-30",
+    "引用量": "1",
+    "下载量": "118",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘珊珊",
+            "author_addresses": [
+                "北方工业大学信息学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "冯赛楠",
+            "author_addresses": [
+                "北方工业大学信息学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "田青",
+            "author_addresses": [
+                "北方工业大学信息学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "钱付余",
+            "author_addresses": [
+                "交控科技股份有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "豆飞",
+            "author_addresses": [
+                "北京市地铁运营有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "牛志斌",
+            "author_addresses": [
+                "北京市地铁运营有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "03",
+    "摘要": " 目前，人体姿态估计从二维发展到三维，从图像发展到视频，从复杂网络发展到轻量化网络，在不断发展过程中，姿态估计又融合了深度学习的理论，采用卷积神经网络作为模型的主要构建单元，使姿态估计获得更大的发展空间。研究采用高分辨率网络为主干网络，并行处理多个分辨率网络分支，在更深的网络层级中产生高分辨率表征，并通过并行的网络各个层级进行多尺度融合来增强高分辨率表征的语义丰富程度，通过在网络中添加注意力机制模块增强特征提取能力，提高人体姿态估计的准确度。",
+    "关键词": [
+        "人体姿态估计",
+        "高分辨率网络",
+        "注意力机制"
+    ],
+    "基金资助": [
+        "国家重点研发计划项目（2020YFB1600702）"
+    ],
+    "专辑": "工程科技Ⅱ辑;信息科技",
+    "专题": "铁路运输;计算机软件及计算机应用",
+    "分类号": "TP391.41;U29-39",
+    "页码": "70-77",
+    "页数": "8",
+    "爬取时间": "2025-03-26 01:13:30",
+    "论文唯一代码": "TJCX202303012"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "功能化纳米结构SERS基底设计制备及药物检测应用研究进展",
+    "状态": "正常",
+    "发表期刊": "微纳电子技术",
+    "刊发时间": "2023-06-28 15:22",
+    "引用量": "1",
+    "下载量": "238",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "赵玉鹏",
+            "author_addresses": [
+                "北方工业大学信息学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "魏淑华",
+            "author_addresses": [
+                "北方工业大学信息学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张静",
+            "author_addresses": [
+                "北方工业大学信息学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "闫江",
+            "author_addresses": [
+                "北方工业大学信息学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "王艳蓉",
+            "author_addresses": [
+                "北方工业大学信息学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "明安杰",
+            "author_addresses": [
+                "有研工程技术研究院有限公司智能传感器功能材料国家重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "赵永敏",
+            "author_addresses": [
+                "有研工程技术研究院有限公司智能传感器功能材料国家重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "60 ",
+    "期(Issue)": "07",
+    "摘要": " 表面增强Raman散射(SERS)作为一种可提供分子结构信息的振动能谱，可实现分子尺度上物质特异性的高精度检测。在医疗健康领域中，对于药理成分、药物质量的分析监控至关重要，由于表面增强Raman散射传感器具有高灵敏度、快速检测等优点，在药物分析研究中具有广阔应用前景。分析了功能化纳米结构SERS基底的组成和工作原理；介绍了功能材料、纳米结构、增强热点处表面工程的设计和制备方法；总结了SERS基底的设计用于西药用药监测和中药药效分析、质量监控方面的成果；最后对功能化纳米结构表面增强Raman散射传感器目前所面临的挑战和未来的前景进行了分析和展望。",
+    "关键词": [
+        "表面增强Raman散射(SERS)",
+        "活性材料",
+        "纳米结构",
+        "分子修饰",
+        "药物检测"
+    ],
+    "基金资助": [
+        "国家自然科学基金(61874002)",
+        "北方工业大学毓优人才项目"
+    ],
+    "专辑": "信息科技;工程科技Ⅰ辑",
+    "专题": "化学;有机化工;材料科学",
+    "分类号": "O657.37;TB383.1;TQ460.72",
+    "页码": "988-999",
+    "页数": "12",
+    "爬取时间": "2025-03-26 01:13:52",
+    "论文唯一代码": "BDTQ202307002"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "串联蓄电池组均衡电流控制方法研究",
+    "状态": "正常",
+    "发表期刊": "内蒙古电力技术",
+    "刊发时间": "2023-06-28",
+    "引用量": "3",
+    "下载量": "124",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘欣博",
+            "author_addresses": "北方工业大学电气与控制工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "施俊甫",
+            "author_addresses": "北方工业大学电气与控制工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "shijunfu2123@163.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "黄学昊",
+            "author_addresses": "北方工业大学电气与控制工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "41 ",
+    "期(Issue)": "03",
+    "摘要": " 蓄电池储能系统广泛应用于微电网和新能源汽车等领域，在蓄电池组中，单体蓄电池的性能会影响整个电池组的性能，需要均衡控制消除蓄电池间的差异性，保证整个蓄电池组的使用性能。针对以上问题，选择串联蓄电池组进行均衡研究，以荷电状态（State of Charge,SOC）作为均衡依据，选取二阶RC等效电路的电池模型，通过混合脉冲功率特性实验得到电池数据，用Matlab进行参数辨识，根据扩展卡尔曼滤波原理对SOC进行估计。基于Cuk均衡电路，以各蓄电池SOC的方差作为判断条件控制蓄电池组的均衡工作开启。仿真和实验验证了二阶RC等效电路的电池模型合理性和基于扩展卡尔曼滤波估计SOC的准确性，以及基于Cuk均衡电路的均衡电流控制策略的有效性，实现了均衡电流控制。",
+    "关键词": [
+        "均衡电流",
+        "Cuk电路",
+        "定量控制",
+        "SOC估计",
+        "扩展卡尔曼滤波"
+    ],
+    "基金资助": [
+        "北京市教委科技项目“可灵活扩容的交流微网系统稳定运行控制”（KM201910009010）"
+    ],
+    "专辑": "工程科技Ⅱ辑;信息科技",
+    "专题": "电力工业;自动化技术",
+    "分类号": "TM912;TP273",
+    "页码": "26-35",
+    "页数": "10",
+    "爬取时间": "2025-03-26 01:14:04",
+    "论文唯一代码": "NMDJ202303004"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "历史街区空间形态与人群感受数理解析研究",
+    "状态": "正常",
+    "发表期刊": "低温建筑技术",
+    "刊发时间": "2023-06-28",
+    "引用量": "0",
+    "下载量": "122",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "胡国需",
+            "author_addresses": "北方工业大学建筑与艺术学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "靳铭宇",
+            "author_addresses": "北方工业大学建筑与艺术学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "45 ",
+    "期(Issue)": "06",
+    "摘要": " 文中通过在历史街区当中人们的真实直观感受出发，探索描述历史街巷空间形态、建筑体量和建筑保护状况等方面的量化指标，建立描述体系；并且通过SD调查问卷法，量化人们对历史街区的感受，建立评价体系。以北京什刹海历史街区为例，通过得到的数据对其进行现状评价，最后通过SPSS软件进行分析，建立描述体系与评价体系的联系。通过以上步骤建立历史文化街区的参考指标体系，提出相应的整改措施，并为历史文化街区的保护与更新工作提供指导。",
+    "关键词": [
+        "历史街区",
+        "数理解析",
+        "量化",
+        "空间形态"
+    ],
+    "基金资助": [
+        "北京市自然科学基金“基于工业机器人加工的非标准互嵌模块建造设计研究”（8212008）"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU984.114",
+    "页码": "90-95",
+    "页数": "6",
+    "爬取时间": "2025-03-26 01:14:15",
+    "论文唯一代码": "DRAW202306021"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "干涉型光纤传感器相位生成载波技术研究进展",
+    "状态": "正常",
+    "发表期刊": "激光杂志",
+    "刊发时间": "2023-06-27 11:46",
+    "引用量": "2",
+    "下载量": "769",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "袁俊杰",
+            "author_addresses": [
+                "北方工业大学机械与材料工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘喜银",
+            "author_addresses": [
+                "北方工业大学机械与材料工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张萌颖",
+            "author_addresses": [
+                "北方工业大学机械与材料工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "myzhang@ncut.edu.cn"
+        },
+        {
+            "author_order": 4,
+            "author_name": "何广平",
+            "author_addresses": [
+                "北方工业大学机械与材料工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "谭培培",
+            "author_addresses": [
+                "北京市城市照明管理中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "赵全亮",
+            "author_addresses": [
+                "北方工业大学机械与材料工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "44 ",
+    "期(Issue)": "09",
+    "摘要": " 相位生成载波(PGC)技术作为干涉型光纤传感器重要的一种信号解调方法，因其灵敏度高、动态范围大等优点被广泛应用。首先对PGC技术的内调制和外调制两种基本调制方法进行阐述，简要说明了PGC技术解调的常规算法。针对PGC解调方法中出现伴生调幅、调制深度漂移和相位延迟引起信号解调失真的关键问题，分析其原因并概括归纳近年来国内外研究者相关工作的改进方法。对进一步优化光干涉型传感信号的解调方案提供新的思路。",
+    "关键词": [
+        "光纤光学",
+        "光纤传感器",
+        "相位生成载波",
+        "光干涉测量",
+        "相位调制"
+    ],
+    "基金资助": [
+        "国家自然科学基金(No.61801456)",
+        "北京市教委-市自然基金联合资助项目(No.KZ202010009015)",
+        "北方工业大学科研启动基金项目"
+    ],
+    "专辑": "信息科技",
+    "专题": "自动化技术",
+    "分类号": "TP212",
+    "页码": "1-10",
+    "页数": "10",
+    "爬取时间": "2025-03-26 01:14:39",
+    "论文唯一代码": "JGZZ202309001"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "感传算协同工业互联网优化设计",
+    "状态": "正常",
+    "发表期刊": "通信学报",
+    "刊发时间": "2023-06-26 08:52",
+    "引用量": "2",
+    "下载量": "324",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李竟博",
+            "author_addresses": [
+                "北京工业大学信息学部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "马礼",
+            "author_addresses": [
+                "北京工业大学信息学部",
+                "北方工业大学信息学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "mali@ncut.edu.cn"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李阳",
+            "author_addresses": [
+                "北方工业大学信息学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "傅颖勋",
+            "author_addresses": [
+                "北方工业大学信息学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "马东超",
+            "author_addresses": [
+                "北方工业大学信息学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "44 ",
+    "期(Issue)": "06",
+    "摘要": " 针对工业互联网中感知传输端到计算端的新型场景与时间敏感的需求，解决应用中端到端时延不达标的问题，提出了一种感知传输协同计算组网优化设计方案。首先，提出了基于云边端的感传算协同网络架构，促进多维系统和异构资源的深度融合。其次，对网络拓扑构建方式进行优化，降低网络的平均路径长度，缩短传播距离，抵消使用更高频率导致的信号衰弱变快的问题。最后，改进路由选择方法，并设计拓扑优化和路由策略集成算法，降低网络内排队时延，将端到端时延控制在有界范围内，削弱“长尾现象”。实验结果表明，所提方案通过优化网络拓扑结构和路由策略并集成设计，降低了端到端时延，保证了网络的实时性和可靠性。",
+    "关键词": [
+        "工业互联网",
+        "感传算一体化",
+        "拓扑优化",
+        "路由策略"
+    ],
+    "基金资助": [
+        "国家自然科学基金资助项目（No.62272007,No.62001007）",
+        "北京市自然科学基金资助项目（No.4234083,No.4212018）~~"
+    ],
+    "专辑": "信息科技",
+    "专题": "互联网技术",
+    "分类号": "TP393.09",
+    "页码": "12-22",
+    "页数": "11",
+    "爬取时间": "2025-03-26 01:14:59",
+    "论文唯一代码": "TXXB202306002"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "GABAB受体的慢动力学特性对癫痫样放电的影响",
+    "状态": "正常",
+    "发表期刊": "信阳师范学院学报(自然科学版)",
+    "刊发时间": "2023-06-25 08:52",
+    "引用量": "1",
+    "下载量": "47",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王智慧",
+            "author_addresses": [
+                "北方工业大学理学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "36 ",
+    "期(Issue)": "03",
+    "摘要": " 利用单向流动的双室皮质丘脑平均场模型，以丘脑网状核向中继核的抑制性投射以及投射产生的时滞为病理因素，探究丘脑网状核GABA<sub>B</sub>受体的慢动力学对癫痫发作的影响。一方面，改变丘脑网状核向中继核的抑制性耦合强度，当时滞足够大时，室I和室II均产生棘慢波及2-棘慢波放电状态，室I动力学状态种类更多，室II的癫痫样放电区域更少。另一方面，通过探究以上两个病理因素的状态分析，发现时滞与癫痫样放电关联性更强，且当时滞足够大时，无论在室I还是室II中，均更容易诱导棘慢波及多棘慢波放电状态。",
+    "关键词": [
+        "丘脑网状核",
+        "平均场模型",
+        "棘慢波放电",
+        "2-棘慢波放电"
+    ],
+    "基金资助": [
+        "国家自然科学基金项目(12002001)"
+    ],
+    "专辑": "基础科学;医药卫生科技",
+    "专题": "神经病学",
+    "分类号": "R742.1",
+    "页码": "408-414",
+    "页数": "7",
+    "爬取时间": "2025-03-26 01:15:09",
+    "论文唯一代码": "XYSK202303011"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "大数据视域下高校校友档案建设研究",
+    "状态": "正常",
+    "发表期刊": "兰台世界",
+    "刊发时间": "2023-06-25",
+    "引用量": "1",
+    "下载量": "134",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "陈勇钢",
+            "author_addresses": [
+                "北方工业大学"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "S1",
+    "摘要": " &lt;正&gt;校友是高校的重要办学成果，也是高校事业发展的重要助力。服务校友，凝聚校友，推动高校与校友的共融、共建、共赢，是新时代高校事业发展的必然要求。校友档案建设，是校友工作的基本前提，也是推动校友工作良性发展的实际需求。大数据时代的来临，给档案工作带来了困境与不确定性，但也带来了一些重大的影响与变革，比如，缩短档案与用户之间的距离并为之提供更加个性化的服务等<sup>[1]</sup>。伴随着大数据等信息技术的高速发展，如何更好地建设好校友档案，成为高校面临的一项重要课题。一、面向三大功能，充分认识校友档案建设的意义",
+    "关键词": [],
+    "基金资助": [
+        "北方工业大学“毓优人才”支持计划（NCUT22XN744）"
+    ],
+    "专辑": "信息科技;社会科学Ⅱ辑",
+    "专题": "高等教育",
+    "分类号": "G647.24",
+    "页码": "57-58",
+    "页数": "2",
+    "爬取时间": "2025-03-26 01:15:23",
+    "论文唯一代码": "SHIJ2023S1028"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "鸿蒙系统在Cortex-M内核架构上的移植和应用",
+    "状态": "正常",
+    "发表期刊": "工业控制计算机",
+    "刊发时间": "2023-06-25",
+    "引用量": "2",
+    "下载量": "257",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "许芬",
+            "author_addresses": "北方工业大学电气与控制工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张盛",
+            "author_addresses": "北方工业大学电气与控制工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "36 ",
+    "期(Issue)": "06",
+    "摘要": " 鸿蒙是华为推出的面向全场景的操作系统，已在华为手机上成功应用两年多，但在各种嵌入式市场主流的芯片架构上鸿蒙操作系统的应用还比较少。介绍了在ARM Cortex-M4架构的芯片STM32F405RGT6上移植鸿蒙轻量型系统的全过程和关键代码修改步骤，并通过串口输出实验验证了移植系统的性能，实验证明鸿蒙系统具有实时性好、易剪裁等优点，比较适合作为微小型智能终端的底层软件。",
+    "关键词": [
+        "鸿蒙操作系统",
+        "串口",
+        "STM32F405RGT6"
+    ],
+    "基金资助": [],
+    "专辑": "信息科技",
+    "专题": "计算机软件及计算机应用",
+    "分类号": "TP316",
+    "页码": "60-62",
+    "页数": "3",
+    "爬取时间": "2025-03-26 01:15:39",
+    "论文唯一代码": "GYKJ202306023"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "应用型人才培养背景下房屋建筑学课程教学改革实践——以北方工业大学土木工程类专业为例",
+    "状态": "正常",
+    "发表期刊": "西部素质教育",
+    "刊发时间": "2023-06-25",
+    "引用量": "5",
+    "下载量": "192",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李悦",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "崔光耀",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "宋高峰",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王振伟",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "宋小软",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "9 ",
+    "期(Issue)": "12",
+    "摘要": " 文章以北方工业大学土木工程类专业为例，首先对房屋建筑学课程进行了概述，然后分析了房屋建筑学课程教学现状，最后阐述了应用型人才培养背景下房屋建筑学课程教学改革实践。",
+    "关键词": [
+        "房屋建筑学课程教学",
+        "应用型人才培养",
+        "土木工程类专业"
+    ],
+    "基金资助": [
+        "北京市属高校基本科研业务费项目（编号：110052971921/062）",
+        "北方工业大学校内专项（编号：110051360022XN108-16,108051360023XN264-31）"
+    ],
+    "专辑": "社会科学Ⅱ辑;工程科技Ⅱ辑",
+    "专题": "建筑科学与工程;高等教育",
+    "分类号": "G642;TU-4",
+    "页码": "5-8",
+    "页数": "4",
+    "爬取时间": "2025-03-26 01:15:47",
+    "论文唯一代码": "XBSJ202312002"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "浅谈清式斗拱构造与文化内涵",
+    "状态": "正常",
+    "发表期刊": "建筑",
+    "刊发时间": "2023-06-25",
+    "引用量": "0",
+    "下载量": "519",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李汭",
+            "author_addresses": [
+                "北方工业大学建筑与艺术学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "06",
+    "摘要": " &lt;正&gt;斗拱是中国古代建筑的独特构件，在历史长河中，经历了不同的发展阶段和多样的演化路径。国家制度和历史文化背景对斗拱形态的构成产生了重要的影响。斗拱在中国木构架建筑的发展历程中扮演着举足轻重的角色，成为了中国传统木构架建筑形制演变的标志，也是鉴别中国古代木构架建筑年代的重要依据。清式斗拱是最具代表性的格式斗拱之一，",
+    "关键词": [],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU366.2",
+    "页码": "60-62",
+    "页数": "3",
+    "爬取时间": "2025-03-26 01:15:55",
+    "论文唯一代码": "JANZ202306024"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "美国量化宽松对中国金融市场的影响机制研究",
+    "状态": "正常",
+    "发表期刊": "财富时代",
+    "刊发时间": "2023-06-25",
+    "引用量": "0",
+    "下载量": "263",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "焦跃佳",
+            "author_addresses": [
+                "北方工业大学应用经济学系"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "06",
+    "摘要": " &lt;正&gt;美国的量化宽松及其退出均会影响中国金融市场。为研究其路径机制，本文采用格兰杰因果网络模型，绘制美国量化宽松以及加息政策分别对中国金融市场的因果网络图。得到结论，加息通过影响股票价格指数和外商直接投资等影响中国金融市场，而量化宽松的影响路径是外商直接投资等国际资本流动渠道和外汇汇率机制。此外，还发现两国货币政策是相互作用的，中国金融市场不仅会受到美国政策的影响，也会影响美国政策。",
+    "关键词": [],
+    "基金资助": [],
+    "专辑": "经济与管理科学",
+    "专题": "金融;证券;投资",
+    "分类号": "F827.12;F832.5",
+    "页码": "43-46",
+    "页数": "4",
+    "爬取时间": "2025-03-26 01:16:04",
+    "论文唯一代码": "GXHZ202306023"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "基于时间窗延迟的多次抢占型项目调度优化研究",
+    "状态": "正常",
+    "发表期刊": "运筹与管理",
+    "刊发时间": "2023-06-25",
+    "引用量": "1",
+    "下载量": "180",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王敏",
+            "author_addresses": [
+                "中国人民大学商学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张转霞",
+            "author_addresses": [
+                "北方工业大学信息学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "32 ",
+    "期(Issue)": "06",
+    "摘要": " 实际项目进程中因不确定因素导致活动执行被迫中断的情况时有发生，该研究针对允许活动在任意单位时间节点被中断的抢占型资源约束项目调度问题，设计了一种启发式算法。算法首先通过网络图的转化规则将活动进行拆分，然后结合深度优先和广度优先搜索设计了一类基于时间窗延迟方案的调度生成机制。通过调用PSPLIB数据库，设置不同参数，设计多组实验进行分析，结果表明，相较于非抢占模式，该算法在求解允许抢占模式的项目调度问题时表现出更优的结果，尤其对于大规模项目，验证了算法的有效性。同时与基本精确算法对比，该算法表现出更好求解速率，该求解结果为实际项目调度提供了决策参考。",
+    "关键词": [
+        "多次抢占",
+        "资源约束项目调度",
+        "时间窗延迟",
+        "启发式算法"
+    ],
+    "基金资助": [],
+    "专辑": "基础科学;信息科技;经济与管理科学",
+    "专题": "自动化技术;宏观经济管理与可持续发展",
+    "分类号": "TP18;F283",
+    "页码": "46-52",
+    "页数": "7",
+    "爬取时间": "2025-03-26 01:16:13",
+    "论文唯一代码": "YCGL202306007"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "青年马克思诗歌习作中的理想观",
+    "状态": "正常",
+    "发表期刊": "兰州工业学院学报",
+    "刊发时间": "2023-06-25",
+    "引用量": "0",
+    "下载量": "92",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张祎",
+            "author_addresses": [
+                "北方工业大学马克思主义学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "30 ",
+    "期(Issue)": "03",
+    "摘要": " 青年时期，酷爱诗歌的马克思在德国浪漫派的影响下，创作了数量可观的诗篇。青年马克思的诗歌习作，反映了马克思对人生的追求、抱负和趣旨，以及他对周围世界的看法和意见，是马克思青年时期诗化的理想和人生观。从内容上看，青年马克思诗歌习作中所蕴含的青年理想包含社会理想、道德理想、职业理想和生活理想。探寻青年马克思诗歌习作中的理想观十分必要，其不仅是了解成长中的马克思的重要素材，而且是把握马克思主义理想观丰富内涵的理论基础。",
+    "关键词": [
+        "青年马克思",
+        "马克思诗歌",
+        "理想观"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑;社会科学Ⅰ辑",
+    "专题": "马克思主义",
+    "分类号": "A811.4",
+    "页码": "120-125",
+    "页数": "6",
+    "爬取时间": "2025-03-26 01:16:23",
+    "论文唯一代码": "LZGD202303022"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "计及碳排放约束的农渔互补温室综合能源系统优化调度",
+    "状态": "正常",
+    "发表期刊": "河北电力技术",
+    "刊发时间": "2023-06-25",
+    "引用量": "1",
+    "下载量": "145",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "胡长斌",
+            "author_addresses": "北方工业大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "蔡晓钦",
+            "author_addresses": "北方工业大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "罗珊娜",
+            "author_addresses": "北方工业大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "赵鑫宇",
+            "author_addresses": "北方工业大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "42 ",
+    "期(Issue)": "03",
+    "摘要": " 农渔互补的温室综合能源系统具有不确定性，采用传统电热分离方式、输配电网分级调度的运行模式已经难以实现全局最优的运行策略，还会降低能源阶梯利用率与经济环境效益。为了提升系统新能源消纳和多能互补能力，本文提出了考虑动态响应特征的农渔互补温室综合能源优化调度策略。首先建立综合能源系统关系矩阵，将碳交易模型引入农渔互补温室综合能源系统，调控系统整体的环保性，其次构建源荷储综合能源系统优化模型，提出了满足温室动态需求以及需求侧生活的分层运行架构，最后通过仿真算例进行验证，结果表明，本文调度策略能够减少设备供能压力以及碳排放量，优化系统运行，从而提高系统经济性及环境效益。",
+    "关键词": [
+        "温室综合能源系统",
+        "农渔互补",
+        "碳排放",
+        "电冷热气联产",
+        "多目标优化"
+    ],
+    "基金资助": [
+        "国家重点研发计划政府间国际科技创新合作重点专项项目(2021YFE0103800)",
+        "北京市教育委员会科学研究计划资助项目(KMM201710009002)"
+    ],
+    "专辑": "工程科技Ⅱ辑;农业科技",
+    "专题": "动力工程;电力工业;园艺",
+    "分类号": "S625;TM73;TK01",
+    "页码": "2-10+59",
+    "页数": "10",
+    "爬取时间": "2025-03-26 01:16:43",
+    "论文唯一代码": "HBJS202303001"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "基于正交小波分解的直流微电网高阻故障检测方法",
+    "状态": "正常",
+    "发表期刊": "河北电力技术",
+    "刊发时间": "2023-06-25",
+    "引用量": "0",
+    "下载量": "192",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "景柳铭",
+            "author_addresses": "北京市电力电子与电气传动工程研究中心(北方工业大学)",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "夏磊",
+            "author_addresses": "北京市电力电子与电气传动工程研究中心(北方工业大学)",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "赵通",
+            "author_addresses": "北京市电力电子与电气传动工程研究中心(北方工业大学)",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "周京华",
+            "author_addresses": "北京市电力电子与电气传动工程研究中心(北方工业大学)",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "胡长斌",
+            "author_addresses": "北京市电力电子与电气传动工程研究中心(北方工业大学)",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "42 ",
+    "期(Issue)": "03",
+    "摘要": " 直流微电网中，高阻故障信息特征较弱，难以检测。高阻故障发生以后，有可能会导致直流微电网长期带电运行，引发安全事故，因此需要对高阻故障进行有效检测并切除。首先，针对电压源型换流器所构成的直流微网故障，提出了应对直流微电网高阻故障的利用时域电流平均值法和时频域正交小波分解法的检测方法，兼顾了故障检测的正确性和灵敏性。然后，利用小波层级分解的系数进行奇异值分解，根据奇异值变化特征对高阻故障的微弱特征进行检测。最后，基于电磁暂态仿真软件PSCAD/EMTDC建立了直流微电网仿真模型，并利用Matlab进行了算法验证，结果表明所提方法可以对高阻故障进行检测以及识别。",
+    "关键词": [
+        "直流微电网",
+        "高阻故障",
+        "正交小波变换",
+        "Cassie模型",
+        "PSCAD/EMTDC"
+    ],
+    "基金资助": [
+        "北京市自然科学基金资助项目(3214060)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "电力工业",
+    "分类号": "TM721.1",
+    "页码": "11-19",
+    "页数": "9",
+    "爬取时间": "2025-03-26 01:17:05",
+    "论文唯一代码": "HBJS202303002"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "基于负序虚拟导纳控制的三相不平衡补偿方法",
+    "状态": "正常",
+    "发表期刊": "河北电力技术",
+    "刊发时间": "2023-06-25",
+    "引用量": "2",
+    "下载量": "145",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "邹坤",
+            "author_addresses": [
+                "中国电建集团贵州电力设计研究院有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "陈雷",
+            "author_addresses": [
+                "广东水电二局股份有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "朴政国",
+            "author_addresses": [
+                "北方工业大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "42 ",
+    "期(Issue)": "03",
+    "摘要": " 在电力负荷不平衡的情况下，以减小配电网末端电压不平衡度为目标，提出一种基于负序虚拟导纳的补偿控制方法，该方法通过检测电网电压不平衡度，采用PI调节器对虚拟负序导纳进行控制，此策略可以改变逆变器的输出特性，提高逆变器侧吸收负载上负序电流的能力；采用灵活正负序电流控制方法对逆变器输出功率进行控制，可降低逆变器输出电压的不平衡度，实现对配电网末端不平衡电压的补偿，并通过仿真验证了所提控制方法的有效性。",
+    "关键词": [
+        "三相逆变器",
+        "不平衡负载",
+        "虚拟导纳",
+        "电压补偿"
+    ],
+    "基金资助": [
+        "国家重点研发计划政府间国际科技创新合作重点专项项目(2021YFE0103800)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "电力工业",
+    "分类号": "TM464",
+    "页码": "33-37+69",
+    "页数": "6",
+    "爬取时间": "2025-03-26 01:17:22",
+    "论文唯一代码": "HBJS202303005"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "特约主编寄语",
+    "状态": "正常",
+    "发表期刊": "河北电力技术",
+    "刊发时间": "2023-06-25",
+    "引用量": "0",
+    "下载量": "22",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "胡长斌",
+            "author_addresses": [
+                "北方工业大学"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "42 ",
+    "期(Issue)": "03",
+    "摘要": " &lt;正&gt;在“双碳”成为全球趋势的背景下，国家先后推出了一系列分布式能源产业推广政策，对全面贯彻新发展理念，注入绿色新动能具有重要意义。源网荷储系统属于国家“十四五”规划和2035年远景目标纲要中的构建现代能源体系工程，涉及新能源发电与智能电网领域。我国已将碳达峰、碳中和纳入生态文明建设整体布局，在此驱动下能源消费结构必将进一步聚焦高效、节能、绿色等核心需求，重点发展高端新能源发电、能源互联网、能源智能化集成等成套源网荷储关键技术，",
+    "关键词": [],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "电力工业",
+    "分类号": "+",
+    "页码": "1",
+    "页数": "1",
+    "爬取时间": "2025-03-26 01:17:31",
+    "论文唯一代码": "HBJS202303017"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "小型餐饮建筑特征及发展趋势研究",
+    "状态": "正常",
+    "发表期刊": "城市建筑空间",
+    "刊发时间": "2023-06-25",
+    "引用量": "0",
+    "下载量": "63",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "杨宇生",
+            "author_addresses": [
+                "北方工业大学建筑与艺术学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "30 ",
+    "期(Issue)": "S1",
+    "摘要": " 随着时代发展，人们更强调精神文化上的追求，而饮食文化也需要一种特色鲜明的建筑来作为其物质载体。当前小型餐饮建筑在平面划分、家具布局和建造技术等方面有明显相似的特征，虽然设计手法多种多样，但基本朝着个性化、多元化、数字化等方向发展，可营造出舒适实用、环境优美，绿色生态且有特色体验感的建筑内外空间。",
+    "关键词": [
+        "餐饮建筑",
+        "平面布局",
+        "主题性空间"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU247.3",
+    "页码": "172-173",
+    "页数": "2",
+    "爬取时间": "2025-03-26 01:17:41",
+    "论文唯一代码": "CSZZ2023S1074"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "浅谈人工智能技术课程思政建设与实践",
+    "状态": "正常",
+    "发表期刊": "中国设备工程",
+    "刊发时间": "2023-06-25",
+    "引用量": "1",
+    "下载量": "262",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张永梅",
+            "author_addresses": "北方工业大学信息学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "马礼",
+            "author_addresses": "北方工业大学信息学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "吴爱燕",
+            "author_addresses": "北方工业大学信息学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "12",
+    "摘要": " 我国高度重视人工智能的发展，社会进步和经济发展迫切需要人工智能的得力参与。本文结合人工智能技术课程，引入了课程思政内容，提出和设计了典型课程思政案例，重点给出了基于智能的精准图像文字识别方法，以及智慧课堂高校学生大数据学习行为挖掘方法思政案例的设计和实现。激励学生研究人工智能面临的技术难题，勇于创新，为民族复兴和国家崛起贡献力量。",
+    "关键词": [
+        "人工智能",
+        "课程思政",
+        "思政案例"
+    ],
+    "基金资助": [
+        "国家自然科学基金项目（No.61371143）",
+        "教育部高等教育司产学合作协同育人项目（No.201801121002）教育部高等教育司产学合作协同育人项目（No.201902083001）",
+        "全国高等学校计算机教育研究会2019年度课题（No.CERACU2019R05）"
+    ],
+    "专辑": "工程科技Ⅱ辑;社会科学Ⅱ辑;信息科技",
+    "专题": "高等教育;自动化技术",
+    "分类号": "G641;TP18-4",
+    "页码": "36-38",
+    "页数": "3",
+    "爬取时间": "2025-03-26 01:18:03",
+    "论文唯一代码": "SBGL202312016"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "玉米收储制度改革的得失与启示",
+    "状态": "正常",
+    "发表期刊": "农业经济问题",
+    "刊发时间": "2023-06-23",
+    "引用量": "10",
+    "下载量": "575",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘颖",
+            "author_addresses": [
+                "北方工业大学经济管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘大鹏",
+            "author_addresses": [
+                "华中农业大学经济管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "06",
+    "摘要": " 粮食收储制度的完善是全方位夯实粮食安全根基的应有之义。通过梳理粮食收储制度改革的演变历程发现，供需关系变化始终贯穿粮食收储制度演变，依靠市场力量和市场手段是粮食收储制度改革的主要方向与思路。以2016年开始的玉米收储制度改革为例，下一步玉米收储制度应在“价补分离”的框架下，一是调整政策导向，促进玉米生产恢复发展；二是坚持市场化改革取向与保护农民利益并重，完善玉米生产支持政策体系；三是合理设定储备规模，确保政府宏观调控能力；四是建立玉米深加工补贴动态调整机制，以期巩固或扩大改革成效、实现新形势下的玉米稳产保供。",
+    "关键词": [
+        "玉米收储制度改革",
+        "产业链",
+        "价补分离",
+        "调控能力"
+    ],
+    "基金资助": [
+        "北方工业大学高层次人才科技启动基金项目(编号：202303)"
+    ],
+    "专辑": "经济与管理科学;农业科技",
+    "专题": "农业经济",
+    "分类号": "F326.11",
+    "页码": "86-96",
+    "页数": "11",
+    "爬取时间": "2025-03-26 01:18:26",
+    "论文唯一代码": "NJWT202306007"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "加载龄期对机制砂自密实混凝土徐变性能影响",
+    "状态": "正常",
+    "发表期刊": "水利水电技术(中英文)",
+    "刊发时间": "2023-06-20 13:37",
+    "引用量": "4",
+    "下载量": "435",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "何世钦",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "赵盈",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王辉",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王悦",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "陆皓东",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "郑蓉",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "54 ",
+    "期(Issue)": "09",
+    "摘要": " 【目的】机制砂代替天然砂配制自密实混凝土已成为工程建设的发展趋势，徐变是混凝土的固有特性，为研究加载龄期对机制砂自密实混凝土徐变性能的影响，【方法】对7 d、14 d、28 d三种不同加载龄期的混凝土试件进行了压缩徐变试验，探究了徐变随加载龄期的发展规律，并通过LINK3D非线性软件对不同加载龄期和石粉含量的混凝土徐变进行数值模拟，分析了加载龄期和石粉含量对机制砂自密实混凝土徐变的影响。【结果】结果表明：加载龄期增大会减小机制砂自密实混凝土的徐变，持荷250 d时，14 d、28 d加载龄期的徐变系数是7 d龄期的82.5%、71.5%;LINK3D可以较好地模拟混凝土的徐变试验，当石粉含量为5%时，填充效应的正作用使徐变变形减小，石粉含量大于10%时，随石粉含量增加徐变增大；模拟得到的不同加载龄期的单位徐变比在普通混凝土的范围内。【结论】机制砂中石粉含量宜在10%以内；当徐变对结构性能影响较大时，可增大养护龄期。",
+    "关键词": [
+        "加载龄期",
+        "机制砂自密实混凝土",
+        "徐变",
+        "试验研究",
+        "数值模拟"
+    ],
+    "基金资助": [
+        "河北省重点研发计划项目(19217617D)",
+        "国家自然科学基金资助项目(51878006)"
+    ],
+    "专辑": "工程科技Ⅱ辑;工程科技Ⅰ辑",
+    "专题": "无机化工;建筑科学与工程",
+    "分类号": "TU528",
+    "页码": "210-219",
+    "页数": "10",
+    "爬取时间": "2025-03-26 01:18:40",
+    "论文唯一代码": "SJWJ202309019"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "一种基于Involution卷积的三维人体重建方法",
+    "状态": "正常",
+    "发表期刊": "湖北民族大学学报(自然科学版)",
+    "刊发时间": "2023-06-20",
+    "引用量": "2",
+    "下载量": "187",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "童立靖",
+            "author_addresses": "北方工业大学信息学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张成智",
+            "author_addresses": "北方工业大学信息学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "41 ",
+    "期(Issue)": "02",
+    "摘要": " 针对从视频中恢复三维人体模型运动序列时，由于图像特征提取能力有限而导致三维人体模型运动序列重建效果不佳的问题，提出了一种基于Involution卷积的三维人体重建方法。首先为了引入自注意力机制，在ResNet50网络结构中加入Involution算子，获取视频图像帧的特征向量，然后使用姿态估计网络和形状估计网络获取人体姿势以及形状参数，最后使用蒙皮多人线性模型(skinned multi-person linear model, SMPL)生成三维人体模型的运动序列。在三维姿态户外数据集(3D pose in the wild, 3DPW)上与视频人体姿态形状估计推理(video inference for body pose and shape estimation, VIBE)方法以及时间一致性网格恢复(temporally consistent mesh recovery, TCMR)方法进行对比实验，平均精度相比于VIBE、TCMR分别提升了3.1%、0.7%,能够为运动捕捉、三维人体动画制作等工作提供更为准确的三维人体模型。",
+    "关键词": [
+        "三维人体",
+        "姿态估计",
+        "SMPL",
+        "视频序列",
+        "Involution算子"
+    ],
+    "基金资助": [
+        "北京市社会科学基金一般项目(18YTC038)",
+        "北京市自然科学基金青年基金项目(4194076)"
+    ],
+    "专辑": "基础科学;信息科技",
+    "专题": "计算机软件及计算机应用",
+    "分类号": "TP391.41",
+    "页码": "184-190",
+    "页数": "7",
+    "爬取时间": "2025-03-26 01:18:50",
+    "论文唯一代码": "HBXZ202302007"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "论刑事涉案虚拟货币处置程序的构建",
+    "状态": "正常",
+    "发表期刊": "犯罪研究",
+    "刊发时间": "2023-06-20",
+    "引用量": "16",
+    "下载量": "1252",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "韩红兴",
+            "author_addresses": "北方工业大学文法学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王然",
+            "author_addresses": "北方工业大学文法学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "03",
+    "摘要": " 自虚拟货币问世并进入中国市场以来，涉虚拟货币的刑事案件数量逐年攀升。随着多个规范性文件的出台，我国对虚拟货币的监管态度从最初的无人问津逐步转变为如今的全面禁止。虚拟货币的虚拟性、匿名性、去中心化、国际流通性等特殊性给刑事侦查工作加设了层层障碍，虚拟货币的国内禁止流通与涉案货币变现的现实需要之间的矛盾也未能调和。司法实践中，刑事涉案货币处置出现了法律适用缺失、扣押措施不完善、变现程序存疑等难题。有鉴于此，首先，国家需要完善有关法律规定，为虚拟货币处置的各类工作提供精准的法律支撑。其次，有关机关需要进一步规范审前阶段所采取的保全措施的规范性与合法性，通过建立公正高效、统一负责的虚拟货币变现平台实现处置流程的规范化。最后，各国应加强国际合作，防范处置进程中可能蕴藏的金融危机与刑事风险。",
+    "关键词": [
+        "虚拟货币",
+        "涉案财物处置",
+        "审前保全措施"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅰ辑",
+    "专题": "诉讼法与司法制度",
+    "分类号": "D915.3",
+    "页码": "82-90",
+    "页数": "9",
+    "爬取时间": "2025-03-26 01:18:58",
+    "论文唯一代码": "YJFZ202303008"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "基于浮动车数据的路网交通状态宏微观评价指标研究",
+    "状态": "正常",
+    "发表期刊": "南开大学学报(自然科学版)",
+    "刊发时间": "2023-06-20",
+    "引用量": "6",
+    "下载量": "349",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张立立",
+            "author_addresses": [
+                "北京石油化工学院,信息工程学院",
+                "中国消防救援学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王心哲",
+            "author_addresses": [
+                "北京石油化工学院,信息工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "姚迪",
+            "author_addresses": [
+                "北京石油化工学院,信息工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "于沛",
+            "author_addresses": [
+                "中国消防救援学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "biacd_yupei@163.com"
+        },
+        {
+            "author_order": 5,
+            "author_name": "张海波",
+            "author_addresses": [
+                "北方工业大学城市交通智能控制技术北京市重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "王力",
+            "author_addresses": [
+                "北方工业大学城市交通智能控制技术北京市重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "56 ",
+    "期(Issue)": "03",
+    "摘要": " 传统断面检测器存在检测范围有效、完好率不足等实际问题无法有效感知和辨识路网交通状态,以浮动车数据为基础,研究和设计了路网交通宏微观评价指标,并提出基于灰色关联熵的路网宏微观交通状态评价方法,进一步通过引入宏观基本图平移的特性扩展了交通状态评价方法.最后,利用北京市昌平区政府街主干线数据对所提方法进行了验证,结果表明所提方法能够有效判别路网的宏微观交通状态.",
+    "关键词": [
+        "智能交通",
+        "浮动车",
+        "微观评价指标",
+        "宏观评价指标",
+        "状态熵"
+    ],
+    "基金资助": [
+        "国家重点研发计划(2017YFC0821102)",
+        "北京自然科学基金(4214070)",
+        "北京市科学技术协会2021-2023年度青年人才托举工程(BJKX2021045)",
+        "北京石油化工学院交叉科研探索(BIPTCSF-006)",
+        "北方工业大学北京城市治理研究基地项目(21CSZL34)",
+        "宁夏自然科学基金（2022AAC03757）"
+    ],
+    "专辑": "基础科学;工程科技Ⅱ辑",
+    "专题": "公路与水路运输",
+    "分类号": "U491",
+    "页码": "27-33",
+    "页数": "7",
+    "爬取时间": "2025-03-26 01:19:25",
+    "论文唯一代码": "NKDZ202303006"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "物流AGV机器人行驶动态特性分析",
+    "状态": "正常",
+    "发表期刊": "机械设计与研究",
+    "刊发时间": "2023-06-20",
+    "引用量": "1",
+    "下载量": "167",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "吕世霞",
+            "author_addresses": [
+                "北京电子科技职业学院汽车工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王枭",
+            "author_addresses": [
+                "北方工业大学机械与材料工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "朱亚东",
+            "author_addresses": [
+                "北京石油化工学院机械工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "39 ",
+    "期(Issue)": "03",
+    "摘要": " 为提高物流AGV机器人的路面适应能力，设计适合物流仓储车间的AGV移动系统，该系统构建了纵臂式独立悬架，具有调节机构以改变减振器角度和纵臂长度；建立了机器人路面激励模型和整车四轮系振动耦合响应模型，构建以刚度系数和阻尼系数为变量，车身垂向加速度、俯仰角加速度和侧倾角加速度有效值作为机器人行驶动态评价统计量的优化模型；通过理论仿真与试验验证了对悬架系统建模分析的合理性，为提高移动机器人的行驶动态特性提供了理论依据。",
+    "关键词": [
+        "物流AGV机器人",
+        "动力学模型",
+        "悬架系统参数",
+        "动态特性分析"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑;信息科技;经济与管理科学",
+    "专题": "自动化技术;宏观经济管理与可持续发展",
+    "分类号": "F252;TP242",
+    "页码": "39-44",
+    "页数": "6",
+    "爬取时间": "2025-03-26 01:19:36",
+    "论文唯一代码": "JSYY202303008"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "基于BP神经元算法的电火花小孔加工穿透检测技术研究",
+    "状态": "正常",
+    "发表期刊": "电加工与模具",
+    "刊发时间": "2023-06-20",
+    "引用量": "0",
+    "下载量": "157",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张海峰",
+            "author_addresses": "北方工业大学电气与控制工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王佳行",
+            "author_addresses": "北方工业大学电气与控制工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "梁乐意",
+            "author_addresses": "北方工业大学电气与控制工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "周京华",
+            "author_addresses": "北方工业大学电气与控制工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "景惠静",
+            "author_addresses": "北方工业大学电气与控制工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "03",
+    "摘要": " 针对电极本身产生的损耗影响电火花小孔加工的问题，提出了一种基于BP神经元分类算法的电火花小孔加工穿透检测技术。通过分析不同时期加工过程的放电频率，选择加工电压变化个数、脉冲放电的脉宽和脉间、伺服距离、加工电流作为模型特征输入量，在MATLAB软件中完成相应算法模型的建立，并综合考虑FPGA片上资源和算法耗时等因素的影响，在实验平台上实现了模型的FPGA程序移植，并通过加工实验验证了此方法的可行性。",
+    "关键词": [
+        "电火花加工",
+        "小孔加工",
+        "BP神经元算法",
+        "FPGA",
+        "MATLAB",
+        "穿透检测"
+    ],
+    "基金资助": [
+        "国家重点研发计划项目（2021YFE0103800）"
+    ],
+    "专辑": "工程科技Ⅱ辑;工程科技Ⅰ辑;信息科技",
+    "专题": "金属学及金属工艺;自动化技术",
+    "分类号": "TP18;TG661",
+    "页码": "14-19+65",
+    "页数": "7",
+    "爬取时间": "2025-03-26 01:19:52",
+    "论文唯一代码": "DJGU202303002"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "基于用户成长体系的公益类APP交互设计研究",
+    "状态": "正常",
+    "发表期刊": "工业设计",
+    "刊发时间": "2023-06-20",
+    "引用量": "2",
+    "下载量": "198",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "崔心愿",
+            "author_addresses": "北方工业大学机械与材料工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李敏",
+            "author_addresses": "北方工业大学机械与材料工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "06",
+    "摘要": " 在我国公益事业兴起之时，如何降低志愿者流失率并建立完善的长效机制成为公益事业持续发展的首要命题。文章综合用户成长体系和交互设计理论，以公益类APP的研究现状为依据，深度挖掘志愿者与产品之间的互动联系，归纳总结具有普遍适用性的用户成长体系要素，最终构建出具有增强志愿者行为动机的公益类APP交互设计策略。以期为公益事业持续发展提供新思路。",
+    "关键词": [
+        "用户成长体系",
+        "设计策略",
+        "公益类APP"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑;信息科技",
+    "专题": "计算机软件及计算机应用",
+    "分类号": "TP311.56",
+    "页码": "101-103",
+    "页数": "3",
+    "爬取时间": "2025-03-26 01:20:00",
+    "论文唯一代码": "GYSH202306026"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "露井联采作用下边坡破坏机制的研究",
+    "状态": "正常",
+    "发表期刊": "黑龙江工业学院学报(综合版)",
+    "刊发时间": "2023-06-20",
+    "引用量": "3",
+    "下载量": "102",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "孙世国",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "吴梦柯",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "关宇",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "23 ",
+    "期(Issue)": "06",
+    "摘要": " 以紫荆山金铜矿开采为例，矿山开采在不同时期，井工开采和露天开采两种开采方式交替进行。为了研究两种采动效应对边坡稳定性的影响，采用数值模拟的方法，研究了地下采空区已存在的情况下进行露天开采对边坡稳定性的影响，计算出不同顶板厚度对应的边坡稳定性系数，通过分析边坡稳定性系数和塑性区分布，确定了安全的顶板厚度为68m。推导了井工开采影响下边坡稳定性系数的计算公式，得出了随着井工开采的推进边坡稳定性系数降低的结论。",
+    "关键词": [
+        "露井联采",
+        "顶板厚度",
+        "边坡稳定性",
+        "塑性区"
+    ],
+    "基金资助": [
+        "中国煤炭科工集团双创资金重点项目(项目编号：2022-ZD002)",
+        "国家自然科学基金项目(项目编号：41772335)"
+    ],
+    "专辑": "社会科学Ⅱ辑;工程科技Ⅰ辑",
+    "专题": "矿业工程",
+    "分类号": "TD854.6",
+    "页码": "109-116",
+    "页数": "8",
+    "爬取时间": "2025-03-26 01:20:07",
+    "论文唯一代码": "XBJX202306018"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "遭遇相位对近波面摆翼推进器性能的影响研究",
+    "状态": "正常",
+    "发表期刊": "中国造船",
+    "刊发时间": "2023-06-20",
+    "引用量": "0",
+    "下载量": "86",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "周军伟",
+            "author_addresses": [
+                "哈尔滨工业大学(威海)海洋工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张一言",
+            "author_addresses": [
+                "哈尔滨工业大学(威海)海洋工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "闫文辉",
+            "author_addresses": [
+                "北方工业大学机械与材料工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "丛立新",
+            "author_addresses": [
+                "哈尔滨工业大学(威海)海洋工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "梅蕾",
+            "author_addresses": [
+                "哈尔滨工业大学(威海)海洋工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "郭彬",
+            "author_addresses": [
+                "哈尔滨工业大学(威海)海洋工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "64 ",
+    "期(Issue)": "03",
+    "摘要": " 采用数值方法对近波面摆翼推进器在不同遭遇相位下的性能和流场进行了分析，同时对比了同浸深无波浪情况及深水情况下的摆翼性能。对每个遭遇相位都考虑了一系列不同航速，从而能够更全面地体现遭遇相位的影响。结果表明，遭遇相位对摆翼的效率和推力系数都有明显的影响，在一定遭遇相位范围内，摆翼效率得到大幅度的提升，这显然是吸收了波浪能的状态；而在有的遭遇相位范围内，摆翼效率降低，甚至低于深水情况。在本文工况中存在明显的推力峰值遭遇相位，峰值推力系数相比深水情况提高约65%。",
+    "关键词": [
+        "摆翼推进器",
+        "遭遇相位",
+        "摆翼效率",
+        "推力系数"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "船舶工业",
+    "分类号": "U664.34",
+    "页码": "33-46",
+    "页数": "14",
+    "爬取时间": "2025-03-26 01:20:23",
+    "论文唯一代码": "ZGZC202303004"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "北京胡同文化创意产品开发研究",
+    "状态": "正常",
+    "发表期刊": "工业设计",
+    "刊发时间": "2023-06-20",
+    "引用量": "0",
+    "下载量": "186",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王琳琳",
+            "author_addresses": [
+                "北方工业大学机械与材料工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王书万",
+            "author_addresses": [
+                "北方工业大学建筑与艺术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "06",
+    "摘要": " 北京胡同文化作为北京经典文化符号之一，传承问题备受关注。文章首先通过对北京胡同文化进行分类，剖析北京胡同文化内涵，进而确定北京胡同文化创意产品的开发方向；其次，分析北京胡同文化创意产品现状，即设计思路雷同、产品形式单一以及北京胡同文化特色不突出；最后，提出相应的解决思路。通过文章的研究，以期实现北京胡同文化在文化创意产品上的有效传播，为今后的北京胡同文化创意产品开发研究提供参考。",
+    "关键词": [
+        "北京胡同文化",
+        "文化创意产品",
+        "开发",
+        "思路"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "工业通用技术及设备",
+    "分类号": "TB472",
+    "页码": "124-126",
+    "页数": "3",
+    "爬取时间": "2025-03-26 01:20:35",
+    "论文唯一代码": "GYSH202306033"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "基于叙事学理论的茶文化创意产品设计研究",
+    "状态": "正常",
+    "发表期刊": "工业设计",
+    "刊发时间": "2023-06-20",
+    "引用量": "3",
+    "下载量": "273",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "宋亚萍",
+            "author_addresses": "北方工业大学机械与材料工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "边鹏",
+            "author_addresses": "北方工业大学机械与材料工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "06",
+    "摘要": " 目前，茶文化创意产品市场趋于同质化、商业化，同时忽略优质茶文化传播以及消费者对茶文化的反思，而叙事学理论指导的设计具有主题、结构、交互、语言等优势。文章以叙事学理论为出发点，首先讨论叙事学理论在茶文化创意产品设计中的应用现状，其次探讨叙事学理论指导茶文化创意产品设计的方法与原则。期望在叙事学理论的支撑下，让茶文化创意产品生动地“讲故事”，延长茶文化的体验感受，能够引起消费者与茶文化的情感共鸣，体现东方传统茶文化的艺术价值与魅力，为茶文化创意产品的设计提供新的创意思路和方法。",
+    "关键词": [
+        "产品设计",
+        "叙事学理论",
+        "茶文化",
+        "文化创意产品"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑;工程科技Ⅰ辑",
+    "专题": "一般服务业;工业通用技术及设备",
+    "分类号": "TB472;TS971",
+    "页码": "133-135",
+    "页数": "3",
+    "爬取时间": "2025-03-26 01:20:43",
+    "论文唯一代码": "GYSH202306036"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "基于改进的Mask R-CNN的鱼类识别算法研究",
+    "状态": "正常",
+    "发表期刊": "计算机与数字工程",
+    "刊发时间": "2023-06-20",
+    "引用量": "3",
+    "下载量": "174",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "闫党康",
+            "author_addresses": [
+                "北方工业大学信息学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "51 ",
+    "期(Issue)": "06",
+    "摘要": " 水下鱼类是重要的地球生物资源。针对现有的深度学习模型在水下鱼类图像识别场景中识别效果不佳的问题，提出了一种基于改进的Mask R-CNN的鱼类识别算法模型。首先，采用深度残差网络和特征金字塔结构对水下鱼类图像进行特征提取；其次，选用区域候选网络针对特征图生成感兴趣区域；然后，通过改进的Soft NMS算法对感兴趣区域进行后处理以减少对鱼类目标候选框的误检率；最后，在头部网络中添加级联结构对特征区域进行微调以提升鱼类识别精度。在Fish4knowledge数据集上的对比实验结果表明，改进的鱼类识别算法的平均精度均值为87.4%，相对于基线算法模型精度提升了3.6%。所提算法能够有效提高水下鱼类识别精度，同时减少误检率，提升泛化性能，对我国水下鱼类资源的开发利用具有重要的学术价值和经济价值。",
+    "关键词": [
+        "鱼类识别",
+        "Mask R-CNN",
+        "Soft NMS",
+        "级联结构",
+        "迁移学习"
+    ],
+    "基金资助": [],
+    "专辑": "信息科技;农业科技",
+    "专题": "水产和渔业;计算机软件及计算机应用;自动化技术",
+    "分类号": "S951.2;TP183;TP391.41",
+    "页码": "1238-1243",
+    "页数": "6",
+    "爬取时间": "2025-03-26 01:20:50",
+    "论文唯一代码": "JSSG202306005"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "基于正交试验的感应控制参数组合优化",
+    "状态": "正常",
+    "发表期刊": "浙江大学学报(工学版)",
+    "刊发时间": "2023-06-19 14:54",
+    "引用量": "5",
+    "下载量": "367",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王志建",
+            "author_addresses": "北方工业大学电气与控制工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "龙顺忠",
+            "author_addresses": "北方工业大学电气与控制工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李颖宏",
+            "author_addresses": "北方工业大学电气与控制工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "57 ",
+    "期(Issue)": "06",
+    "摘要": " 针对随机流量波动较大的交叉口，提出优化感应控制策略，采用正交试验方法获取最优控制参数组合.将最大排队长度作为通行需求阈值来优化感应控制逻辑，将设置的3种相位切换机制（优先排队、优先延误和固定顺序）加入感应控制参数组合中.在SUMO仿真中，模拟北京市北辰西路与科荟南路交叉口环境，采用正交试验方法筛选出不同交通流量下感应控制的最优参数组合.设计对比实验验证最优参数组合的有效性，将最优参数组合应用在深度Q学习（DQN）算法中进一步优化感应控制.结果表明，正交试验方法能够快速有效地获取最优参数组合；在低、中等交通流量下，与未使用最优参数组合的DQN算法相比，使用最优参数组合的DQN算法的收敛速度分别增加了48.14%、38.89%，平均累计车均延误分别减少了8.45%、7.09%.",
+    "关键词": [
+        "信号交叉口",
+        "感应控制",
+        "影响参数",
+        "正交试验",
+        "深度Q学习(DQN)算法"
+    ],
+    "基金资助": [
+        "国家自然科学基金资助项目（72071003）"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "公路与水路运输",
+    "分类号": "U491.54",
+    "页码": "1128-1136",
+    "页数": "9",
+    "爬取时间": "2025-03-26 01:21:16",
+    "论文唯一代码": "ZDZC202306008"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "基于LESO的有源电力滤波器模型预测控制研究",
+    "状态": "正常",
+    "发表期刊": "电力电容器与无功补偿",
+    "刊发时间": "2023-06-19",
+    "引用量": "3",
+    "下载量": "180",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "蒋正荣",
+            "author_addresses": "北方工业大学电气与控制工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "郝佳奇",
+            "author_addresses": "北方工业大学电气与控制工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "44 ",
+    "期(Issue)": "03",
+    "摘要": " 针对在采用LCL滤波器作为输出滤波器的T型三电平有源电力滤波器拓扑中，在应用模型预测控制时存在的对电压、电流传感器需求量大、因系统建模不准确而产生的误差等问题，提出一种基于线性扩张状态观测器的改进有源电力滤波器系统模型。该模型对每一个开关周期内滤波器电容支路电压进行观测，将得到的结果应用于逆变器输出电流计算和有源电力滤波器预测控制模型的建立，能够减少1/3的对传感器的需求，并将因LCL滤波器而引入的误差考虑在控制策略之内，有效提高有源电力滤波器的控制精度和对谐波及无功的补偿效果。在此基础上提出了以逆变器输出电压为控制对象的模型预测电压控制策略。基于Matlab/Simulink的仿真验证了所提模型的有效性，并通过实验验证了其可行性。",
+    "关键词": [
+        "线性扩张状态观测器",
+        "有源电力滤波器",
+        "模型预测电压控制"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑;信息科技",
+    "专题": "电力工业;无线电电子学;自动化技术",
+    "分类号": "TM761;TN713.8",
+    "页码": "33-41",
+    "页数": "9",
+    "爬取时间": "2025-03-26 01:21:24",
+    "论文唯一代码": "DLDY202303005"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "开孔复合材料层合板强度不确定性分析",
+    "状态": "正常",
+    "发表期刊": "力学季刊",
+    "刊发时间": "2023-06-19",
+    "引用量": "2",
+    "下载量": "335",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李姝",
+            "author_addresses": "北方工业大学机械与材料工程学院机电系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "lishu@ncut.edu.cn"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李宴",
+            "author_addresses": "北方工业大学机械与材料工程学院机电系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "韩飞",
+            "author_addresses": "北方工业大学机械与材料工程学院机电系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "44 ",
+    "期(Issue)": "02",
+    "摘要": " 以拉伸载荷作用下AS4/3501-6开孔复合材料层合板为研究对象，采用考虑复合材料层合板就地强度效应的有限断裂力学模型和基于方差的敏感性测度分析模型相结合的方法，研究单层板宏观力学性能不确定性对具有不同孔径和铺层顺序的开孔复合材料层合板破坏强度的影响．研究结果表明：单层板力学性能对开孔板强度影响程度的大小与孔径相关，但敏感性排序与孔径无关．同时，单层板力学性能敏感性测度与层合板铺层顺序有关，层合板各向异性比越大，开孔板拉伸破坏受单层板纤维方向拉伸强度的影响越大，而且开孔板拉伸强度与单层板纤维方向拉伸强度呈正相关，与横向弹性模量呈负相关，与面内剪切模量和纵向弹性模量不具有单调关系．",
+    "关键词": [
+        "开孔复合材料层合板",
+        "破坏强度",
+        "不确定性",
+        "敏感性测度",
+        "有限断裂力学",
+        "就地强度效应"
+    ],
+    "基金资助": [
+        "北京市自然科学基金(1234036)",
+        "北方工业大学重点科学研究方向(2020-2025)(110051360022XN10807)"
+    ],
+    "专辑": "基础科学;工程科技Ⅰ辑",
+    "专题": "材料科学",
+    "分类号": "TB332",
+    "页码": "293-305",
+    "页数": "13",
+    "爬取时间": "2025-03-26 01:21:33",
+    "论文唯一代码": "SHLX202302005"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "基于样本选择的跨被试脑力负荷识别",
+    "状态": "正常",
+    "发表期刊": "科学技术与工程",
+    "刊发时间": "2023-06-18",
+    "引用量": "0",
+    "下载量": "103",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "曲洪权",
+            "author_addresses": [
+                "北方工业大学信息学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王飞月",
+            "author_addresses": [
+                "北方工业大学信息学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "庞丽萍",
+            "author_addresses": [
+                "北京航空航天大学航空科学与工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "pangliping@buaa.edu.cn"
+        },
+        {
+            "author_order": 4,
+            "author_name": "陈丽莉",
+            "author_addresses": [
+                "华北石油通信有限公司万庄通信总站"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "刘晓花",
+            "author_addresses": [
+                "中国石油管道局工程有限公司国际事业部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "23 ",
+    "期(Issue)": "17",
+    "摘要": " 人体的脑力负荷状态与人机操作工作时的工作效率、人力资源分配以及事故的发生等息息相关，因此研究操作人员的脑力负荷状态具有重要意义。为了解决现有脑力负荷识别方法由于训练集中样本数量过少导致分类效果较差的问题，提出了一种基于样本选择的跨被试脑力负荷识别方法。首先，将其他被试的脑电数据作为训练集，参考目标被试的少量历史数据对训练集中的特征数据进行样本选择，实现减少样本数量的同时减少训练集和测试集之间的域差异；其次，再通过主成分分析对样本选择后的自适应训练集和目标被试测试集特征进行特征降维；最后，用自适应训练集主成分建立支持向量机分类模型识别测试集样本的脑力负荷状态。结果表明，该方法可以在提高分类效率的同时提高分类精度，实现快速、准确的脑力负荷状态识别。",
+    "关键词": [
+        "样本选择",
+        "主成分分析",
+        "支持向量机",
+        "脑力负荷",
+        "脑电"
+    ],
+    "基金资助": [
+        "辽宁省兴辽英才计划(XLYC1802092)"
+    ],
+    "专辑": "工程科技Ⅱ辑;基础科学;医药卫生科技;信息科技",
+    "专题": "生物学;生物医学工程;电信技术",
+    "分类号": "TN911.7;R318",
+    "页码": "7257-7263",
+    "页数": "7",
+    "爬取时间": "2025-03-26 01:21:42",
+    "论文唯一代码": "KXJS202317011"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "基于iS3的岩体隧道智能建造系统概念模型",
+    "状态": "正常",
+    "发表期刊": "智能制造",
+    "刊发时间": "2023-06-17",
+    "引用量": "0",
+    "下载量": "172",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "路子涵",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "满轲",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "03",
+    "摘要": " 岩体隧道智能化建造作为智能建造系统其中的一部分，是未来岩体隧道建设发展的必然趋势。岩体隧道智能建造系统的推广应用需要一个明确的概念模型将理论知识与各类技术、工艺工法协同起来。目前岩体隧道工程的勘察、设计、施工和运维阶段的建模存在分析不连续、信息不完全和结果精度不高等问题。为了解决此类难点，本文基于基础设施智慧服务系统（iS3），创建以全息感知、模型建立、智能分析、闭环控制、持续优化和协同共享为主要模块的岩体隧道智能建造系统概念模型；并结合此概念模型和系统需求对岩体隧道智能建造系统框架进行讨论设计，形成了一套基于i S3平台的集成一体化系统，为岩体隧道智能建造工程的施工建设提供参考。",
+    "关键词": [
+        "智能建造",
+        "iS3",
+        "隧道工程",
+        "信息集成",
+        "概念模型"
+    ],
+    "基金资助": [
+        "国家重点研发项目（2018YFC1504801,2018YFC1504902）",
+        "国家自然科学基金项目（51522903,51774184）",
+        "清华大学水沙科学与水利水电工程国家重点实验室资助（2019-KY-03）",
+        "北方工业大学毓杰项目（216051360020XN199/006）,北方工业大学城市地下空间智能建造关键技术（110051360022XN108-19）,北方工业大学大学生创新创业项目,北方工业大学教育教学改革项目"
+    ],
+    "专辑": "信息科技;工程科技Ⅱ辑",
+    "专题": "公路与水路运输",
+    "分类号": "U455",
+    "页码": "115-118",
+    "页数": "4",
+    "爬取时间": "2025-03-26 01:21:51",
+    "论文唯一代码": "JSFY202303009"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "果园滑动转向机器人轮胎动力学参数实时估计方法",
+    "状态": "正常",
+    "发表期刊": "农业机械学报",
+    "刊发时间": "2023-06-16 15:18",
+    "引用量": "3",
+    "下载量": "299",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "毕松",
+            "author_addresses": "北方工业大学电气与控制工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "韩奕非",
+            "author_addresses": "北方工业大学电气与控制工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "54 ",
+    "期(Issue)": "08",
+    "摘要": " 受果园路面起伏及轮胎附着能力变化影响，滑动转向轮式机器人轮胎的垂直载荷及侧向力参数变化大且难以实时估计，针对现有滑动转向控制器设计时对轮胎动力学参数进行简化，从而导致机器人姿态控制稳定性低的问题，本文提出了非铺装路面滑动转向轮式机器人轮胎垂直载荷实时估计方法和轮胎驱动力实时估计及优化分配算法。首先，提出了适用于滑动转向过程静力学计算的理想平面以及基于该平面的四轮垂直载荷估计方法；其次，提出了基于Fiala轮胎动力学模型的小侧偏角侧向力估计方法；再次，建立了滑动转向轮式机器人坡道稳态动力学方程和轮胎实时驱动力估计方法；最后，基于轮胎利用率构造轮胎驱动力最优实时分配模型。为验证本文方法，建立了基于ADAMS的滑动转向轮式机器人动力学模型进行对比验证，并且对垂直载荷以及侧向力估计方法搭建了检测装置进行实际验证。实际验证结果表明，轮胎垂直载荷实时估计方法准确率为95%以上，侧向力实时估计方法准确率为85%以上，基于轮胎垂直载荷以及侧向力的轮胎驱动力优化方法使轮胎利用率从96.25%降低至93.75%,提高了轮胎附着裕量和姿态控制稳定性。",
+    "关键词": [
+        "果园机器人",
+        "滑动转向",
+        "轮胎动力学模型",
+        "垂直载荷",
+        "动力学仿真"
+    ],
+    "基金资助": [
+        "国家重点研发计划项目(2018YFC1602701)",
+        "北方工业大学1138工程项目(110051360022XN108)",
+        "北京市大学生创新创业计划项目"
+    ],
+    "专辑": "农业科技;信息科技",
+    "专题": "农业工程;自动化技术",
+    "分类号": "S24;TP242",
+    "页码": "110-121+192",
+    "页数": "13",
+    "爬取时间": "2025-03-26 01:22:03",
+    "论文唯一代码": "NYJX202308010"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "基于测距值修正的温室植保机器人定位方法",
+    "状态": "正常",
+    "发表期刊": "农业机械学报",
+    "刊发时间": "2023-06-16 12:12",
+    "引用量": "12",
+    "下载量": "487",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "毕松",
+            "author_addresses": [
+                "北方工业大学电气与控制工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张国轩",
+            "author_addresses": [
+                "北方工业大学电气与控制工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李志军",
+            "author_addresses": [
+                "北方工业大学电气与控制工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "胡福文",
+            "author_addresses": [
+                "北方工业大学机械与材料工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "54 ",
+    "期(Issue)": "08",
+    "摘要": " 针对温室植保机器人作业过程中，UWB节点之间频繁出现的非视距通信现象导致UWB系统定位精度低和稳定性差的问题，提出了一种基于UWB测距值修正的融合定位方法。首先，设计了基于测距残差的UWB节点间通信类型识别方法；其次，分析了视距和非视距通信下UWB测距误差产生原因并建立了两种通信条件下的测距值修正模型；最后，基于扩展卡尔曼滤波器设计了UWB测距修正值和IMU数据融合方法，实现了温室机器人作业过程中的可靠定位。在温室环境下的实际验证结果表明：非视距通信条件下，经过UWB测距修正的融合定位方法的定位误差为11.95 cm,相较于未进行UWB测距值修正的融合定位方法，定位误差降低83.11%,可为温室植保机器人提供稳定的高精度定位信息。",
+    "关键词": [
+        "温室植保机器人",
+        "UWB通信类型判别",
+        "UWB测距值修正",
+        "融合定位"
+    ],
+    "基金资助": [
+        "国家重点研发计划项目(2018YFC1602701)",
+        "北方工业大学1138工程项目(110051360022XN108)",
+        "北京市大学生创新创业计划项目"
+    ],
+    "专辑": "农业科技;信息科技",
+    "专题": "农业工程;植物保护;自动化技术",
+    "分类号": "TP242;S49",
+    "页码": "347-358",
+    "页数": "12",
+    "爬取时间": "2025-03-26 01:22:10",
+    "论文唯一代码": "NYJX202308034"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "基于学分制的高校多维度教学管理新模式构建研究",
+    "状态": "正常",
+    "发表期刊": "大学教育",
+    "刊发时间": "2023-06-16",
+    "引用量": "1",
+    "下载量": "116",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "尹天光",
+            "author_addresses": [
+                "北方工业大学教务处"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "12",
+    "摘要": " 当前，学分制已成为大学本科教学管理改革中的重要内容。文章通过论述学分制的基本原理和内涵特征以及我国高校在实施学分制过程中存在的问题，结合北方工业大学多年的学分制实践经验，从建立规范化的教学管理机制、构建个性化的教学管理体系、开展人性化的教学管理服务、采用信息化的教学管理手段、建立科学化的教学评价机制等五个方面，探讨建立健全适合我国现代高校学分制的多维度教学管理的新模式，以期为高校教学管理模式改革提供新的建设思路和借鉴方案。",
+    "关键词": [
+        "学分制",
+        "高校",
+        "教学管理",
+        "管理模式",
+        "人才培养"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "高等教育",
+    "分类号": "G647.3",
+    "页码": "4-6",
+    "页数": "3",
+    "爬取时间": "2025-03-26 01:22:15",
+    "论文唯一代码": "DXJY202312002"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "巷道防冲吸能钢管混凝土拱架支护性能研究",
+    "状态": "正常",
+    "发表期刊": "煤炭科学技术",
+    "刊发时间": "2023-06-15 09:08",
+    "引用量": "3",
+    "下载量": "616",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "许海亮",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "高晗钧",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "宋义敏",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "ssyymmok@sina.com"
+        },
+        {
+            "author_order": 4,
+            "author_name": "安栋",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "郑鑫雷",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "52 ",
+    "期(Issue)": "03",
+    "摘要": " 针对目前巷道支护中钢管混凝土拱架缺乏可缩让压性能的问题，从吸能让位角度设计了一种防冲吸能钢管混凝土拱架结构。通过Abaqus建立新型钢管混凝土拱架与围岩组合模型，在静载与动载两种荷载状态下，对比分析新型拱架对巷道的支护效果与抗冲击能力。结论如下：(1)根据合理的让位阻力特性设计吸能构件壁厚与尺寸，在拱架上部连接处和底弧段中部设置吸能构件，可避免弯曲过大发生失稳。套管形状依据U型钢拱架卡揽结构设置为折纹型，与拱架摩擦实现缩动让压；(2)在竖向与侧向冲击下，优化后拱架支护巷道各点位移量呈减少趋势，降低了拱架顶弧段下沉与底弧段上拱，支护效果更强；(3)静载作用下，优化后拱架与吸能构件接触后，拱架各点处塑性应变不再增加，吸能构件代替拱架发生形变。在受到动载后，吸能构件能快速响应，同时拱架两帮拐角发生弯曲变形，其余部分仍未发生明显变形。吸能构件压溃后，拱架整体塑性应变开始增加，最终优化后拱架各点等效塑性应变竖向与侧向冲击下分别降低了10%～50%和13%～78%。",
+    "关键词": [
+        "钢管混凝土",
+        "吸能构件",
+        "防冲设计",
+        "巷道支护",
+        "冲击地压"
+    ],
+    "基金资助": [
+        "国家自然科学基金资助项目(51774015)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "矿业工程",
+    "分类号": "TD353",
+    "页码": "53-62",
+    "页数": "10",
+    "爬取时间": "2025-03-26 01:22:20",
+    "论文唯一代码": "MTKJ202403005"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "城市地下综合管廊抗减震措施效果对比分析",
+    "状态": "正常",
+    "发表期刊": "太原学院学报(自然科学版)",
+    "刊发时间": "2023-06-15",
+    "引用量": "1",
+    "下载量": "125",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "崔贺伟",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "安栋",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "崔光耀",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "41 ",
+    "期(Issue)": "02",
+    "摘要": " 为探究不同抗减震措施下城市地下综合管廊的抗减震效果，以某城市矩形综合管廊为工程背景，采用数值模拟软件ABAQUS进行分析计算。计算抗减震措施为管廊全环注浆、管廊施设全环减震层、管廊施设减震垫层全环注浆3种抗减震措施下管廊抗减震效果。结果表明，管廊施设减震垫层并全环注浆的抗减震效果最好，其横向最大位移和竖向最大位移分别减小了57.61%、48.68%;管廊抗减震效果最大、最小主应力分别提升了32.25%、41.66%;管廊结构最小安全系数提升了73.68%。研究结果可为类似城市地下综合管廊工程提供参考。",
+    "关键词": [
+        "综合管廊",
+        "抗减震措施",
+        "注浆",
+        "减震层"
+    ],
+    "基金资助": [
+        "国家自然科学基金资助项目(52178378)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU990.3;TU352.1",
+    "页码": "1-7",
+    "页数": "7",
+    "爬取时间": "2025-03-26 01:22:26",
+    "论文唯一代码": "TYJY202302001"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "网络异化型犯罪解释中指导性案例的应用研究",
+    "状态": "正常",
+    "发表期刊": "河南司法警官职业学院学报",
+    "刊发时间": "2023-06-15",
+    "引用量": "1",
+    "下载量": "66",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘炳汐",
+            "author_addresses": [
+                "北京市广盛律师事务所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "郭玮",
+            "author_addresses": [
+                "北方工业大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "21 ",
+    "期(Issue)": "02",
+    "摘要": " 随着我国进入网络时代，社会结构和思维方式都发生了潜移默化的改变。传统犯罪的网络异化趋势明显。对于网络异化型犯罪，司法实践陷入彷徨，呈现体系性的争议。为了寻求现行刑法在网络异化型犯罪中的恰当运用，应发挥指导性案例的标杆性作用，使之引导网络异化型犯罪案件的办理，促进该类犯罪解释共识的形成。在相似性判断过程中，应遵循“寻找案件争议点—厘清关键性事实”的路径，以关键性事实为联结点比较待决案件与指导性案例。在提炼裁判逻辑与规则过程中，应兼顾具体性与概括性，在合理约束法官裁量权的同时，确保指导性案例的创新性运用。",
+    "关键词": [
+        "网络异化",
+        "刑法解释",
+        "指导性案例"
+    ],
+    "基金资助": [
+        "2022年北京市教委社科一般项目“平台经济犯罪治理与罪名适用研究”（110051360022XN099-68）的阶段性成果"
+    ],
+    "专辑": "社会科学Ⅰ辑",
+    "专题": "刑法",
+    "分类号": "D924.3",
+    "页码": "53-58",
+    "页数": "6",
+    "爬取时间": "2025-03-26 01:22:30",
+    "论文唯一代码": "HNFJ202302010"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "数字经济时代网络平台的刑事归责进路",
+    "状态": "正常",
+    "发表期刊": "河南司法警官职业学院学报",
+    "刊发时间": "2023-06-15",
+    "引用量": "0",
+    "下载量": "185",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "范晨",
+            "author_addresses": [
+                "北方工业大学"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "21 ",
+    "期(Issue)": "02",
+    "摘要": " 随着数字经济发展，对于网络平台的刑事归责，中立帮助理论和直接控制理论呈现一定的局限性，无法厘清网络平台的刑事责任边界。造成网络平台刑事责任边界模糊与混乱的关键原因在于我国立法和司法理论并没有重视对其予以类型化区分。以网络平台的技术手段为标准，将其划分为内容提供平台、接入服务提供平台、缓存服务提供平台、储存服务提供平台，其中内容提供平台应承担“主动审查义务”,网络储存或缓存平台适用“通知+删除”规则，网络接入服务平台则“不承担事前审查义务”,归责力度逐级递减，从而实现对网络平台归责的教义学限缩。",
+    "关键词": [
+        "网络平台犯罪",
+        "中立行为",
+        "技术控制",
+        "平台类型化"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅰ辑",
+    "专题": "刑法",
+    "分类号": "D924.3",
+    "页码": "59-64",
+    "页数": "6",
+    "爬取时间": "2025-03-26 01:22:36",
+    "论文唯一代码": "HNFJ202302011"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "董其昌对赵孟頫的书法评论研究",
+    "状态": "正常",
+    "发表期刊": "中国书法",
+    "刊发时间": "2023-06-15",
+    "引用量": "1",
+    "下载量": "400",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "苏刚",
+            "author_addresses": [
+                "北方工业大学建筑与艺术学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "06",
+    "摘要": " 董其昌对赵孟頫的书法评论常呈现出褒贬不一的态度,通过这些评论,可以看到其向传统学习、立于时代前沿、超越前贤的成长三部曲。董其昌对赵孟頫实现了三个超越:书论理论体系、笔法认知以及艺木追求的超越,构成了董其昌回归人本的书法理论体系。",
+    "关键词": [
+        "董其昌",
+        "赵孟頫",
+        "书法评论"
+    ],
+    "基金资助": [],
+    "专辑": "哲学与人文科学",
+    "专题": "美术书法雕塑与摄影",
+    "分类号": "J292.1",
+    "页码": "88-101",
+    "页数": "14",
+    "爬取时间": "2025-03-26 01:22:44",
+    "论文唯一代码": "ZGXE202306014"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "东明露天煤矿东帮边坡稳定性分析",
+    "状态": "正常",
+    "发表期刊": "露天采矿技术",
+    "刊发时间": "2023-06-15",
+    "引用量": "2",
+    "下载量": "114",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李坤",
+            "author_addresses": [
+                "呼伦贝尔东明矿业有限责任公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李元浩",
+            "author_addresses": [
+                "北方工业大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李营作",
+            "author_addresses": [
+                "北方工业大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "38 ",
+    "期(Issue)": "03",
+    "摘要": " 为了研究东明露天煤矿东帮边坡的稳定性情况，对现场工地进行钻探取样，掌握岩层信息和地质情况；采用莫尔-库伦强度理论对所取岩心进行科学实验，精确获得地层的物理力学指标；在此基础之上，通过理论分析和FLAC<sup>3D</sup>数值模拟方法对边坡的变形位置及破坏模式进行了详细研究。结果表明：边坡在第4台阶处出现最大拉应力，土体发生平移滑动并形成圆弧滑动面，并且在坡顶处出现大沉降变形，在经过雨水冲刷后存在滑坡风险。",
+    "关键词": [
+        "有限差分",
+        "FLAC3D",
+        "数值模拟",
+        "莫尔-库伦强度理论",
+        "边坡稳定性"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "矿业工程",
+    "分类号": "TD824.7",
+    "页码": "67-69+74",
+    "页数": "4",
+    "爬取时间": "2025-03-26 01:22:50",
+    "论文唯一代码": "LTCM202303018"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "别斯库都克露天煤矿南帮顺层边坡稳定性分析",
+    "状态": "正常",
+    "发表期刊": "露天采矿技术",
+    "刊发时间": "2023-06-15",
+    "引用量": "0",
+    "下载量": "108",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "夏宇飞",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王振伟",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李元浩",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "郭海棣",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "黄科伟",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "38 ",
+    "期(Issue)": "03",
+    "摘要": " 基于露天矿工作帮顺层边坡稳定的重要性，结合别斯库都克露天煤矿的边坡地质条件，利用Midas GTSNX建立边坡模型并导入FLAC<sup>3D</sup>进行强度折减法计算，对边坡内部的位移场、应力场等进行分析，探究顺层岩质边坡在自重作用下的破坏模式以及发展趋势。结果表明：边坡软硬岩层交界面处发生了大范围的剪切破坏，在坡面处发现了潜在的滑移面但并未贯通，坡面发生了较大的水平位移为35 cm，边坡整体安全系数为1.176。",
+    "关键词": [
+        "边坡稳定性",
+        "数值模拟",
+        "FLAC3D",
+        "顺层边坡",
+        "强度折减法"
+    ],
+    "基金资助": [
+        "国家自然科学基金面上资助项目（51774184）",
+        "北方工业大学毓优团队资助项目（107051360019XN134/017）北方工业大学科研启动基金资助项目（110051360002）"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "矿业工程",
+    "分类号": "TD824.7",
+    "页码": "78-81",
+    "页数": "4",
+    "爬取时间": "2025-03-26 01:22:56",
+    "论文唯一代码": "LTCM202303021"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "厅子堰煤矿北帮排土场边坡稳定性分析",
+    "状态": "正常",
+    "发表期刊": "露天采矿技术",
+    "刊发时间": "2023-06-15",
+    "引用量": "0",
+    "下载量": "65",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "任学锋",
+            "author_addresses": [
+                "准格尔旗窑沟乡厅子堰煤矿有限责任公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "郭海棣",
+            "author_addresses": [
+                "北方工业大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李营作",
+            "author_addresses": [
+                "北方工业大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "38 ",
+    "期(Issue)": "03",
+    "摘要": " 对厅子堰北煤矿帮内排土场边坡进行稳定性分析；通过现场取样做试验，基本掌握地层分布规律，通过试验准确确定土层的物理力学指标；采用有限元数值模拟软件FLAC<sup>3D</sup>对该排土场边坡进行建模以及计算；合理地分析边坡内部的位移以及应力分布，确定出可能出现的滑动面，并提出监测和防治措施。结果表明：厅子堰煤矿北帮内排土场边坡存在发生滑坡的可能性。",
+    "关键词": [
+        "排土场",
+        "数值模拟",
+        "有限差分",
+        "FLAC3D",
+        "边坡稳定性"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "矿业工程",
+    "分类号": "TD824.7",
+    "页码": "89-91+96",
+    "页数": "4",
+    "爬取时间": "2025-03-26 01:23:02",
+    "论文唯一代码": "LTCM202303024"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "色彩情感在视觉传达设计中的应用探索",
+    "状态": "正常",
+    "发表期刊": "上海包装",
+    "刊发时间": "2023-06-15",
+    "引用量": "3",
+    "下载量": "482",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "姚焕姿",
+            "author_addresses": [
+                "北方工业大学"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "06",
+    "摘要": " 色彩是视觉传达设计中不可或缺的一部分。色彩的使用可以影响观众的情感和情绪,帮助设计师达到视觉传达的目的。分析了色彩情感在视觉传达设计中的作用,明确了不同颜色的情感效应,探讨色彩情感在视觉传达设计中的应用,旨在确保设计作品能够达到预期的效果。",
+    "关键词": [
+        "色彩情感",
+        "视觉传达设计",
+        "情感效应"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑;哲学与人文科学",
+    "专题": "美术书法雕塑与摄影",
+    "分类号": "J534",
+    "页码": "154-156",
+    "页数": "3",
+    "爬取时间": "2025-03-26 01:23:07",
+    "论文唯一代码": "SHBZ202306050"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "城市轨道交通运营中断下客流分配方法",
+    "状态": "正常",
+    "发表期刊": "中国安全科学学报",
+    "刊发时间": "2023-06-15",
+    "引用量": "4",
+    "下载量": "392",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "周慧娟",
+            "author_addresses": [
+                "北方工业大学城市道路交通智能控制技术北京市重点实验室",
+                "北京交通大学轨道交通控制与安全国家重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "瓮冬阳",
+            "author_addresses": [
+                "北方工业大学城市道路交通智能控制技术北京市重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李蓓",
+            "author_addresses": [
+                "清华大学交通研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "吴文祥",
+            "author_addresses": [
+                "北方工业大学城市道路交通智能控制技术北京市重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "张蜇",
+            "author_addresses": [
+                "北京交通大学轨道交通控制与安全国家重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "33 ",
+    "期(Issue)": "06",
+    "摘要": " 为准确掌握城市轨道交通线路运营中断条件下的客流分布状态，提升轨道交通应急处置与决策水平，首先，综合考虑列车拥挤度和换乘行为等因素对乘客出行路径影响，构建基于乘客出行路径的阻抗函数，计算出行阻抗的均值和方差，设定选择有效路径的判定条件；其次，充分考虑乘客面对风险和不确定环境下决策行为的有限理性，基于累积前景理论，分析线路中断下乘客路径选择策略，设定基于出行时间的内生参考点，计算乘客出行路径的累积前景值；最后，建立城市轨道交通中断下网络客流分配的Logit型随机均衡模型，利用连续平均算法(MSA)进行求解，通过Matlab编程实现各路径上流量的加权分配，并以北京地铁5号线实际中断事件为例，验证模型的可行性和有效性。结果表明：在各路段断面，该模型的客流分配结果与北京地铁断面客流的实际数据的误差率均在±10%以内，能够有效识别和掌握中断下乘客路径选择行为，且能够较为准确识别拥堵路段状况。",
+    "关键词": [
+        "城市轨道交通",
+        "运营中断",
+        "客流分配",
+        "累积前景理论",
+        "随机均衡"
+    ],
+    "基金资助": [
+        "轨道交通控制与安全国家重点实验室(北京交通大学)开放课题基金资助(RCS2022K007)",
+        "国家自然科学基金资助(72271006)"
+    ],
+    "专辑": "工程科技Ⅰ辑;工程科技Ⅱ辑",
+    "专题": "铁路运输",
+    "分类号": "U293.13",
+    "页码": "144-151",
+    "页数": "8",
+    "爬取时间": "2025-03-26 01:23:14",
+    "论文唯一代码": "ZAQK202306019"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "土木工程专业混凝土与砌体结构设计课程思政教学探讨",
+    "状态": "正常",
+    "发表期刊": "科教文汇",
+    "刊发时间": "2023-06-15",
+    "引用量": "1",
+    "下载量": "116",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张燕坤",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "程海丽",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "何世钦",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王辉",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "宋小软",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "葛燕锋",
+            "author_addresses": "北方工业大学土木工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "11",
+    "摘要": " 文章以预应力混凝土构件设计课堂教学为例，通过对土木工程专业混凝土与砌体结构设计课程思政元素的挖掘、专业教学内容与思政元素的融合方法、教学方案设计思路等进行分析讨论，提出了课程思政目标设计及实施方法，旨在为其他专业课程的思政教学提供参考。",
+    "关键词": [
+        "思政元素",
+        "专业课程",
+        "混凝土与砌体结构设计"
+    ],
+    "基金资助": [
+        "北方工业大学课程思政建设专项基金"
+    ],
+    "专辑": "社会科学Ⅱ辑;工程科技Ⅱ辑",
+    "专题": "建筑科学与工程;高等教育",
+    "分类号": "TU364-4;G641",
+    "页码": "95-97",
+    "页数": "3",
+    "爬取时间": "2025-03-26 01:23:21",
+    "论文唯一代码": "KJWH202311023"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "行政规范性文件后评估：反思与再塑",
+    "状态": "正常",
+    "发表期刊": "北方工业大学学报",
+    "刊发时间": "2023-06-15",
+    "引用量": "0",
+    "下载量": "170",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "周睿志",
+            "author_addresses": [
+                "北方工业大学文法学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "35 ",
+    "期(Issue)": "03",
+    "摘要": " 目前的行政规范性文件后评估具有一种法制审核的倾向，它和备案审查机制形成了功能重叠。事实上，行政规范性文件后评估是公共政策评估“家族”中的一个类型。在实践中，行政规范性文件后评估应当以公共政策评估为定位，一方面，优化评估的目标体系，不仅评估文件的合法性问题，还评估文件的整体合理性，并总结文件所在领域的治理经验；另一方面，改进评估实施机制，可由综合部门组织评估，吸纳更多主体参与评估工作，且对评估结果进行充分使用。",
+    "关键词": [
+        "行政规范性文件",
+        "后评估",
+        "法制控制",
+        "公共政策评估"
+    ],
+    "基金资助": [
+        "国家社会科学基金一般项目“公共风险预防视角下公益诉讼基本理论与制度完善研究”(20BFX081)"
+    ],
+    "专辑": "工程科技Ⅱ辑;社会科学Ⅰ辑",
+    "专题": "行政法及地方法制",
+    "分类号": "D922.1",
+    "页码": "122-130",
+    "页数": "9",
+    "爬取时间": "2025-03-26 01:23:26",
+    "论文唯一代码": "BFGY202303015"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "理论、历史和现实：人与自然和谐共生现代化的三重逻辑",
+    "状态": "正常",
+    "发表期刊": "北方工业大学学报",
+    "刊发时间": "2023-06-15",
+    "引用量": "2",
+    "下载量": "214",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王瑜贺",
+            "author_addresses": [
+                "北方工业大学马克思主义学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "35 ",
+    "期(Issue)": "03",
+    "摘要": " 人与自然和谐共生是中国式现代化的重要特征，不仅有助于满足人民日益增长的美好生活需要，也为新时代社会主义生态文明建设指明了发展方向。人与自然和谐共生的现代化缘起于马克思恩格斯的未来社会理论，同时兼具中国古代生态伦理思想及新中国生态治理实践特色，有力地推动了生态文明建设取得实质性成就。从理论、历史与现实三重逻辑探究人与自然和谐共生的现代化，有助于理顺其概念生成逻辑、中国化的演进逻辑以及现实路径逻辑，从而为推进中国式现代化、开辟人类文明新形态奠定坚实的生态基石。",
+    "关键词": [
+        "人与自然和谐共生",
+        "中国式现代化",
+        "三重逻辑",
+        "生态文明"
+    ],
+    "基金资助": [
+        "北京市教委基本科研业务费项目“新时代生态文明的发展路径研究”(110052972027/152)北京市教委社科一般项目“新时代人类卫生健康共同体的机制构建与现实挑战”(SM202310009004)"
+    ],
+    "专辑": "工程科技Ⅱ辑;工程科技Ⅰ辑;社会科学Ⅰ辑",
+    "专题": "环境科学与资源利用;中国政治与国际政治;思想政治教育",
+    "分类号": "D61;D64;X2",
+    "页码": "17-24",
+    "页数": "8",
+    "爬取时间": "2025-03-26 01:23:32",
+    "论文唯一代码": "BFGY202303003"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "中国式现代化的文化脉络、支撑与诉求",
+    "状态": "正常",
+    "发表期刊": "北方工业大学学报",
+    "刊发时间": "2023-06-15",
+    "引用量": "0",
+    "下载量": "170",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "朱建平",
+            "author_addresses": [
+                "北方工业大学马克思主义学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "35 ",
+    "期(Issue)": "03",
+    "摘要": " 文化视域下的中国式现代化遵循历史、理论和实践的逻辑，表现为文化脉络、文化支撑和文化诉求的内在统一。中国式现代化于新民主主义革命、社会主义革命和建设、改革开放和社会主义现代化建设、中国特色社会主义新时代四个历史时期形成文化脉络，从中华优秀传统文化、革命文化、社会主义先进文化和世界各国优秀文化中获得文化支撑，在实践中回应了加大文化研究力度、发展文化事业和文化产业、顺应文化数字化趋势、实现文化共享新格局的文化诉求。",
+    "关键词": [
+        "中国式现代化",
+        "文化脉络",
+        "文化支撑",
+        "文化诉求"
+    ],
+    "基金资助": [
+        "北京市习近平新时代中国特色社会主义思想研究中心项目“中国共产党红色基因传承研究”(4010597621E6)",
+        "北京市教委基本科研业务费项目“习近平党的政治建设思想研究”(110052971921/114)"
+    ],
+    "专辑": "工程科技Ⅱ辑;哲学与人文科学;社会科学Ⅰ辑",
+    "专题": "文化;中国政治与国际政治",
+    "分类号": "D61;G120",
+    "页码": "1-8+24",
+    "页数": "9",
+    "爬取时间": "2025-03-26 01:23:46",
+    "论文唯一代码": "BFGY202303001"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "灌浆料与既有混凝土界面黏结性能试验研究",
+    "状态": "正常",
+    "发表期刊": "建筑结构",
+    "刊发时间": "2023-06-15",
+    "引用量": "2",
+    "下载量": "199",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "韩艳",
+            "author_addresses": [
+                "北方工业大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张恩来",
+            "author_addresses": [
+                "北方工业大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王江江",
+            "author_addresses": [
+                "北方工业大学土木工程学院",
+                "中建八局第二建设有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "53 ",
+    "期(Issue)": "S1",
+    "摘要": " 为确保灌浆料和既有混凝土结构共同工作，通过直接剪切试验，研究了灌浆料和普通混凝土之间的界面黏结强度。考虑连接界面形状、灌浆料强度与龄期等因素设计制作了18组54个Z型直剪试件，通过剪切试验测量了应变及位移，得到了相应的界面黏结-滑移曲线，提出了灌浆料修复既有混凝土结构的界面黏结滑移模型，并给出了界面黏结刚度建议值。试验结果表明：界面形状为三角形时的界面黏结强度最大，梯形的次之，光滑的最小；灌浆料强度对界面黏结强度的影响与灌浆料龄期密切相关，7d龄期时界面黏结强度随灌浆料强度的增加而减小，28d龄期时界面黏结强度随灌浆料强度的增加而增大；灌浆料与混凝土的界面黏结强度随灌浆料龄期的增加而增大，灌浆料龄期对光滑界面的影响程度最大，对梯形以及三角形界面的影响程度较小。",
+    "关键词": [
+        "灌浆料",
+        "混凝土",
+        "界面黏结性能",
+        "界面形状",
+        "黏结-滑移"
+    ],
+    "基金资助": [
+        "国家自然科学基金项目（51878006）",
+        "北方工业大学专项（110051360022XN108-16）"
+    ],
+    "专辑": "工程科技Ⅱ辑;工程科技Ⅰ辑",
+    "专题": "无机化工;建筑科学与工程",
+    "分类号": "TU528;TU578",
+    "页码": "1631-1639",
+    "页数": "9",
+    "爬取时间": "2025-03-26 01:23:52",
+    "论文唯一代码": "JCJG2023S1287"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "基于句间信息的图注意力卷积网络的文档级关系抽取",
+    "状态": "正常",
+    "发表期刊": "计算机科学",
+    "刊发时间": "2023-06-15",
+    "引用量": "7",
+    "下载量": "251",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "段建勇",
+            "author_addresses": [
+                "北方工业大学信息学院",
+                "CNONIX国家标准应用与推广实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "duanjy@ncut.edu.cn"
+        },
+        {
+            "author_order": 2,
+            "author_name": "杨潇",
+            "author_addresses": [
+                "北方工业大学信息学院",
+                "CNONIX国家标准应用与推广实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王昊",
+            "author_addresses": [
+                "北方工业大学信息学院",
+                "CNONIX国家标准应用与推广实验室",
+                "北京城市治理研究基地"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "何丽",
+            "author_addresses": [
+                "北方工业大学信息学院",
+                "CNONIX国家标准应用与推广实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "李欣",
+            "author_addresses": [
+                "北方工业大学信息学院",
+                "CNONIX国家标准应用与推广实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "50 ",
+    "期(Issue)": "S1",
+    "摘要": " 为解决现有模型对文档的结构信息挖掘不足的问题，提出一种基于句间信息的图注意力卷积网络模型。该模型改进了一种文档级编码器，该编码器使用了一种新的注意力机制——句间注意力机制，使得句子的最终表示更加关注前一个句子和之前文档中的重要信息，更有利于挖掘文档的结构信息。实验结果表明，所提模型在DocRED数据集上的F<sub>1</sub>评价指标达到56.3%,性能优于基线模型。在融入句间注意力机制时，由于模型需要对每一句话分别进行句间注意力操作，因此训练模型时需要消耗更多的内存和时间。基于句间信息的图注意力卷积网络模型可以有效地对文档中的相关信息进行聚合，并且增强对文档的结构信息的挖掘能力，从而使得模型在文档级关系抽取任务中效果得到提升。",
+    "关键词": [
+        "文档级关系抽取",
+        "注意力机制",
+        "文档级编码器",
+        "图卷积网络"
+    ],
+    "基金资助": [
+        "国家自然科学基金(61972003)",
+        "教育部人文社科基金项目(21YJA740052)",
+        "北京哲社基地建设专项经费(110051360019XN142)",
+        "北京市教育委员会科学研究计划项目(KM202210009002)~~"
+    ],
+    "专辑": "信息科技",
+    "专题": "计算机软件及计算机应用",
+    "分类号": "TP391.1",
+    "页码": "191-196",
+    "页数": "6",
+    "爬取时间": "2025-03-26 01:23:58",
+    "论文唯一代码": "JSJA2023S1025"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "浅析产品设计中共生理念的体现",
+    "状态": "正常",
+    "发表期刊": "中国包装",
+    "刊发时间": "2023-06-14",
+    "引用量": "2",
+    "下载量": "145",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王双贺",
+            "author_addresses": "北方工业大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘永翔",
+            "author_addresses": "北方工业大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "06",
+    "摘要": " 本文以自然界最为常见的生物共生现象为出发点，着眼于产品设计过程中各设计要素，分析共生理念与产品设计间所存在的联系，结合实际案例来研究产品各设计要素中共生理念所体现出的价值与意义。希望通过共生理念的引入，来实现产品设计过程中各要素的和谐统一，为产品设计提供新的参考和路径。",
+    "关键词": [
+        "共生",
+        "设计",
+        "产品",
+        "要素"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "工业通用技术及设备",
+    "分类号": "TB472",
+    "页码": "78-81",
+    "页数": "4",
+    "爬取时间": "2025-03-26 01:24:04",
+    "论文唯一代码": "ZBZZ202306019"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "裕固族服饰纹样在文创产品设计中的应用与创新",
+    "状态": "正常",
+    "发表期刊": "中国包装",
+    "刊发时间": "2023-06-14",
+    "引用量": "0",
+    "下载量": "290",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王敏艳",
+            "author_addresses": [
+                "北方工业大学机械与材料工程学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "06",
+    "摘要": " 以活态形式传承至今的少数民族服饰文化是我国特有的文化资源，以裕固族服饰为例提取服饰纹样，以文创产品为载体进行创新设计研究，实现弘扬民族文化、拓宽文创产品附加值的目的。本论文通过田野调查法及访谈法，整理裕固族服饰纹样的相关资料并生成纹样图谱，提取纹样典型特征曲线生成初始形状库，运用形状文法对初始形状进行推演变换输出新纹样，最后将纹样应用于文创产品来验证方法的可行性。研究不仅拓展了少数民族文化创新设计的维度，而且丰富了裕固族服饰纹样创新设计方法，为裕固族文化背景下的文创产品开发提供新思路。",
+    "关键词": [
+        "裕固族服饰纹样",
+        "纹样创新",
+        "再设计",
+        "形状文法"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑;工程科技Ⅰ辑",
+    "专题": "轻工业手工业;工业通用技术及设备",
+    "分类号": "TB472;TS941.12",
+    "页码": "90-94",
+    "页数": "5",
+    "爬取时间": "2025-03-26 01:24:11",
+    "论文唯一代码": "ZBZZ202306022"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "新型电力系统下分布式储能应用场景与优化配置",
+    "状态": "正常",
+    "发表期刊": "高电压技术",
+    "刊发时间": "2023-06-13 16:32",
+    "引用量": "22",
+    "下载量": "3515",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李建林",
+            "author_addresses": [
+                "北京未来电化学储能系统集成技术创新中心(北方工业大学)"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "姜冶蓉",
+            "author_addresses": [
+                "北京未来电化学储能系统集成技术创新中心(北方工业大学)"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "w1536950085@163.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "马速良",
+            "author_addresses": [
+                "北京未来电化学储能系统集成技术创新中心(北方工业大学)"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "崔宜琳",
+            "author_addresses": [
+                "北京未来电化学储能系统集成技术创新中心(北方工业大学)"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "郭霄宇",
+            "author_addresses": [
+                "北京和瑞储能科技有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "50 ",
+    "期(Issue)": "01",
+    "摘要": " 随着分布式能源的大量接入，电力系统面临如何减弱新能源并网引起波动的挑战。合理配置分布式储能能够有效平抑波动，提高电能质量，因此需要对分布式储能配置问题进行深入研究。该文首先研究并归纳了分布式储能的发展现状，其次从新型电力系统下分布式储能的优点入手，通过分析电源侧、电网侧以及用户侧等不同的应用场景，建立了完善的分布式储能合理配置流程，然后分别从优化模型的搭建和优化方法的选择2方面展开研究，汇总了常用的目标函数和约束条件，论述了典型优化算法的适用性，最后根据目前分布式储能配置的研究现状，指出了目前优化过程中需要改进的问题。",
+    "关键词": [
+        "新型电力系统",
+        "分布式能源",
+        "分布式储能",
+        "优化配置",
+        "智能优化算法"
+    ],
+    "基金资助": [
+        "国家自然基金(52277211)",
+        "国家电投集团科学技术研究院项目(126005JX0120220055)~~"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "电力工业",
+    "分类号": "TM73",
+    "页码": "30-41",
+    "页数": "12",
+    "爬取时间": "2025-03-26 01:24:18",
+    "论文唯一代码": "GDYJ202401003"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "中间包内钢液流动和二次氧化的数值模拟",
+    "状态": "正常",
+    "发表期刊": "中国冶金",
+    "刊发时间": "2023-06-12 16:30",
+    "引用量": "7",
+    "下载量": "295",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "陈宏亮",
+            "author_addresses": [
+                "燕山大学机械工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘珍童",
+            "author_addresses": [
+                "燕山大学机械工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "周秋月",
+            "author_addresses": [
+                "北京科技大学冶金与生态工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "巴钧涛",
+            "author_addresses": [
+                "燕山大学材料科学与工程学院",
+                "中国第一重型机械股份公司铸锻钢事业部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "陈威",
+            "author_addresses": [
+                "燕山大学机械工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "张立峰",
+            "author_addresses": [
+                "北方工业大学机械与材料工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "zhanglifeng@ncut.edu.cn"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "33 ",
+    "期(Issue)": "07",
+    "摘要": " 由于目前关于铸锭中间包内钢液二次氧化过程仍然缺乏深入研究，对某厂实际生产303 t铸锭过程中真空脱气精炼（Vacuum Degassing Refining, VD）过程以及中间包内钢液进行取样，分析了钢中总氧（TO）和总氮（TN）含量的变化以及夹杂物成分、数量和尺寸的变化。结果表明，由于大铸锭浇注过程没有进行保护浇注，导致中间包内钢液的TO和TN质量分数较精炼结束分别增加了5.59×10<sup>-6</sup>和9.08×10<sup>-6</sup>。二次氧化后，夹杂物的数密度增加了近4倍，夹杂物也由液态的钙铝酸盐向Al<sub>2</sub>O<sub>3</sub>转变，降低了钙处理效果。数值模拟得到浇注时中间包钢液面卷入空气的平均速率为4.2×10<sup>-5</sup> kg/s,圆形中间包较深的液位导致中间包进出口温差达到3.9 K。二次氧化后，在注流区的TO质量分数较高，而在右侧循环流区域和靠近底部区域质量分数较低，TO的平均质量分数和最大质量分数分别为28.6×10<sup>-6</sup>和45.3×10<sup>-6</sup>;CaO和Al<sub>2</sub>O<sub>3</sub>的平均质量分数分别为20.9×10<sup>-6</sup>和32.3×10<sup>-6</sup>。研究结果为优化中间包浇注过程中钢液二次氧化问题提供理论指导。",
+    "关键词": [
+        "大型铸锭中间包",
+        "多相流",
+        "二次氧化",
+        "夹杂物成分",
+        "空间分布"
+    ],
+    "基金资助": [
+        "河北省自然科学基金资助项目(E2021203222)",
+        "国家自然科学基金资助项目(U22A20171,52104343)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "冶金工业",
+    "分类号": "TF777",
+    "页码": "40-50",
+    "页数": "11",
+    "爬取时间": "2025-03-26 01:24:26",
+    "论文唯一代码": "ZGYE202307005"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "注重整体思维培养的城乡规划专业建筑设计教学探索",
+    "状态": "正常",
+    "发表期刊": "高等建筑教育",
+    "刊发时间": "2023-06-12",
+    "引用量": "1",
+    "下载量": "113",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王卉",
+            "author_addresses": "北方工业大学建筑与艺术学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "梁玮男",
+            "author_addresses": "北方工业大学建筑与艺术学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "任雪冰",
+            "author_addresses": "北方工业大学建筑与艺术学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "32 ",
+    "期(Issue)": "03",
+    "摘要": " 建筑设计课程是城乡规划专业教学的一项基础内容，城乡规划学成为国家一级学科后，应改进建筑设计课程的教学内容和方法以适应城乡规划专业人才培养需求。以北方工业大学城乡规划二年级建筑设计课程为例，总结归纳学生设计过程中出现的环境分析不充分、整体设计观念欠缺、逻辑分析能力训练不足等问题，提出以整体思维培养为重点、加强过程教学的改革方向。教学建立以空间形态设计为核心、以自然环境和人文环境分析为出发点的整体设计观念，在此基础上细化教学主题，完善题目设置，围绕环境、行为、功能与空间设计等核心要素展开教学。同时，为培养学生的逻辑思维能力和科学分析能力，调整教学过程和组织方法，理清教学主线，强化分阶段、分层次的教学组织形式，并将多种互动交流模式应用于教学过程中。",
+    "关键词": [
+        "城乡规划",
+        "建筑设计",
+        "教学方法",
+        "整体思维"
+    ],
+    "基金资助": [
+        "国家自然科学基金(51708001)",
+        "北方工业大学“毓秀导航培养计划”"
+    ],
+    "专辑": "社会科学Ⅱ辑;工程科技Ⅱ辑",
+    "专题": "建筑科学与工程;高等教育",
+    "分类号": "G642;TU201-4",
+    "页码": "207-213",
+    "页数": "7",
+    "爬取时间": "2025-03-26 01:24:32",
+    "论文唯一代码": "JANE202303024"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "膜吸收法处理光伏行业高氨氮废水相关技术研究",
+    "状态": "正常",
+    "发表期刊": "中阿科技论坛(中英文)",
+    "刊发时间": "2023-06-10",
+    "引用量": "0",
+    "下载量": "375",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "佟素娟",
+            "author_addresses": [
+                "国投信开水环境投资有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "薛同来",
+            "author_addresses": [
+                "北方工业大学电气与控制工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "06",
+    "摘要": " 由氨氮废水引起的水体污染已经成为亟须解决的环境问题。膜吸收技术凭借其操作方便、设备简单、能耗低、回收率高和无二次污染等优点，成为处理高氨氮废水的新技术。本文采用膜吸收技术对光伏太阳能行业高氨氮废水进行中试实验，并重点研究了该技术在工程应用过程中的控制参数以及对系统传质系数的影响。研究结果表明，在应用该技术于处理高氨氮废水的过程中，氨氮处理效率可达98%以上，原水进水pH、氨氮浓度、流速、吸收液的浓度以及流速是控制整个系统的关键运行参数，通过参数优化可以取得较高的处理效率。",
+    "关键词": [
+        "光伏行业",
+        "高氨氮废水",
+        "膜吸收",
+        "运行参数"
+    ],
+    "基金资助": [
+        "北京市教委科技项目“基于物联网的再生水厂数据挖掘系统应用研究”（KM202110009013）"
+    ],
+    "专辑": "经济与管理科学;工程科技Ⅰ辑",
+    "专题": "环境科学与资源利用",
+    "分类号": "X703",
+    "页码": "93-97",
+    "页数": "5",
+    "爬取时间": "2025-03-26 01:24:48",
+    "论文唯一代码": "ZAKJ202306018"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "晋商文化的信义观",
+    "状态": "正常",
+    "发表期刊": "衡水学院学报",
+    "刊发时间": "2023-06-10",
+    "引用量": "1",
+    "下载量": "472",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张茂林",
+            "author_addresses": "北方工业大学马克思主义学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张祎",
+            "author_addresses": "北方工业大学马克思主义学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "25 ",
+    "期(Issue)": "03",
+    "摘要": " 在中华民族悠久灿烂的历史文化中，晋商文化独树一帜。信义观作为晋商文化的特质，是在传统文化的熏陶下、在长久的商业经营实践中形成的，其所包含的信义立身、信义并举、信义合一等主要内容，对于晋商在商业经济方面取得的辉煌成就发挥着至关重要的作用。晋商文化的信义观具有重要的社会价值、文化价值和经济价值，开发其中所蕴含的丰富思想政治教育资源，对促进个人形成良好品德修养、提升高校学生人文素养、加强企业核心理念建设等具有重大意义。",
+    "关键词": [
+        "晋商文化",
+        "信义观",
+        "思想政治教育",
+        "中华优秀传统文化"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学;经济与管理科学",
+    "专题": "文化;企业经济",
+    "分类号": "F279.27;G127",
+    "页码": "114-118",
+    "页数": "5",
+    "爬取时间": "2025-03-26 01:24:53",
+    "论文唯一代码": "HSSZ202303014"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "“双碳”目标下宝钢股份绿色低碳发展研究——基于创新的视角",
+    "状态": "正常",
+    "发表期刊": "商业会计",
+    "刊发时间": "2023-06-10",
+    "引用量": "1",
+    "下载量": "507",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "胡睿欣",
+            "author_addresses": "北方工业大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "林芳",
+            "author_addresses": "北方工业大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "孔德仪",
+            "author_addresses": "北方工业大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "11",
+    "摘要": " 供给侧结构性改革使钢铁行业树立了依靠创新降本增效实现产业转型升级的新发展理念。目前，供给侧改革仍处于深化阶段，“双碳”目标和能源“双控”目标向竞争激烈的钢铁行业提出了更高的要求和更严峻的挑战，钢铁行业如何继续降本增效、实现绿色低碳发展，成为社会各界关注的焦点。宝钢股份作为我国钢铁行业的龙头企业，在剖析其成本结构的同时探析其如何在“双碳”目标实现的过程中降本增效，实现绿色低碳发展，有助于为整个钢铁行业乃至制造业提供理论参考及经验借鉴。研究发现，宝钢股份要实现绿色低碳发展的目标，不仅需要加大研发投入进行科技创新，更需要人力资本的支撑。",
+    "关键词": [
+        "降成本",
+        "创新",
+        "人力资本",
+        "宝钢股份"
+    ],
+    "基金资助": [
+        "北京市教委社科一般项目“北京市劳动力成本上升对企业技术创新影响研究”",
+        "北京市级大学生创新创业训练计划“供给侧改革背景下制造业企业降成本研究”阶段性成果"
+    ],
+    "专辑": "经济与管理科学;工程科技Ⅰ辑",
+    "专题": "冶金工业;环境科学与资源利用;工业经济;企业经济",
+    "分类号": "X322;F273.1;F426.31",
+    "页码": "114-117",
+    "页数": "4",
+    "爬取时间": "2025-03-26 01:24:58",
+    "论文唯一代码": "SYKI202311024"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "集成学习融合依赖度的软件缺陷数量预测方法",
+    "状态": "正常",
+    "发表期刊": "计算机技术与发展",
+    "刊发时间": "2023-06-10",
+    "引用量": "2",
+    "下载量": "76",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "郭峰",
+            "author_addresses": "北方工业大学信息学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "和萌萌",
+            "author_addresses": "北方工业大学信息学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "33 ",
+    "期(Issue)": "06",
+    "摘要": " 软件缺陷可能会导致软件产品故障和经济损失，有效识别潜在的软件缺陷在软件开发、运行维护过程中是至关重要的。先前软件缺陷预测方面的研究工作主要关注判断一个软件模块是否有缺陷。但由于测试资源，预测软件模块缺陷数会对软件开发和维护更有帮助。因此，在集成算法基础上，融合依赖度，提出一种新的缺陷数预测方法ELDDP(Ensemble Learning Fusion Dependencies for Software Defect Count Prediction)。首先，基于smote算法，对从最k近邻选择目标类方法进行改进。将类之间的依赖关系进行度量并引入smote算法中，选择目标类时优先选择依赖度高的类。其次，提出结合集成学习Adaboost.R2算法和Stacking模型融合算法构建缺陷数预测模型。在Promise数据集进行实验，对比了三种常用缺陷预测回归模型，实验结果表明该算法有较好的准确性和稳定性。",
+    "关键词": [
+        "软件缺陷预测",
+        "依赖度",
+        "集成学习",
+        "smote",
+        "Stacking"
+    ],
+    "基金资助": [
+        "国家自然基金(61672041)"
+    ],
+    "专辑": "信息科技",
+    "专题": "计算机软件及计算机应用;自动化技术",
+    "分类号": "TP311.53;TP18",
+    "页码": "95-100",
+    "页数": "6",
+    "爬取时间": "2025-03-26 01:25:03",
+    "论文唯一代码": "WJFZ202306015"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "信息技术赋能教学能力内涵式发展的演进路径及实践",
+    "状态": "正常",
+    "发表期刊": "计算机教育",
+    "刊发时间": "2023-06-10",
+    "引用量": "1",
+    "下载量": "143",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王若宾",
+            "author_addresses": [
+                "北方工业大学信息学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "06",
+    "摘要": " 针对信息技术赋能教学能力存在外延式发展较快而内涵式发展不足的问题，提出从“学会用”到“学会教”进而实现“教会学”的教学能力内涵式发展演进路径，阐释教师自身职业能力实现高质量发展的演变过程，并以数据库课程教学为例，介绍具体教学实践过程，最后通过教学实践的数据分析，说明教学能力内涵式发展演进路径的有效性。",
+    "关键词": [
+        "教学能力",
+        "内涵式发展",
+        "数据库课程",
+        "演进路径"
+    ],
+    "基金资助": [
+        "教育部产学合作协同育人项目（202102370003）教育部高等学校大学计算机课程教学指导委员会联合高等教育出版社项目（2022）",
+        "全国高等院校计算机基础教育研究会项目（2023-AFCEC-134）",
+        "北京市高等教育学会重点项目（ZD202127）",
+        "北方工业大学党建研究课题（2023）"
+    ],
+    "专辑": "信息科技;社会科学Ⅱ辑",
+    "专题": "高等教育;计算机硬件技术",
+    "分类号": "G642;TP3-4",
+    "页码": "169-173",
+    "页数": "5",
+    "爬取时间": "2025-03-26 01:25:08",
+    "论文唯一代码": "JYJS202306033"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "基于大数据的“精准思政”育人模式创新与实践",
+    "状态": "正常",
+    "发表期刊": "北京教育(高教)",
+    "刊发时间": "2023-06-10",
+    "引用量": "2",
+    "下载量": "439",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "田红芳",
+            "author_addresses": "北方工业大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "靳现凯",
+            "author_addresses": "北方工业大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "06",
+    "摘要": " 大数据时代，高校在推进“精准思政”的过程中，面临着“数据分散导致工作对象识别不清、工作精准度不高，学生需求多元导致服务供给不准、工作供给力不足，工作力量分散导致三全育人聚合力不强、工作协同不够”等现实问题。北方工业大学借助大数据聚焦“精准思政”的模式创新和平台建设，加强精准协同育人，显著提升思政工作的聚合力、供给力和精准度。",
+    "关键词": [
+        "大数据",
+        "精准思政",
+        "育人模式"
+    ],
+    "基金资助": [
+        "2020年国家社科基金思政课研究专项“高校青年思政课教师政治认同的内在机理与实践取向研究”（项目编号：20VSZ116）阶段性成果"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "高等教育",
+    "分类号": "G641",
+    "页码": "48-50",
+    "页数": "3",
+    "爬取时间": "2025-03-26 01:25:13",
+    "论文唯一代码": "BJYG202306012"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "CBL教学法结合肌骨超声在临床针灸的应用",
+    "状态": "正常",
+    "发表期刊": "中国中医药现代远程教育",
+    "刊发时间": "2023-06-10",
+    "引用量": "3",
+    "下载量": "131",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "林岷瑜",
+            "author_addresses": [
+                "中国医学科学院北京协和医学院人文学院",
+                "北方工业大学伦敦布鲁内尔学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "吴欣瑜",
+            "author_addresses": [
+                "北京中医药大学东方医院儿科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "胡慧",
+            "author_addresses": [
+                "北京中医药大学东方医院针灸科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "何芙蓉",
+            "author_addresses": [
+                "福建中医药大学针灸推拿学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "邱东升",
+            "author_addresses": [
+                "厦门中医院针灸科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "谢俊杰",
+            "author_addresses": [
+                "厦门中医院针灸科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "黄剑",
+            "author_addresses": [
+                "北京中医药大学东方医院针灸科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "xiamenhuangjian@sina.com"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "21 ",
+    "期(Issue)": "11",
+    "摘要": " 针灸学是一门以经络腧穴理论为基础，实践性很强的临床医学学科，要求学生能够理论联系实践完成专业知识的学习。腧穴解剖结构是针灸理论的主要内容，肌骨超声可对肌肉、肌腱、韧带、神经等组织进行成像，已广泛应用于临床与教学。针对肌骨超声的优势和CBL教学模式的特点，将肌骨超声引入CBL教学模式中，可推动临床情景式、病案驱动式教学改革，提高针灸科临床实践教学质量。",
+    "关键词": [
+        "CBL教学法",
+        "肌骨超声",
+        "临床实践",
+        "针灸",
+        "教学改革"
+    ],
+    "基金资助": [
+        "北京中医药大学教育科学研究课题【No.XJYB2058】",
+        "国家自然科学基金【No.81850410548,81904287】"
+    ],
+    "专辑": "医药卫生科技;社会科学Ⅱ辑",
+    "专题": "医学教育与医学边缘学科;高等教育",
+    "分类号": "R-4;G642",
+    "页码": "40-42",
+    "页数": "3",
+    "爬取时间": "2025-03-26 01:25:18",
+    "论文唯一代码": "ZZYY202311013"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "层状复合岩石变形破坏全过程接触面力学特征研究",
+    "状态": "正常",
+    "发表期刊": "岩土力学",
+    "刊发时间": "2023-06-10",
+    "引用量": "3",
+    "下载量": "438",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "许海亮",
+            "author_addresses": [
+                "北方工业大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "谭安福",
+            "author_addresses": [
+                "北方工业大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "宋义敏",
+            "author_addresses": [
+                "北方工业大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "ssyymmok@sina.com"
+        },
+        {
+            "author_order": 4,
+            "author_name": "朱力",
+            "author_addresses": [
+                "中交二公局工程设计研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "安栋",
+            "author_addresses": [
+                "北方工业大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "杜羽",
+            "author_addresses": [
+                "北方工业大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "高晗钧",
+            "author_addresses": [
+                "北方工业大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "44 ",
+    "期(Issue)": "06",
+    "摘要": " 通过三点弯曲试验，利用CCD相机作为观测手段，采用数字散斑相关方法，对一种细砂岩组成的层状复合岩石试件进行试验研究，分析层状复合岩石变形破坏全过程接触面力学特征。结果表明：（1）随着荷载的施加，上下层试件表面的水平应变场呈现竖向分布的拉压应变区交替出现的现象，这种现象在层间接触面附近尤为明显；（2）层间滑动位移整体呈波动状态分布，随着荷载的增加，层间滑动位移值逐步增大，最大滑移值为0.174mm;（3）接触面水平应力值受层间接触条件影响呈波动变化状态，层间竖向应力曲线呈V形分布；（4）加载过程中层间摩擦系数不断变化，在滑动初期阶段，摩擦系数从3.5降低至0.2，在稳定滑动阶段，摩擦系数则保持为0.15;（5）上下层面变形能密度曲线变化趋势基本相同，在荷载峰值时刻，接触面变形能密度达到最大值4.2 J/m<sup>3</sup>。上述研究成果可为远程岩层界面DIC监测和岩层滑动研究取值提供有益的参考。",
+    "关键词": [
+        "层状复合岩石",
+        "三点弯曲试验",
+        "接触面",
+        "力学特征"
+    ],
+    "基金资助": [
+        "国家自然科学基金（No.51474013）~~"
+    ],
+    "专辑": "工程科技Ⅱ辑;基础科学",
+    "专题": "地质学;建筑科学与工程",
+    "分类号": "TU45",
+    "页码": "1683-1694",
+    "页数": "12",
+    "爬取时间": "2025-03-26 01:25:23",
+    "论文唯一代码": "YTLX202306012"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "可液化倾斜场地的侧向扩展机制分析",
+    "状态": "正常",
+    "发表期刊": "岩土力学",
+    "刊发时间": "2023-06-10",
+    "引用量": "3",
+    "下载量": "332",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "贾科敏",
+            "author_addresses": [
+                "北京工业大学城市与工程安全减灾教育部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "许成顺",
+            "author_addresses": [
+                "北京工业大学城市与工程安全减灾教育部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "xuchengshun@bjut.edu.cn"
+        },
+        {
+            "author_order": 3,
+            "author_name": "杜修力",
+            "author_addresses": [
+                "北京工业大学城市与工程安全减灾教育部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张小玲",
+            "author_addresses": [
+                "北京工业大学城市与工程安全减灾教育部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "宋佳",
+            "author_addresses": [
+                "北京工业大学城市与工程安全减灾教育部重点实验室",
+                "北方工业大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "苏卓林",
+            "author_addresses": [
+                "北京工业大学城市与工程安全减灾教育部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "44 ",
+    "期(Issue)": "06",
+    "摘要": " 针对已完成的液化水平自由场大型振动台试验，采用OpenSees有限元平台，建立了振动台试验的数值分析模型，并验证了该模型的可靠性。基于此，建立了地基整体倾斜的自由场数值模型，重点讨论了场地土体的非循环地震响应和液化侧向扩展机制。结果表明，建立的数值模型可以有效地模拟可液化场地的地震反应。倾斜场地中，可液化松砂与上覆非液化层界面处具有显著的相对位移，饱和砂土的应变累积从松砂层浅层开始，逐步向深层发展，超孔隙水压力增长和土体非循环应变累积未表现出耦合的现象，场地的中部土体控制非循环横向位移的发展。另一方面，土体液化过程中，当沿滑动面的剪切应力小于初始静剪应力时，液化侧向扩展启动。此时饱和松砂层的剪应力比在0.04～0.06范围内，略小于初始静剪应力比。此外，还发现液化诱导侧向扩展需要场地具有一定的倾斜度（大于0.5°）；土的侧向位移符合余弦分布模式；随着场地倾斜度的增大，可液化深层土对整体侧向位移的贡献更显著。",
+    "关键词": [
+        "液化",
+        "侧向扩展",
+        "自由场地",
+        "数值模拟",
+        "地震反应",
+        "机制",
+        "振动台试验"
+    ],
+    "基金资助": [
+        "国家自然科学基金面上项目（No.52078016）国家自然科学基金优秀青年基金（No.51722801）",
+        "北京市自然科学基金面上项目（No.8192012）~~"
+    ],
+    "专辑": "工程科技Ⅱ辑;基础科学",
+    "专题": "地质学;建筑科学与工程",
+    "分类号": "TU435",
+    "页码": "1837-1848",
+    "页数": "12",
+    "爬取时间": "2025-03-26 01:25:29",
+    "论文唯一代码": "YTLX202306026"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "基于曲率模态差角钢输电塔损伤识别技术研究",
+    "状态": "正常",
+    "发表期刊": "北京建筑大学学报",
+    "刊发时间": "2023-06-09",
+    "引用量": "4",
+    "下载量": "168",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "贺文波",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "曹枚根",
+            "author_addresses": [
+                "北方工业大学土木工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "赵东拂",
+            "author_addresses": [
+                "北京建筑大学土木与交通工程学院",
+                "北京建筑大学北京节能减排与城乡可持续发展省部共建协同创新中心",
+                "北京建筑大学大型多功能振动台阵实验室",
+                "北京建筑大学工程结构与新材料北京市高校工程研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "39 ",
+    "期(Issue)": "03",
+    "摘要": " 为延长输电塔的服役时间，提出了一种曲率模态差值法识别输电塔应力薄弱杆件位置的损伤识别技术。以桐城-柳城Ⅰ、Ⅱ回220 kV线路工程中的2E8-SCZ2-33塔型的B23塔为研究对象，首先通过现场实测以及数值模拟开展了铁塔的动力特性研究；其次计算不同风速下输电塔构件的内力，通过压屈比设计主材、斜材薄弱位置不同程度的损伤，研究损伤后对铁塔动力特性的影响；最后用曲率模态差值分析方法对输电塔损伤位置进行识别。研究表明，曲率模态差值分析方法可以有效识别出输电塔主材损伤杆件的位置，对于单根斜材损伤识别不灵敏。B23塔主材最薄弱位置在第(18)段，斜材最薄弱位置在塔腿处。计算表明在39 m/s的风荷载作用下主材压屈比超过0.600,在43 m/s的风荷载作用下主材压屈比超过0.700,应重点关注薄弱位置的健康状况。",
+    "关键词": [
+        "输电塔",
+        "动力特性",
+        "曲率模态差",
+        "损伤识别",
+        "现场测试"
+    ],
+    "基金资助": [
+        "国家自然科学基金项目(51378045)",
+        "北京建筑大学研究生创新项目(PG2022035)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程;电力工业",
+    "分类号": "TU317;TM75",
+    "页码": "70-79",
+    "页数": "10",
+    "爬取时间": "2025-03-26 01:25:33",
+    "论文唯一代码": "BJJZ202303009"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "基于椭圆拓扑变换的叶片二维叶型参数化方法",
+    "状态": "正常",
+    "发表期刊": "机械工程学报",
+    "刊发时间": "2023-06-08 15:14",
+    "引用量": "0",
+    "下载量": "202",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "佀传瑞",
+            "author_addresses": [
+                "北京航空航天大学机械工程及自动化学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "成金鑫",
+            "author_addresses": [
+                "北京科技大学机械工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "陈志同",
+            "author_addresses": [
+                "北京航空航天大学机械工程及自动化学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "ztchen@buaa.edu.cn"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张云",
+            "author_addresses": [
+                "北方工业大学机械与材料工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "朱正清",
+            "author_addresses": [
+                "北京航空航天大学机械工程及自动化学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "陈明升",
+            "author_addresses": [
+                "北京航空航天大学能源与动力工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "59 ",
+    "期(Issue)": "07",
+    "摘要": " 叶型参数化方法服务于叶片设计、制造和再制造全生命周期。针对目前叶型参数化方法难以兼顾造型参数几何含义直观和叶型曲率及曲率导数的连续性问题，提出了一种基于椭圆拓扑变换的二维叶型参数化方法。该方法基于椭圆与叶型曲率分布特征与拓扑结构的一致性，通过构造多个拓扑变换使椭圆变形成二维叶型。在变形过程中，建立了叶型主要几何特征参数与造型参数的一一对应关系且自然地保持了椭圆的高阶连续性。为验证该方法的有效性，对不同几何特征的叶型进行了反演验证。结果表明，与现有方法相比，该方法可用更少的造型参数实现更高的拟合精度；反演叶型曲率及曲率的导数均连续变化；反演叶型和原始叶型气动性能保持很好的一致性；改变单个造型参数可直观地改变叶型几何特征。因此，该参数化方法更易设计出低损失高负荷的叶型，传递的设计意图也更易被制造和再制造环节理解使用，有利于保障叶片的最终服役性能。",
+    "关键词": [
+        "参数化方法",
+        "椭圆拓扑变换",
+        "叶片二维叶型",
+        "叶片全生命周期"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "航空航天科学与工程",
+    "分类号": "V263",
+    "页码": "81-91",
+    "页数": "11",
+    "爬取时间": "2025-03-26 01:25:45",
+    "论文唯一代码": "JXXB202307008"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "零工经济用工模式及其优化对策研究",
+    "状态": "正常",
+    "发表期刊": "价格理论与实践",
+    "刊发时间": "2023-06-07 15:24",
+    "引用量": "13",
+    "下载量": "1649",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "赵继新",
+            "author_addresses": "北方工业大学经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "于润泽",
+            "author_addresses": "北方工业大学经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "02",
+    "摘要": " 随着互联网时代到来，催生出了以零工经济为代表的新就业形态，这从根本上改变了传统的雇佣关系。依托数字平台快速发展、打破传统用工模式的零工经济已成为灵活就业的“助推器”和全民就业的“蓄水池”。本文将零工经济用工模式划分为程序匹配式、兼职按需式、众包协作式、自由独立式四种类型，其具有雇佣自由化、薪酬灵活化、工作碎片化、管理平台化、劳动技能化等基本特征。在此基础上，指出零工经济用工模式存在零工招聘方式有待规范、忠诚度有待提升、职业培训体系有待完善、福利保障体系有待完善等不足。最后，本文从人力资源的“选”“用”“育”“留”角度提出适应零工经济用工模式的管理优化对策。",
+    "关键词": [
+        "零工经济",
+        "用工模式",
+        "平台企业",
+        "零工",
+        "人力资源管理"
+    ],
+    "基金资助": [],
+    "专辑": "经济与管理科学;社会科学Ⅱ辑",
+    "专题": "人才学与劳动科学;宏观经济管理与可持续发展",
+    "分类号": "F249.2",
+    "页码": "175-179",
+    "页数": "5",
+    "爬取时间": "2025-03-26 01:26:11",
+    "论文唯一代码": "JGLS202302038"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "基于个体的校园新冠疫情管控措施优化研究",
+    "状态": "正常",
+    "发表期刊": "计算机仿真",
+    "刊发时间": "2023-06-06 12:45",
+    "引用量": "0",
+    "下载量": "299",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "谭墍元",
+            "author_addresses": "北方工业大学电气与控制工程学院(北京)",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李廷帅",
+            "author_addresses": "北方工业大学电气与控制工程学院(北京)",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "郭伟伟",
+            "author_addresses": "北方工业大学电气与控制工程学院(北京)",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "李云丛",
+            "author_addresses": "北方工业大学电气与控制工程学院(北京)",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "41 ",
+    "期(Issue)": "07",
+    "摘要": " 为了优化高校应对新冠疫情的管控措施，使用基于活动的个体出行模型结合传染病模型搭建可生成附有疫情传播信息的个体出行数据的仿真平台，在平台中验证高校应对疫情的管控措施效果并加以优化。对常态扫码管控进行优化后，验证无症状感染者比例及R0等特性均与奥密克戎毒株相符，且优化后每日确诊病例数，累计确诊病例数峰值及峰值时间均有改善。采用个体出行的异质模型仿真可更好解释COVID-19爆发的不可忽略的随机性质，采用更严格的扫码管控结合核酸检测优化措施可更好地遏制疫情传播，感染规模可降低约53.11%。",
+    "关键词": [
+        "高校疫情",
+        "师生出行仿真",
+        "异质性",
+        "管控措施优化"
+    ],
+    "基金资助": [
+        "城市交通智能治理大数据计算平台及应用示范(2018YFB 1601100)"
+    ],
+    "专辑": "信息科技;基础科学;医药卫生科技",
+    "专题": "数学;预防医学与卫生学",
+    "分类号": "R184;O29",
+    "页码": "341-346",
+    "页数": "6",
+    "爬取时间": "2025-03-26 01:26:23",
+    "论文唯一代码": "JSJZ202407063"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "论辨认笔录在监察调查中的证据资格",
+    "状态": "正常",
+    "发表期刊": "绥化学院学报",
+    "刊发时间": "2023-06-05",
+    "引用量": "0",
+    "下载量": "126",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王然",
+            "author_addresses": [
+                "北方工业大学文法学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "06",
+    "摘要": " 辨认笔录是《刑事诉讼法》中明确规定的证据种类，但是在《监察法》中却没有相关规定。文章从合法性角度、应然证据资格，应结合合法性、真实性、关联性这三个实质要件对辨认笔录进行分析。同时，在层面还是实然层面上看，辨认笔录都应具有独立的证据地位。关于辨认笔录在监察调查中的监察法的文本内容中应该对辨认作为独立的证据类型，进行法律支撑，实现监察调查与司法审查之间的证据链条的完整性对接，从而保证程序正当，解决证据适用现实障碍的要求。",
+    "关键词": [
+        "辨认笔录",
+        "证据资格",
+        "监察调查"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑;社会科学Ⅰ辑",
+    "专题": "行政法及地方法制;诉讼法与司法制度",
+    "分类号": "D925.2;D922.11",
+    "页码": "43-45",
+    "页数": "3",
+    "爬取时间": "2025-03-26 01:26:40",
+    "论文唯一代码": "SHSZ202306013"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "为真实的世界而设计——大变局时代的设计思维定势分析",
+    "状态": "正常",
+    "发表期刊": "中国艺术",
+    "刊发时间": "2023-06-05",
+    "引用量": "0",
+    "下载量": "300",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "苏刚",
+            "author_addresses": [
+                "北方工业大学建筑与艺术学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "03",
+    "摘要": " 当设计思维定势与其所服务的现实世界紧密关联时，是经验的总结与智慧的结晶；当设计思维定势与现实世界脱离关系时，就会成为设计创新的阻碍。在大变局的时代背景下，一些设计师难以顺应时代变化，不能从设计思维定势中脱离出来。针对这种现象，文章以文献法和案例法进行分析，指出设计思维定势形成阻碍的内在原因是设计师忽视了大变局时代设计服务的本质属性变化、设计技术整合的趋势以及设计需求的变化，根本原因是设计师沉浸在自我世界里，忽视了为真实世界而设计的本义。",
+    "关键词": [
+        "空间器型",
+        "设计",
+        "真实的世界",
+        "自我的世界",
+        "创新",
+        "思维定势"
+    ],
+    "基金资助": [],
+    "专辑": "哲学与人文科学",
+    "专题": "美术书法雕塑与摄影",
+    "分类号": "J505",
+    "页码": "24-29",
+    "页数": "6",
+    "爬取时间": "2025-03-26 01:26:43",
+    "论文唯一代码": "YISI202303004"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "城市空间格局与产业发展的互动关系研究——以北京市通州区为例",
+    "状态": "正常",
+    "发表期刊": "新型城镇化",
+    "刊发时间": "2023-06-05",
+    "引用量": "0",
+    "下载量": "147",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "武彤",
+            "author_addresses": [
+                "北方工业大学"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "06",
+    "摘要": " 随着城市的快速发展，规模的不断扩大，城市空间布局与产业结构之间联系紧密，彼此间相互影响，二者的互动关系越来越强。基于北京市通州区作为城市副中心的独特的政治地位和区位优势，探究通州区的城市空间结构演变和产业发展过程，阐述城市空间与产业发展之间的互动关系，对其作出评价以及提出相关建议，为通州区制定科学的战略和未来城市的发展奠定基础，以期产业发展与空间结构之间互动协调，对城市化进程和经济发展均产生积极的影响。",
+    "关键词": [
+        "城市空间",
+        "产业发展"
+    ],
+    "基金资助": [],
+    "专辑": "经济与管理科学;工程科技Ⅱ辑",
+    "专题": "建筑科学与工程;经济体制改革",
+    "分类号": "TU984.113;F127",
+    "页码": "112-115",
+    "页数": "4",
+    "爬取时间": "2025-03-26 01:26:46",
+    "论文唯一代码": "XXCZ202306036"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "中国铜需求量景气指数构建与研究",
+    "状态": "正常",
+    "发表期刊": "世界有色金属",
+    "刊发时间": "2023-06-05",
+    "引用量": "1",
+    "下载量": "74",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王书平",
+            "author_addresses": "北方工业大学经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "冀承秀",
+            "author_addresses": "北方工业大学经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "11",
+    "摘要": " 本文首先分析了影响中国铜需求量的因素,在此基础上选取了我国宏观经济领域以及5个铜下游行业的指标数据作为指标初选组;其次利用时差相关分析等方法对初选指标进行筛选,确定32个指标为最终组指标体系;最后,采用合成指数方法测算了2020年1月至2021年12月的中国铜需求量景气指数。结果发现:铜需求量景气指数与铜消费增长率走势基本一致,二者体现出较高的相关性,说明该景气指数能有效地刻画中国铜消费的景气波动程度,较好地描述中国铜需求量市场;此外,该景气指数也具有一定预警功能。",
+    "关键词": [
+        "铜需求量",
+        "景气指数",
+        "合成指数",
+        "指标体系"
+    ],
+    "基金资助": [
+        "北方工业大学毓优团队培养计划项目(107051360021XN083/045)"
+    ],
+    "专辑": "工程科技Ⅰ辑;经济与管理科学",
+    "专题": "冶金工业;工业经济",
+    "分类号": "F426.32",
+    "页码": "193-195",
+    "页数": "3",
+    "爬取时间": "2025-03-26 01:26:53",
+    "论文唯一代码": "COLO202311065"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "不同弯曲方法对辊弯成形回弹的影响研究",
+    "状态": "正常",
+    "发表期刊": "中国机械工程",
+    "刊发时间": "2023-06-02 17:05",
+    "引用量": "11",
+    "下载量": "471",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "韩飞",
+            "author_addresses": "北方工业大学机械与材料工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "孙玮隆",
+            "author_addresses": "北方工业大学机械与材料工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张若青",
+            "author_addresses": "北方工业大学机械与材料工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "34 ",
+    "期(Issue)": "19",
+    "摘要": " 为研究辊弯成形过程中不同弯曲方法对回弹的影响，采用试验与有限元仿真相结合的方法分析了不同弯曲方法、圆角半径、板材厚度对回弹的影响；对不同弯曲方法下辊弯成形过程中的应力应变分布情况进行分析，揭示了不同弯曲方法下辊弯成形的回弹机理。研究结果表明：根据不同弯曲方法(定半径法及定长度法)的工艺原理，各道次圆角半径与弯曲段弧长的设计差异是影响两者应力-应变分布以及回弹量不同的主要因素；定半径法回弹量随道次数的增加而增大，增幅也随之增大；定长度法回弹量随道次数的增加变化不明显，且幅值大于定半径法的幅值；在两种弯曲方法下，回弹量均出现随圆角半径增大而增大、板材厚度增大而减小的趋势。",
+    "关键词": [
+        "辊弯成形",
+        "回弹",
+        "弯曲方法",
+        "定半径法",
+        "定长度法"
+    ],
+    "基金资助": [
+        "国家自然科学基金(51074204)",
+        "北京市自然科学基金-市教委联合项目(KZ201910009011)",
+        "北京市属高校高水平教师队伍建设长城学者培养计划(CIT&TCD20190306)",
+        "北方工业大学毓杰团队支持计划(107051360021XN083/001)"
+    ],
+    "专辑": "工程科技Ⅱ辑;工程科技Ⅰ辑",
+    "专题": "金属学及金属工艺",
+    "分类号": "TG306",
+    "页码": "2353-2361",
+    "页数": "9",
+    "爬取时间": "2025-03-26 01:27:28",
+    "论文唯一代码": "ZGJX202319010"
+}
+{
+    "学校id": "4111010009",
+    "学校": "北方工业大学",
+    "论文类型": "期刊",
+    "论文题目": "心智哲学视域下的空间介词的语义关联性研究——以under和below比较为例",
+    "状态": "正常",
+    "发表期刊": "现代英语",
+    "刊发时间": "2023-06-01",
+    "引用量": "0",
+    "下载量": "74",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "梁彬",
+            "author_addresses": [
+                "北方工业大学"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "11",
+    "摘要": " 心智哲学认为语言的认知基础是心智的认知，这为近义介词的区分提供了一个新的视域。介词的空间语义可以看作是感觉，抽象语义可以看作是感受。相似的空间感觉导致了两者相似的感受，抽象域的相似性得以解释。认知语言学认为隐喻是介词词义拓展的重要途径，隐喻的发生势必涉及主体的心智过程。认知主体的意向态度差异促使主体选择不同的空间介词，从而可以解释近义介词在抽象域中的差异性。",
+    "关键词": [
+        "心智哲学",
+        "认知语言学",
+        "空间介词"
+    ],
+    "基金资助": [],
+    "专辑": "哲学与人文科学",
+    "专题": "外国语言文字",
+    "分类号": "H313",
+    "页码": "58-61",
+    "页数": "4",
+    "爬取时间": "2025-03-26 01:27:38",
+    "论文唯一代码": "XDYM202311015"
+}

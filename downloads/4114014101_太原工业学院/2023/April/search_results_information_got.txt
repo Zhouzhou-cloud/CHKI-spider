@@ -1,0 +1,2491 @@
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "NixTi-LDHs@CuF的合成及电催化氧化甲醇的性能研究",
+    "状态": "正常",
+    "发表期刊": "山西化工",
+    "刊发时间": "2023-04-30",
+    "引用量": "0",
+    "下载量": "189",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李宝毅",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "白雪丽",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王峰",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "段海龙",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "王慧芳",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "李潇",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "张小平",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "京晶",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "04",
+    "摘要": " 本研究通过原位浸渍法合成了在泡沫金属铜上生长类水滑石Ni<sub>x</sub>Ti-LDHs纳米片的复合材料（Ni<sub>x</sub>Ti-LDHs@CuF）。借助X射线衍射仪和扫描电子显微镜手段对催化剂的结构进行表征，并通过线性扫描伏安法、电化学阻抗和计时电流测试等方法研究了含不同镍钛比的催化剂对甲醇的电催化氧化性能以及温度对反应的影响。结果表明，泡沫金属铜表面生长的形貌类似风信子花状的Ni<sub>x</sub>Ti-LDHs可以改善泡沫金属铜的导电性，降低电催化过程中的电荷转移阻力，提高对甲醇的电催化氧化性能。尤其是当镍钛比为1∶3时表现出最佳的电催化氧化活性，且温度对峰电流有直接影响。计时电流测试表明，Ni<sub>x</sub>Ti-LDHs@CuF具有一定的稳定性。",
+    "关键词": [
+        "类水滑石",
+        "电催化",
+        "催化氧化",
+        "泡沫金属铜"
+    ],
+    "基金资助": [
+        "山西省自然科学基金（202203021212333）",
+        "山西省高等学校科技创新计划项目（2022L555）"
+    ],
+    "专辑": "工程科技Ⅰ辑;工程科技Ⅱ辑",
+    "专题": "化学;无机化工;电力工业",
+    "分类号": "TM911.4;O643.36",
+    "页码": "5-8",
+    "页数": "4",
+    "爬取时间": "2025-03-26 08:37:56",
+    "论文唯一代码": "SDHW202304002"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "环丙沙星苯乙基衍生物钴配合物的合成研究",
+    "状态": "正常",
+    "发表期刊": "山西化工",
+    "刊发时间": "2023-04-30",
+    "引用量": "0",
+    "下载量": "185",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王曼",
+            "author_addresses": "太原工业学院化学与化工系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "武丽娜",
+            "author_addresses": "太原工业学院化学与化工系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "邢迦迦",
+            "author_addresses": "太原工业学院化学与化工系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "李怡然",
+            "author_addresses": "太原工业学院化学与化工系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "04",
+    "摘要": " 近年来，随着喹诺酮药物在临床中使用量的增大，细菌对其产生了抗药性，因此研发新一代的高效率的环丙沙星的越来越重要。根据构效关系，将苯乙基引入到环丙沙星7位哌嗪环N-4位上,以期获得抗菌谱更广、抑菌性能更好的环丙沙星衍生物。然后合成金属配合物，使其具有新的生理活性。研究了温度、时间、物料比3个单因素对衍生物产率的影响，通过响应面法得到最佳工艺条件。实验结果表明，环丙沙星苯乙基衍生物在反应时间8.94 h，反应温度100.625℃，反应物料摩尔比为1∶1.1下，产率最高为38.206 3%。测得衍生物的熔点为270～275℃、红外光谱在3 500～3 300cm<sup>-1</sup>处没有N-H的吸收峰，在1 500～670 cm<sup>-1</sup>处出现C-N的吸收峰，并在3 396、1 454、1 496 cm<sup>-1</sup>处出现了新的吸收峰，核磁共振氢谱在7.3、2.7、1.2 ppm处出现了新的吸收峰。同时合成了其金属配合物，并用紫外、红外光谱表征了其结构。红外光谱在1 725 cm<sup>-1</sup>和1 628 cm<sup>-1</sup>没有峰出现，紫外光谱在204 nm和289 nm处吸收峰基本为0。",
+    "关键词": [
+        "环丙沙星衍生物",
+        "抗菌活性",
+        "金属配合物",
+        "结构表征"
+    ],
+    "基金资助": [
+        "山西省高等学校优秀成果培育项目（2019KJ038）"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "有机化工",
+    "分类号": "TQ460.1",
+    "页码": "11-15+32",
+    "页数": "6",
+    "爬取时间": "2025-03-26 08:38:14",
+    "论文唯一代码": "SDHW202304004"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "干旱胁迫下中红杨光合特性对环境因子的响应",
+    "状态": "正常",
+    "发表期刊": "绿色科技",
+    "刊发时间": "2023-04-30",
+    "引用量": "0",
+    "下载量": "79",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王怡霖",
+            "author_addresses": [
+                "太原工业学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "25 ",
+    "期(Issue)": "08",
+    "摘要": " 为研究干旱胁迫下影响中红杨（Populus×euramericana‘Zhonghong’）光合特性的首要环境因子，试验采用盆栽控水法设置了3个干旱胁迫程度：CK（土壤相对含水量75%～80%）、MS（40%～45%）、SS（25%～30%）。结果表明：MS引起净光合速率（P_n）和气孔导度（G<sub>s</sub>）下降，蒸腾速率（T<sub>r</sub>）升高，光合有效辐射（PAR）与P_n显著相关（P&lt;0.01）,P_n明显受PAR的影响，气孔限制成为P_n下降的主导因素；SS下，T<sub>r</sub>、G<sub>s</sub>和胞间CO<sub>2</sub>浓度（C<sub>i</sub>）升高，大气温度(T<sub>air</sub>)与T<sub>r</sub>显著相关（P&lt;0.01）,Tair是影响T<sub>r</sub>的重要驱动因子，非气孔限制引起P_n下降。中红杨表现出较弱的光合抗旱性和高蒸腾特性。",
+    "关键词": [
+        "干旱胁迫",
+        "中红杨",
+        "光合特性",
+        "环境因子"
+    ],
+    "基金资助": [
+        "山西省高等学校科技创新项目(编号：2020L0668)"
+    ],
+    "专辑": "农业科技",
+    "专题": "林业",
+    "分类号": "S792.11",
+    "页码": "23-27",
+    "页数": "5",
+    "爬取时间": "2025-03-26 08:38:43",
+    "论文唯一代码": "LVKJ202308005"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "铁碳微电解协同过硫酸盐深度处理焦化废水",
+    "状态": "正常",
+    "发表期刊": "山西水利",
+    "刊发时间": "2023-04-30",
+    "引用量": "4",
+    "下载量": "110",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "苏赛赛",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘原",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "赵新路",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "孟悦",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "04",
+    "摘要": " 文章分析了铁碳微电解协同过硫酸盐处理焦化废水过程中，过硫酸盐（PS）投加量、铁碳质量比、铁碳总投加量、反应时间、初始p H等因素对处理效果的影响，结果表明：反应时间为150 min,PS投加量为10 mmol/L,m(Fe0)∶m(AC)=3∶2，铁碳总投加量为0.125 g,pH为6～7的条件下，COD的去除效果较好，最大去除率可达78.68%，能够实现焦化废水的深度处理。",
+    "关键词": [
+        "铁碳微电解",
+        "过硫酸盐",
+        "焦化废水"
+    ],
+    "基金资助": [
+        "太原工业学院大学生创新创业项目（GK 22020115）"
+    ],
+    "专辑": "工程科技Ⅱ辑;工程科技Ⅰ辑",
+    "专题": "燃料化工;环境科学与资源利用",
+    "分类号": "X784",
+    "页码": "60-61+64",
+    "页数": "3",
+    "爬取时间": "2025-03-26 08:39:02",
+    "论文唯一代码": "SXLS202304027"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "技术决定论和社会建构论对教育技术的影响",
+    "状态": "正常",
+    "发表期刊": "忻州师范学院学报",
+    "刊发时间": "2023-04-30",
+    "引用量": "2",
+    "下载量": "492",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王越",
+            "author_addresses": [
+                "太原工业学院计算机系"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "39 ",
+    "期(Issue)": "02",
+    "摘要": " 在现代社会环境中，教育技术与教育实践的重要性及矛盾性问题日益突出。教育作为比较开放、前沿和复杂的社会系统之一，受到社会和技术两个系统间的相互制约和影响。而在两者的影响力方面，社会因素占有更多的主导性地位，甚至在很多层面制约着技术的运用和创新。文章将从社会建构论和技术决定论的视角来分析其对教育技术及实践的影响，进而对教育技术发展进行反思与批判。",
+    "关键词": [
+        "技术决定论",
+        "社会建构论",
+        "教育技术"
+    ],
+    "基金资助": [
+        "太原工业学院院级“大学文化”研究项目(21020201)太原工业学院院级辅导员精品项目(2022FDY07)",
+        "山西省高等学校哲学社会科学研究项目(2022zsszsx103)"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "教育理论与教育管理",
+    "分类号": "G40-057",
+    "页码": "111-114",
+    "页数": "4",
+    "爬取时间": "2025-03-26 08:39:15",
+    "论文唯一代码": "YZSF202302020"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "低能耗、高效率的无泵水力空化联合臭氧降解罗丹明B",
+    "状态": "正常",
+    "发表期刊": "水处理技术",
+    "刊发时间": "2023-04-27 08:51",
+    "引用量": "4",
+    "下载量": "253",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "冯中营",
+            "author_addresses": [
+                "太原工业学院理学系",
+                "陕西师范大学物理学与信息技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "吴胜举",
+            "author_addresses": [
+                "陕西师范大学物理学与信息技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王烽宇",
+            "author_addresses": [
+                "山西卫安环保科技股份有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "朱开金",
+            "author_addresses": [
+                "太原工业学院材料工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "王子荣",
+            "author_addresses": [
+                "山西卫安环保科技股份有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "赵婷婷",
+            "author_addresses": [
+                "太原工业学院理学系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "49 ",
+    "期(Issue)": "05",
+    "摘要": " 采用低能耗、高效率的无泵水力空化装置联合臭氧对50 L罗丹明B溶液进行降解，使用功率仅为230w的电动机驱动自制螺旋桨和孔板水力空化装置。单独水力空化的降解效果非常低，臭氧与水力空化联合处理效果较好。臭氧的最佳流量为2 L/min，臭氧过多会导致气泡过多，抑制水力空化。臭氧流量为2 L/min，罗丹明B初始浓度分别为4、6、8、10 mg/L时，分别经过4、5、6、7 min后降解率接近100%。螺旋桨搅拌不仅促进了臭氧的利用，而且螺旋桨和孔板诱导的水力空化在联合降解中也发挥了重要作用。臭氧-无泵水力空化联合技术避免了大功率水泵的使用，具有能耗低、降解率高、处理能力大等优点，在污水处理中具有良好的实际应用前景。",
+    "关键词": [
+        "罗丹明B",
+        "水力空化",
+        "臭氧",
+        "降解"
+    ],
+    "基金资助": [
+        "国家自然科学基金项目（1047406110074042）",
+        "山西省高等学校科技创新项目（2020L0628）",
+        "太原工业学院（后备）学科带头人项目太原工业学院引进人才科研资助项目（2022KJ072）"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "环境科学与资源利用",
+    "分类号": "X703",
+    "页码": "110-113+119",
+    "页数": "5",
+    "爬取时间": "2025-03-26 08:39:30",
+    "论文唯一代码": "SCLJ202305021"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "“人—环境—实践”三者关系对高等数学课程教学的启示",
+    "状态": "正常",
+    "发表期刊": "西部素质教育",
+    "刊发时间": "2023-04-25",
+    "引用量": "0",
+    "下载量": "88",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "马淼",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "宁健",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李岸巍",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "9 ",
+    "期(Issue)": "08",
+    "摘要": " 文章首先阐述了“人—环境—实践”三者关系，然后论述了“人—环境—实践”三者关系对高等数学课程教学的启示，包括重视人的重要性对高等数学课程教学的启示、营造良好的环境对高等数学课程教学的启示、充分发挥实践作用对高等数学课程教学的启示。",
+    "关键词": [
+        "高等数学课程教学",
+        "“人—环境—实践”三者关系",
+        "“以人为本”"
+    ],
+    "基金资助": [
+        "山西省高等学校教学改革创新项目（编号：SJJY-2020-20162）",
+        "山西省基础研究计划项目（编号：20210302124702）",
+        "太原工业学院引进人才科研资助项目（编号：2022KJ075）",
+        "2022年太原工业学院校级课程思政建设项目“高等数学”（编号：22-020708）"
+    ],
+    "专辑": "社会科学Ⅱ辑;基础科学",
+    "专题": "数学;高等教育",
+    "分类号": "G642;O13-4",
+    "页码": "170-173",
+    "页数": "4",
+    "爬取时间": "2025-03-26 08:39:36",
+    "论文唯一代码": "XBSJ202308042"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "体育专业复合应用型人才培养模式研究",
+    "状态": "正常",
+    "发表期刊": "当代体育科技",
+    "刊发时间": "2023-04-25",
+    "引用量": "1",
+    "下载量": "89",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "屈朝辉",
+            "author_addresses": [
+                "太原工业学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "13 ",
+    "期(Issue)": "12",
+    "摘要": " 近年来，各国纷纷举行大型运动比赛，显示了国际社会对高层次运动人才的需求。基于此，以山西省高等学校为依托，开展对体育专业复合应用型人才培养模式的探索研究。通过研究，明确山西省高等院校体育专业复合应用型人才培养目标、体育专业课程开设情况、体育专业人才培养师资情况和体育专业复合应用型人才培养现状。为培养更优质的体育专业复合应用型人才，从充分发挥目标引领作用，构建“双创”教学环境，丰富体育专业教育实践资源等方面提出一种新的人才培养模式，以期为体育专业教育改革提供参考，同时也为山西省高等学校体育教育转型提供参考依据。",
+    "关键词": [
+        "体育专业",
+        "应用型",
+        "模式",
+        "培养",
+        "人才",
+        "复合"
+    ],
+    "基金资助": [
+        "山西省高等学校教学改革创新项目（项目名称：体育康复复合型人才培养模式研究,项目编号：J20221113）"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G807.4",
+    "页码": "73-76",
+    "页数": "4",
+    "爬取时间": "2025-03-26 08:39:42",
+    "论文唯一代码": "DYKJ202312016"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "新媒体驱动下思政教育开展策略",
+    "状态": "正常",
+    "发表期刊": "中国报业",
+    "刊发时间": "2023-04-25",
+    "引用量": "0",
+    "下载量": "16",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王晓文",
+            "author_addresses": [
+                "太原工业学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "08",
+    "摘要": " 新媒体时代，各行各业都发生了深刻变革。新媒体带给教育的改变是多方面的，从互联网传播视角出发，高校思政教育从行为习惯出发，深入关注学生的思想变化和习惯养成，通过提高学生的综合素养来彻底改变教学培养的策略是更新颖、更有内涵的思政教育。本文从当前高校思政教育的新格局、新特点、新策略出发，对新媒体时代开展高校思政教育工作进行分析。",
+    "关键词": [
+        "互联网时代",
+        "思政教育",
+        "高校育人",
+        "策略调整",
+        "内涵拓展"
+    ],
+    "基金资助": [],
+    "专辑": "经济与管理科学;社会科学Ⅱ辑",
+    "专题": "高等教育",
+    "分类号": "G641",
+    "页码": "236-237",
+    "页数": "2",
+    "爬取时间": "2025-03-26 08:39:46",
+    "论文唯一代码": "ZGBT202308106"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "不同钠基蒙脱土改性方法及NRCNs的结构与性能",
+    "状态": "正常",
+    "发表期刊": "弹性体",
+    "刊发时间": "2023-04-25",
+    "引用量": "1",
+    "下载量": "230",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "薛玮先",
+            "author_addresses": [
+                "中北大学材料科学与工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "梁玉蓉",
+            "author_addresses": [
+                "太原工业学院材料工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张涛",
+            "author_addresses": [
+                "太原工业学院材料工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "33 ",
+    "期(Issue)": "02",
+    "摘要": " 采用了长链脂肪族季铵盐十八烷基三甲基溴化铵(STAB)改性钠基蒙脱土(MMT),并通过熔体共混法填充至天然橡胶(NR),制备得到MMT/NR纳米复合材料(NRCNs),考察了未改性MMT及改性MMT的微观结构和分散相态，以及不同方法改性MMT所制备的复合材料力学性能和硫化特性。结果表明，固液改性MMT拥有更好的改性效果，固液改性MMT的层间距较未改性MMT的层间距提高了268%;固液改性NRCNs的拉伸强度较纯胶提高了21%。固液改性法同时具有环保节水的优点，是一种值得进一步研究的方法。",
+    "关键词": [
+        "蒙脱土改性",
+        "改性方法",
+        "有机改性",
+        "天然橡胶",
+        "纳米复合材料"
+    ],
+    "基金资助": [
+        "国家自然基金资助项目(51573124)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "有机化工;材料科学",
+    "分类号": "TQ332;TB332",
+    "页码": "6-10",
+    "页数": "5",
+    "爬取时间": "2025-03-26 08:39:56",
+    "论文唯一代码": "TXTZ202302002"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "固体废弃物资源化应用驱动城市可持续发展",
+    "状态": "正常",
+    "发表期刊": "中国经贸导刊",
+    "刊发时间": "2023-04-20",
+    "引用量": "1",
+    "下载量": "325",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李波",
+            "author_addresses": [
+                "太原工业学院经济与管理系"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "04",
+    "摘要": " &lt;正&gt;我国是世界人口大国，也是固体废弃物产出大国。根据固体废弃物性质和来源进行分类，通常可以分为三类：一般工业废弃物、危险废弃物（包含医疗废弃物）和城市生活垃圾。固体废弃物来源广泛而复杂，具有产生量大、容易形成“面源性污染”和“点源性污染”的特征，对环境和城市居民的健康构成现实的重大威胁。流行病学研究已经证实了城市固废污染对人类健康的负面效应；同时，未经无害化处理的固体废弃物也会污染水体、土地和大气等人类赖以生存的自然环境和资源。",
+    "关键词": [],
+    "基金资助": [],
+    "专辑": "经济与管理科学;工程科技Ⅰ辑",
+    "专题": "环境科学与资源利用",
+    "分类号": "X705",
+    "页码": "64-67",
+    "页数": "4",
+    "爬取时间": "2025-03-26 08:40:01",
+    "论文唯一代码": "ZJMD202304022"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "中学地理人地协调观核心素养培养途径探究——以“都江堰水利工程”为例",
+    "状态": "正常",
+    "发表期刊": "北京教育学院学报",
+    "刊发时间": "2023-04-20",
+    "引用量": "3",
+    "下载量": "653",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "尹卫霞",
+            "author_addresses": [
+                "北京教育学院数学与科学教育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "苗湃林",
+            "author_addresses": [
+                "太原工业学院思想政治理论教学研究部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王婧",
+            "author_addresses": [
+                "清华大学附属小学昌平学校"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "37 ",
+    "期(Issue)": "02",
+    "摘要": " 人地协调观作为中学地理的学科核心素养之一，包含“地对人的影响”“人对地的影响”和“人地和谐”三个要素。人地协调观的培养需要经过“感知人地协调观”“理解人地协调观”“运用人地协调观”的循环进阶。都江堰水利工程的修建背景、对自然环境的改造及对自然条件和规律的利用体现了人地协调观的三个要素。以都江堰水利工程为例，中学地理人地协调观核心素养培养途径包括长时间尺度下对人地协调观的感知、完整情境下对人地协调观要素的整体理解、真实任务下对人地协调观的运用。",
+    "关键词": [
+        "中学地理",
+        "人地协调观",
+        "学科核心素养",
+        "都江堰水利工程"
+    ],
+    "基金资助": [
+        "北京市教育科学“十四五”规划青年专项课题“家校社协同视域下中小学灾害教育系统化实施的模式构建研究”(CDCA21103)"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "中等教育",
+    "分类号": "G633.55",
+    "页码": "29-34",
+    "页数": "6",
+    "爬取时间": "2025-03-26 08:40:08",
+    "论文唯一代码": "BJJX202302005"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "基于有限元模拟薄膜热流计热应变分析",
+    "状态": "正常",
+    "发表期刊": "电子测试",
+    "刊发时间": "2023-04-15",
+    "引用量": "0",
+    "下载量": "44",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王雪松",
+            "author_addresses": [
+                "太原师范学院计算机系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "魏艳龙",
+            "author_addresses": [
+                "太原师范学院计算机系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "褚惟诚",
+            "author_addresses": [
+                "太原师范学院计算机系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "梁海坚",
+            "author_addresses": [
+                "太原工业学院电子工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "郭晋秦",
+            "author_addresses": [
+                "太原工业学院电子工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "李志玲",
+            "author_addresses": [
+                "中北大学机电工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "02",
+    "摘要": " 实现高超声速飞行器表面气动热的精准监测,对于飞行器表面热防护材料的优化具有重要意义。针对超高声速飞行器表面原位集成薄膜热流计的结构可靠性问题,采用有限元模拟的方法建立薄膜热流计的多物理场仿真模型,分析了热流计基底上表面和热阻层下表面的热应变,分别对比不同基底厚度和热阻层厚度下的应变结果。最后,总结了热流计表面的体积应变和等效偏应变的变化趋势,为热流计的设计和优化提供了指导性依据。",
+    "关键词": [
+        "薄膜热流计",
+        "有限元",
+        "热应变",
+        "体积应变",
+        "等效偏应变"
+    ],
+    "基金资助": [
+        "山西省基础研究计划青年科学研究项目(202203021212185)资助"
+    ],
+    "专辑": "信息科技;工程科技Ⅱ辑",
+    "专题": "航空航天科学与工程",
+    "分类号": "V243",
+    "页码": "67-71",
+    "页数": "5",
+    "爬取时间": "2025-03-26 08:40:20",
+    "论文唯一代码": "WDZC202302010"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "基于磁致伸缩超声换能的偏置磁场设计仿真测试技术研究",
+    "状态": "正常",
+    "发表期刊": "电子测试",
+    "刊发时间": "2023-04-15",
+    "引用量": "0",
+    "下载量": "62",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "褚惟诚",
+            "author_addresses": [
+                "太原师范学院计算机系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "魏艳龙",
+            "author_addresses": [
+                "太原师范学院计算机系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "18636136726@163.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "白渊铭",
+            "author_addresses": [
+                "太原师范学院计算机系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "杨国权",
+            "author_addresses": [
+                "太原师范学院计算机系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "梁海坚",
+            "author_addresses": [
+                "太原工业学院电子工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "02",
+    "摘要": " 本文旨在研究偏置磁场大小及位置在磁致伸缩式换能器中的影响。通过介绍磁致伸缩换能器原理,设计磁致伸缩超声导波激励方案。选用直径1 mm的铁镓合金磁致伸缩材料作为测试波导,应用COMSOL有限元仿真软件对磁致伸缩效应与超声传播特性进行仿真,得出当永磁体距离线圈7 mm时,磁通密度约为1 T,此时换能器效率达到最大。最后,设计永磁体距离线圈0～9 mm时的超声激励实验,通过对比超声激励信号的幅值,验证永磁体位置为7 mm,磁通大小为1 T时,换能器效率达到最大,为进一步设计磁致伸缩式超声温度传感器奠定基础。",
+    "关键词": [
+        "磁致伸缩",
+        "铁镓合金",
+        "永磁体",
+        "偏置磁场",
+        "COMSOL"
+    ],
+    "基金资助": [
+        "山西省青年科技研究项目(202203021212185)山西省青年科技研究项目(20210302123334)资助"
+    ],
+    "专辑": "信息科技;工程科技Ⅱ辑",
+    "专题": "工业通用技术及设备",
+    "分类号": "TB552",
+    "页码": "15-21",
+    "页数": "7",
+    "爬取时间": "2025-03-26 08:40:29",
+    "论文唯一代码": "WDZC202302018"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "复杂网络可控性问题研究",
+    "状态": "正常",
+    "发表期刊": "山西电子技术",
+    "刊发时间": "2023-04-15",
+    "引用量": "0",
+    "下载量": "99",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "庞亚男",
+            "author_addresses": "太原工业学院电子工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李泽华",
+            "author_addresses": "太原工业学院电子工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李芸",
+            "author_addresses": "太原工业学院电子工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "02",
+    "摘要": " 近年来，伴随着对复杂网络研究的不断深入，探索的最终目标——如何控制复杂网络也逐渐受到重视。对于复杂网络而言，我们希望用少量的外部输入，就能控制全网的运行，达到我们预期的效果。着重探究网络可控性研究的三个问题：1)怎样进行复杂网络的控制；2)哪些因素影响可控性；3)复杂网络可控性优化研究。",
+    "关键词": [
+        "复杂网络",
+        "可控性",
+        "最大匹配",
+        "最大多重性"
+    ],
+    "基金资助": [],
+    "专辑": "信息科技;基础科学",
+    "专题": "数学",
+    "分类号": "O157.5",
+    "页码": "86-87+104",
+    "页数": "3",
+    "爬取时间": "2025-03-26 08:40:47",
+    "论文唯一代码": "SXDS202302030"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "基于51单片机的防汽车追尾碰撞报警系统设计",
+    "状态": "正常",
+    "发表期刊": "山西电子技术",
+    "刊发时间": "2023-04-15",
+    "引用量": "0",
+    "下载量": "1054",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李泽华",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘小雨",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "庞亚男",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "李芸",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "02",
+    "摘要": " 针对交通事故多发的现状，设计了一种以红外测距和增强型STC15单片机为核心的防汽车追尾碰撞报警系统，系统以STC15单片机作为核心控制模块，通过C语言实现了测距、报警等功能，防汽车追尾碰撞系统设计原理明确、结构较为简单、实用性强，经调试运行良好，有一定的应用前景。",
+    "关键词": [
+        "单片机",
+        "防汽车追尾",
+        "碰撞报警"
+    ],
+    "基金资助": [],
+    "专辑": "信息科技;工程科技Ⅱ辑",
+    "专题": "汽车工业;自动化技术",
+    "分类号": "TP277;U463.6",
+    "页码": "18-21",
+    "页数": "4",
+    "爬取时间": "2025-03-26 08:40:59",
+    "论文唯一代码": "SXDS202302008"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "智能多路温度采集系统的研究与设计",
+    "状态": "正常",
+    "发表期刊": "山西电子技术",
+    "刊发时间": "2023-04-15",
+    "引用量": "1",
+    "下载量": "371",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王华杰",
+            "author_addresses": "太原工业学院电子工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘继军",
+            "author_addresses": "太原工业学院电子工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张晓娟",
+            "author_addresses": "太原工业学院电子工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "02",
+    "摘要": " 设计采用DS18B20进行温度采集，以CC2530为核心实现多路温度采集功能。每个检测单元在定时对温度进行采集的同时，还能完成独立功能。指令的发送由主机负责，温度采集和对测量数据的采集由各个测温模块实现。系统还设置了报警功能，当温度超过设置阈值时，产生报警信息并由主机发送相关指令进行相应的调节。系统测试结果表明此方案可行，可以实现温度实时监测，为生产生活带来便利，有一定的实际意义。",
+    "关键词": [
+        "单片机",
+        "温度采集",
+        "超限报警"
+    ],
+    "基金资助": [
+        "山西省高等学校科技创新项目(2022L545)"
+    ],
+    "专辑": "信息科技;工程科技Ⅱ辑",
+    "专题": "仪器仪表工业;自动化技术",
+    "分类号": "TP274.2;TH811",
+    "页码": "48-51",
+    "页数": "4",
+    "爬取时间": "2025-03-26 08:41:13",
+    "论文唯一代码": "SXDS202302018"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "全数字锁相环的设计与仿真研究",
+    "状态": "正常",
+    "发表期刊": "山西电子技术",
+    "刊发时间": "2023-04-15",
+    "引用量": "1",
+    "下载量": "810",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "杨翠娥",
+            "author_addresses": [
+                "太原工业学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "02",
+    "摘要": " 数字锁相环技术在数据通信、无线电电子学等众多领域得到了广泛应用，同时也是FPGA片上系统非常重要的关键部件。在分析模拟锁相环性能的基础上，介绍了数字锁相环的工作原理，并利用Quartus设计环境，采用VHDL语言实现了锁相环的全数字电路设计，通过软件自带的仿真工具，对重点模块及完整顶层电路进行了仿真分析，仿真结果验证了设计的正确性。",
+    "关键词": [
+        "锁相环",
+        "FPGA",
+        "仿真"
+    ],
+    "基金资助": [],
+    "专辑": "信息科技",
+    "专题": "无线电电子学;电信技术",
+    "分类号": "TN791;TN911.8",
+    "页码": "74-76",
+    "页数": "3",
+    "爬取时间": "2025-03-26 08:41:23",
+    "论文唯一代码": "SXDS202302026"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "外源菌剂对餐厨垃圾和污泥联合堆肥酶活性及微生物的影响",
+    "状态": "正常",
+    "发表期刊": "环境污染与防治",
+    "刊发时间": "2023-04-15",
+    "引用量": "6",
+    "下载量": "622",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "曹秀芹",
+            "author_addresses": [
+                "北京建筑大学城市雨水系统与水环境省部共建教育部重点实验室",
+                "北京建筑大学环境与能源工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "贾明艳",
+            "author_addresses": [
+                "北京建筑大学环境与能源工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "潘亚红",
+            "author_addresses": [
+                "北京建筑大学环境与能源工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "朱开金",
+            "author_addresses": [
+                "太原工业学院材料工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "45 ",
+    "期(Issue)": "04",
+    "摘要": " 以餐厨垃圾和污泥(质量比1∶1)混合物为底物，以不接种微生物为对照，以添加外源菌剂和腐熟堆肥为两个处理，研究外源菌剂对联合堆肥过程中酶活性和腐熟期微生物的影响。结果表明，外源菌剂可促进堆体升温并延长高温期，可显著提高纤维素酶、过氧化氢酶、脲酶、蛋白酶的活性，4种酶的峰值分别为377.294 U/g、83.107 mL/(g·h)、0.763 mg/(g·d)和147.411 U/g。采用高通量测序技术分析发现，添加外源菌剂降低了腐熟期细菌、真菌的群落多样性，但提高了真菌群落丰富度。门水平上，各堆体细菌和真菌的优势群落种类差异较小，仅相对丰度变化较大；属水平上，添加外源菌剂使堆体中优势细菌占比更均匀，优势真菌主要为土壤伊萨酵母菌(Issatchenkia)、念珠菌(Candida)、未分类真菌(Unclassified Fungi)等。采用FAPROTAX工具对细菌功能分组，各堆体相对丰度较高的功能菌以化能异养、有氧化能异养、硝酸盐还原等为主，然而添加外源菌剂和腐熟堆肥使芳香族化合物的降解功能菌相对丰度分别提高了8.0倍、7.4倍。",
+    "关键词": [
+        "餐厨垃圾",
+        "污泥",
+        "外源菌剂",
+        "好氧堆肥",
+        "酶活性",
+        "微生物群落"
+    ],
+    "基金资助": [
+        "山西省重点研发计划项目(No.201803D31074)"
+    ],
+    "专辑": "工程科技Ⅰ辑;农业科技",
+    "专题": "环境科学与资源利用;农业基础科学;农艺学",
+    "分类号": "X703;X799.3;S141.4",
+    "页码": "477-485+491",
+    "页数": "10",
+    "爬取时间": "2025-03-26 08:41:35",
+    "论文唯一代码": "HJWR202304007"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "锻态SA508-3钢的动态再结晶预测模型",
+    "状态": "正常",
+    "发表期刊": "机械工程与自动化",
+    "刊发时间": "2023-04-15",
+    "引用量": "4",
+    "下载量": "204",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李景丹",
+            "author_addresses": [
+                "太原工业学院机械工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李荣斌",
+            "author_addresses": [
+                "上海电机学院材料学院",
+                "上海理工大学材料科学与工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "梁红玉",
+            "author_addresses": [
+                "太原工业学院机械工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "02",
+    "摘要": " 在Gleeble1500D热模拟试验机上开展了锻态SA508-3钢的单道次热压缩试验，研究了该材料的动态再结晶行为。试验参数为温度1 000℃～1 200℃、应变速率0.001 s<sup>-1</sup>～1 s<sup>-1</sup>。研究结果表明：SA508-3钢在高温低应变速率条件下均发生了动态再结晶现象。在此基础上，根据应力-应变曲线数据，建立了该材料的动态再结晶临界应变模型、动态再结晶百分数模型，结合压缩后试样的显微组织，建立了SA508-3钢的动态再结晶晶粒尺寸模型。",
+    "关键词": [
+        "锻态SA508-3钢",
+        "动态再结晶",
+        "预测模型"
+    ],
+    "基金资助": [
+        "上海大件热制造工程技术研究中心项目（18DZ2253400）"
+    ],
+    "专辑": "工程科技Ⅱ辑;工程科技Ⅰ辑",
+    "专题": "金属学及金属工艺;核科学技术",
+    "分类号": "TL351.6;TG142.1",
+    "页码": "29-31+34",
+    "页数": "4",
+    "爬取时间": "2025-03-26 08:41:48",
+    "论文唯一代码": "SXJX202302011"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "尺寸模型在闭式齿轮箱加工工艺研究中的应用",
+    "状态": "正常",
+    "发表期刊": "机械工程与自动化",
+    "刊发时间": "2023-04-15",
+    "引用量": "0",
+    "下载量": "34",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "陈艳华",
+            "author_addresses": "太原工业学院机械工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "赵澜",
+            "author_addresses": "太原工业学院机械工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "02",
+    "摘要": " 叙述了尺寸模型建立的方法。通过尺寸模型可精确获得闭式齿轮箱中各零件的设计基准、尺寸、公差，完整地表达了闭式齿轮箱中全部目标尺寸与零件尺寸间的关系，为有效提高闭式齿轮箱加工工艺提供了一种新思路。",
+    "关键词": [
+        "尺寸模型",
+        "加工工艺",
+        "闭式齿轮箱"
+    ],
+    "基金资助": [
+        "山西省高等学校教学改革创新项目（2020338）",
+        "太原工业学院教学改革研究项目（202103）"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "机械工业",
+    "分类号": "TH132.41",
+    "页码": "119-121",
+    "页数": "3",
+    "爬取时间": "2025-03-26 08:41:59",
+    "论文唯一代码": "SXJX202302045"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "家庭多功能智能药箱设计",
+    "状态": "正常",
+    "发表期刊": "机械工程与自动化",
+    "刊发时间": "2023-04-15",
+    "引用量": "1",
+    "下载量": "1834",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张小强",
+            "author_addresses": "太原工业学院机械工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "董捷",
+            "author_addresses": "太原工业学院机械工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王国栋",
+            "author_addresses": "太原工业学院机械工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "管颖慧",
+            "author_addresses": "太原工业学院机械工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "姚瑾颖",
+            "author_addresses": "太原工业学院机械工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "02",
+    "摘要": " 为监护老年人日常药物的服用，设计了一款多功能智能药箱，能够实现对不同类型药品的存放、定量取出、定时提醒，同时兼具服用情况记录功能。该药箱的设计可以实现子女对家中孤寡老者的用药监控，通过手机APP实时查看，实现智能云管理。",
+    "关键词": [
+        "多功能",
+        "智能药箱",
+        "设计"
+    ],
+    "基金资助": [
+        "山西省高校联合科技创新项目（2020L0642）",
+        "太原工业学院教学改革项目（JG202212）太原工业学院大学生创新创业项目（S202114101032）"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "工业通用技术及设备",
+    "分类号": "TB472",
+    "页码": "69-70",
+    "页数": "2",
+    "爬取时间": "2025-03-26 08:42:16",
+    "论文唯一代码": "SXJX202302026"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "应用型本科高等数学教学改革和创新",
+    "状态": "正常",
+    "发表期刊": "长治学院学报",
+    "刊发时间": "2023-04-15",
+    "引用量": "3",
+    "下载量": "127",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "于彩娴",
+            "author_addresses": "太原工业学院理学系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王瑶",
+            "author_addresses": "太原工业学院理学系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "40 ",
+    "期(Issue)": "02",
+    "摘要": " 面对产业转型升级的挑战，教育部积极推进应用型本科建设，搭建以“培养应用能力”为主要特征的人才培养新模式。文章分析了传统高等数学教学模式中重理论轻应用、重结果轻过程、内容多学时少等问题，提出以学习过程为导向，以培养学生应用能力为目标，通过优化教学理念、调整教学内容、更新教学方法和考核方法，以促进学生应用能力的提升和人才培养质量的提高。",
+    "关键词": [
+        "高等数学",
+        "教学改革",
+        "应用能力"
+    ],
+    "基金资助": [
+        "山西省高等学校教学改革创新项目（J2020341）",
+        "太原工业学院教学改革指令性项目（XJ-JPKC-201914）"
+    ],
+    "专辑": "社会科学Ⅱ辑;基础科学",
+    "专题": "数学;高等教育",
+    "分类号": "O13-4;G642",
+    "页码": "95-99",
+    "页数": "5",
+    "爬取时间": "2025-03-26 08:42:27",
+    "论文唯一代码": "JDNS202302016"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "工科院校体育俱乐部发展研究",
+    "状态": "正常",
+    "发表期刊": "运动精品",
+    "刊发时间": "2023-04-15",
+    "引用量": "0",
+    "下载量": "24",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "吴海英",
+            "author_addresses": [
+                "太原工业学院体育系"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "42 ",
+    "期(Issue)": "04",
+    "摘要": " 文章采用问卷调查法、实地访谈法对山西工科院校体育俱乐部的会员、管理人员和普通工作人员进行调查研究，了解工科院校体育俱乐部目前的现状，从社会因素、发展环境分析工科院校体育俱乐部发展中存在的问题，提出促进工科院校体育俱乐部发展的对策，努力实现高校体育俱乐部的持续发展。",
+    "关键词": [
+        "工科院校",
+        "体育俱乐部",
+        "课外体育锻炼"
+    ],
+    "基金资助": [
+        "山西省教育厅高等学校哲学社会科学研究项目：工科院校大学生课外体育锻炼行为研究（项目编号：2020W210）"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G807.4",
+    "页码": "26-28",
+    "页数": "3",
+    "爬取时间": "2025-03-26 08:42:41",
+    "论文唯一代码": "YDXS202304009"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "双三相PMSM混合储能系统分布式转矩控制方法",
+    "状态": "正常",
+    "发表期刊": "大电机技术",
+    "刊发时间": "2023-04-13",
+    "引用量": "1",
+    "下载量": "108",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘嘉",
+            "author_addresses": [
+                "太原工业学院机械工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "胡晋智",
+            "author_addresses": [
+                "太原工业学院机械工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "黄璟",
+            "author_addresses": [
+                "太原工业学院机械工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "孙文",
+            "author_addresses": [
+                "国网电力科学研究院有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "03",
+    "摘要": " 为克服传统电池/超级电容混合储能系统(hybrid energy storage system, HESS)中电气或机械耦合方式下存在的多级功率不平衡、机械零件不匹配等问题，本文基于双三相永磁同步电机(permanent magnet synchronous machine, PMSM)进行HESS设计，并结合电动汽车典型运行工况提出一种分布式转矩控制方法。文中首先建立双三相PMSM混合储能系统数学模型，推演分析了电机双绕组转矩关系，设计了适用于双三相PMSM的分布式转矩控制系统。在此基础上，考虑HESS中电池组和UCs特性差异，分析了高功率、低功率以及UCs能量调节三种HESS模式下的转矩关系，并完成了高低频转矩的分频协调控制。最后，基于5kW测试平台对所提方法进行测试与分析，结果表明该系统可在全速域加速、加减载、负载扰动等多模式下实现HESS稳态和暂态功率的高性能调节，同时，磁链解耦调节环节有效增强了HESS的暂态响应能力，有效地抑制了负载扰动下的系统低频振荡。",
+    "关键词": [
+        "混合储能系统",
+        "双三相永磁同步电机",
+        "分布式转矩",
+        "磁链解耦调节"
+    ],
+    "基金资助": [
+        "山西省高校科技创新项目(2020L0629)",
+        "太原工业学院院士工作站项目(TYSYSGZZ201903)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "汽车工业;电力工业",
+    "分类号": "U469.7;TM341",
+    "页码": "66-73",
+    "页数": "8",
+    "爬取时间": "2025-03-26 08:43:01",
+    "论文唯一代码": "DJDJ202303010"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "基于高光谱的水稻稻曲病早期监测研究",
+    "状态": "正常",
+    "发表期刊": "农业机械学报",
+    "刊发时间": "2023-04-11 16:54",
+    "引用量": "4",
+    "下载量": "166",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "谢亚平",
+            "author_addresses": "太原工业学院电子工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "仝晓刚",
+            "author_addresses": "太原工业学院电子工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王晓慧",
+            "author_addresses": "太原工业学院电子工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "54 ",
+    "期(Issue)": "09",
+    "摘要": " 为了快速、精准地感知水稻稻曲病的发生，实现稻曲病大面积早期监测，利用机载UHD185高光谱仪采集带有发病区域的多组水稻冠层高光谱图像数据，对图像数据进行预处理并建立数据集。对健康区域和发病区域进行分类训练，建立支持向量机(SVM)识别模型和主成分分析(PCA)加人工神经网络(ANN)的识别模型，通过验证样本来检验识别模型的准确性，达到识别发病水稻的目的。支持向量机识别模型选用两组特征波长下的假彩色图像：第1组波长组合(TZH1)为654、838、898 nm;第2组波长组合(TZH2)为630、762、806 nm,两组数据的错分误差/漏分误差总体分别达到4.24%和5.41%;其中S型核函数的SVM模型诊断性能最好，总体分类精度最高可达到95.64%,Kappa系数可达到0.94,基本达到了准确识别水稻稻曲病的目的。主成分分析加人工神经网络的识别模型选用前3个主成分，贡献率分别为93.67%、2.80%、1.24%,作为最优波长建立人工神经网络识别模型；其中非线性分类的效果优于线性分类的效果，总体分类精度达到了96.41%,Kappa系数可达到0.95。通过两个实验组数据的支持向量机诊断结果可知，使用支持向量机识别模型分类精度整体平稳，4种核函数的诊断效果没有比较明显的差异。就总体分类精度而言，主成分分析加人工神经网络识别模型中的非线性分类比支持向量机识别模型的S型核函数分类高0.77个百分点。因此，主成分分析加人工神经网络模型的非线性分类更适用于水稻稻曲病的早期监测。",
+    "关键词": [
+        "稻曲病",
+        "高光谱",
+        "支持向量机",
+        "主成分分析",
+        "人工神经网络"
+    ],
+    "基金资助": [
+        "山西省教育厅科技创新项目(2020L0630)",
+        "山西省高等学校科技创新项目(2020L0673)"
+    ],
+    "专辑": "农业科技",
+    "专题": "植物保护",
+    "分类号": "S435.111.4",
+    "页码": "288-296",
+    "页数": "9",
+    "爬取时间": "2025-03-26 08:43:11",
+    "论文唯一代码": "NYJX202309029"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "高g值加速度传感器动态补偿范围研究",
+    "状态": "正常",
+    "发表期刊": "传感器与微系统",
+    "刊发时间": "2023-04-11",
+    "引用量": "2",
+    "下载量": "166",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘伊",
+            "author_addresses": [
+                "太原工业学院自动化系"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "42 ",
+    "期(Issue)": "04",
+    "摘要": " 针对传感器动态补偿后会放大高频段噪声的问题，提出对高g值加速度传感器动态补偿范围的研究。将高g值加速度传感器采用零极点相消方法进行动态补偿。仿真分析不同频带宽度系统的输出信号与理想输入信号的误差以及输出信号的信噪比。仿真结果表明：信噪比为21 dB时，最佳拓宽频带范围为原工作频带的4～12倍。对动态补偿后的高g值加速度传感器进行动态校准实验。实验结果证明：在最佳拓宽范围内，高g值加速度传感器不仅可以对输入信号无失真传输，同时还可抑制噪声。",
+    "关键词": [
+        "高g值加速度传感器",
+        "动态补偿",
+        "零极点相消法",
+        "工作频带"
+    ],
+    "基金资助": [],
+    "专辑": "信息科技",
+    "专题": "自动化技术",
+    "分类号": "TP212",
+    "页码": "71-74",
+    "页数": "4",
+    "爬取时间": "2025-03-26 08:43:19",
+    "论文唯一代码": "CGQJ202304018"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "基于物联网的智能呼救系统的设计",
+    "状态": "正常",
+    "发表期刊": "山西大同大学学报(自然科学版)",
+    "刊发时间": "2023-04-11",
+    "引用量": "0",
+    "下载量": "357",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王华杰",
+            "author_addresses": "太原工业学院电子工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张俊生",
+            "author_addresses": "太原工业学院电子工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "刘继军",
+            "author_addresses": "太原工业学院电子工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张晓娟",
+            "author_addresses": "太原工业学院电子工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "39 ",
+    "期(Issue)": "02",
+    "摘要": " 基于物联网的智能呼救系统，采用STM32作为核心主控板，ADXL345加速度传感器对老人的体位进行检测。当老人跌倒时，加速度传感器感受到摔倒时会发出报警声，GPS定位老人地理位置信息，并由STM32对收集到的信息进行处理，GPRS/GSM发送到救护人的手机上，接收到老人的求救信息和老人的地理位置信息。这个设计能够避免老人因为救助不及时而造成的二次伤害，有一定的实际应用价值。",
+    "关键词": [
+        "STM32",
+        "智能呼救",
+        "GPS",
+        "加速度传感器"
+    ],
+    "基金资助": [
+        "山西省高等学校科技创新项目[2022L545]"
+    ],
+    "专辑": "社会科学Ⅱ辑;工程科技Ⅱ辑;信息科技",
+    "专题": "建筑科学与工程;电信技术;计算机软件及计算机应用",
+    "分类号": "TU89;TN929.5;TP391.44",
+    "页码": "6-9",
+    "页数": "4",
+    "爬取时间": "2025-03-26 08:43:32",
+    "论文唯一代码": "YBSF202302002"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "植保飞行器的设计与实现",
+    "状态": "正常",
+    "发表期刊": "山西大同大学学报(自然科学版)",
+    "刊发时间": "2023-04-11",
+    "引用量": "0",
+    "下载量": "109",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "翟丽红",
+            "author_addresses": [
+                "太原工业学院电子工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "罗继阳",
+            "author_addresses": [
+                "北方自动控制技术研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "岳志",
+            "author_addresses": [
+                "太原工业学院电子工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王怀彤",
+            "author_addresses": [
+                "太原工业学院电子工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "39 ",
+    "期(Issue)": "02",
+    "摘要": " 目的 探究四旋翼飞行器在飞行中实现一键起飞、平稳飞行和准确降落等。方法 基于openmv进行飞控视觉识别和陀螺仪MPU6050姿态角度解算。控制系统采用全闭环控制，通过前视和下视摄像头完成视觉识别，速度为主高度为辅的调节方式控制飞行器。结果 以第十五届全国大学生电子设计竞赛为背景搭建实验系统，经过多次调试与实验，飞行器能够实现在20 s内一键起飞、定点定高悬停和稳定飞行，在360 s内完成对指定田块的播撒作业，飞行器最大飞行速度可达6 cm/s，实际测得落地最大偏离距离为7 cm。结论 飞行器定高平稳飞行、定点降落控制算法可行。",
+    "关键词": [
+        "四旋翼",
+        "openmv",
+        "姿态解算",
+        "串级PID"
+    ],
+    "基金资助": [
+        "山西省高等学校科技创新项目[2020L0671]",
+        "太原工业学院院级教改项目[JG202107]",
+        "大学生创新创业项目[20221159]"
+    ],
+    "专辑": "社会科学Ⅱ辑;农业科技",
+    "专题": "农业工程",
+    "分类号": "S251",
+    "页码": "1-5",
+    "页数": "5",
+    "爬取时间": "2025-03-26 08:43:49",
+    "论文唯一代码": "YBSF202302001"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "太极拳结合针灸对急性心肌梗死PCI术后病人心率变异性、心功能及生活质量的影响",
+    "状态": "正常",
+    "发表期刊": "护理研究",
+    "刊发时间": "2023-04-10",
+    "引用量": "8",
+    "下载量": "680",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "史海阳",
+            "author_addresses": [
+                "太原工业学院(体育系)"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "郭新斌",
+            "author_addresses": [
+                "太原工业学院(体育系)"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李圣耀",
+            "author_addresses": [
+                "国家中医心血管病临床医学研究中心中国中医科学院西苑医院",
+                "山西中医药大学附属医院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "lsycardio@163.com"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "37 ",
+    "期(Issue)": "07",
+    "摘要": " 目的:分析太极拳联合针灸对急性心肌梗死经皮冠状动脉介入术（PCI）后病人心率变异性、心功能和生活质量的影响。方法:将2019年9月—2021年11月在山西中医药大学附属医院心病科就诊的急性心肌梗死PCI术后病人随机分为对照组27例和试验组31例，对照组接受常规药物治疗和健康宣教，试验组在对照组基础上进行太极拳联合针灸治疗，共12周。干预前后比较两组病人心率变异性（HRV）、心功能、6 min步行距离（6MWD）和生活质量简表（SF-36）评分。结果:干预期间病人共发生再住院6例，其中对照组5例，试验组1例。治疗前两组病人HRV、心功能、6MWD和SF-36评分比较差异无统计学意义（P&gt;0.05），治疗后试验组RR间期标准差（SDNN）、相邻RR间期差值的均方根（RMSSD）、交感/迷走平衡指数（LF/HF）、左室射血分数（LVEF）、舒张末期内径（LVD）、二尖瓣口舒张早期血流速度和舒张晚期血流速度的比值（E/A）、6MWD和SF-36评分显著优于治疗前（P&lt;0.05），且RMSSD、SDNN、LF/HF、LVEF、LVD、6MWD及SF-36的生理职能、生理功能、总体健康、活力、社会功能、情感职能、心理健康的得分显著优于对照组（P&lt;0.05）。结论:太极拳联合针灸是一种安全有效的康复措施，可改善急性心肌梗死PCI术后病人的心率变异性、心功能、6 min步行距离及生活质量。",
+    "关键词": [
+        "急性心肌梗死",
+        "经皮冠状动脉介入术",
+        "太极拳",
+        "针灸",
+        "心脏康复"
+    ],
+    "基金资助": [],
+    "专辑": "医药卫生科技",
+    "专题": "中医学",
+    "分类号": "R248.1",
+    "页码": "1309-1313",
+    "页数": "5",
+    "爬取时间": "2025-03-26 08:44:04",
+    "论文唯一代码": "SXHZ202307024"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "二氧化锰纳米颗粒调控的紫外可见吸收-荧光双通道传感器的构建及D-青霉胺的检测",
+    "状态": "正常",
+    "发表期刊": "无机化学学报",
+    "刊发时间": "2023-04-10",
+    "引用量": "2",
+    "下载量": "352",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "程莹",
+            "author_addresses": [
+                "太原工业学院化学与化工系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "柳夷冰",
+            "author_addresses": [
+                "太原工业学院化学与化工系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "赵卉垚",
+            "author_addresses": [
+                "太原工业学院化学与化工系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "南鑫达",
+            "author_addresses": [
+                "太原工业学院化学与化工系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "范小青",
+            "author_addresses": [
+                "浙江省衢州市龙游县检验检测研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "李生玲",
+            "author_addresses": [
+                "太原工业学院化学与化工系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "丁莉峰",
+            "author_addresses": [
+                "太原工业学院化学与化工系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "happydlf@163.com"
+        },
+        {
+            "author_order": 8,
+            "author_name": "王琦",
+            "author_addresses": [
+                "太原工业学院化学与化工系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "wangq@tit.edu.cn"
+        },
+        {
+            "author_order": 9,
+            "author_name": "牛宇岚",
+            "author_addresses": [
+                "太原工业学院化学与化工系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "39 ",
+    "期(Issue)": "04",
+    "摘要": " 以聚乙烯亚胺（PEI）同时作为模板和还原剂，基于原位氧化还原反应，一步法制备二氧化锰纳米颗粒（MnO<sub>2</sub>NPs），并对其形貌、组成、紫外可见吸收、催化氧化特性进行了表征。结果表明，MnO<sub>2</sub>NPs能够催化氧化邻苯二胺（OPD）为2,3-二氨基吩嗪（DAP），产生420 nm处的紫外可见吸收和560 nm处的荧光发射。D-青霉胺（DPA）中的活性巯基可与MnO<sub>2</sub>发生特异性反应，还原降解催化剂，抑制其催化氧化活性，使得体系紫外可见吸收-荧光信号减弱甚至消失。基于DPA浓度与体系光谱信号变化的关系，我们建立了MnO<sub>2</sub>NPs介导的紫外可见吸收-荧光双通道传感DPA的新方法。荧光传感通道具有更好的线性范围和灵敏度，该方法线性范围为1～80μmol·L<sup>-1</sup>，检出限为0.54μmol·L<sup>-1</sup>。此外，MnO<sub>2</sub>NPs介导的荧光传感DPA应用于人体尿液样品分析中的回收率为98.31%～107.76%，证明了该方法的可靠性。",
+    "关键词": [
+        "二氧化锰纳米颗粒",
+        "紫外可见",
+        "荧光",
+        "D-青霉胺"
+    ],
+    "基金资助": [
+        "国家级大学生创新创业训练项目(No.202214101003)",
+        "太原工业学院青年学术带头人支持计划(No.2020XS02)",
+        "山西省1331项目资助"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学;材料科学",
+    "分类号": "O657.3;TB383.1",
+    "页码": "617-626",
+    "页数": "10",
+    "爬取时间": "2025-03-26 08:44:27",
+    "论文唯一代码": "WJHX202304004"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "基于RFID的智能交通系统",
+    "状态": "正常",
+    "发表期刊": "自动化应用",
+    "刊发时间": "2023-04-10",
+    "引用量": "1",
+    "下载量": "787",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李泽华",
+            "author_addresses": "太原工业学院电子工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王颖敏",
+            "author_addresses": "太原工业学院电子工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "刘小雨",
+            "author_addresses": "太原工业学院电子工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "赫英凤",
+            "author_addresses": "太原工业学院电子工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "庞亚男",
+            "author_addresses": "太原工业学院电子工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "64 ",
+    "期(Issue)": "07",
+    "摘要": " 目前，我国智能交通系统还处于摸索阶段，相关单位各自为战，缺乏团队协作，导致无法整合高效的交通系统。外国中高端交通产品不断输入我国，无法掌握核心科技，使得大量交通的智能产品逐渐“国外化”，甚至牵连智能导航工业和智能运输管理工业。为了弱化上述问题，增强我国智能交通国际竞争力，本文提出一种以物联网为基础的智能交通系统体系结构设计。",
+    "关键词": [
+        "RFID技术",
+        "物联网",
+        "智能交通"
+    ],
+    "基金资助": [
+        "山西省高等学校科技创新项目（2020L0672）"
+    ],
+    "专辑": "信息科技;工程科技Ⅱ辑",
+    "专题": "公路与水路运输;计算机软件及计算机应用",
+    "分类号": "TP391.44;U495",
+    "页码": "188-191+195",
+    "页数": "5",
+    "爬取时间": "2025-03-26 08:44:41",
+    "论文唯一代码": "ZDHT202307060"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "新政府会计制度视角下高校基建并账问题探讨——以A高校为例",
+    "状态": "正常",
+    "发表期刊": "经济师",
+    "刊发时间": "2023-04-05",
+    "引用量": "0",
+    "下载量": "137",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张兰花",
+            "author_addresses": [
+                "太原工业学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "04",
+    "摘要": " 新的政府会计制度出台前,部分高校尚未进行基建并账,不能全面、真实、完整地反映高等院校的资产和负债的情况,文章以A高校为例，2019年后仍有高校由于基建财务人员缺乏，基建财务复杂等原因，基建账仍然未并入财务大账的情况。文章以A高校为例，探讨在实行新的政府会计制度后基建并账流程和步骤，为新形势下高校基建并账业务提出改进建议。",
+    "关键词": [
+        "基建财务",
+        "并账流程",
+        "问题改进"
+    ],
+    "基金资助": [],
+    "专辑": "经济与管理科学;社会科学Ⅱ辑",
+    "专题": "高等教育;会计",
+    "分类号": "G647.5",
+    "页码": "91-93",
+    "页数": "3",
+    "爬取时间": "2025-03-26 08:44:57",
+    "论文唯一代码": "JJSS202304042"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "零工经济下从业者参与动机与行为研究",
+    "状态": "正常",
+    "发表期刊": "经济师",
+    "刊发时间": "2023-04-05",
+    "引用量": "2",
+    "下载量": "728",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "潘昌鹏",
+            "author_addresses": "太原工业学院经济与管理系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "范泽茜",
+            "author_addresses": "太原工业学院经济与管理系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "刘佳琦",
+            "author_addresses": "太原工业学院经济与管理系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "陶茹玉",
+            "author_addresses": "太原工业学院经济与管理系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "04",
+    "摘要": " 数字经济浪潮下，互联网技术的普及促进了“零工经济”蓬勃发展。文章利用扎根理论对零工从业者的访谈资料进行理论分析，构建了零工经济下从业者参与动机与行为联系的模型。该模型由动机、感知与行为三部分组成。经济效益、平台优势和社会环境组成内部动机，满足成长性需求组成外部动机；感知由归属感知、自主感知、胜任感知组成；行为分为退缩行为、社会行为与绩效行为。通过对模型的内在机制探析，研究发现，外部动机在感知的作用下可以转换为内部动机；从业者在归属、自主、胜任三大感知的影响下，在经济效益、平台优势、社会环境等外部动机和满足成长性需求的内在动机牵引下产生了退缩行为、社会行为和绩效行为。该模型为新形势下零工平台优化管理制度与提高从业者工作积极性提供了新的理解。",
+    "关键词": [
+        "零工经济",
+        "在线劳动平台",
+        "零工从业者"
+    ],
+    "基金资助": [
+        "2022年太原工业学院院级大学生创新创业项目《零工经济下劳动者参与动机机制研究——基于扎根理论的探析》阶段性研究成果,项目编号：265指导老师：郭彤梅、王柳懿"
+    ],
+    "专辑": "经济与管理科学;社会科学Ⅱ辑",
+    "专题": "人才学与劳动科学;宏观经济管理与可持续发展;贸易经济",
+    "分类号": "F724.6;F249.2",
+    "页码": "276-279+281",
+    "页数": "5",
+    "爬取时间": "2025-03-26 08:45:13",
+    "论文唯一代码": "JJSS202304133"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "基于扎根理论的零工算法应用和从业者反馈研究",
+    "状态": "正常",
+    "发表期刊": "经济师",
+    "刊发时间": "2023-04-05",
+    "引用量": "0",
+    "下载量": "231",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "关英敏",
+            "author_addresses": "太原工业学院经济与管理系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "吴昕净",
+            "author_addresses": "太原工业学院经济与管理系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "陈柯锦",
+            "author_addresses": "太原工业学院经济与管理系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "李嘉铭",
+            "author_addresses": "太原工业学院经济与管理系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "04",
+    "摘要": " 为了解零工经济平台算法应用与从业者反馈之间的关系，文章从平台算法、从业者行为以及两者之间的联系三方面进行研究分析，进而确定两者之间的关系模型，整个研究基于扎根理论的研究方法，通过对零工从业者进行半结构化深度访谈，将访谈结果用Nvivo12Plus进行编码处理，最后进行数据饱和度检验，从而得出零工算法与从业者反馈之间的关系模型。研究结果表明：平台算法与从业者感知之间存在着非常紧密的关系，平台的算法大部分都影响或间接影响着从业者的行为。最后，针对平台对从业者行为控制较强现状，提出了可行性建议。",
+    "关键词": [
+        "扎根理论",
+        "零工经济",
+        "平台算法",
+        "行为控制"
+    ],
+    "基金资助": [
+        "2022年太原工业学院省级大学生创新创业项目《零工经济下劳动者对平台算法感知研究》阶段性研究成果,项目编号:21,指导老师：郭彤梅、张欣"
+    ],
+    "专辑": "经济与管理科学;社会科学Ⅱ辑;信息科技",
+    "专题": "人才学与劳动科学;自动化技术;宏观经济管理与可持续发展",
+    "分类号": "TP18;F249.2",
+    "页码": "288-289+291",
+    "页数": "3",
+    "爬取时间": "2025-03-26 08:45:31",
+    "论文唯一代码": "JJSS202304138"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "基于O-AMAS有效教学模型的数字图像处理课程优化策略研究",
+    "状态": "正常",
+    "发表期刊": "办公自动化",
+    "刊发时间": "2023-04-01",
+    "引用量": "1",
+    "下载量": "275",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "韩燕丽",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "杨慧炯",
+            "author_addresses": "太原工业学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "28 ",
+    "期(Issue)": "07",
+    "摘要": " 针对目前数字图像处理课程教学中理论抽象以及理论与工程实践相脱节的问题，在充分研究南开大学O-AMAS有效教学模型设计思路的基础上，以O-AMAS有效教学模型为框架，从教学目标、教学内容、教学方法以及评价体系四方面进行整合优化建设。通过学生真实的学习体验和成果输出，证实这种优化策略实现了学生身体、情感和认知的多维度激发，显著促进知识学习和能力培养有效融合、理论知识和实际工程应用能力有效结合以达成的高阶目标。",
+    "关键词": [
+        "O-AMAS",
+        "数字图像处理",
+        "工程应用实践"
+    ],
+    "基金资助": [
+        "山西省教学改革项目“基于O-AMAS有效教学模型的《数字图像处理》课程优化建设”（项目编号：J20221102）",
+        "山西省一流课程建设项目“数字图像处理线上线下混合式一流课程”（项目编号：K2022483）"
+    ],
+    "专辑": "信息科技;社会科学Ⅱ辑",
+    "专题": "高等教育;计算机软件及计算机应用",
+    "分类号": "TP391.41-4;G642.3",
+    "页码": "42-45",
+    "页数": "4",
+    "爬取时间": "2025-03-26 08:45:46",
+    "论文唯一代码": "BGDH202307011"
+}

@@ -1,0 +1,1505 @@
+2025-03-27 03:41:01,496 - make_task_list.py[line:106] - INFO: 任务是school-year-month形
+2025-03-27 03:41:01,604 - make_task_list.py[line:106] - INFO: 任务是school-year-month形
+2025-03-27 03:41:01,611 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2022\January文件夹已经建立
+2025-03-27 03:41:01,611 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2022\February文件夹已经建立
+2025-03-27 03:41:01,611 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2022\March文件夹已经建立
+2025-03-27 03:41:01,637 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2022\January已经全部完成，无需再次进行！
+2025-03-27 03:41:01,637 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2022\February已经全部完成，无需再次进行！
+2025-03-27 03:41:01,700 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2022\March已经全部完成，无需再次进行！
+2025-03-27 03:41:01,708 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2022\April文件夹已经建立
+2025-03-27 03:41:01,714 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2022\May文件夹已经建立
+2025-03-27 03:41:01,714 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2022\June文件夹已经建立
+2025-03-27 03:41:01,749 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2022\July文件夹已经建立
+2025-03-27 03:41:01,839 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2022\August文件夹已经建立
+2025-03-27 03:41:01,839 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2022\April已经全部完成，无需再次进行！
+2025-03-27 03:41:01,839 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2022\May已经全部完成，无需再次进行！
+2025-03-27 03:41:01,841 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2022\June已经全部完成，无需再次进行！
+2025-03-27 03:41:01,856 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2022\November文件夹已经建立
+2025-03-27 03:41:01,857 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2022\November已经全部完成，无需再次进行！
+2025-03-27 03:41:01,841 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2022\August已经全部完成，无需再次进行！
+2025-03-27 03:41:01,857 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2023\January文件夹已经建立
+2025-03-27 03:41:01,857 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2023\January已经全部完成，无需再次进行！
+2025-03-27 03:41:01,858 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2023\February文件夹已经建立
+2025-03-27 03:41:01,858 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2023\February已经全部完成，无需再次进行！
+2025-03-27 03:41:01,858 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2022\December文件夹已经建立
+2025-03-27 03:41:01,858 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2022\December已经全部完成，无需再次进行！
+2025-03-27 03:41:01,856 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2022\October文件夹已经建立
+2025-03-27 03:41:01,859 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2022\October已经全部完成，无需再次进行！
+2025-03-27 03:41:01,846 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2022\July已经全部完成，无需再次进行！
+2025-03-27 03:41:01,859 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2023\April文件夹已经建立
+2025-03-27 03:41:01,847 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2022\September文件夹已经建立
+2025-03-27 03:41:01,859 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2023\May文件夹已经建立
+2025-03-27 03:41:01,860 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2022\September已经全部完成，无需再次进行！
+2025-03-27 03:41:01,860 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2023\April已经全部完成，无需再次进行！
+2025-03-27 03:41:01,861 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2023\June文件夹已经建立
+2025-03-27 03:41:01,865 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2023\June已经全部完成，无需再次进行！
+2025-03-27 03:41:01,865 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2023\July文件夹已经建立
+2025-03-27 03:41:01,865 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2023\July已经全部完成，无需再次进行！
+2025-03-27 03:41:01,866 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2023\September文件夹已经建立
+2025-03-27 03:41:01,866 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2023\August文件夹已经建立
+2025-03-27 03:41:01,866 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2023\October文件夹已经建立
+2025-03-27 03:41:01,866 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2023\May已经全部完成，无需再次进行！
+2025-03-27 03:41:01,866 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2023\September已经全部完成，无需再次进行！
+2025-03-27 03:41:01,866 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2023\August已经全部完成，无需再次进行！
+2025-03-27 03:41:01,866 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2023\October已经全部完成，无需再次进行！
+2025-03-27 03:41:01,877 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2023\November文件夹已经建立
+2025-03-27 03:41:01,935 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2023\November已经全部完成，无需再次进行！
+2025-03-27 03:41:01,936 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2024\March文件夹已经建立
+2025-03-27 03:41:01,877 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2023\December文件夹已经建立
+2025-03-27 03:41:01,877 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2023\March文件夹已经建立
+2025-03-27 03:41:01,899 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2024\January文件夹已经建立
+2025-03-27 03:41:01,937 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2024\January已经全部完成，无需再次进行！
+2025-03-27 03:41:01,935 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2024\February文件夹已经建立
+2025-03-27 03:41:01,941 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2024\February已经全部完成，无需再次进行！
+2025-03-27 03:41:01,937 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2023\March已经全部完成，无需再次进行！
+2025-03-27 03:41:01,941 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2024\April文件夹已经建立
+2025-03-27 03:41:01,937 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2023\December已经全部完成，无需再次进行！
+2025-03-27 03:41:01,985 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2024\April已经全部完成，无需再次进行！
+2025-03-27 03:41:01,985 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2024\June文件夹已经建立
+2025-03-27 03:41:01,986 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2024\July文件夹已经建立
+2025-03-27 03:41:01,964 - crawl.py[line:53] - INFO: downloads\4111010006_北京航空航天大学\2024\March 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:01,986 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2024\June已经全部完成，无需再次进行！
+2025-03-27 03:41:01,986 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2024\August文件夹已经建立
+2025-03-27 03:41:02,010 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2024\September文件夹已经建立
+2025-03-27 03:41:02,010 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2024\May文件夹已经建立
+2025-03-27 03:41:02,010 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2024\August已经全部完成，无需再次进行！
+2025-03-27 03:41:02,013 - crawl.py[line:53] - INFO: downloads\4111010006_北京航空航天大学\2024\July 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:02,025 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2024\October文件夹已经建立
+2025-03-27 03:41:02,031 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2024\September已经全部完成，无需再次进行！
+2025-03-27 03:41:02,034 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2024\May已经全部完成，无需再次进行！
+2025-03-27 03:41:02,034 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2024\December文件夹已经建立
+2025-03-27 03:41:02,034 - crawl.py[line:43] - INFO: downloads\4111010006_北京航空航天大学\2024\November文件夹已经建立
+2025-03-27 03:41:02,056 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2024\October已经全部完成，无需再次进行！
+2025-03-27 03:41:02,172 - crawl.py[line:47] - INFO: downloads\4111010006_北京航空航天大学\2024\December已经全部完成，无需再次进行！
+2025-03-27 03:41:02,172 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2022\March文件夹已经建立
+2025-03-27 03:41:02,138 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2022\January文件夹已经建立
+2025-03-27 03:41:02,167 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2022\February文件夹已经建立
+2025-03-27 03:41:02,172 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2022\April文件夹已经建立
+2025-03-27 03:41:02,172 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2022\March已经全部完成，无需再次进行！
+2025-03-27 03:41:02,216 - crawl.py[line:53] - INFO: downloads\4111010006_北京航空航天大学\2024\November 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:02,235 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2022\February已经全部完成，无需再次进行！
+2025-03-27 03:41:02,250 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2022\May文件夹已经建立
+2025-03-27 03:41:02,265 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2022\April已经全部完成，无需再次进行！
+2025-03-27 03:41:02,265 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2022\January已经全部完成，无需再次进行！
+2025-03-27 03:41:02,297 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2022\June文件夹已经建立
+2025-03-27 03:41:02,303 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2022\July文件夹已经建立
+2025-03-27 03:41:02,420 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2022\May已经全部完成，无需再次进行！
+2025-03-27 03:41:02,436 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2022\August文件夹已经建立
+2025-03-27 03:41:02,467 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2022\September文件夹已经建立
+2025-03-27 03:41:02,476 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2022\June已经全部完成，无需再次进行！
+2025-03-27 03:41:02,476 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2022\July已经全部完成，无需再次进行！
+2025-03-27 03:41:02,499 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2022\October文件夹已经建立
+2025-03-27 03:41:02,523 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2022\November文件夹已经建立
+2025-03-27 03:41:02,523 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2022\August已经全部完成，无需再次进行！
+2025-03-27 03:41:02,542 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2022\December文件夹已经建立
+2025-03-27 03:41:02,689 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2022\December已经全部完成，无需再次进行！
+2025-03-27 03:41:02,689 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2023\February文件夹已经建立
+2025-03-27 03:41:02,689 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2023\February已经全部完成，无需再次进行！
+2025-03-27 03:41:02,690 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2023\March文件夹已经建立
+2025-03-27 03:41:02,690 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2023\March已经全部完成，无需再次进行！
+2025-03-27 03:41:02,690 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2023\April文件夹已经建立
+2025-03-27 03:41:02,690 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2023\April已经全部完成，无需再次进行！
+2025-03-27 03:41:02,691 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2023\May文件夹已经建立
+2025-03-27 03:41:02,691 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2023\May已经全部完成，无需再次进行！
+2025-03-27 03:41:02,691 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2023\June文件夹已经建立
+2025-03-27 03:41:02,691 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2023\June已经全部完成，无需再次进行！
+2025-03-27 03:41:02,691 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2023\July文件夹已经建立
+2025-03-27 03:41:02,691 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2023\July已经全部完成，无需再次进行！
+2025-03-27 03:41:02,692 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2023\August文件夹已经建立
+2025-03-27 03:41:02,692 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2023\August已经全部完成，无需再次进行！
+2025-03-27 03:41:02,692 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2023\September文件夹已经建立
+2025-03-27 03:41:02,576 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2022\November已经全部完成，无需再次进行！
+2025-03-27 03:41:02,693 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2023\October文件夹已经建立
+2025-03-27 03:41:02,693 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2023\October已经全部完成，无需再次进行！
+2025-03-27 03:41:02,693 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2023\November文件夹已经建立
+2025-03-27 03:41:02,606 - crawl.py[line:53] - INFO: downloads\4111010007_北京理工大学\2022\September 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:02,606 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2023\January文件夹已经建立
+2025-03-27 03:41:02,723 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2023\January已经全部完成，无需再次进行！
+2025-03-27 03:41:02,542 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2022\October已经全部完成，无需再次进行！
+2025-03-27 03:41:02,722 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2023\September已经全部完成，无需再次进行！
+2025-03-27 03:41:02,797 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2024\February文件夹已经建立
+2025-03-27 03:41:02,723 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2024\January文件夹已经建立
+2025-03-27 03:41:02,724 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2023\December文件夹已经建立
+2025-03-27 03:41:02,719 - crawl.py[line:53] - INFO: downloads\4111010007_北京理工大学\2023\November 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:02,813 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2024\February已经全部完成，无需再次进行！
+2025-03-27 03:41:02,828 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2024\March文件夹已经建立
+2025-03-27 03:41:02,859 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2024\January已经全部完成，无需再次进行！
+2025-03-27 03:41:02,921 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2024\May文件夹已经建立
+2025-03-27 03:41:02,921 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2023\December已经全部完成，无需再次进行！
+2025-03-27 03:41:02,937 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2024\April文件夹已经建立
+2025-03-27 03:41:02,984 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2024\March已经全部完成，无需再次进行！
+2025-03-27 03:41:03,014 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2024\May已经全部完成，无需再次进行！
+2025-03-27 03:41:03,038 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2024\June文件夹已经建立
+2025-03-27 03:41:03,038 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2024\July文件夹已经建立
+2025-03-27 03:41:03,093 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2024\August文件夹已经建立
+2025-03-27 03:41:03,129 - crawl.py[line:53] - INFO: downloads\4111010007_北京理工大学\2024\April 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:03,139 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2024\September文件夹已经建立
+2025-03-27 03:41:03,154 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2024\August已经全部完成，无需再次进行！
+2025-03-27 03:41:03,154 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2024\June已经全部完成，无需再次进行！
+2025-03-27 03:41:03,186 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2024\July已经全部完成，无需再次进行！
+2025-03-27 03:41:03,250 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2022\January文件夹已经建立
+2025-03-27 03:41:03,250 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2022\January已经全部完成，无需再次进行！
+2025-03-27 03:41:03,260 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2022\February文件夹已经建立
+2025-03-27 03:41:03,260 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2022\February已经全部完成，无需再次进行！
+2025-03-27 03:41:03,249 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2024\October文件夹已经建立
+2025-03-27 03:41:03,259 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2024\November文件夹已经建立
+2025-03-27 03:41:03,202 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2024\September已经全部完成，无需再次进行！
+2025-03-27 03:41:03,235 - crawl.py[line:43] - INFO: downloads\4111010007_北京理工大学\2024\December文件夹已经建立
+2025-03-27 03:41:03,260 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2022\March文件夹已经建立
+2025-03-27 03:41:03,368 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2022\March已经全部完成，无需再次进行！
+2025-03-27 03:41:03,297 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2024\October已经全部完成，无需再次进行！
+2025-03-27 03:41:03,297 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2024\November已经全部完成，无需再次进行！
+2025-03-27 03:41:03,368 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2022\May文件夹已经建立
+2025-03-27 03:41:03,348 - crawl.py[line:47] - INFO: downloads\4111010007_北京理工大学\2024\December已经全部完成，无需再次进行！
+2025-03-27 03:41:03,297 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2022\April文件夹已经建立
+2025-03-27 03:41:03,369 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2022\July文件夹已经建立
+2025-03-27 03:41:03,370 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2022\July已经全部完成，无需再次进行！
+2025-03-27 03:41:03,370 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2022\September文件夹已经建立
+2025-03-27 03:41:03,369 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2022\June文件夹已经建立
+2025-03-27 03:41:03,371 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2022\April已经全部完成，无需再次进行！
+2025-03-27 03:41:03,369 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2022\August文件夹已经建立
+2025-03-27 03:41:03,371 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2022\September已经全部完成，无需再次进行！
+2025-03-27 03:41:03,374 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2022\October文件夹已经建立
+2025-03-27 03:41:03,374 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2022\August已经全部完成，无需再次进行！
+2025-03-27 03:41:03,374 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2022\October已经全部完成，无需再次进行！
+2025-03-27 03:41:03,410 - crawl.py[line:53] - INFO: downloads\4111010009_北方工业大学\2022\May 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:03,411 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2023\January文件夹已经建立
+2025-03-27 03:41:03,411 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2023\January已经全部完成，无需再次进行！
+2025-03-27 03:41:03,422 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2023\February文件夹已经建立
+2025-03-27 03:41:03,437 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2022\November文件夹已经建立
+2025-03-27 03:41:03,452 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2022\December文件夹已经建立
+2025-03-27 03:41:03,452 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2023\March文件夹已经建立
+2025-03-27 03:41:03,452 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2022\June已经全部完成，无需再次进行！
+2025-03-27 03:41:03,452 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2023\February已经全部完成，无需再次进行！
+2025-03-27 03:41:03,452 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2022\November已经全部完成，无需再次进行！
+2025-03-27 03:41:03,499 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2022\December已经全部完成，无需再次进行！
+2025-03-27 03:41:03,508 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2023\March已经全部完成，无需再次进行！
+2025-03-27 03:41:03,515 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2023\April文件夹已经建立
+2025-03-27 03:41:03,531 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2023\May文件夹已经建立
+2025-03-27 03:41:03,577 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2023\June文件夹已经建立
+2025-03-27 03:41:03,593 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2023\July文件夹已经建立
+2025-03-27 03:41:03,594 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2023\August文件夹已经建立
+2025-03-27 03:41:03,594 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2023\May已经全部完成，无需再次进行！
+2025-03-27 03:41:03,594 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2023\June已经全部完成，无需再次进行！
+2025-03-27 03:41:03,608 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2023\August已经全部完成，无需再次进行！
+2025-03-27 03:41:03,608 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2023\July已经全部完成，无需再次进行！
+2025-03-27 03:41:03,624 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2023\September文件夹已经建立
+2025-03-27 03:41:03,624 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2023\October文件夹已经建立
+2025-03-27 03:41:03,632 - crawl.py[line:53] - INFO: downloads\4111010009_北方工业大学\2023\April 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:03,632 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2023\November文件夹已经建立
+2025-03-27 03:41:03,688 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2023\November已经全部完成，无需再次进行！
+2025-03-27 03:41:03,671 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2023\December文件夹已经建立
+2025-03-27 03:41:03,688 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2023\October已经全部完成，无需再次进行！
+2025-03-27 03:41:03,688 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2024\January文件夹已经建立
+2025-03-27 03:41:03,689 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2023\September已经全部完成，无需再次进行！
+2025-03-27 03:41:03,703 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2024\February文件夹已经建立
+2025-03-27 03:41:03,718 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2024\January已经全部完成，无需再次进行！
+2025-03-27 03:41:03,719 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2024\April文件夹已经建立
+2025-03-27 03:41:03,719 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2023\December已经全部完成，无需再次进行！
+2025-03-27 03:41:03,719 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2024\April已经全部完成，无需再次进行！
+2025-03-27 03:41:03,720 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2024\February已经全部完成，无需再次进行！
+2025-03-27 03:41:03,720 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2024\May文件夹已经建立
+2025-03-27 03:41:03,720 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2024\July文件夹已经建立
+2025-03-27 03:41:03,720 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2024\March文件夹已经建立
+2025-03-27 03:41:03,720 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2024\May已经全部完成，无需再次进行！
+2025-03-27 03:41:03,720 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2024\July已经全部完成，无需再次进行！
+2025-03-27 03:41:03,720 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2024\March已经全部完成，无需再次进行！
+2025-03-27 03:41:03,721 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2024\June文件夹已经建立
+2025-03-27 03:41:03,721 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2024\August文件夹已经建立
+2025-03-27 03:41:03,734 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2024\September文件夹已经建立
+2025-03-27 03:41:03,734 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2024\October文件夹已经建立
+2025-03-27 03:41:03,735 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2024\October已经全部完成，无需再次进行！
+2025-03-27 03:41:03,735 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2024\December文件夹已经建立
+2025-03-27 03:41:03,735 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2024\December已经全部完成，无需再次进行！
+2025-03-27 03:41:03,736 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2022\January文件夹已经建立
+2025-03-27 03:41:03,736 - crawl.py[line:47] - INFO: downloads\4111010016_北京建筑大学\2022\January已经全部完成，无需再次进行！
+2025-03-27 03:41:03,735 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2024\August已经全部完成，无需再次进行！
+2025-03-27 03:41:03,735 - crawl.py[line:43] - INFO: downloads\4111010009_北方工业大学\2024\November文件夹已经建立
+2025-03-27 03:41:03,759 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2024\November已经全部完成，无需再次进行！
+2025-03-27 03:41:03,759 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2022\April文件夹已经建立
+2025-03-27 03:41:03,736 - crawl.py[line:47] - INFO: downloads\4111010009_北方工业大学\2024\September已经全部完成，无需再次进行！
+2025-03-27 03:41:03,758 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2022\February文件夹已经建立
+2025-03-27 03:41:03,797 - crawl.py[line:47] - INFO: downloads\4111010016_北京建筑大学\2022\February已经全部完成，无需再次进行！
+2025-03-27 03:41:03,798 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2022\June文件夹已经建立
+2025-03-27 03:41:03,798 - crawl.py[line:47] - INFO: downloads\4111010016_北京建筑大学\2022\June已经全部完成，无需再次进行！
+2025-03-27 03:41:03,758 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2022\March文件夹已经建立
+2025-03-27 03:41:03,806 - crawl.py[line:53] - INFO: downloads\4111010016_北京建筑大学\2022\April 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:03,808 - crawl.py[line:53] - INFO: downloads\4111010009_北方工业大学\2024\June 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:03,811 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2022\July文件夹已经建立
+2025-03-27 03:41:03,811 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2022\May文件夹已经建立
+2025-03-27 03:41:03,831 - crawl.py[line:47] - INFO: downloads\4111010016_北京建筑大学\2022\March已经全部完成，无需再次进行！
+2025-03-27 03:41:03,842 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2022\August文件夹已经建立
+2025-03-27 03:41:03,890 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2022\September文件夹已经建立
+2025-03-27 03:41:03,936 - crawl.py[line:47] - INFO: downloads\4111010016_北京建筑大学\2022\May已经全部完成，无需再次进行！
+2025-03-27 03:41:03,951 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2022\October文件夹已经建立
+2025-03-27 03:41:03,974 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2022\November文件夹已经建立
+2025-03-27 03:41:03,974 - crawl.py[line:47] - INFO: downloads\4111010016_北京建筑大学\2022\September已经全部完成，无需再次进行！
+2025-03-27 03:41:03,982 - crawl.py[line:47] - INFO: downloads\4111010016_北京建筑大学\2022\July已经全部完成，无需再次进行！
+2025-03-27 03:41:03,982 - crawl.py[line:47] - INFO: downloads\4111010016_北京建筑大学\2022\October已经全部完成，无需再次进行！
+2025-03-27 03:41:03,997 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2022\December文件夹已经建立
+2025-03-27 03:41:04,012 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2023\January文件夹已经建立
+2025-03-27 03:41:04,028 - crawl.py[line:47] - INFO: downloads\4111010016_北京建筑大学\2022\November已经全部完成，无需再次进行！
+2025-03-27 03:41:04,044 - crawl.py[line:47] - INFO: downloads\4111010016_北京建筑大学\2022\August已经全部完成，无需再次进行！
+2025-03-27 03:41:04,082 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2023\February文件夹已经建立
+2025-03-27 03:41:04,105 - crawl.py[line:47] - INFO: downloads\4111010016_北京建筑大学\2022\December已经全部完成，无需再次进行！
+2025-03-27 03:41:04,167 - crawl.py[line:47] - INFO: downloads\4111010016_北京建筑大学\2023\February已经全部完成，无需再次进行！
+2025-03-27 03:41:04,168 - crawl.py[line:47] - INFO: downloads\4111010016_北京建筑大学\2023\January已经全部完成，无需再次进行！
+2025-03-27 03:41:04,183 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2023\April文件夹已经建立
+2025-03-27 03:41:04,199 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2023\March文件夹已经建立
+2025-03-27 03:41:04,214 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2023\June文件夹已经建立
+2025-03-27 03:41:04,214 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2023\May文件夹已经建立
+2025-03-27 03:41:04,246 - crawl.py[line:47] - INFO: downloads\4111010016_北京建筑大学\2023\April已经全部完成，无需再次进行！
+2025-03-27 03:41:04,246 - crawl.py[line:47] - INFO: downloads\4111010016_北京建筑大学\2023\March已经全部完成，无需再次进行！
+2025-03-27 03:41:04,307 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2023\July文件夹已经建立
+2025-03-27 03:41:04,339 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2023\August文件夹已经建立
+2025-03-27 03:41:04,350 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2023\September文件夹已经建立
+2025-03-27 03:41:04,512 - crawl.py[line:47] - INFO: downloads\4111010016_北京建筑大学\2023\September已经全部完成，无需再次进行！
+2025-03-27 03:41:04,370 - crawl.py[line:47] - INFO: downloads\4111010016_北京建筑大学\2023\May已经全部完成，无需再次进行！
+2025-03-27 03:41:04,513 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2023\November文件夹已经建立
+2025-03-27 03:41:04,513 - crawl.py[line:47] - INFO: downloads\4111010016_北京建筑大学\2023\November已经全部完成，无需再次进行！
+2025-03-27 03:41:04,370 - crawl.py[line:47] - INFO: downloads\4111010016_北京建筑大学\2023\June已经全部完成，无需再次进行！
+2025-03-27 03:41:04,512 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2023\October文件夹已经建立
+2025-03-27 03:41:04,370 - crawl.py[line:47] - INFO: downloads\4111010016_北京建筑大学\2023\July已经全部完成，无需再次进行！
+2025-03-27 03:41:04,512 - crawl.py[line:47] - INFO: downloads\4111010016_北京建筑大学\2023\August已经全部完成，无需再次进行！
+2025-03-27 03:41:04,514 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2023\December文件夹已经建立
+2025-03-27 03:41:04,514 - crawl.py[line:47] - INFO: downloads\4111010016_北京建筑大学\2023\October已经全部完成，无需再次进行！
+2025-03-27 03:41:04,514 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2024\January文件夹已经建立
+2025-03-27 03:41:04,514 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2024\February文件夹已经建立
+2025-03-27 03:41:04,542 - crawl.py[line:47] - INFO: downloads\4111010016_北京建筑大学\2024\February已经全部完成，无需再次进行！
+2025-03-27 03:41:04,543 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2024\May文件夹已经建立
+2025-03-27 03:41:04,543 - crawl.py[line:47] - INFO: downloads\4111010016_北京建筑大学\2024\May已经全部完成，无需再次进行！
+2025-03-27 03:41:04,514 - crawl.py[line:47] - INFO: downloads\4111010016_北京建筑大学\2023\December已经全部完成，无需再次进行！
+2025-03-27 03:41:04,526 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2024\April文件夹已经建立
+2025-03-27 03:41:04,542 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2024\March文件夹已经建立
+2025-03-27 03:41:04,542 - crawl.py[line:47] - INFO: downloads\4111010016_北京建筑大学\2024\January已经全部完成，无需再次进行！
+2025-03-27 03:41:04,543 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2024\June文件夹已经建立
+2025-03-27 03:41:04,698 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2024\August文件夹已经建立
+2025-03-27 03:41:04,667 - crawl.py[line:47] - INFO: downloads\4111010016_北京建筑大学\2024\March已经全部完成，无需再次进行！
+2025-03-27 03:41:04,576 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2024\July文件夹已经建立
+2025-03-27 03:41:04,702 - crawl.py[line:47] - INFO: downloads\4111010016_北京建筑大学\2024\June已经全部完成，无需再次进行！
+2025-03-27 03:41:04,713 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2024\September文件夹已经建立
+2025-03-27 03:41:04,713 - crawl.py[line:47] - INFO: downloads\4111010016_北京建筑大学\2024\July已经全部完成，无需再次进行！
+2025-03-27 03:41:04,715 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2024\October文件夹已经建立
+2025-03-27 03:41:04,752 - crawl.py[line:53] - INFO: downloads\4111010016_北京建筑大学\2024\August 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:04,753 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2024\November文件夹已经建立
+2025-03-27 03:41:04,769 - crawl.py[line:43] - INFO: downloads\4111010016_北京建筑大学\2024\December文件夹已经建立
+2025-03-27 03:41:04,837 - crawl.py[line:53] - INFO: downloads\4111010016_北京建筑大学\2024\April 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:04,861 - crawl.py[line:53] - INFO: downloads\4111010016_北京建筑大学\2024\September 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:04,876 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2022\January文件夹已经建立
+2025-03-27 03:41:04,928 - crawl.py[line:53] - INFO: downloads\4111010016_北京建筑大学\2024\October 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:04,975 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2022\February文件夹已经建立
+2025-03-27 03:41:04,988 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2022\March文件夹已经建立
+2025-03-27 03:41:05,047 - crawl.py[line:53] - INFO: downloads\4111010016_北京建筑大学\2024\November 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:05,061 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2022\January 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:05,107 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2022\February 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:05,107 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2022\April文件夹已经建立
+2025-03-27 03:41:05,125 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2022\May文件夹已经建立
+2025-03-27 03:41:05,155 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2022\June文件夹已经建立
+2025-03-27 03:41:05,161 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2022\March 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:05,174 - crawl.py[line:53] - INFO: downloads\4111010016_北京建筑大学\2024\December 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:05,181 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2022\May 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:05,192 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2022\July文件夹已经建立
+2025-03-27 03:41:05,231 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2022\August文件夹已经建立
+2025-03-27 03:41:05,240 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2022\April 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:05,303 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2022\July 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:05,304 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2022\September文件夹已经建立
+2025-03-27 03:41:05,353 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2022\June 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:05,353 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2022\October文件夹已经建立
+2025-03-27 03:41:05,385 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2022\November文件夹已经建立
+2025-03-27 03:41:05,475 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2022\August 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:05,499 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2022\October 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:05,507 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2022\December文件夹已经建立
+2025-03-27 03:41:05,544 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2022\September 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:05,647 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2023\January文件夹已经建立
+2025-03-27 03:41:05,655 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2022\November 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:05,655 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2023\February文件夹已经建立
+2025-03-27 03:41:05,662 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2023\March文件夹已经建立
+2025-03-27 03:41:05,779 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2022\December 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:05,900 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2023\May文件夹已经建立
+2025-03-27 03:41:05,914 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2023\April文件夹已经建立
+2025-03-27 03:41:05,948 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2023\January 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:05,969 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2023\February 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:06,029 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2023\May 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:06,029 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2023\June文件夹已经建立
+2025-03-27 03:41:06,047 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2023\March 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:06,047 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2023\July文件夹已经建立
+2025-03-27 03:41:06,055 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2023\April 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:06,086 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2023\August文件夹已经建立
+2025-03-27 03:41:06,089 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2023\September文件夹已经建立
+2025-03-27 03:41:06,119 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2023\October文件夹已经建立
+2025-03-27 03:41:06,203 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2023\October 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:06,226 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2023\September 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:06,241 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2023\August 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:06,274 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2023\November文件夹已经建立
+2025-03-27 03:41:06,298 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2023\June 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:06,340 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2023\December文件夹已经建立
+2025-03-27 03:41:06,405 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2023\July 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:06,526 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2024\January文件夹已经建立
+2025-03-27 03:41:06,526 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2024\February文件夹已经建立
+2025-03-27 03:41:06,564 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2024\March文件夹已经建立
+2025-03-27 03:41:06,598 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2023\December 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:06,627 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2024\April文件夹已经建立
+2025-03-27 03:41:06,624 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2023\November 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:06,652 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2024\May文件夹已经建立
+2025-03-27 03:41:06,684 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2024\January 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:06,685 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2024\June文件夹已经建立
+2025-03-27 03:41:06,710 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2024\April 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:06,726 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2024\July文件夹已经建立
+2025-03-27 03:41:06,802 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2024\February 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:06,878 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2024\March 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:06,888 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2024\September文件夹已经建立
+2025-03-27 03:41:06,921 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2024\May 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:06,921 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2024\August文件夹已经建立
+2025-03-27 03:41:06,977 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2024\July 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:06,998 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2024\June 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:07,002 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2024\October文件夹已经建立
+2025-03-27 03:41:07,024 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2024\November文件夹已经建立
+2025-03-27 03:41:07,042 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2024\September 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:07,042 - crawl.py[line:43] - INFO: downloads\4111010025_首都医科大学\2024\December文件夹已经建立
+2025-03-27 03:41:07,047 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2022\January文件夹已经建立
+2025-03-27 03:41:07,113 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2024\October 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:07,114 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2022\February文件夹已经建立
+2025-03-27 03:41:07,114 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2022\February已经全部完成，无需再次进行！
+2025-03-27 03:41:07,122 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2024\November 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:07,140 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2024\August 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:07,151 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2022\March文件夹已经建立
+2025-03-27 03:41:07,206 - crawl.py[line:53] - INFO: downloads\4111010025_首都医科大学\2024\December 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:07,212 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2022\April文件夹已经建立
+2025-03-27 03:41:07,242 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2022\May文件夹已经建立
+2025-03-27 03:41:07,285 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2022\April已经全部完成，无需再次进行！
+2025-03-27 03:41:07,285 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2022\May已经全部完成，无需再次进行！
+2025-03-27 03:41:07,268 - crawl.py[line:53] - INFO: downloads\4111010029_首都体育学院\2022\January 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:07,274 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2022\March已经全部完成，无需再次进行！
+2025-03-27 03:41:07,284 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2022\June文件夹已经建立
+2025-03-27 03:41:07,305 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2022\July文件夹已经建立
+2025-03-27 03:41:07,305 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2022\August文件夹已经建立
+2025-03-27 03:41:07,334 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2022\September文件夹已经建立
+2025-03-27 03:41:07,382 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2022\October文件夹已经建立
+2025-03-27 03:41:07,412 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2022\October已经全部完成，无需再次进行！
+2025-03-27 03:41:07,412 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2022\June已经全部完成，无需再次进行！
+2025-03-27 03:41:07,415 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2022\September已经全部完成，无需再次进行！
+2025-03-27 03:41:07,418 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2022\August已经全部完成，无需再次进行！
+2025-03-27 03:41:07,418 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2022\November文件夹已经建立
+2025-03-27 03:41:07,426 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2022\July已经全部完成，无需再次进行！
+2025-03-27 03:41:07,444 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2022\November已经全部完成，无需再次进行！
+2025-03-27 03:41:07,444 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2022\December文件夹已经建立
+2025-03-27 03:41:07,451 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2023\January文件夹已经建立
+2025-03-27 03:41:07,452 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2023\January已经全部完成，无需再次进行！
+2025-03-27 03:41:07,452 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2023\February文件夹已经建立
+2025-03-27 03:41:07,460 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2022\December已经全部完成，无需再次进行！
+2025-03-27 03:41:07,460 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2023\April文件夹已经建立
+2025-03-27 03:41:07,460 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2023\March文件夹已经建立
+2025-03-27 03:41:07,475 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2023\May文件夹已经建立
+2025-03-27 03:41:07,475 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2023\April已经全部完成，无需再次进行！
+2025-03-27 03:41:07,475 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2023\February已经全部完成，无需再次进行！
+2025-03-27 03:41:07,490 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2023\May已经全部完成，无需再次进行！
+2025-03-27 03:41:07,490 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2023\June文件夹已经建立
+2025-03-27 03:41:07,521 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2023\March已经全部完成，无需再次进行！
+2025-03-27 03:41:07,595 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2023\October文件夹已经建立
+2025-03-27 03:41:07,594 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2023\August文件夹已经建立
+2025-03-27 03:41:07,594 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2023\June已经全部完成，无需再次进行！
+2025-03-27 03:41:07,594 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2023\July文件夹已经建立
+2025-03-27 03:41:07,595 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2023\September文件夹已经建立
+2025-03-27 03:41:07,595 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2023\August已经全部完成，无需再次进行！
+2025-03-27 03:41:07,595 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2023\October已经全部完成，无需再次进行！
+2025-03-27 03:41:07,597 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2023\December文件夹已经建立
+2025-03-27 03:41:07,595 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2023\July已经全部完成，无需再次进行！
+2025-03-27 03:41:07,597 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2023\September已经全部完成，无需再次进行！
+2025-03-27 03:41:07,595 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2023\November文件夹已经建立
+2025-03-27 03:41:07,597 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2023\December已经全部完成，无需再次进行！
+2025-03-27 03:41:07,597 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2024\February文件夹已经建立
+2025-03-27 03:41:07,597 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2024\January文件夹已经建立
+2025-03-27 03:41:07,597 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2024\March文件夹已经建立
+2025-03-27 03:41:07,597 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2023\November已经全部完成，无需再次进行！
+2025-03-27 03:41:07,597 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2024\January已经全部完成，无需再次进行！
+2025-03-27 03:41:07,598 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2024\February已经全部完成，无需再次进行！
+2025-03-27 03:41:07,598 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2024\April文件夹已经建立
+2025-03-27 03:41:07,598 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2024\March已经全部完成，无需再次进行！
+2025-03-27 03:41:07,598 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2024\April已经全部完成，无需再次进行！
+2025-03-27 03:41:07,598 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2024\June文件夹已经建立
+2025-03-27 03:41:07,599 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2024\May文件夹已经建立
+2025-03-27 03:41:07,599 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2024\June已经全部完成，无需再次进行！
+2025-03-27 03:41:07,599 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2024\July文件夹已经建立
+2025-03-27 03:41:07,599 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2024\August文件夹已经建立
+2025-03-27 03:41:07,599 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2024\May已经全部完成，无需再次进行！
+2025-03-27 03:41:07,599 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2024\September文件夹已经建立
+2025-03-27 03:41:07,600 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2024\July已经全部完成，无需再次进行！
+2025-03-27 03:41:07,600 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2024\August已经全部完成，无需再次进行！
+2025-03-27 03:41:07,600 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2024\October文件夹已经建立
+2025-03-27 03:41:07,600 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2024\September已经全部完成，无需再次进行！
+2025-03-27 03:41:07,600 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2022\January文件夹已经建立
+2025-03-27 03:41:07,600 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2022\January已经全部完成，无需再次进行！
+2025-03-27 03:41:07,601 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2024\October已经全部完成，无需再次进行！
+2025-03-27 03:41:07,601 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2022\February文件夹已经建立
+2025-03-27 03:41:07,601 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2024\November文件夹已经建立
+2025-03-27 03:41:07,601 - crawl.py[line:43] - INFO: downloads\4111010029_首都体育学院\2024\December文件夹已经建立
+2025-03-27 03:41:07,601 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2022\March文件夹已经建立
+2025-03-27 03:41:07,601 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2022\February已经全部完成，无需再次进行！
+2025-03-27 03:41:07,601 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2022\April文件夹已经建立
+2025-03-27 03:41:07,602 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2022\April已经全部完成，无需再次进行！
+2025-03-27 03:41:07,601 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2024\November已经全部完成，无需再次进行！
+2025-03-27 03:41:07,601 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2022\March已经全部完成，无需再次进行！
+2025-03-27 03:41:07,602 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2022\May文件夹已经建立
+2025-03-27 03:41:07,602 - crawl.py[line:47] - INFO: downloads\4111010029_首都体育学院\2024\December已经全部完成，无需再次进行！
+2025-03-27 03:41:07,602 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2022\June文件夹已经建立
+2025-03-27 03:41:07,602 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2022\July文件夹已经建立
+2025-03-27 03:41:07,603 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2022\August文件夹已经建立
+2025-03-27 03:41:07,603 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2022\May已经全部完成，无需再次进行！
+2025-03-27 03:41:07,603 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2022\June已经全部完成，无需再次进行！
+2025-03-27 03:41:07,603 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2022\November文件夹已经建立
+2025-03-27 03:41:07,603 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2022\November已经全部完成，无需再次进行！
+2025-03-27 03:41:07,604 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2022\December文件夹已经建立
+2025-03-27 03:41:07,604 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2022\December已经全部完成，无需再次进行！
+2025-03-27 03:41:07,604 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2022\October文件夹已经建立
+2025-03-27 03:41:07,604 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2023\January文件夹已经建立
+2025-03-27 03:41:07,604 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2022\September文件夹已经建立
+2025-03-27 03:41:07,604 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2022\July已经全部完成，无需再次进行！
+2025-03-27 03:41:07,604 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2022\August已经全部完成，无需再次进行！
+2025-03-27 03:41:07,604 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2023\January已经全部完成，无需再次进行！
+2025-03-27 03:41:07,604 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2022\October已经全部完成，无需再次进行！
+2025-03-27 03:41:07,606 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2023\May文件夹已经建立
+2025-03-27 03:41:07,606 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2023\April文件夹已经建立
+2025-03-27 03:41:07,606 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2023\February文件夹已经建立
+2025-03-27 03:41:07,606 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2022\September已经全部完成，无需再次进行！
+2025-03-27 03:41:07,606 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2023\April已经全部完成，无需再次进行！
+2025-03-27 03:41:07,606 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2023\March文件夹已经建立
+2025-03-27 03:41:07,607 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2023\May已经全部完成，无需再次进行！
+2025-03-27 03:41:07,607 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2023\February已经全部完成，无需再次进行！
+2025-03-27 03:41:07,607 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2023\June文件夹已经建立
+2025-03-27 03:41:07,607 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2023\March已经全部完成，无需再次进行！
+2025-03-27 03:41:07,607 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2023\July文件夹已经建立
+2025-03-27 03:41:07,607 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2023\June已经全部完成，无需再次进行！
+2025-03-27 03:41:07,607 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2023\July已经全部完成，无需再次进行！
+2025-03-27 03:41:07,608 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2023\September文件夹已经建立
+2025-03-27 03:41:07,608 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2023\August文件夹已经建立
+2025-03-27 03:41:07,608 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2023\October文件夹已经建立
+2025-03-27 03:41:07,608 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2023\September已经全部完成，无需再次进行！
+2025-03-27 03:41:07,608 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2023\August已经全部完成，无需再次进行！
+2025-03-27 03:41:07,608 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2023\November文件夹已经建立
+2025-03-27 03:41:07,608 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2023\December文件夹已经建立
+2025-03-27 03:41:07,609 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2023\October已经全部完成，无需再次进行！
+2025-03-27 03:41:07,609 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2023\December已经全部完成，无需再次进行！
+2025-03-27 03:41:07,609 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2024\January文件夹已经建立
+2025-03-27 03:41:07,609 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2024\February文件夹已经建立
+2025-03-27 03:41:07,609 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2023\November已经全部完成，无需再次进行！
+2025-03-27 03:41:07,609 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2024\January已经全部完成，无需再次进行！
+2025-03-27 03:41:07,609 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2024\February已经全部完成，无需再次进行！
+2025-03-27 03:41:07,609 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2024\April文件夹已经建立
+2025-03-27 03:41:07,610 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2024\March文件夹已经建立
+2025-03-27 03:41:07,616 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2024\May文件夹已经建立
+2025-03-27 03:41:07,620 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2024\May已经全部完成，无需再次进行！
+2025-03-27 03:41:07,620 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2024\March已经全部完成，无需再次进行！
+2025-03-27 03:41:07,620 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2024\June文件夹已经建立
+2025-03-27 03:41:07,620 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2024\July文件夹已经建立
+2025-03-27 03:41:07,631 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2024\August文件夹已经建立
+2025-03-27 03:41:07,641 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2024\September文件夹已经建立
+2025-03-27 03:41:07,818 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2024\September已经全部完成，无需再次进行！
+2025-03-27 03:41:07,675 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2024\July已经全部完成，无需再次进行！
+2025-03-27 03:41:07,693 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2024\June已经全部完成，无需再次进行！
+2025-03-27 03:41:07,703 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2024\August已经全部完成，无需再次进行！
+2025-03-27 03:41:07,647 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2024\April已经全部完成，无需再次进行！
+2025-03-27 03:41:07,864 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2024\November文件夹已经建立
+2025-03-27 03:41:07,864 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2024\October文件夹已经建立
+2025-03-27 03:41:07,864 - crawl.py[line:43] - INFO: downloads\4111010037_北京物资学院\2024\December文件夹已经建立
+2025-03-27 03:41:07,879 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2022\February文件夹已经建立
+2025-03-27 03:41:07,879 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2022\January文件夹已经建立
+2025-03-27 03:41:07,880 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2024\December已经全部完成，无需再次进行！
+2025-03-27 03:41:07,880 - crawl.py[line:47] - INFO: downloads\4111010037_北京物资学院\2024\November已经全部完成，无需再次进行！
+2025-03-27 03:41:07,895 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2022\January已经全部完成，无需再次进行！
+2025-03-27 03:41:07,895 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2022\February已经全部完成，无需再次进行！
+2025-03-27 03:41:07,956 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2022\March文件夹已经建立
+2025-03-27 03:41:07,957 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2022\May文件夹已经建立
+2025-03-27 03:41:07,971 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2022\April文件夹已经建立
+2025-03-27 03:41:07,978 - crawl.py[line:53] - INFO: downloads\4111010037_北京物资学院\2024\October 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:07,979 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2022\June文件夹已经建立
+2025-03-27 03:41:08,096 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2022\March已经全部完成，无需再次进行！
+2025-03-27 03:41:08,144 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2022\April已经全部完成，无需再次进行！
+2025-03-27 03:41:08,255 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2022\July文件夹已经建立
+2025-03-27 03:41:08,191 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2022\June已经全部完成，无需再次进行！
+2025-03-27 03:41:08,168 - crawl.py[line:53] - INFO: downloads\4112010065_天津师范大学\2022\May 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:08,283 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2022\October文件夹已经建立
+2025-03-27 03:41:08,283 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2022\September文件夹已经建立
+2025-03-27 03:41:08,286 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2022\August文件夹已经建立
+2025-03-27 03:41:08,314 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2022\August已经全部完成，无需再次进行！
+2025-03-27 03:41:08,314 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2022\September已经全部完成，无需再次进行！
+2025-03-27 03:41:08,314 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2022\July已经全部完成，无需再次进行！
+2025-03-27 03:41:08,314 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2022\November文件夹已经建立
+2025-03-27 03:41:08,379 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2023\February文件夹已经建立
+2025-03-27 03:41:08,315 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2022\October已经全部完成，无需再次进行！
+2025-03-27 03:41:08,323 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2022\December文件夹已经建立
+2025-03-27 03:41:08,380 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2022\November已经全部完成，无需再次进行！
+2025-03-27 03:41:08,379 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2023\January文件夹已经建立
+2025-03-27 03:41:08,380 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2023\January已经全部完成，无需再次进行！
+2025-03-27 03:41:08,380 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2023\February已经全部完成，无需再次进行！
+2025-03-27 03:41:08,381 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2023\April文件夹已经建立
+2025-03-27 03:41:08,380 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2022\December已经全部完成，无需再次进行！
+2025-03-27 03:41:08,380 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2023\March文件夹已经建立
+2025-03-27 03:41:08,381 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2023\May文件夹已经建立
+2025-03-27 03:41:08,381 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2023\June文件夹已经建立
+2025-03-27 03:41:08,381 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2023\June已经全部完成，无需再次进行！
+2025-03-27 03:41:08,381 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2023\April已经全部完成，无需再次进行！
+2025-03-27 03:41:08,381 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2023\March已经全部完成，无需再次进行！
+2025-03-27 03:41:08,382 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2023\July文件夹已经建立
+2025-03-27 03:41:08,382 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2023\May已经全部完成，无需再次进行！
+2025-03-27 03:41:08,382 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2023\August文件夹已经建立
+2025-03-27 03:41:08,382 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2023\July已经全部完成，无需再次进行！
+2025-03-27 03:41:08,383 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2023\September文件夹已经建立
+2025-03-27 03:41:08,383 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2023\August已经全部完成，无需再次进行！
+2025-03-27 03:41:08,383 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2023\October文件夹已经建立
+2025-03-27 03:41:08,383 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2024\January文件夹已经建立
+2025-03-27 03:41:08,383 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2023\November文件夹已经建立
+2025-03-27 03:41:08,383 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2024\January已经全部完成，无需再次进行！
+2025-03-27 03:41:08,384 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2023\September已经全部完成，无需再次进行！
+2025-03-27 03:41:08,384 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2023\November已经全部完成，无需再次进行！
+2025-03-27 03:41:08,384 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2023\October已经全部完成，无需再次进行！
+2025-03-27 03:41:08,384 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2023\December文件夹已经建立
+2025-03-27 03:41:08,384 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2024\March文件夹已经建立
+2025-03-27 03:41:08,384 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2023\December已经全部完成，无需再次进行！
+2025-03-27 03:41:08,384 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2024\April文件夹已经建立
+2025-03-27 03:41:08,384 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2024\March已经全部完成，无需再次进行！
+2025-03-27 03:41:08,384 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2024\February文件夹已经建立
+2025-03-27 03:41:08,384 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2024\May文件夹已经建立
+2025-03-27 03:41:08,385 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2024\April已经全部完成，无需再次进行！
+2025-03-27 03:41:08,385 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2024\June文件夹已经建立
+2025-03-27 03:41:08,385 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2024\February已经全部完成，无需再次进行！
+2025-03-27 03:41:08,385 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2024\June已经全部完成，无需再次进行！
+2025-03-27 03:41:08,385 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2024\August文件夹已经建立
+2025-03-27 03:41:08,385 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2024\August已经全部完成，无需再次进行！
+2025-03-27 03:41:08,385 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2024\October文件夹已经建立
+2025-03-27 03:41:08,385 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2024\July文件夹已经建立
+2025-03-27 03:41:08,385 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2024\May已经全部完成，无需再次进行！
+2025-03-27 03:41:08,386 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2024\September文件夹已经建立
+2025-03-27 03:41:08,386 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2024\October已经全部完成，无需再次进行！
+2025-03-27 03:41:08,386 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2024\November文件夹已经建立
+2025-03-27 03:41:08,401 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2024\July已经全部完成，无需再次进行！
+2025-03-27 03:41:08,440 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2022\February文件夹已经建立
+2025-03-27 03:41:08,441 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2022\February已经全部完成，无需再次进行！
+2025-03-27 03:41:08,441 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2022\March文件夹已经建立
+2025-03-27 03:41:08,441 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2022\March已经全部完成，无需再次进行！
+2025-03-27 03:41:08,442 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2022\April文件夹已经建立
+2025-03-27 03:41:08,442 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2022\April已经全部完成，无需再次进行！
+2025-03-27 03:41:08,442 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2022\May文件夹已经建立
+2025-03-27 03:41:08,442 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2022\May已经全部完成，无需再次进行！
+2025-03-27 03:41:08,443 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2022\June文件夹已经建立
+2025-03-27 03:41:08,443 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2022\June已经全部完成，无需再次进行！
+2025-03-27 03:41:08,443 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2022\July文件夹已经建立
+2025-03-27 03:41:08,443 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2022\July已经全部完成，无需再次进行！
+2025-03-27 03:41:08,444 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2022\August文件夹已经建立
+2025-03-27 03:41:08,444 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2022\August已经全部完成，无需再次进行！
+2025-03-27 03:41:08,444 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2022\September文件夹已经建立
+2025-03-27 03:41:08,444 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2022\September已经全部完成，无需再次进行！
+2025-03-27 03:41:08,444 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2022\October文件夹已经建立
+2025-03-27 03:41:08,444 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2022\October已经全部完成，无需再次进行！
+2025-03-27 03:41:08,445 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2022\November文件夹已经建立
+2025-03-27 03:41:08,445 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2022\November已经全部完成，无需再次进行！
+2025-03-27 03:41:08,445 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2022\December文件夹已经建立
+2025-03-27 03:41:08,446 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2022\December已经全部完成，无需再次进行！
+2025-03-27 03:41:08,446 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2023\January文件夹已经建立
+2025-03-27 03:41:08,446 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2023\January已经全部完成，无需再次进行！
+2025-03-27 03:41:08,447 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2023\February文件夹已经建立
+2025-03-27 03:41:08,447 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2023\February已经全部完成，无需再次进行！
+2025-03-27 03:41:08,447 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2023\March文件夹已经建立
+2025-03-27 03:41:08,447 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2023\March已经全部完成，无需再次进行！
+2025-03-27 03:41:08,448 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2023\April文件夹已经建立
+2025-03-27 03:41:08,448 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2023\April已经全部完成，无需再次进行！
+2025-03-27 03:41:08,449 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2023\May文件夹已经建立
+2025-03-27 03:41:08,449 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2023\May已经全部完成，无需再次进行！
+2025-03-27 03:41:08,449 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2023\June文件夹已经建立
+2025-03-27 03:41:08,401 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2024\September已经全部完成，无需再次进行！
+2025-03-27 03:41:08,404 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2022\January文件夹已经建立
+2025-03-27 03:41:08,404 - crawl.py[line:43] - INFO: downloads\4112010065_天津师范大学\2024\December文件夹已经建立
+2025-03-27 03:41:08,449 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2023\June已经全部完成，无需再次进行！
+2025-03-27 03:41:08,450 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2022\January已经全部完成，无需再次进行！
+2025-03-27 03:41:08,450 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2023\July文件夹已经建立
+2025-03-27 03:41:08,456 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2024\November已经全部完成，无需再次进行！
+2025-03-27 03:41:08,510 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2023\October文件夹已经建立
+2025-03-27 03:41:08,510 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2023\October已经全部完成，无需再次进行！
+2025-03-27 03:41:08,458 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2023\August文件夹已经建立
+2025-03-27 03:41:08,549 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2023\August已经全部完成，无需再次进行！
+2025-03-27 03:41:08,550 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2023\December文件夹已经建立
+2025-03-27 03:41:08,550 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2023\December已经全部完成，无需再次进行！
+2025-03-27 03:41:08,550 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2024\January文件夹已经建立
+2025-03-27 03:41:08,551 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2024\January已经全部完成，无需再次进行！
+2025-03-27 03:41:08,551 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2023\November文件夹已经建立
+2025-03-27 03:41:08,509 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2023\July已经全部完成，无需再次进行！
+2025-03-27 03:41:08,458 - crawl.py[line:47] - INFO: downloads\4112010065_天津师范大学\2024\December已经全部完成，无需再次进行！
+2025-03-27 03:41:08,498 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2023\September文件夹已经建立
+2025-03-27 03:41:08,559 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2024\February文件夹已经建立
+2025-03-27 03:41:08,559 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2023\November已经全部完成，无需再次进行！
+2025-03-27 03:41:08,579 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2023\September已经全部完成，无需再次进行！
+2025-03-27 03:41:08,579 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2024\April文件夹已经建立
+2025-03-27 03:41:08,610 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2024\March文件夹已经建立
+2025-03-27 03:41:08,641 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2024\February已经全部完成，无需再次进行！
+2025-03-27 03:41:08,656 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2024\May文件夹已经建立
+2025-03-27 03:41:08,707 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2024\June文件夹已经建立
+2025-03-27 03:41:08,733 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2024\April已经全部完成，无需再次进行！
+2025-03-27 03:41:08,736 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2024\March已经全部完成，无需再次进行！
+2025-03-27 03:41:08,739 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2024\June已经全部完成，无需再次进行！
+2025-03-27 03:41:08,764 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2024\October文件夹已经建立
+2025-03-27 03:41:08,764 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2024\July文件夹已经建立
+2025-03-27 03:41:08,797 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2024\July已经全部完成，无需再次进行！
+2025-03-27 03:41:08,780 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2024\September文件夹已经建立
+2025-03-27 03:41:08,780 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2024\May已经全部完成，无需再次进行！
+2025-03-27 03:41:08,797 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2024\October已经全部完成，无需再次进行！
+2025-03-27 03:41:08,797 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2024\August文件夹已经建立
+2025-03-27 03:41:08,798 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2024\September已经全部完成，无需再次进行！
+2025-03-27 03:41:08,798 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2022\January文件夹已经建立
+2025-03-27 03:41:08,798 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2022\January已经全部完成，无需再次进行！
+2025-03-27 03:41:08,798 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2024\November文件夹已经建立
+2025-03-27 03:41:08,799 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2022\March文件夹已经建立
+2025-03-27 03:41:08,799 - crawl.py[line:43] - INFO: downloads\4112010068_天津外国语大学\2024\December文件夹已经建立
+2025-03-27 03:41:08,799 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2022\February文件夹已经建立
+2025-03-27 03:41:08,799 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2022\February已经全部完成，无需再次进行！
+2025-03-27 03:41:08,798 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2024\August已经全部完成，无需再次进行！
+2025-03-27 03:41:08,799 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2024\December已经全部完成，无需再次进行！
+2025-03-27 03:41:08,799 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2022\April文件夹已经建立
+2025-03-27 03:41:08,799 - crawl.py[line:47] - INFO: downloads\4112010068_天津外国语大学\2024\November已经全部完成，无需再次进行！
+2025-03-27 03:41:08,799 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2022\March已经全部完成，无需再次进行！
+2025-03-27 03:41:08,800 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2022\June文件夹已经建立
+2025-03-27 03:41:08,800 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2022\April已经全部完成，无需再次进行！
+2025-03-27 03:41:08,800 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2022\June已经全部完成，无需再次进行！
+2025-03-27 03:41:08,800 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2022\May文件夹已经建立
+2025-03-27 03:41:08,801 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2022\July文件夹已经建立
+2025-03-27 03:41:08,801 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2022\August文件夹已经建立
+2025-03-27 03:41:08,801 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2022\May已经全部完成，无需再次进行！
+2025-03-27 03:41:08,801 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2022\July已经全部完成，无需再次进行！
+2025-03-27 03:41:08,802 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2022\August已经全部完成，无需再次进行！
+2025-03-27 03:41:08,802 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2023\January文件夹已经建立
+2025-03-27 03:41:08,802 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2023\January已经全部完成，无需再次进行！
+2025-03-27 03:41:08,802 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2023\February文件夹已经建立
+2025-03-27 03:41:08,803 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2023\February已经全部完成，无需再次进行！
+2025-03-27 03:41:08,803 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2023\March文件夹已经建立
+2025-03-27 03:41:08,803 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2023\March已经全部完成，无需再次进行！
+2025-03-27 03:41:08,803 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2022\October文件夹已经建立
+2025-03-27 03:41:08,803 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2022\September文件夹已经建立
+2025-03-27 03:41:08,804 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2023\April文件夹已经建立
+2025-03-27 03:41:08,804 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2022\October已经全部完成，无需再次进行！
+2025-03-27 03:41:08,804 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2022\September已经全部完成，无需再次进行！
+2025-03-27 03:41:08,804 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2022\November文件夹已经建立
+2025-03-27 03:41:08,804 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2022\December文件夹已经建立
+2025-03-27 03:41:08,804 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2022\November已经全部完成，无需再次进行！
+2025-03-27 03:41:08,804 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2023\April已经全部完成，无需再次进行！
+2025-03-27 03:41:08,804 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2022\December已经全部完成，无需再次进行！
+2025-03-27 03:41:08,805 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2023\August文件夹已经建立
+2025-03-27 03:41:08,805 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2023\August已经全部完成，无需再次进行！
+2025-03-27 03:41:08,805 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2023\October文件夹已经建立
+2025-03-27 03:41:08,805 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2023\October已经全部完成，无需再次进行！
+2025-03-27 03:41:08,806 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2023\November文件夹已经建立
+2025-03-27 03:41:08,806 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2023\November已经全部完成，无需再次进行！
+2025-03-27 03:41:08,806 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2023\December文件夹已经建立
+2025-03-27 03:41:08,806 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2023\December已经全部完成，无需再次进行！
+2025-03-27 03:41:08,806 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2024\January文件夹已经建立
+2025-03-27 03:41:08,807 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2024\January已经全部完成，无需再次进行！
+2025-03-27 03:41:08,807 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2024\February文件夹已经建立
+2025-03-27 03:41:08,807 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2024\February已经全部完成，无需再次进行！
+2025-03-27 03:41:08,807 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2023\June文件夹已经建立
+2025-03-27 03:41:08,807 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2023\May文件夹已经建立
+2025-03-27 03:41:08,808 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2023\July文件夹已经建立
+2025-03-27 03:41:08,807 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2024\March文件夹已经建立
+2025-03-27 03:41:08,808 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2023\June已经全部完成，无需再次进行！
+2025-03-27 03:41:08,808 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2024\March已经全部完成，无需再次进行！
+2025-03-27 03:41:08,808 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2024\April文件夹已经建立
+2025-03-27 03:41:08,808 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2023\September文件夹已经建立
+2025-03-27 03:41:08,809 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2023\July已经全部完成，无需再次进行！
+2025-03-27 03:41:08,808 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2023\May已经全部完成，无需再次进行！
+2025-03-27 03:41:08,849 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2024\July文件夹已经建立
+2025-03-27 03:41:08,849 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2024\July已经全部完成，无需再次进行！
+2025-03-27 03:41:08,849 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2024\August文件夹已经建立
+2025-03-27 03:41:08,850 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2024\August已经全部完成，无需再次进行！
+2025-03-27 03:41:08,850 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2024\September文件夹已经建立
+2025-03-27 03:41:08,850 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2024\September已经全部完成，无需再次进行！
+2025-03-27 03:41:08,850 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2024\October文件夹已经建立
+2025-03-27 03:41:08,850 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2024\October已经全部完成，无需再次进行！
+2025-03-27 03:41:08,851 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2024\November文件夹已经建立
+2025-03-27 03:41:08,851 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2024\November已经全部完成，无需再次进行！
+2025-03-27 03:41:08,851 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2024\December文件夹已经建立
+2025-03-27 03:41:08,851 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2024\December已经全部完成，无需再次进行！
+2025-03-27 03:41:08,852 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2022\January文件夹已经建立
+2025-03-27 03:41:08,808 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2024\May文件夹已经建立
+2025-03-27 03:41:08,808 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2024\April已经全部完成，无需再次进行！
+2025-03-27 03:41:08,826 - crawl.py[line:43] - INFO: downloads\4112010070_天津财经大学\2024\June文件夹已经建立
+2025-03-27 03:41:08,848 - crawl.py[line:53] - INFO: downloads\4112010070_天津财经大学\2023\September 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:08,873 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2022\January已经全部完成，无需再次进行！
+2025-03-27 03:41:08,873 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2024\May已经全部完成，无需再次进行！
+2025-03-27 03:41:08,898 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2022\February文件夹已经建立
+2025-03-27 03:41:08,920 - crawl.py[line:47] - INFO: downloads\4112010070_天津财经大学\2024\June已经全部完成，无需再次进行！
+2025-03-27 03:41:08,939 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2022\March文件夹已经建立
+2025-03-27 03:41:08,983 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2022\May文件夹已经建立
+2025-03-27 03:41:08,983 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2022\April文件夹已经建立
+2025-03-27 03:41:08,984 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2022\March已经全部完成，无需再次进行！
+2025-03-27 03:41:08,984 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2022\June文件夹已经建立
+2025-03-27 03:41:09,027 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2022\February已经全部完成，无需再次进行！
+2025-03-27 03:41:09,049 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2022\July文件夹已经建立
+2025-03-27 03:41:09,063 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2022\April已经全部完成，无需再次进行！
+2025-03-27 03:41:09,188 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2022\July已经全部完成，无需再次进行！
+2025-03-27 03:41:09,091 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2022\May已经全部完成，无需再次进行！
+2025-03-27 03:41:09,170 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2022\June已经全部完成，无需再次进行！
+2025-03-27 03:41:09,156 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2022\August文件夹已经建立
+2025-03-27 03:41:09,199 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2022\September文件夹已经建立
+2025-03-27 03:41:09,203 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2022\October文件夹已经建立
+2025-03-27 03:41:09,214 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2022\August已经全部完成，无需再次进行！
+2025-03-27 03:41:09,225 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2022\December文件夹已经建立
+2025-03-27 03:41:09,225 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2022\December已经全部完成，无需再次进行！
+2025-03-27 03:41:09,226 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2023\February文件夹已经建立
+2025-03-27 03:41:09,226 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2023\February已经全部完成，无需再次进行！
+2025-03-27 03:41:09,226 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2022\September已经全部完成，无需再次进行！
+2025-03-27 03:41:09,226 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2023\January文件夹已经建立
+2025-03-27 03:41:09,229 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2023\March文件夹已经建立
+2025-03-27 03:41:09,234 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2022\November文件夹已经建立
+2025-03-27 03:41:09,234 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2022\October已经全部完成，无需再次进行！
+2025-03-27 03:41:09,252 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2023\April文件夹已经建立
+2025-03-27 03:41:09,253 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2023\January已经全部完成，无需再次进行！
+2025-03-27 03:41:09,265 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2023\March已经全部完成，无需再次进行！
+2025-03-27 03:41:09,287 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2022\November已经全部完成，无需再次进行！
+2025-03-27 03:41:09,290 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2023\May文件夹已经建立
+2025-03-27 03:41:09,297 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2023\April已经全部完成，无需再次进行！
+2025-03-27 03:41:09,297 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2023\June文件夹已经建立
+2025-03-27 03:41:09,313 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2023\July文件夹已经建立
+2025-03-27 03:41:09,391 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2023\July已经全部完成，无需再次进行！
+2025-03-27 03:41:09,391 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2023\October文件夹已经建立
+2025-03-27 03:41:09,391 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2023\October已经全部完成，无需再次进行！
+2025-03-27 03:41:09,392 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2023\November文件夹已经建立
+2025-03-27 03:41:09,392 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2023\November已经全部完成，无需再次进行！
+2025-03-27 03:41:09,392 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2023\December文件夹已经建立
+2025-03-27 03:41:09,392 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2023\December已经全部完成，无需再次进行！
+2025-03-27 03:41:09,328 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2023\August文件夹已经建立
+2025-03-27 03:41:09,393 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2023\August已经全部完成，无需再次进行！
+2025-03-27 03:41:09,393 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2024\February文件夹已经建立
+2025-03-27 03:41:09,393 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2024\February已经全部完成，无需再次进行！
+2025-03-27 03:41:09,393 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2024\March文件夹已经建立
+2025-03-27 03:41:09,394 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2024\March已经全部完成，无需再次进行！
+2025-03-27 03:41:09,394 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2024\April文件夹已经建立
+2025-03-27 03:41:09,394 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2024\April已经全部完成，无需再次进行！
+2025-03-27 03:41:09,343 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2023\May已经全部完成，无需再次进行！
+2025-03-27 03:41:09,353 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2023\September文件夹已经建立
+2025-03-27 03:41:09,392 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2023\June已经全部完成，无需再次进行！
+2025-03-27 03:41:09,395 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2023\September已经全部完成，无需再次进行！
+2025-03-27 03:41:09,395 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2024\May文件夹已经建立
+2025-03-27 03:41:09,395 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2024\January文件夹已经建立
+2025-03-27 03:41:09,405 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2024\June文件夹已经建立
+2025-03-27 03:41:09,405 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2024\June已经全部完成，无需再次进行！
+2025-03-27 03:41:09,405 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2024\January已经全部完成，无需再次进行！
+2025-03-27 03:41:09,406 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2024\October文件夹已经建立
+2025-03-27 03:41:09,406 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2024\July文件夹已经建立
+2025-03-27 03:41:09,406 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2024\May已经全部完成，无需再次进行！
+2025-03-27 03:41:09,406 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2024\September文件夹已经建立
+2025-03-27 03:41:09,417 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2024\October已经全部完成，无需再次进行！
+2025-03-27 03:41:09,436 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2024\August文件夹已经建立
+2025-03-27 03:41:09,497 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2024\July已经全部完成，无需再次进行！
+2025-03-27 03:41:09,529 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2024\September已经全部完成，无需再次进行！
+2025-03-27 03:41:09,560 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2024\November文件夹已经建立
+2025-03-27 03:41:09,584 - crawl.py[line:43] - INFO: downloads\4113010098_河北民族师范学院\2024\December文件夹已经建立
+2025-03-27 03:41:09,591 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2024\August已经全部完成，无需再次进行！
+2025-03-27 03:41:09,595 - crawl.py[line:47] - INFO: downloads\4113010098_河北民族师范学院\2024\December已经全部完成，无需再次进行！
+2025-03-27 03:41:09,595 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2022\January文件夹已经建立
+2025-03-27 03:41:09,607 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2022\February文件夹已经建立
+2025-03-27 03:41:09,623 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2022\April文件夹已经建立
+2025-03-27 03:41:09,635 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2022\January已经全部完成，无需再次进行！
+2025-03-27 03:41:09,635 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2022\March文件夹已经建立
+2025-03-27 03:41:09,655 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2022\February已经全部完成，无需再次进行！
+2025-03-27 03:41:09,681 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2022\March已经全部完成，无需再次进行！
+2025-03-27 03:41:09,681 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2022\June文件夹已经建立
+2025-03-27 03:41:09,687 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2022\April已经全部完成，无需再次进行！
+2025-03-27 03:41:09,712 - crawl.py[line:53] - INFO: downloads\4113010098_河北民族师范学院\2024\November 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:09,719 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2022\May文件夹已经建立
+2025-03-27 03:41:09,751 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2022\July文件夹已经建立
+2025-03-27 03:41:09,758 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2022\June已经全部完成，无需再次进行！
+2025-03-27 03:41:09,766 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2022\September文件夹已经建立
+2025-03-27 03:41:09,772 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2022\August文件夹已经建立
+2025-03-27 03:41:09,782 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2022\July已经全部完成，无需再次进行！
+2025-03-27 03:41:09,782 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2022\May已经全部完成，无需再次进行！
+2025-03-27 03:41:09,797 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2022\October文件夹已经建立
+2025-03-27 03:41:09,844 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2022\October已经全部完成，无需再次进行！
+2025-03-27 03:41:09,845 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2023\January文件夹已经建立
+2025-03-27 03:41:09,845 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2023\January已经全部完成，无需再次进行！
+2025-03-27 03:41:09,845 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2023\February文件夹已经建立
+2025-03-27 03:41:09,844 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2022\November文件夹已经建立
+2025-03-27 03:41:09,878 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2022\November已经全部完成，无需再次进行！
+2025-03-27 03:41:09,879 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2023\March文件夹已经建立
+2025-03-27 03:41:09,879 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2023\March已经全部完成，无需再次进行！
+2025-03-27 03:41:09,879 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2023\April文件夹已经建立
+2025-03-27 03:41:09,879 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2023\April已经全部完成，无需再次进行！
+2025-03-27 03:41:09,882 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2023\May文件夹已经建立
+2025-03-27 03:41:09,882 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2023\May已经全部完成，无需再次进行！
+2025-03-27 03:41:09,882 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2023\June文件夹已经建立
+2025-03-27 03:41:09,883 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2023\June已经全部完成，无需再次进行！
+2025-03-27 03:41:09,883 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2023\July文件夹已经建立
+2025-03-27 03:41:09,883 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2023\July已经全部完成，无需再次进行！
+2025-03-27 03:41:09,883 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2023\August文件夹已经建立
+2025-03-27 03:41:09,884 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2023\August已经全部完成，无需再次进行！
+2025-03-27 03:41:09,884 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2023\September文件夹已经建立
+2025-03-27 03:41:09,884 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2023\September已经全部完成，无需再次进行！
+2025-03-27 03:41:09,884 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2023\October文件夹已经建立
+2025-03-27 03:41:09,884 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2023\October已经全部完成，无需再次进行！
+2025-03-27 03:41:09,885 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2023\November文件夹已经建立
+2025-03-27 03:41:09,885 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2023\November已经全部完成，无需再次进行！
+2025-03-27 03:41:09,885 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2023\December文件夹已经建立
+2025-03-27 03:41:09,886 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2023\December已经全部完成，无需再次进行！
+2025-03-27 03:41:09,886 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2024\January文件夹已经建立
+2025-03-27 03:41:09,886 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2024\January已经全部完成，无需再次进行！
+2025-03-27 03:41:09,887 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2024\February文件夹已经建立
+2025-03-27 03:41:09,887 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2024\February已经全部完成，无需再次进行！
+2025-03-27 03:41:09,887 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2024\March文件夹已经建立
+2025-03-27 03:41:09,887 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2024\March已经全部完成，无需再次进行！
+2025-03-27 03:41:09,888 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2024\April文件夹已经建立
+2025-03-27 03:41:09,888 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2024\April已经全部完成，无需再次进行！
+2025-03-27 03:41:09,888 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2024\May文件夹已经建立
+2025-03-27 03:41:09,888 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2024\May已经全部完成，无需再次进行！
+2025-03-27 03:41:09,889 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2024\June文件夹已经建立
+2025-03-27 03:41:09,889 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2024\June已经全部完成，无需再次进行！
+2025-03-27 03:41:09,889 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2024\July文件夹已经建立
+2025-03-27 03:41:09,889 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2024\July已经全部完成，无需再次进行！
+2025-03-27 03:41:09,889 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2024\August文件夹已经建立
+2025-03-27 03:41:09,890 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2024\August已经全部完成，无需再次进行！
+2025-03-27 03:41:09,890 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2024\September文件夹已经建立
+2025-03-27 03:41:09,890 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2024\September已经全部完成，无需再次进行！
+2025-03-27 03:41:09,890 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2024\October文件夹已经建立
+2025-03-27 03:41:09,890 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2024\October已经全部完成，无需再次进行！
+2025-03-27 03:41:09,895 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2024\November文件夹已经建立
+2025-03-27 03:41:09,895 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2024\November已经全部完成，无需再次进行！
+2025-03-27 03:41:09,895 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2024\December文件夹已经建立
+2025-03-27 03:41:09,896 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2024\December已经全部完成，无需再次进行！
+2025-03-27 03:41:09,896 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2022\January文件夹已经建立
+2025-03-27 03:41:09,896 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2022\January已经全部完成，无需再次进行！
+2025-03-27 03:41:09,896 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2022\February文件夹已经建立
+2025-03-27 03:41:09,897 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2022\February已经全部完成，无需再次进行！
+2025-03-27 03:41:09,897 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2022\March文件夹已经建立
+2025-03-27 03:41:09,897 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2022\March已经全部完成，无需再次进行！
+2025-03-27 03:41:09,897 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2022\April文件夹已经建立
+2025-03-27 03:41:09,897 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2022\April已经全部完成，无需再次进行！
+2025-03-27 03:41:09,898 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2022\May文件夹已经建立
+2025-03-27 03:41:09,898 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2022\May已经全部完成，无需再次进行！
+2025-03-27 03:41:09,898 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2022\June文件夹已经建立
+2025-03-27 03:41:09,898 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2022\June已经全部完成，无需再次进行！
+2025-03-27 03:41:09,899 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2022\July文件夹已经建立
+2025-03-27 03:41:09,899 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2022\July已经全部完成，无需再次进行！
+2025-03-27 03:41:09,899 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2022\August文件夹已经建立
+2025-03-27 03:41:09,899 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2022\August已经全部完成，无需再次进行！
+2025-03-27 03:41:09,899 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2022\September文件夹已经建立
+2025-03-27 03:41:09,844 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2022\September已经全部完成，无需再次进行！
+2025-03-27 03:41:09,844 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2022\August已经全部完成，无需再次进行！
+2025-03-27 03:41:09,845 - crawl.py[line:43] - INFO: downloads\4113010101_衡水学院\2022\December文件夹已经建立
+2025-03-27 03:41:09,845 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2023\February已经全部完成，无需再次进行！
+2025-03-27 03:41:09,943 - crawl.py[line:53] - INFO: downloads\4113010102_石家庄学院\2022\September 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:09,969 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2022\October文件夹已经建立
+2025-03-27 03:41:09,988 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2022\November文件夹已经建立
+2025-03-27 03:41:09,988 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2022\December文件夹已经建立
+2025-03-27 03:41:10,001 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2023\January文件夹已经建立
+2025-03-27 03:41:10,001 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2022\October已经全部完成，无需再次进行！
+2025-03-27 03:41:10,001 - crawl.py[line:47] - INFO: downloads\4113010101_衡水学院\2022\December已经全部完成，无需再次进行！
+2025-03-27 03:41:10,112 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2023\January已经全部完成，无需再次进行！
+2025-03-27 03:41:10,121 - crawl.py[line:53] - INFO: downloads\4113010102_石家庄学院\2022\November 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:10,121 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2022\December已经全部完成，无需再次进行！
+2025-03-27 03:41:10,121 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2023\February文件夹已经建立
+2025-03-27 03:41:10,123 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2023\March文件夹已经建立
+2025-03-27 03:41:10,131 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2023\April文件夹已经建立
+2025-03-27 03:41:10,131 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2023\June文件夹已经建立
+2025-03-27 03:41:10,144 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2023\May文件夹已经建立
+2025-03-27 03:41:10,144 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2023\March已经全部完成，无需再次进行！
+2025-03-27 03:41:10,157 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2023\February已经全部完成，无需再次进行！
+2025-03-27 03:41:10,174 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2023\May已经全部完成，无需再次进行！
+2025-03-27 03:41:10,174 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2023\April已经全部完成，无需再次进行！
+2025-03-27 03:41:10,179 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2023\August文件夹已经建立
+2025-03-27 03:41:10,190 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2023\July文件夹已经建立
+2025-03-27 03:41:10,196 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2023\June已经全部完成，无需再次进行！
+2025-03-27 03:41:10,196 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2023\August已经全部完成，无需再次进行！
+2025-03-27 03:41:10,206 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2023\October文件夹已经建立
+2025-03-27 03:41:10,217 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2023\July已经全部完成，无需再次进行！
+2025-03-27 03:41:10,218 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2023\September文件夹已经建立
+2025-03-27 03:41:10,237 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2023\November文件夹已经建立
+2025-03-27 03:41:10,237 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2024\January文件夹已经建立
+2025-03-27 03:41:10,238 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2024\January已经全部完成，无需再次进行！
+2025-03-27 03:41:10,237 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2023\December文件夹已经建立
+2025-03-27 03:41:10,238 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2023\September已经全部完成，无需再次进行！
+2025-03-27 03:41:10,288 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2024\March文件夹已经建立
+2025-03-27 03:41:10,288 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2024\March已经全部完成，无需再次进行！
+2025-03-27 03:41:10,288 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2024\April文件夹已经建立
+2025-03-27 03:41:10,289 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2024\April已经全部完成，无需再次进行！
+2025-03-27 03:41:10,238 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2023\November已经全部完成，无需再次进行！
+2025-03-27 03:41:10,238 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2023\October已经全部完成，无需再次进行！
+2025-03-27 03:41:10,290 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2024\July文件夹已经建立
+2025-03-27 03:41:10,293 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2024\July已经全部完成，无需再次进行！
+2025-03-27 03:41:10,293 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2024\August文件夹已经建立
+2025-03-27 03:41:10,294 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2024\August已经全部完成，无需再次进行！
+2025-03-27 03:41:10,294 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2024\September文件夹已经建立
+2025-03-27 03:41:10,294 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2024\September已经全部完成，无需再次进行！
+2025-03-27 03:41:10,289 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2024\June文件夹已经建立
+2025-03-27 03:41:10,303 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2024\June已经全部完成，无需再次进行！
+2025-03-27 03:41:10,289 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2024\May文件夹已经建立
+2025-03-27 03:41:10,287 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2024\February文件夹已经建立
+2025-03-27 03:41:10,303 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2024\October文件夹已经建立
+2025-03-27 03:41:10,289 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2023\December已经全部完成，无需再次进行！
+2025-03-27 03:41:10,345 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2024\November文件夹已经建立
+2025-03-27 03:41:10,376 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2024\November已经全部完成，无需再次进行！
+2025-03-27 03:41:10,377 - crawl.py[line:43] - INFO: downloads\4113010102_石家庄学院\2024\December文件夹已经建立
+2025-03-27 03:41:10,347 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2024\May已经全部完成，无需再次进行！
+2025-03-27 03:41:10,352 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2024\October已经全部完成，无需再次进行！
+2025-03-27 03:41:10,373 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2024\February已经全部完成，无需再次进行！
+2025-03-27 03:41:10,377 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2022\January文件夹已经建立
+2025-03-27 03:41:10,377 - crawl.py[line:47] - INFO: downloads\4113010102_石家庄学院\2024\December已经全部完成，无需再次进行！
+2025-03-27 03:41:10,410 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2022\February文件夹已经建立
+2025-03-27 03:41:10,481 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2022\February已经全部完成，无需再次进行！
+2025-03-27 03:41:10,481 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2022\June文件夹已经建立
+2025-03-27 03:41:10,481 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2022\June已经全部完成，无需再次进行！
+2025-03-27 03:41:10,444 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2022\March文件夹已经建立
+2025-03-27 03:41:10,452 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2022\April文件夹已经建立
+2025-03-27 03:41:10,480 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2022\May文件夹已经建立
+2025-03-27 03:41:10,485 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2022\May已经全部完成，无需再次进行！
+2025-03-27 03:41:10,480 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2022\January已经全部完成，无需再次进行！
+2025-03-27 03:41:10,486 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2022\April已经全部完成，无需再次进行！
+2025-03-27 03:41:10,482 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2022\July文件夹已经建立
+2025-03-27 03:41:10,482 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2022\March已经全部完成，无需再次进行！
+2025-03-27 03:41:10,491 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2022\September文件夹已经建立
+2025-03-27 03:41:10,491 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2022\July已经全部完成，无需再次进行！
+2025-03-27 03:41:10,497 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2022\October文件夹已经建立
+2025-03-27 03:41:10,497 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2022\November文件夹已经建立
+2025-03-27 03:41:10,499 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2022\August文件夹已经建立
+2025-03-27 03:41:10,502 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2022\September已经全部完成，无需再次进行！
+2025-03-27 03:41:10,519 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2022\December文件夹已经建立
+2025-03-27 03:41:10,534 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2022\October已经全部完成，无需再次进行！
+2025-03-27 03:41:10,537 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2022\November已经全部完成，无需再次进行！
+2025-03-27 03:41:10,543 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2022\August已经全部完成，无需再次进行！
+2025-03-27 03:41:10,564 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2023\February文件夹已经建立
+2025-03-27 03:41:10,576 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2022\December已经全部完成，无需再次进行！
+2025-03-27 03:41:10,576 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2023\January文件夹已经建立
+2025-03-27 03:41:10,583 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2023\March文件夹已经建立
+2025-03-27 03:41:10,622 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2023\April文件夹已经建立
+2025-03-27 03:41:10,622 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2023\February已经全部完成，无需再次进行！
+2025-03-27 03:41:10,650 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2023\May文件夹已经建立
+2025-03-27 03:41:10,668 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2023\January已经全部完成，无需再次进行！
+2025-03-27 03:41:10,668 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2023\May已经全部完成，无需再次进行！
+2025-03-27 03:41:10,670 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2023\July文件夹已经建立
+2025-03-27 03:41:10,670 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2023\August文件夹已经建立
+2025-03-27 03:41:10,670 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2023\March已经全部完成，无需再次进行！
+2025-03-27 03:41:10,672 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2023\August已经全部完成，无需再次进行！
+2025-03-27 03:41:10,672 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2023\September文件夹已经建立
+2025-03-27 03:41:10,672 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2023\October文件夹已经建立
+2025-03-27 03:41:10,672 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2023\September已经全部完成，无需再次进行！
+2025-03-27 03:41:10,672 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2023\October已经全部完成，无需再次进行！
+2025-03-27 03:41:10,684 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2023\December文件夹已经建立
+2025-03-27 03:41:10,684 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2023\December已经全部完成，无需再次进行！
+2025-03-27 03:41:10,685 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2024\January文件夹已经建立
+2025-03-27 03:41:10,685 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2024\January已经全部完成，无需再次进行！
+2025-03-27 03:41:10,685 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2024\February文件夹已经建立
+2025-03-27 03:41:10,685 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2024\February已经全部完成，无需再次进行！
+2025-03-27 03:41:10,686 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2024\March文件夹已经建立
+2025-03-27 03:41:10,684 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2023\November文件夹已经建立
+2025-03-27 03:41:10,700 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2023\June文件夹已经建立
+2025-03-27 03:41:10,704 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2023\April已经全部完成，无需再次进行！
+2025-03-27 03:41:10,713 - crawl.py[line:53] - INFO: downloads\4113010107_石家庄铁道大学\2024\March 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:10,723 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2023\July已经全部完成，无需再次进行！
+2025-03-27 03:41:10,726 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2023\November已经全部完成，无需再次进行！
+2025-03-27 03:41:10,731 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2023\June已经全部完成，无需再次进行！
+2025-03-27 03:41:10,731 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2024\April文件夹已经建立
+2025-03-27 03:41:10,741 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2024\June文件夹已经建立
+2025-03-27 03:41:10,741 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2024\May文件夹已经建立
+2025-03-27 03:41:10,756 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2024\August文件夹已经建立
+2025-03-27 03:41:10,776 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2024\July文件夹已经建立
+2025-03-27 03:41:10,776 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2024\May已经全部完成，无需再次进行！
+2025-03-27 03:41:10,798 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2024\April已经全部完成，无需再次进行！
+2025-03-27 03:41:10,827 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2024\June已经全部完成，无需再次进行！
+2025-03-27 03:41:10,842 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2024\July已经全部完成，无需再次进行！
+2025-03-27 03:41:10,858 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2024\September文件夹已经建立
+2025-03-27 03:41:10,890 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2024\September已经全部完成，无需再次进行！
+2025-03-27 03:41:10,858 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2024\August已经全部完成，无需再次进行！
+2025-03-27 03:41:10,890 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2024\November文件夹已经建立
+2025-03-27 03:41:10,915 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2024\November已经全部完成，无需再次进行！
+2025-03-27 03:41:10,915 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2022\March文件夹已经建立
+2025-03-27 03:41:10,916 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2022\March已经全部完成，无需再次进行！
+2025-03-27 03:41:10,916 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2022\April文件夹已经建立
+2025-03-27 03:41:10,916 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2022\April已经全部完成，无需再次进行！
+2025-03-27 03:41:10,916 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2022\May文件夹已经建立
+2025-03-27 03:41:10,917 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2022\May已经全部完成，无需再次进行！
+2025-03-27 03:41:10,917 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2022\June文件夹已经建立
+2025-03-27 03:41:10,917 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2022\June已经全部完成，无需再次进行！
+2025-03-27 03:41:10,917 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2022\July文件夹已经建立
+2025-03-27 03:41:10,917 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2022\July已经全部完成，无需再次进行！
+2025-03-27 03:41:10,918 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2022\August文件夹已经建立
+2025-03-27 03:41:10,918 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2022\August已经全部完成，无需再次进行！
+2025-03-27 03:41:10,918 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2022\September文件夹已经建立
+2025-03-27 03:41:10,918 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2022\September已经全部完成，无需再次进行！
+2025-03-27 03:41:10,919 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2022\October文件夹已经建立
+2025-03-27 03:41:10,919 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2022\October已经全部完成，无需再次进行！
+2025-03-27 03:41:10,919 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2022\November文件夹已经建立
+2025-03-27 03:41:10,919 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2022\November已经全部完成，无需再次进行！
+2025-03-27 03:41:10,920 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2022\December文件夹已经建立
+2025-03-27 03:41:10,920 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2022\December已经全部完成，无需再次进行！
+2025-03-27 03:41:10,920 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2023\January文件夹已经建立
+2025-03-27 03:41:10,920 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2023\January已经全部完成，无需再次进行！
+2025-03-27 03:41:10,921 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2023\February文件夹已经建立
+2025-03-27 03:41:10,921 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2023\February已经全部完成，无需再次进行！
+2025-03-27 03:41:10,922 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2023\March文件夹已经建立
+2025-03-27 03:41:10,922 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2023\March已经全部完成，无需再次进行！
+2025-03-27 03:41:10,922 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2023\April文件夹已经建立
+2025-03-27 03:41:10,922 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2023\April已经全部完成，无需再次进行！
+2025-03-27 03:41:10,923 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2023\May文件夹已经建立
+2025-03-27 03:41:10,923 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2023\May已经全部完成，无需再次进行！
+2025-03-27 03:41:10,923 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2023\June文件夹已经建立
+2025-03-27 03:41:10,923 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2023\June已经全部完成，无需再次进行！
+2025-03-27 03:41:10,875 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2024\October文件夹已经建立
+2025-03-27 03:41:10,906 - crawl.py[line:43] - INFO: downloads\4113010107_石家庄铁道大学\2024\December文件夹已经建立
+2025-03-27 03:41:10,906 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2022\February文件夹已经建立
+2025-03-27 03:41:10,924 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2024\October已经全部完成，无需再次进行！
+2025-03-27 03:41:10,906 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2022\January文件夹已经建立
+2025-03-27 03:41:10,924 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2023\July文件夹已经建立
+2025-03-27 03:41:10,924 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2022\February已经全部完成，无需再次进行！
+2025-03-27 03:41:10,924 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2023\August文件夹已经建立
+2025-03-27 03:41:10,924 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2022\January已经全部完成，无需再次进行！
+2025-03-27 03:41:10,924 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2023\July已经全部完成，无需再次进行！
+2025-03-27 03:41:10,958 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2023\August已经全部完成，无需再次进行！
+2025-03-27 03:41:10,943 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2023\September文件夹已经建立
+2025-03-27 03:41:10,940 - crawl.py[line:47] - INFO: downloads\4113010107_石家庄铁道大学\2024\December已经全部完成，无需再次进行！
+2025-03-27 03:41:10,960 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2023\October文件夹已经建立
+2025-03-27 03:41:10,971 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2023\November文件夹已经建立
+2025-03-27 03:41:10,995 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2023\November已经全部完成，无需再次进行！
+2025-03-27 03:41:10,996 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2024\January文件夹已经建立
+2025-03-27 03:41:10,971 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2023\December文件夹已经建立
+2025-03-27 03:41:10,982 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2023\October已经全部完成，无需再次进行！
+2025-03-27 03:41:10,971 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2023\September已经全部完成，无需再次进行！
+2025-03-27 03:41:11,002 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2024\January已经全部完成，无需再次进行！
+2025-03-27 03:41:11,002 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2024\February文件夹已经建立
+2025-03-27 03:41:11,013 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2024\March文件夹已经建立
+2025-03-27 03:41:11,021 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2024\March已经全部完成，无需再次进行！
+2025-03-27 03:41:11,021 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2024\May文件夹已经建立
+2025-03-27 03:41:11,021 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2024\February已经全部完成，无需再次进行！
+2025-03-27 03:41:11,027 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2024\June文件夹已经建立
+2025-03-27 03:41:11,027 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2024\June已经全部完成，无需再次进行！
+2025-03-27 03:41:11,050 - crawl.py[line:53] - INFO: downloads\4113011832_河北经贸大学\2023\December 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:11,050 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2024\August文件夹已经建立
+2025-03-27 03:41:11,050 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2024\July文件夹已经建立
+2025-03-27 03:41:11,050 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2024\August已经全部完成，无需再次进行！
+2025-03-27 03:41:11,050 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2024\July已经全部完成，无需再次进行！
+2025-03-27 03:41:11,051 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2024\October文件夹已经建立
+2025-03-27 03:41:11,051 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2024\April文件夹已经建立
+2025-03-27 03:41:11,057 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2024\November文件夹已经建立
+2025-03-27 03:41:11,065 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2024\May已经全部完成，无需再次进行！
+2025-03-27 03:41:11,067 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2024\October已经全部完成，无需再次进行！
+2025-03-27 03:41:11,067 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2024\April已经全部完成，无需再次进行！
+2025-03-27 03:41:11,068 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2022\January文件夹已经建立
+2025-03-27 03:41:11,068 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2024\December文件夹已经建立
+2025-03-27 03:41:11,068 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2022\February文件夹已经建立
+2025-03-27 03:41:11,068 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2024\December已经全部完成，无需再次进行！
+2025-03-27 03:41:11,068 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2022\January已经全部完成，无需再次进行！
+2025-03-27 03:41:11,078 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2022\April文件夹已经建立
+2025-03-27 03:41:11,079 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2022\February已经全部完成，无需再次进行！
+2025-03-27 03:41:11,079 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2024\November已经全部完成，无需再次进行！
+2025-03-27 03:41:11,079 - crawl.py[line:43] - INFO: downloads\4113011832_河北经贸大学\2024\September文件夹已经建立
+2025-03-27 03:41:11,079 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2022\March文件夹已经建立
+2025-03-27 03:41:11,097 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2022\March已经全部完成，无需再次进行！
+2025-03-27 03:41:11,113 - crawl.py[line:47] - INFO: downloads\4113011832_河北经贸大学\2024\September已经全部完成，无需再次进行！
+2025-03-27 03:41:11,113 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2022\July文件夹已经建立
+2025-03-27 03:41:11,113 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2022\July已经全部完成，无需再次进行！
+2025-03-27 03:41:11,113 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2022\April已经全部完成，无需再次进行！
+2025-03-27 03:41:11,113 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2022\August文件夹已经建立
+2025-03-27 03:41:11,128 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2022\August已经全部完成，无需再次进行！
+2025-03-27 03:41:11,116 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2022\May文件夹已经建立
+2025-03-27 03:41:11,129 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2022\October文件夹已经建立
+2025-03-27 03:41:11,129 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2022\October已经全部完成，无需再次进行！
+2025-03-27 03:41:11,128 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2022\September文件夹已经建立
+2025-03-27 03:41:11,116 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2022\June文件夹已经建立
+2025-03-27 03:41:11,159 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2022\December文件夹已经建立
+2025-03-27 03:41:11,159 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2022\May已经全部完成，无需再次进行！
+2025-03-27 03:41:11,159 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2022\November文件夹已经建立
+2025-03-27 03:41:11,159 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2022\September已经全部完成，无需再次进行！
+2025-03-27 03:41:11,164 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2022\June已经全部完成，无需再次进行！
+2025-03-27 03:41:11,198 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2022\December已经全部完成，无需再次进行！
+2025-03-27 03:41:11,208 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2023\January文件夹已经建立
+2025-03-27 03:41:11,253 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2022\November已经全部完成，无需再次进行！
+2025-03-27 03:41:11,331 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2023\April文件夹已经建立
+2025-03-27 03:41:11,347 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2023\February文件夹已经建立
+2025-03-27 03:41:11,347 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2023\March文件夹已经建立
+2025-03-27 03:41:11,400 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2023\May文件夹已经建立
+2025-03-27 03:41:11,535 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2023\May已经全部完成，无需再次进行！
+2025-03-27 03:41:11,551 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2023\April已经全部完成，无需再次进行！
+2025-03-27 03:41:11,551 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2023\February已经全部完成，无需再次进行！
+2025-03-27 03:41:11,551 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2023\January已经全部完成，无需再次进行！
+2025-03-27 03:41:11,560 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2023\July文件夹已经建立
+2025-03-27 03:41:11,562 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2023\June文件夹已经建立
+2025-03-27 03:41:11,562 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2023\March已经全部完成，无需再次进行！
+2025-03-27 03:41:11,562 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2023\August文件夹已经建立
+2025-03-27 03:41:11,611 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2023\September文件夹已经建立
+2025-03-27 03:41:11,616 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2023\July已经全部完成，无需再次进行！
+2025-03-27 03:41:11,626 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2023\October文件夹已经建立
+2025-03-27 03:41:11,644 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2023\June已经全部完成，无需再次进行！
+2025-03-27 03:41:11,658 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2023\August已经全部完成，无需再次进行！
+2025-03-27 03:41:11,675 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2023\September已经全部完成，无需再次进行！
+2025-03-27 03:41:11,706 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2023\October已经全部完成，无需再次进行！
+2025-03-27 03:41:11,760 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2023\November文件夹已经建立
+2025-03-27 03:41:11,800 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2023\December文件夹已经建立
+2025-03-27 03:41:11,813 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2024\January文件夹已经建立
+2025-03-27 03:41:11,813 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2024\February文件夹已经建立
+2025-03-27 03:41:11,830 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2024\March文件夹已经建立
+2025-03-27 03:41:11,830 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2023\November已经全部完成，无需再次进行！
+2025-03-27 03:41:11,855 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2023\December已经全部完成，无需再次进行！
+2025-03-27 03:41:11,922 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2024\February已经全部完成，无需再次进行！
+2025-03-27 03:41:11,922 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2024\January已经全部完成，无需再次进行！
+2025-03-27 03:41:11,968 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2024\March已经全部完成，无需再次进行！
+2025-03-27 03:41:11,984 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2024\April文件夹已经建立
+2025-03-27 03:41:12,000 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2024\May文件夹已经建立
+2025-03-27 03:41:12,003 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2024\June文件夹已经建立
+2025-03-27 03:41:12,050 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2024\August文件夹已经建立
+2025-03-27 03:41:12,046 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2024\April已经全部完成，无需再次进行！
+2025-03-27 03:41:12,008 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2024\July文件夹已经建立
+2025-03-27 03:41:12,109 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2024\August已经全部完成，无需再次进行！
+2025-03-27 03:41:12,109 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2024\May已经全部完成，无需再次进行！
+2025-03-27 03:41:12,109 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2024\June已经全部完成，无需再次进行！
+2025-03-27 03:41:12,170 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2024\September文件夹已经建立
+2025-03-27 03:41:12,253 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2024\October文件夹已经建立
+2025-03-27 03:41:12,252 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2024\December文件夹已经建立
+2025-03-27 03:41:12,212 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2024\July已经全部完成，无需再次进行！
+2025-03-27 03:41:12,265 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2024\September已经全部完成，无需再次进行！
+2025-03-27 03:41:12,281 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2024\October已经全部完成，无需再次进行！
+2025-03-27 03:41:12,289 - crawl.py[line:43] - INFO: downloads\4114014101_太原工业学院\2024\November文件夹已经建立
+2025-03-27 03:41:12,289 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2024\December已经全部完成，无需再次进行！
+2025-03-27 03:41:12,302 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2022\February文件夹已经建立
+2025-03-27 03:41:12,304 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2022\January文件夹已经建立
+2025-03-27 03:41:12,358 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2022\March文件夹已经建立
+2025-03-27 03:41:12,358 - crawl.py[line:47] - INFO: downloads\4114014101_太原工业学院\2024\November已经全部完成，无需再次进行！
+2025-03-27 03:41:12,375 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2022\April文件夹已经建立
+2025-03-27 03:41:12,448 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2022\January 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:12,456 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2022\February 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:12,457 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2022\May文件夹已经建立
+2025-03-27 03:41:12,490 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2022\March 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:12,496 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2022\July文件夹已经建立
+2025-03-27 03:41:12,497 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2022\June文件夹已经建立
+2025-03-27 03:41:12,535 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2022\April 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:12,537 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2022\August文件夹已经建立
+2025-03-27 03:41:12,554 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2022\September文件夹已经建立
+2025-03-27 03:41:12,655 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2022\May 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:12,663 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2022\August 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:12,673 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2022\October文件夹已经建立
+2025-03-27 03:41:12,669 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2022\September 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:12,681 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2022\November文件夹已经建立
+2025-03-27 03:41:12,681 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2022\December文件夹已经建立
+2025-03-27 03:41:12,774 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2022\June 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:12,826 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2022\July 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:12,876 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2022\December 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:12,878 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2022\October 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:12,879 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2023\January文件夹已经建立
+2025-03-27 03:41:12,900 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2023\March文件夹已经建立
+2025-03-27 03:41:12,900 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2023\April文件夹已经建立
+2025-03-27 03:41:12,915 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2023\February文件夹已经建立
+2025-03-27 03:41:12,968 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2022\November 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:13,046 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2023\March 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:13,081 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2023\January 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:13,101 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2023\May文件夹已经建立
+2025-03-27 03:41:13,111 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2023\April 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:13,155 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2023\June文件夹已经建立
+2025-03-27 03:41:13,160 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2023\July文件夹已经建立
+2025-03-27 03:41:13,191 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2023\August文件夹已经建立
+2025-03-27 03:41:13,257 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2023\February 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:13,284 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2023\September文件夹已经建立
+2025-03-27 03:41:13,300 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2023\May 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:13,332 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2023\October文件夹已经建立
+2025-03-27 03:41:13,371 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2023\July 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:13,374 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2023\November文件夹已经建立
+2025-03-27 03:41:13,380 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2023\June 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:13,431 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2023\October 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:13,441 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2023\December文件夹已经建立
+2025-03-27 03:41:13,451 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2024\January文件夹已经建立
+2025-03-27 03:41:13,444 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2023\August 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:13,448 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2023\November 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:13,512 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2023\September 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:13,565 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2024\February文件夹已经建立
+2025-03-27 03:41:13,567 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2023\December 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:13,572 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2024\March文件夹已经建立
+2025-03-27 03:41:13,596 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2024\April文件夹已经建立
+2025-03-27 03:41:13,619 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2024\January 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:13,643 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2024\May文件夹已经建立
+2025-03-27 03:41:13,686 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2024\June文件夹已经建立
+2025-03-27 03:41:13,697 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2024\February 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:13,717 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2024\April 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:13,811 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2024\July文件夹已经建立
+2025-03-27 03:41:13,811 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2024\August文件夹已经建立
+2025-03-27 03:41:13,830 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2024\March 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:13,853 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2024\September文件夹已经建立
+2025-03-27 03:41:13,851 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2024\May 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:13,925 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2024\October文件夹已经建立
+2025-03-27 03:41:13,891 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2024\August 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:13,909 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2024\June 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:13,965 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2024\October 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:13,994 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2024\September 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:14,023 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2024\July 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:14,026 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2024\December文件夹已经建立
+2025-03-27 03:41:14,031 - crawl.py[line:43] - INFO: downloads\4115010127_内蒙古科技大学\2024\November文件夹已经建立
+2025-03-27 03:41:14,031 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2022\January文件夹已经建立
+2025-03-27 03:41:14,037 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2022\February文件夹已经建立
+2025-03-27 03:41:14,037 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2022\March文件夹已经建立
+2025-03-27 03:41:14,097 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2022\January 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:14,106 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2022\February 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:14,130 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2022\April文件夹已经建立
+2025-03-27 03:41:14,135 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2022\May文件夹已经建立
+2025-03-27 03:41:14,188 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2024\December 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:14,215 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2022\March 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:14,242 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2022\June文件夹已经建立
+2025-03-27 03:41:14,282 - crawl.py[line:53] - INFO: downloads\4115010127_内蒙古科技大学\2024\November 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:14,289 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2022\May 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:14,292 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2022\July文件夹已经建立
+2025-03-27 03:41:14,292 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2022\September文件夹已经建立
+2025-03-27 03:41:14,300 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2022\August文件夹已经建立
+2025-03-27 03:41:14,328 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2022\April 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:14,410 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2022\October文件夹已经建立
+2025-03-27 03:41:14,430 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2022\June 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:14,470 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2022\August 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:14,487 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2022\November文件夹已经建立
+2025-03-27 03:41:14,541 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2022\December文件夹已经建立
+2025-03-27 03:41:14,545 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2022\July 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:14,556 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2022\September 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:14,598 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2023\January文件夹已经建立
+2025-03-27 03:41:14,619 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2022\November 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:14,666 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2022\October 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:14,673 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2023\February文件夹已经建立
+2025-03-27 03:41:14,693 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2023\March文件夹已经建立
+2025-03-27 03:41:14,734 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2023\January 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:14,802 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2023\May文件夹已经建立
+2025-03-27 03:41:14,757 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2022\December 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:14,781 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2023\April文件夹已经建立
+2025-03-27 03:41:14,811 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2023\February 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:14,906 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2023\July文件夹已经建立
+2025-03-27 03:41:14,874 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2023\June文件夹已经建立
+2025-03-27 03:41:14,917 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2023\May 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:14,970 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2023\August文件夹已经建立
+2025-03-27 03:41:14,941 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2023\March 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:14,985 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2023\September文件夹已经建立
+2025-03-27 03:41:14,994 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2023\April 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:15,004 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2023\July 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:15,017 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2023\October文件夹已经建立
+2025-03-27 03:41:15,044 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2023\June 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:15,108 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2023\August 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:15,108 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2023\December文件夹已经建立
+2025-03-27 03:41:15,119 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2023\September 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:15,178 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2024\February文件夹已经建立
+2025-03-27 03:41:15,119 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2023\November文件夹已经建立
+2025-03-27 03:41:15,177 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2023\October 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:15,236 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2024\March文件夹已经建立
+2025-03-27 03:41:15,139 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2024\January文件夹已经建立
+2025-03-27 03:41:15,256 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2023\December 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:15,260 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2023\November 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:15,279 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2024\January 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:15,297 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2024\June文件夹已经建立
+2025-03-27 03:41:15,297 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2024\May文件夹已经建立
+2025-03-27 03:41:15,330 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2024\April文件夹已经建立
+2025-03-27 03:41:15,330 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2024\March 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:15,367 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2024\February 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:15,373 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2024\July文件夹已经建立
+2025-03-27 03:41:15,400 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2024\August文件夹已经建立
+2025-03-27 03:41:15,472 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2024\May 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:15,575 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2024\July 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:15,576 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2024\October文件夹已经建立
+2025-03-27 03:41:15,577 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2024\June 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:15,578 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2024\November文件夹已经建立
+2025-03-27 03:41:15,605 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2024\November 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:15,605 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2024\September文件夹已经建立
+2025-03-27 03:41:15,618 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2024\April 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:15,670 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2022\January文件夹已经建立
+2025-03-27 03:41:15,670 - crawl.py[line:43] - INFO: downloads\4115010132_内蒙古医科大学\2024\December文件夹已经建立
+2025-03-27 03:41:15,686 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2024\August 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:15,703 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2022\February文件夹已经建立
+2025-03-27 03:41:15,714 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2024\October 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:15,766 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2022\March文件夹已经建立
+2025-03-27 03:41:15,772 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2024\September 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:15,813 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2022\January 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:15,820 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2022\February 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:15,822 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2022\April文件夹已经建立
+2025-03-27 03:41:15,834 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2022\June文件夹已经建立
+2025-03-27 03:41:15,854 - crawl.py[line:53] - INFO: downloads\4115010132_内蒙古医科大学\2024\December 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:15,908 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2022\May文件夹已经建立
+2025-03-27 03:41:15,926 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2022\March 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:15,927 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2022\July文件夹已经建立
+2025-03-27 03:41:15,956 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2022\August文件夹已经建立
+2025-03-27 03:41:15,990 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2022\June 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:16,030 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2022\May 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:16,095 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2022\September文件夹已经建立
+2025-03-27 03:41:16,137 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2022\April 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:16,142 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2022\July 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:16,142 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2022\November文件夹已经建立
+2025-03-27 03:41:16,144 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2022\August 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:16,158 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2022\October文件夹已经建立
+2025-03-27 03:41:16,164 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2023\January文件夹已经建立
+2025-03-27 03:41:16,159 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2022\December文件夹已经建立
+2025-03-27 03:41:16,188 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2022\September 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:16,188 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2023\February文件夹已经建立
+2025-03-27 03:41:16,252 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2022\December 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:16,269 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2023\March文件夹已经建立
+2025-03-27 03:41:16,298 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2023\March 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:16,310 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2023\February 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:16,323 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2022\November 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:16,328 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2023\April文件夹已经建立
+2025-03-27 03:41:16,334 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2023\January 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:16,426 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2023\July文件夹已经建立
+2025-03-27 03:41:16,342 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2023\May文件夹已经建立
+2025-03-27 03:41:16,424 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2023\June文件夹已经建立
+2025-03-27 03:41:16,413 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2022\October 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:16,464 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2023\July 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:16,479 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2023\May 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:16,490 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2023\August文件夹已经建立
+2025-03-27 03:41:16,525 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2023\April 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:16,611 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2023\September文件夹已经建立
+2025-03-27 03:41:16,658 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2023\October文件夹已经建立
+2025-03-27 03:41:16,675 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2023\June 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:16,723 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2023\November文件夹已经建立
+2025-03-27 03:41:16,767 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2023\December文件夹已经建立
+2025-03-27 03:41:16,773 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2023\August 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:16,783 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2024\January文件夹已经建立
+2025-03-27 03:41:16,859 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2023\December 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:16,890 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2023\October 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:16,908 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2023\September 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:16,930 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2023\November 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:16,938 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2024\February文件夹已经建立
+2025-03-27 03:41:16,953 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2024\March文件夹已经建立
+2025-03-27 03:41:16,985 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2024\April文件夹已经建立
+2025-03-27 03:41:17,015 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2024\January 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:17,015 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2024\May文件夹已经建立
+2025-03-27 03:41:17,040 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2024\March 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:17,112 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2024\July文件夹已经建立
+2025-03-27 03:41:17,137 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2024\April 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:17,147 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2024\February 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:17,170 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2024\May 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:17,175 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2024\June文件夹已经建立
+2025-03-27 03:41:17,175 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2024\August文件夹已经建立
+2025-03-27 03:41:17,248 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2024\October文件夹已经建立
+2025-03-27 03:41:17,248 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2024\September文件夹已经建立
+2025-03-27 03:41:17,272 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2024\July 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:17,312 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2024\November文件夹已经建立
+2025-03-27 03:41:17,396 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2024\August 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:17,428 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2024\October 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:17,428 - crawl.py[line:43] - INFO: downloads\4115010136_内蒙古民族大学\2024\December文件夹已经建立
+2025-03-27 03:41:17,428 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2022\January文件夹已经建立
+2025-03-27 03:41:17,445 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2024\June 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:17,503 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2022\February文件夹已经建立
+2025-03-27 03:41:17,513 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2024\September 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:17,516 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2024\November 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:17,519 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2022\March文件夹已经建立
+2025-03-27 03:41:17,591 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2022\January 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:17,627 - crawl.py[line:53] - INFO: downloads\4115010136_内蒙古民族大学\2024\December 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:17,629 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2022\February 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:17,630 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2022\April文件夹已经建立
+2025-03-27 03:41:17,633 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2022\May文件夹已经建立
+2025-03-27 03:41:17,670 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2022\June文件夹已经建立
+2025-03-27 03:41:17,781 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2022\March 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:17,819 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2022\May 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:17,819 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2022\July文件夹已经建立
+2025-03-27 03:41:17,833 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2022\August文件夹已经建立
+2025-03-27 03:41:17,889 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2022\September文件夹已经建立
+2025-03-27 03:41:17,903 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2022\April 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:17,993 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2022\October文件夹已经建立
+2025-03-27 03:41:17,993 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2022\June 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:18,060 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2022\July 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:18,064 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2022\August 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:18,064 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2023\January文件夹已经建立
+2025-03-27 03:41:18,065 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2022\November文件夹已经建立
+2025-03-27 03:41:18,111 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2022\December文件夹已经建立
+2025-03-27 03:41:18,160 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2022\October 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:18,220 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2023\February文件夹已经建立
+2025-03-27 03:41:18,254 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2022\September 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:18,262 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2023\January 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:18,329 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2023\March文件夹已经建立
+2025-03-27 03:41:18,350 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2022\December 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:18,375 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2023\April文件夹已经建立
+2025-03-27 03:41:18,402 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2022\November 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:18,453 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2023\May文件夹已经建立
+2025-03-27 03:41:18,456 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2023\February 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:18,501 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2023\July文件夹已经建立
+2025-03-27 03:41:18,495 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2023\June文件夹已经建立
+2025-03-27 03:41:18,501 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2023\March 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:18,558 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2023\July 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:18,564 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2023\August文件夹已经建立
+2025-03-27 03:41:18,587 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2023\April 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:18,587 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2023\September文件夹已经建立
+2025-03-27 03:41:18,618 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2023\May 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:18,657 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2023\June 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:18,658 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2023\October文件夹已经建立
+2025-03-27 03:41:18,658 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2023\December文件夹已经建立
+2025-03-27 03:41:18,676 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2023\November文件夹已经建立
+2025-03-27 03:41:18,709 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2023\August 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:18,731 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2024\January文件夹已经建立
+2025-03-27 03:41:18,766 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2023\October 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:18,811 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2023\September 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:18,835 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2024\March文件夹已经建立
+2025-03-27 03:41:18,825 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2023\December 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:18,829 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2024\February文件夹已经建立
+2025-03-27 03:41:18,868 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2024\April文件夹已经建立
+2025-03-27 03:41:18,868 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2023\November 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:18,929 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2024\May文件夹已经建立
+2025-03-27 03:41:18,945 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2024\January 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:18,964 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2024\March 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:19,014 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2024\February 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:19,024 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2024\April 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:19,024 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2024\June文件夹已经建立
+2025-03-27 03:41:19,024 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2024\July文件夹已经建立
+2025-03-27 03:41:19,033 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2024\September文件夹已经建立
+2025-03-27 03:41:19,065 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2024\August文件夹已经建立
+2025-03-27 03:41:19,080 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2024\May 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:19,080 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2024\October文件夹已经建立
+2025-03-27 03:41:19,142 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2024\June 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:19,195 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2024\July 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:19,195 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2024\November文件夹已经建立
+2025-03-27 03:41:19,200 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2024\September 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:19,249 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2024\August 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:19,267 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2024\October 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:19,267 - crawl.py[line:43] - INFO: downloads\4115010139_内蒙古财经大学\2024\December文件夹已经建立
+2025-03-27 03:41:19,284 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2022\January文件夹已经建立
+2025-03-27 03:41:19,299 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2022\March文件夹已经建立
+2025-03-27 03:41:19,303 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2022\February文件夹已经建立
+2025-03-27 03:41:19,383 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2022\March 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:19,435 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2024\November 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:19,475 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2022\May文件夹已经建立
+2025-03-27 03:41:19,499 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2022\May 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:19,500 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2022\April文件夹已经建立
+2025-03-27 03:41:19,530 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2022\January 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:19,549 - crawl.py[line:53] - INFO: downloads\4115010139_内蒙古财经大学\2024\December 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:19,555 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2022\June文件夹已经建立
+2025-03-27 03:41:19,625 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2022\February 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:19,629 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2022\April 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:19,649 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2022\July文件夹已经建立
+2025-03-27 03:41:19,650 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2022\August文件夹已经建立
+2025-03-27 03:41:19,651 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2022\September文件夹已经建立
+2025-03-27 03:41:19,651 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2022\October文件夹已经建立
+2025-03-27 03:41:19,674 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2022\June 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:19,730 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2022\November文件夹已经建立
+2025-03-27 03:41:19,776 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2022\October 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:19,781 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2022\August 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:19,821 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2023\January文件夹已经建立
+2025-03-27 03:41:19,848 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2022\December文件夹已经建立
+2025-03-27 03:41:19,893 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2022\November 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:19,898 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2022\July 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:19,941 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2023\March文件夹已经建立
+2025-03-27 03:41:19,941 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2023\February文件夹已经建立
+2025-03-27 03:41:19,946 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2022\September 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:19,957 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2023\April文件夹已经建立
+2025-03-27 03:41:19,986 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2022\December 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:20,002 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2023\January 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:20,045 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2023\March 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:20,088 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2023\April 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:20,088 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2023\May文件夹已经建立
+2025-03-27 03:41:20,095 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2023\February 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:20,095 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2023\June文件夹已经建立
+2025-03-27 03:41:20,118 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2023\July文件夹已经建立
+2025-03-27 03:41:20,129 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2023\August文件夹已经建立
+2025-03-27 03:41:20,142 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2023\September文件夹已经建立
+2025-03-27 03:41:20,217 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2023\June 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:20,218 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2023\October文件夹已经建立
+2025-03-27 03:41:20,270 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2023\May 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:20,280 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2023\September 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:20,298 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2023\August 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:20,364 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2024\January文件夹已经建立
+2025-03-27 03:41:20,322 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2023\October 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:20,370 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2024\February文件夹已经建立
+2025-03-27 03:41:20,370 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2023\November文件夹已经建立
+2025-03-27 03:41:20,364 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2023\December文件夹已经建立
+2025-03-27 03:41:20,369 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2023\July 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:20,418 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2024\January 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:20,449 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2023\December 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:20,449 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2024\March文件夹已经建立
+2025-03-27 03:41:20,473 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2024\April文件夹已经建立
+2025-03-27 03:41:20,488 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2024\May文件夹已经建立
+2025-03-27 03:41:20,515 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2024\April 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:20,523 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2024\March 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:20,546 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2024\February 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:20,549 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2023\November 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:20,550 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2024\June文件夹已经建立
+2025-03-27 03:41:20,578 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2024\May 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:20,578 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2024\July文件夹已经建立
+2025-03-27 03:41:20,578 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2024\August文件夹已经建立
+2025-03-27 03:41:20,603 - crawl.py[line:53] - INFO: downloads\4121010147_辽宁工程技术大学\2024\July 因没有足够有效的代理IP而无法启动
+2025-03-27 03:41:20,603 - crawl.py[line:43] - INFO: downloads\4121010147_辽宁工程技术大学\2024\October文件夹已经建立

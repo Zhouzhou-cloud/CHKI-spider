@@ -1,0 +1,3968 @@
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "秸秆还田与浅埋滴灌对玉米耕层土壤水稳性团聚体及其碳含量的影响",
+    "状态": "正常",
+    "发表期刊": "农业环境科学学报",
+    "刊发时间": "2022-02-28 12:56",
+    "引用量": "17",
+    "下载量": "1545",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张明伟",
+            "author_code": "000037373873",
+            "author_addresses": "内蒙古民族大学农学院/内蒙古自治区饲用作物工程技术研究中心",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "杨恒山",
+            "author_code": "000058149855",
+            "author_addresses": "内蒙古民族大学农学院/内蒙古自治区饲用作物工程技术研究中心",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "yanghengshan2003@aliyun.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "邰继承",
+            "author_code": "000020260497",
+            "author_addresses": "内蒙古民族大学农学院/内蒙古自治区饲用作物工程技术研究中心",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "范秀艳",
+            "author_code": "000025192351",
+            "author_addresses": "内蒙古民族大学农学院/内蒙古自治区饲用作物工程技术研究中心",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "葛选良",
+            "author_code": "000025561170",
+            "author_addresses": "内蒙古民族大学农学院/内蒙古自治区饲用作物工程技术研究中心",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "张雨珊",
+            "author_code": "000023985700",
+            "author_addresses": "内蒙古民族大学农学院/内蒙古自治区饲用作物工程技术研究中心",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "徐晓",
+            "author_code": "000047271648",
+            "author_addresses": "内蒙古民族大学农学院/内蒙古自治区饲用作物工程技术研究中心",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "41 ",
+    "期(Issue)": "05",
+    "摘要": " 为探明秸秆还田与灌溉方式对玉米田耕层土壤水稳性团聚体及其碳含量的影响，本研究于2019—2020年进行玉米秸秆还田定位试验，采用裂区设计，主处理设秸秆还田（S+）和秸秆离田（S-），副处理设传统畦灌（F）和浅埋滴灌（D），分析秸秆还田和不同灌溉方式下耕层土壤水稳性团聚体含量、稳定性及其有机碳固持变化特征。秸秆还田可显著提高耕层土壤0.25～5 mm粒径的水稳性团聚体含量，浅埋滴灌可显著提高0.25～1 mm粒径水稳性团聚体含量，秸秆还田与浅埋滴灌互作对&gt;0.25 mm粒径的水稳性大团聚体含量的提高均有正效应；秸秆还田可显著提高&gt;0.25 mm粒径的团聚体含量（R0.25），降低不稳定团粒指数（ELT），浅埋滴灌可显著提高团聚体平均质量直径（MWD），秸秆还田与浅埋滴灌互作可显著增加水稳性团聚体平均质量直径（MWD）和几何平均直径（GMD），从而提高团聚体稳定性；秸秆还田与浅埋滴灌互作效应还可显著提高0.5～3 mm粒径的水稳性大团聚体中有机碳含量，提高1～3 mm粒径水稳性大团聚体有机碳富集系数，从而提高土壤有机碳含量；秸秆还田、浅埋滴灌均可优化土壤三相比，且在吐丝期作用更为明显，秸秆还田与浅埋滴灌互作可显著提高土壤气相占比和广义土壤结构指数。秸秆还田与浅埋滴灌对提高耕层土壤水稳性大团聚体含量及其稳定性作用明显，可增加0.5～3 mm粒径水稳性大团聚体有机碳含量，提高其有机碳富集系数，优化土壤三相比。秸秆还田配合浅埋滴灌种植模式可作为改土培肥、提高耕地质量的种植方式。",
+    "关键词": [
+        "秸秆还田",
+        "灌溉方式",
+        "水稳性团聚体",
+        "土壤有机碳",
+        "土壤三相比",
+        "玉米"
+    ],
+    "基金资助": [
+        "国家自然科学基金项目(32160509,32060435)~~"
+    ],
+    "专辑": "工程科技Ⅰ辑;农业科技",
+    "专题": "农业基础科学;农艺学;农作物",
+    "分类号": "S513;S152",
+    "页码": "999-1008",
+    "页数": "10",
+    "爬取时间": "2025-03-28 08:43:32",
+    "论文唯一代码": "NHBH202205010"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "HPLC法测定蒙成药哈日阿-布日-16中羟基红花黄色素A的含量",
+    "状态": "正常",
+    "发表期刊": "中国药品标准",
+    "刊发时间": "2022-02-28",
+    "引用量": "1",
+    "下载量": "212",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘晶晶",
+            "author_code": "000033147321",
+            "author_addresses": [
+                "通辽市食品药品检验所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李玉华",
+            "author_code": "000033133068",
+            "author_addresses": [
+                "通辽市食品药品检验所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "安文源",
+            "author_code": "000022742112",
+            "author_addresses": [
+                "通辽市食品药品检验所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "李景清",
+            "author_code": "000002645616",
+            "author_addresses": [
+                "通辽市食品药品检验所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "敖日格乐",
+            "author_code": "000057451944",
+            "author_addresses": [
+                "内蒙古民族大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "23 ",
+    "期(Issue)": "01",
+    "摘要": " 目的：建立HPLC法测定哈日阿-布日-16中羟基红花黄色素A的含量。方法：采用InertSustain AQ-C<sub>18</sub>（250 mm×4.6 mm,5μm）色谱柱，流动相为甲醇-乙腈-0.7%磷酸（26:2:72），流速为1.0 mL·min<sup>-1</sup>，检测波长403 nm，柱温40℃，进样量为10μL。结果：羟基红花黄色素A在0.030 06～1.202 4μg范围内线性关系良好，相关系数r=0.999 9；平均回收率99.95%（RSD=1.37%）。6批成药中，羟基红花黄色素A的含量在0.71～1.24 mg·g<sup>-1</sup>之间。结论：所建立的HPLC法稳定可靠，可作为哈日阿-布日-16中羟基红花黄色素A含量测定的方法。",
+    "关键词": [
+        "哈日阿-布日-16",
+        "羟基红花黄色素A",
+        "HPLC",
+        "含量测定"
+    ],
+    "基金资助": [
+        "内蒙古自治区蒙医药标准化项目（2019-[MB022]）"
+    ],
+    "专辑": "医药卫生科技",
+    "专题": "中医学",
+    "分类号": "R29",
+    "页码": "35-39",
+    "页数": "5",
+    "爬取时间": "2025-03-28 08:43:46",
+    "论文唯一代码": "YPBZ202201008"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "诃子对大鼠血清代谢产物的影响研究",
+    "状态": "正常",
+    "发表期刊": "中国民族医药杂志",
+    "刊发时间": "2022-02-28",
+    "引用量": "2",
+    "下载量": "337",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "毕力格",
+            "author_code": "000000449204",
+            "author_addresses": "内蒙古民族大学蒙医药学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "乌日汉",
+            "author_code": "000002493284",
+            "author_addresses": "内蒙古民族大学蒙医药学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "丽丽",
+            "author_code": "000004777770",
+            "author_addresses": "内蒙古民族大学蒙医药学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "陈玉花",
+            "author_code": "000039504037",
+            "author_addresses": "内蒙古民族大学蒙医药学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "孟香花",
+            "author_code": "000016690943",
+            "author_addresses": "内蒙古民族大学蒙医药学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "宝乐尔",
+            "author_code": "000024178350",
+            "author_addresses": "内蒙古民族大学蒙医药学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "韩晓静",
+            "author_code": "000000777785",
+            "author_addresses": "内蒙古民族大学蒙医药学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "肖田梅",
+            "author_code": "000019610217",
+            "author_addresses": "内蒙古民族大学蒙医药学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 9,
+            "author_name": "白梅荣",
+            "author_code": "000025718607",
+            "author_addresses": "内蒙古民族大学蒙医药学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "baimeirong@126.com"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "28 ",
+    "期(Issue)": "02",
+    "摘要": " 目的：通过代谢组学技术考察诃子对大鼠内源性代谢物的影响，为其解毒、调元作用机制提供依据。方法：以诃子为示例药物，以大鼠为研究对象，分为正常组和给药组，给药组灌胃诃子溶液，连续给予21 d。采集大鼠血清样本进行UPLC-MS检测，用主成分分析（PCA）结合正交偏最小二乘判别分析（OPLS-DA）进行代谢差异表征，寻找差异代谢物及可能的代谢通路。结果：代谢组学分析显示，组间代谢差异明显，与正常组比较，诃子组血清样本中鉴定出谷氨酰胺和溶血磷脂酰胆碱等2个差异代谢物，这些代谢物水平存在明显的变化。结论：谷氨酰胺和溶血磷脂酰胆碱可能是诃子调节赫依、希日、巴达干失调，解毒和调元功效的可能机制。",
+    "关键词": [
+        "诃子",
+        "血清",
+        "代谢产物",
+        "研究"
+    ],
+    "基金资助": [
+        "蒙药安全性评价创新团队项目（MY20190003）",
+        "中央支持地方建设专项资金交叉学科建设项目（JCHXKXM001）"
+    ],
+    "专辑": "医药卫生科技",
+    "专题": "中医学",
+    "分类号": "R29",
+    "页码": "52-54",
+    "页数": "3",
+    "爬取时间": "2025-03-28 08:44:04",
+    "论文唯一代码": "ZMYZ202202028"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "蒙成药行气止痛丸的镇痛、消肿、平喘作用研究",
+    "状态": "正常",
+    "发表期刊": "中国民族医药杂志",
+    "刊发时间": "2022-02-28",
+    "引用量": "0",
+    "下载量": "104",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "白金亮",
+            "author_code": "000004333086",
+            "author_addresses": [
+                "内蒙古民族大学蒙医药学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "龚萨日那",
+            "author_code": "000066514205",
+            "author_addresses": [
+                "内蒙古通辽市第二人民医院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "28 ",
+    "期(Issue)": "02",
+    "摘要": " 目的：观察蒙成药行气止痛丸的止痛、消肿、平喘作用，为临床应用提供科学依据并为今后研究奠定基础。方法：分为空白组，阳性组（五风丸），蒙成药行气止痛丸低浓度组、中浓度组、高浓度组，评价对热板仪上小鼠舔前后脚时间的影响；评价对浓氨水引起小鼠咳嗽影响；评价对小鼠耳廓肿胀的影响。对镇痛、止咳、消炎等作用进行比较。结果：通过镇痛作用实验，蒙成药行气止痛丸不同浓度组和空白组比较有明显差异（P&lt;0.05），其中中浓度组最明显。浓氨水引起小鼠咳嗽实验中，蒙成药行气止痛丸不同浓度组2 min内咳嗽次数与空白组比较有明显差异（P&lt;0.05），初次咳嗽时间明显往后推迟；蒙成药行气止痛丸不同浓度组和阳性组（五风丸）无明显差异。二甲苯引起小鼠耳廓肿胀实验中，蒙成药行气止痛丸不同浓度组跟空白组比较有明显差异（P&lt;0.05）。结论：通过蒙成药行气止痛丸对小鼠止痛、消肿、平喘作用试验，止痛试验中中浓度组最明显；蒙成药行气止痛丸对氨水引起小鼠咳嗽有明显抑制作用；蒙成药行气止痛丸对二甲苯引起小鼠耳廓肿胀有明显作用。本文为蒙成药行气止痛丸临床应用及今后研究提供科学依据。",
+    "关键词": [
+        "蒙成药行气止痛丸",
+        "药理实验"
+    ],
+    "基金资助": [
+        "内蒙古自治区自然科学基金项目（2016MS08127）"
+    ],
+    "专辑": "医药卫生科技",
+    "专题": "中医学",
+    "分类号": "R29",
+    "页码": "69-71",
+    "页数": "3",
+    "爬取时间": "2025-03-28 08:44:18",
+    "论文唯一代码": "ZMYZ202202034"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "多囊卵巢综合征合并韦尼克脑病1例",
+    "状态": "正常",
+    "发表期刊": "中国现代医生",
+    "刊发时间": "2022-02-28",
+    "引用量": "0",
+    "下载量": "107",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "山花",
+            "author_code": "000022905871",
+            "author_addresses": [
+                "内蒙古民族大学临床医学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "金洪权",
+            "author_code": "000047849442",
+            "author_addresses": [
+                "内蒙古民族大学临床医学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "刘明启",
+            "author_code": "000047849443",
+            "author_addresses": [
+                "内蒙古民族大学临床医学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "李怀楠",
+            "author_code": "000009526961",
+            "author_addresses": [
+                "内蒙古民族大学临床医学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "郑哲龙",
+            "author_code": "000022344098",
+            "author_addresses": [
+                "内蒙古民族大学临床医学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "熊乐乐",
+            "author_code": "000022929422",
+            "author_addresses": [
+                "内蒙古民族大学临床医学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "张东威",
+            "author_code": "000038043113",
+            "author_addresses": [
+                "内蒙古民族大学附属医院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "60 ",
+    "期(Issue)": "06",
+    "摘要": " 多囊卵巢综合征（PCOS）是一种以高雄激素血症、肥胖、月经无规律、生育能力降低为主要临床表现的复杂性生殖内分泌性疾病。因病因复杂、治愈困难，严重影响育龄期女性心身健康，其中减重困难出现焦虑、抑郁、情感障碍患者逐日增多。而韦尼克脑病（WE）是体内水溶性维生素B<sub>1</sub>摄入吸收障碍导致的一种严重神经系统代谢性疾病，WE发病凶险、易累积脑神经核，若病情延误、未及时诊治，病程可进展、甚至遗留不可逆性神经功能损伤，如精神障碍、眼球运动受限、共济运动失调等。PCOS伴发WE率明显少于酒精中毒、妊娠呕吐、胃肠手术、放疗化疗、慢性营养不良等常见原因诱发的WE。目前关于PCOS并发WE诱发因素较隐匿，不易被关注。现就发现的内蒙古民族大学附属医院收治1例PCOSWE患者临床资料进行回顾性分析，以期引起临床关注。",
+    "关键词": [
+        "多囊卵巢综合征",
+        "韦尼克脑病",
+        "维生素B1缺乏",
+        "抑郁",
+        "焦虑",
+        "节食减肥"
+    ],
+    "基金资助": [],
+    "专辑": "医药卫生科技",
+    "专题": "内分泌腺及全身性疾病;妇产科学;神经病学",
+    "分类号": "R711.75;R742",
+    "页码": "170-173",
+    "页数": "4",
+    "爬取时间": "2025-03-28 08:44:38",
+    "论文唯一代码": "ZDYS202206049"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "少花蒺藜草与不同牧草混播根际与非根际土壤酶活性变化",
+    "状态": "正常",
+    "发表期刊": "草原与草坪",
+    "刊发时间": "2022-02-28",
+    "引用量": "5",
+    "下载量": "263",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "于童洲",
+            "author_code": "000047993672",
+            "author_addresses": "内蒙古民族大学农学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张天宇",
+            "author_code": "000047993673",
+            "author_addresses": "内蒙古民族大学农学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "周立业",
+            "author_code": "000038695425",
+            "author_addresses": "内蒙古民族大学农学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "toni2002@126.com"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "42 ",
+    "期(Issue)": "01",
+    "摘要": " 为了探究牧草对少花蒺藜草(Cenchrus pauciflorus)的竞争影响，采用3种优质牧草紫花苜蓿(Medicago sativa)、羊草(Leymus chinensis)、草木樨(Melilotus officinalis)与少花蒺藜草混播，测定混播模式下少花蒺藜草不同生长时期根际和非根际土土壤pH、脲酶、磷酸酶、蔗糖酶和过氧化氢酶的活性变化。结果表明：与3种牧草混播均显著提高少花蒺藜草根际土壤的酶活性；在紫花苜蓿与羊草混播，少花蒺藜草根际土土壤的脲酶和蔗糖酶活性在开花期最高，磷酸酶活性在苗期最高，而与草木樨混播，少花蒺藜草根际土的磷酸酶和蔗糖酶活性在全生长期内均有大幅提高，脲酶活性在开花期时显著提高，草木樨更能激发少花蒺藜草根际土壤酶活性，与少花蒺藜草的竞争最为激烈。混播模式激发少花蒺藜草的自我保护机制，明显提高少花蒺藜草根际土壤酶活性，增强其自身的竞争能力，避免竞争胁迫带来的危害。",
+    "关键词": [
+        "少花蒺藜草",
+        "竞争",
+        "土壤酶活性",
+        "根际与非根际土"
+    ],
+    "基金资助": [
+        "国家自然基金(替代牧草对少花蒺藜草生态竞争效应及机制31460634)",
+        "内蒙古留学人员创业创新项目(2019年立项)"
+    ],
+    "专辑": "农业科技",
+    "专题": "植物保护;农作物",
+    "分类号": "S451;S54",
+    "页码": "96-101",
+    "页数": "6",
+    "爬取时间": "2025-03-28 08:44:55",
+    "论文唯一代码": "CYCP202201013"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "植物提取物在动物生产中的研究进展",
+    "状态": "正常",
+    "发表期刊": "饲料研究",
+    "刊发时间": "2022-02-26 10:12",
+    "引用量": "36",
+    "下载量": "1180",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "董晨扬",
+            "author_code": "000059136713",
+            "author_addresses": "内蒙古民族大学动物科技学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "魏曼琳",
+            "author_code": "000064036327",
+            "author_addresses": "内蒙古民族大学动物科技学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张航",
+            "author_code": "000033447087",
+            "author_addresses": "内蒙古民族大学动物科技学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "巨纪",
+            "author_code": "000043766036",
+            "author_addresses": "内蒙古民族大学动物科技学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "杜柳",
+            "author_code": "000047245926",
+            "author_addresses": "内蒙古民族大学动物科技学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "45 ",
+    "期(Issue)": "04",
+    "摘要": " 植物提取物是经一系列化学或物理方法从植物中得到的某种或多种有效成分，属天然植物添加剂。植物提取物中的生物活性成分包括生物碱类、黄酮类、多糖类、皂苷类、有机酸类、挥发油类等，其中某些成分具备抗微生物、抗发炎、抗氧化功效，对动物的生长发育和免疫等性能具有影响。文章综述植物提取物中的主要活性成分、生物学功能及其在各种动物生产中的应用，为植物提取物在动物生产中开展更深入的研究提供参考。",
+    "关键词": [
+        "植物提取物",
+        "饲料添加剂",
+        "抗生素",
+        "动物生产"
+    ],
+    "基金资助": [
+        "农业农村部“农牧交错带牛羊牧繁农育关键技术集成示范项目（项目编号：16210096）”",
+        "内蒙古教育厅高校科研项目“茶皂素对反刍动物瘤胃微生物区系和甲烷产生的影响（项目编号：NJZY18156）”",
+        "内蒙古自然科学基金（项目编号：2018LH03011）"
+    ],
+    "专辑": "农业科技",
+    "专题": "畜牧与动物医学",
+    "分类号": "S816.7",
+    "页码": "136-139",
+    "页数": "4",
+    "爬取时间": "2025-03-28 08:45:06",
+    "论文唯一代码": "SLYJ202204031"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "内蒙古新草原诗歌写作的两个向度",
+    "状态": "正常",
+    "发表期刊": "金钥匙(汉文、蒙古文)",
+    "刊发时间": "2022-02-25",
+    "引用量": "0",
+    "下载量": "4",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘永",
+            "author_code": "000063724978",
+            "author_addresses": [
+                "内蒙古民族大学",
+                "内蒙古诗歌研究所"
+            ],
+            "author_addresses_note": [
+                "单个a标签下多个单位：单个作者多个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "01",
+    "摘要": " “新草原写作”是内蒙古诗人自发提出的一个诗歌倡议。面对当下诗歌写作差异性日渐消弭、“美美与共”的假性亢奋写作局面,内蒙古诗人愿意从诗学上特立独行的“他者”做起,用客观冷静的有根的写作和不由自主的史诗冲动,建构一套全新而行之有效的内蒙古诗歌话语。",
+    "关键词": [
+        "新草原写作",
+        "根性叙事",
+        "史诗冲动"
+    ],
+    "基金资助": [],
+    "专辑": "哲学与人文科学",
+    "专题": "中国文学",
+    "分类号": "I207.25",
+    "页码": "72-76",
+    "页数": "5",
+    "爬取时间": "2025-03-28 08:45:18",
+    "论文唯一代码": "JASH202201014"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "新时代思想政治工作的现状及其对策分析",
+    "状态": "正常",
+    "发表期刊": "现代商贸工业",
+    "刊发时间": "2022-02-25",
+    "引用量": "0",
+    "下载量": "494",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王莹",
+            "author_code": "000047248815",
+            "author_addresses": "内蒙古民族大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李生",
+            "author_code": "000045914732",
+            "author_addresses": "内蒙古民族大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "05",
+    "摘要": " 宣传党的思想工作革命胜利的制胜法宝,无论是在革命斗争、抗日战争时还是改革开放时期,第一项工作一定是加强党的领导、统一思想,不断进行思想政治教育。对于国家在执法机关,公安、监狱等政法队伍的政治思想宣传更是重中之重。要把握新时代监狱人民警察的思想政治教育工作的理论基础与业务能力,监狱人民警察作为依法从事监狱管理、执行刑罚、改造罪犯工作的人民警察,更要将思想政治工作摆在首位,深入学习贯彻落实习近平新时代中国特色社会主义思想,切实践行新时代宣传思想工作的使命任务,不断提高知识化、专业化水平,创新工作方法,不断提高履职尽责能力,业务水平、综合素质以及政治素养,坚定理想信念,切实为人民服务,打造一支党和人民信得过、靠得住、能放心的政法铁军。",
+    "关键词": [
+        "思想政治",
+        "监狱警察",
+        "教育"
+    ],
+    "基金资助": [],
+    "专辑": "经济与管理科学;社会科学Ⅰ辑",
+    "专题": "思想政治教育;诉讼法与司法制度",
+    "分类号": "D926.7;D64",
+    "页码": "111-113",
+    "页数": "3",
+    "爬取时间": "2025-03-28 08:45:29",
+    "论文唯一代码": "XDSM202205049"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "马克思合作经济思想对中国共享经济发展的作用",
+    "状态": "正常",
+    "发表期刊": "财富时代",
+    "刊发时间": "2022-02-25",
+    "引用量": "3",
+    "下载量": "395",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张岚博",
+            "author_code": "000047415193",
+            "author_addresses": [
+                "内蒙古民族大学"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "02",
+    "摘要": " &lt;正&gt;共享经济是中国近年经济发展视域下的热词，也被各领域经济发展实践所追捧。它是在多样化现代信息技术支撑下所形成的一种，基于分享使用权来吸引合作，并且将社会不同类型的分散、闲置资源加以整合的经济形态。其促成了当下能够契合市场多样需求的新型经济模式。随着该经济形态的发展不断趋于成熟，业界出现了截然不同的观点。有人将共享经济与马克思合作经济思想进行联系，认为前者是对后者的发展、创新；有人则认为前者突出强调了共同的经济利益的获取，",
+    "关键词": [],
+    "基金资助": [],
+    "专辑": "经济与管理科学",
+    "专题": "经济理论及经济思想史;经济体制改革",
+    "分类号": "F124;F091.91",
+    "页码": "185-187",
+    "页数": "3",
+    "爬取时间": "2025-03-28 08:45:40",
+    "论文唯一代码": "GXHZ202202063"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "浅谈当代中国经济转型中的马克思主义中国化因素",
+    "状态": "正常",
+    "发表期刊": "财富时代",
+    "刊发时间": "2022-02-25",
+    "引用量": "1",
+    "下载量": "764",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "谢傲男",
+            "author_code": "000047415137",
+            "author_addresses": [
+                "内蒙古民族大学"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "02",
+    "摘要": " &lt;正&gt;在新中国发展初期，主要是在探索阶段，对于社会经济发展模式没有形成一个高效、稳定的政策，以计划经济为主，在逐渐探索中，摸索出了以市场经济为主导的经济模式。在新中国各项事业的发展中，马克思主义提供了明确的指导，并在中国经过多年的发展，逐渐形成了具有中国特色的马克思主义思想，真正实现了马克思主义的中国化目标，形成了符合中国人民发展的特色理论，指导着新中国不断克服各种困难，在经济领域，马克思主义的发展也帮助了社会经济发展模式实现了理论创新和发展。",
+    "关键词": [],
+    "基金资助": [],
+    "专辑": "经济与管理科学;社会科学Ⅰ辑",
+    "专题": "中国政治与国际政治;经济理论及经济思想史",
+    "分类号": "F092.7;D61",
+    "页码": "225-227",
+    "页数": "3",
+    "爬取时间": "2025-03-28 08:45:51",
+    "论文唯一代码": "GXHZ202202078"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "STIL在神经胶质瘤中的表达及对基因组稳定的影响",
+    "状态": "正常",
+    "发表期刊": "中国老年学杂志",
+    "刊发时间": "2022-02-25",
+    "引用量": "0",
+    "下载量": "88",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "钟锰",
+            "author_code": "000018631471",
+            "author_addresses": [
+                "内蒙古民族大学附属医院神经外科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王晓娇",
+            "author_code": "000045710575",
+            "author_addresses": [
+                "内蒙古民族大学附属医院神经外科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王君",
+            "author_code": "000067331169",
+            "author_addresses": [
+                "内蒙古医科大学基础医学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "刘畅",
+            "author_code": "000029769469",
+            "author_addresses": [
+                "内蒙古民族大学附属医院神经外科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "朱彬",
+            "author_code": "000028549980",
+            "author_addresses": [
+                "内蒙古民族大学附属医院神经外科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "王鹤",
+            "author_code": "000046419818",
+            "author_addresses": [
+                "佳木斯大学第一附属医院神经外科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "李英夫",
+            "author_code": "000004177756",
+            "author_addresses": [
+                "佳木斯大学第一附属医院神经外科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "何伟明",
+            "author_code": "000056612630",
+            "author_addresses": [
+                "内蒙古民族大学附属医院神经外科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "42 ",
+    "期(Issue)": "04",
+    "摘要": " 目的 探讨STIL在神经胶质瘤中的表达及对基因组稳定的影响，为神经胶质瘤的临床诊疗提供可能的生物学指标。方法 分别利用免疫组织化学(IHC)、实时定量聚合酶链反应(q-PCR)及Western印迹技术检测STIL在神经胶质瘤细胞系SHG-44、U87、SWO-38及U251与神经胶质细胞系NHA样本中的表达情况，根据STIL在不同细胞系中的表达情况，选取STIL高表达细胞系(U87细胞)及STIL低表达细胞系(U251细胞),分别采用siRNA干扰技术及过表达技术，瞬时转染siRNA及STIL过表达载体pcDNA3.1,建立STIL低表达/过表达细胞系；CCK8检测干扰和过表达STIL后对胶质瘤细胞增殖能力的影响；流式细胞术检测STIL过表达/敲低细胞系对胶质瘤细胞基因组稳定性及细胞凋亡的影响。结果 STIL过表达可抑制细胞凋亡，促进肿瘤发生。结论 STIL通过影响细胞G0/G1期改变了神经胶质细胞系的基因组稳定性，促进肿瘤发生，该结果有望成为神经胶质瘤诊疗的新分子靶标。",
+    "关键词": [
+        "STIL",
+        "胶质瘤",
+        "基因组稳定性",
+        "凋亡"
+    ],
+    "基金资助": [
+        "内蒙古自然科学基金(2020MS08029)"
+    ],
+    "专辑": "医药卫生科技",
+    "专题": "神经病学;肿瘤学",
+    "分类号": "R739.41",
+    "页码": "931-934",
+    "页数": "4",
+    "爬取时间": "2025-03-28 08:46:07",
+    "论文唯一代码": "ZLXZ202204047"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "护士情绪智力干预及培养策略研究进展",
+    "状态": "正常",
+    "发表期刊": "循证护理",
+    "刊发时间": "2022-02-25",
+    "引用量": "2",
+    "下载量": "551",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "邸春梅",
+            "author_code": "000047317677",
+            "author_addresses": "内蒙古民族大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "董丽霞",
+            "author_code": "000040303423",
+            "author_addresses": "内蒙古民族大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "279059129@163.com"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "8 ",
+    "期(Issue)": "04",
+    "摘要": " 介绍护士情绪智力的定义、组成，重点综述了护士情绪智力的研究背景、发展现状及干预培养的方法，并根据情绪智力的理论模型进行探索性、描述性、情境化构建护士情绪智力的培养策略。",
+    "关键词": [
+        "情绪智力",
+        "情感劳动",
+        "干预",
+        "培养",
+        "护士",
+        "综述"
+    ],
+    "基金资助": [],
+    "专辑": "医药卫生科技",
+    "专题": "医药卫生方针政策与法律法规研究",
+    "分类号": "R192.6",
+    "页码": "487-490",
+    "页数": "4",
+    "爬取时间": "2025-03-28 08:46:21",
+    "论文唯一代码": "XZHL202204011"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "内蒙古传统发酵乳制品中乳酸菌的分离及其耐药性研究",
+    "状态": "正常",
+    "发表期刊": "中国酿造",
+    "刊发时间": "2022-02-25",
+    "引用量": "15",
+    "下载量": "855",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "韩慧玲",
+            "author_code": "000047440854",
+            "author_addresses": "内蒙古民族大学生命科学与食品学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李华",
+            "author_code": "000031104731",
+            "author_addresses": "内蒙古民族大学生命科学与食品学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "包振江",
+            "author_code": "000047440853",
+            "author_addresses": "内蒙古民族大学生命科学与食品学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "赵家齐",
+            "author_code": "000047440856",
+            "author_addresses": "内蒙古民族大学生命科学与食品学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "李晴",
+            "author_code": "000047440855",
+            "author_addresses": "内蒙古民族大学生命科学与食品学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "袁晓霞",
+            "author_code": "000000472271",
+            "author_addresses": "内蒙古民族大学生命科学与食品学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "冀照君",
+            "author_code": "000024659851",
+            "author_addresses": "内蒙古民族大学生命科学与食品学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "41 ",
+    "期(Issue)": "02",
+    "摘要": " 以内蒙古通辽地区自制的奶豆腐和酸性奶油（乌日莫）为材料，采用稀释涂布法从中分离乳酸菌，通过分子生物学技术对其进行菌种鉴定，并对其耐药性进行研究。结果表明，共分离纯化得到80株乳酸菌，经鉴定，归属于13个种，分别为短乳杆菌（Lactobacillus brevis）、粪肠球菌（Enterococcus faecalis）、乳酸片球菌（Lactobacillus acidilacticii）、乳酸乳球菌（Lactococcus lactis）、瑞士乳杆菌（Lactobacillus helveticus）、屎肠球菌（Enterococcus faecium）、戊糖片球菌（Pediococcus pentosaceus）、副干酪乳杆菌（Lactobacillus paracasei）、食二酸乳杆菌（Lactobacillus digitalis）、奥塔基乳杆菌（Lactobacillus ottaki）、耐久肠球菌（Enterococcus durans）、植物乳杆菌（Lactobacillus plantarum）、开菲尔乳杆菌（Lactobacillus kefir），表现出高的生物多样性。80株乳酸菌对萘啶酸的耐药率为100%；对链霉素、环丙沙星、万古霉素的耐药率较高，分别为95.00%、80.00%、72.50%；对利福平和四环素的耐药率中等，分别为51.25%,45.00%；对红霉素、氯霉素的耐药率较低，分别为26.25%、23.75%。此外，76株（95%）的乳酸菌还具有多重耐药性。",
+    "关键词": [
+        "传统发酵乳制品",
+        "乳酸菌",
+        "分离",
+        "鉴定",
+        "耐药性"
+    ],
+    "基金资助": [
+        "国家自然科学基金资助项目（31860001）",
+        "内蒙古自治区高等学校青年科技英才支持计划资助（NJYT-19-A10）",
+        "内蒙古自治区人才开发基金项目（RC201901）"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "轻工业手工业",
+    "分类号": "TS252.54",
+    "页码": "40-47",
+    "页数": "8",
+    "爬取时间": "2025-03-28 08:46:38",
+    "论文唯一代码": "ZNGZ202202008"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "生物统计附试验设计教学中引入效力分析的思考",
+    "状态": "正常",
+    "发表期刊": "当代畜禽养殖业",
+    "刊发时间": "2022-02-25",
+    "引用量": "0",
+    "下载量": "174",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "吴江鸿",
+            "author_code": "000003926272",
+            "author_addresses": [
+                "内蒙古民族大学动物科技学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "01",
+    "摘要": " 生物统计附试验设计是高等农业院校动物科学与医学专业的重要通选课程。本文通过利用两种假设检验方法 x2检验与u检验对生物统计附试验设计教材中同一样本数据进行假设检验，结果显示两种方法得出的结论完全相反。进而引入效力分析（Power Analysis）比较了两种检测方法的可靠性。结果表明，两种方法对教材中例题的检测效力都不高，分别为power （x<sup>2</sup>）=0.5173613,power （u）=0.1396603，均没能达到0.8。该结果说明，有必要将效力分析引入生物统计附试验设计这门课中，让各种统计检验可以被评价，使试验设计更加合理。",
+    "关键词": [
+        "效力分析",
+        "x2检验",
+        "u检验",
+        "生物统计"
+    ],
+    "基金资助": [
+        "内蒙古民族大学博士启动基金（BS527）"
+    ],
+    "专辑": "农业科技;基础科学;社会科学Ⅱ辑",
+    "专题": "生物学;高等教育",
+    "分类号": "Q-4;G642",
+    "页码": "17-19",
+    "页数": "3",
+    "爬取时间": "2025-03-28 08:46:50",
+    "论文唯一代码": "DAYZ202201005"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "科尔沁牛乳腺炎无乳链球菌cylE基因的克隆及抗原性分析",
+    "状态": "正常",
+    "发表期刊": "当代畜禽养殖业",
+    "刊发时间": "2022-02-25",
+    "引用量": "0",
+    "下载量": "127",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "冯浩展",
+            "author_code": "000047595336",
+            "author_addresses": "内蒙古民族大学生命科学与食品学院内蒙古乳源性致病菌工程防控中心",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "任宪峰",
+            "author_code": "000047595337",
+            "author_addresses": "内蒙古民族大学生命科学与食品学院内蒙古乳源性致病菌工程防控中心",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王华",
+            "author_code": "000060431508",
+            "author_addresses": "内蒙古民族大学生命科学与食品学院内蒙古乳源性致病菌工程防控中心",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "锡林高娃",
+            "author_code": "000059899784",
+            "author_addresses": "内蒙古民族大学生命科学与食品学院内蒙古乳源性致病菌工程防控中心",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "01",
+    "摘要": " 克隆分析科尔沁牛乳腺炎无乳链球菌溶血素cylE基因片段，为深入研究奶牛乳腺炎无乳链球菌免疫机制及制备新型免疫抗原提供理论依据。根据GenBank已公布牛源无乳链球菌溶血素的基因序列，使用Primer5.0软件设计1对特异性引物，以内蒙古通辽地区乳源性无乳链球菌临床菌株总DNA为模板扩增cylE基因片段，并分析其编码序列及免疫活性。克隆得到的cylE基因序列与Genbnak已公布的牛源无乳链球菌cylE基因序列两者核苷酸序列相似性为99.9%，仅有1个核苷酸发生突变(<sup>1712</sup>C→A)。cylE蛋白的亲水区较广，抗原指数较高的区域丰富，具有良好的抗原性,证明cylE基因具有高度保守性，cylE蛋白具有良好的抗原性，是防治无乳链球菌的理想抗原候选分子之一。",
+    "关键词": [
+        "无乳链球菌",
+        "cylE基因",
+        "溶血素",
+        "克隆",
+        "抗原性"
+    ],
+    "基金资助": [
+        "内蒙古自然科学基金项目（No.2018MS03058、2019MS03079）",
+        "内蒙古民族大学科学研究项目（No.NMDGP17103）"
+    ],
+    "专辑": "农业科技",
+    "专题": "畜牧与动物医学",
+    "分类号": "S858.23",
+    "页码": "3-6",
+    "页数": "4",
+    "爬取时间": "2025-03-28 08:47:06",
+    "论文唯一代码": "DAYZ202201001"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "基于次序选择模型的本科高校教学质量学生评价因素研究",
+    "状态": "正常",
+    "发表期刊": "中原工学院学报",
+    "刊发时间": "2022-02-25",
+    "引用量": "0",
+    "下载量": "118",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "孙大岩",
+            "author_code": "000024332246",
+            "author_addresses": [
+                "东北财经大学经济学院",
+                "内蒙古民族大学经济学院",
+                "内蒙古东部乡村振兴研究基地"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "陈磊",
+            "author_code": "000031193920",
+            "author_addresses": [
+                "东北财经大学经济学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "陈文茹",
+            "author_code": "000024672685",
+            "author_addresses": [
+                "内蒙古东部乡村振兴研究基地"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "33 ",
+    "期(Issue)": "01",
+    "摘要": " 通过调查问卷收集了某大学多个学院多个专业学生对课堂教学质量评价的数据，进而使用Logit和Probit模型以及多个统计方法分析了教学质量与各影响因素的具体数量关系。结论显示：各单项指标和总指标打分都在4以上，说明整体教学质量很好；性别和高中文理分科的不同对评教没有显著差异，但是不同年级会使得一些指标的评分产生差异性；经过模型系数显著性检验的变量为X<sub>10</sub>、X<sub>15</sub>、X<sub>18</sub>和X<sub>19</sub>。最后根据以上结论给出相应的对策建议。",
+    "关键词": [
+        "次序选择模型",
+        "课堂教学效果",
+        "影响因素"
+    ],
+    "基金资助": [
+        "国家社科基金项目（18XJL008）",
+        "内蒙古自治区教育科学规划项目（2019MGH016）",
+        "内蒙古民族大学教研项目（YB2017030）"
+    ],
+    "专辑": "工程科技Ⅰ辑;社会科学Ⅱ辑",
+    "专题": "高等教育",
+    "分类号": "G642.0",
+    "页码": "77-84",
+    "页数": "8",
+    "爬取时间": "2025-03-28 08:47:23",
+    "论文唯一代码": "ZZZA202201012"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "浅谈高校“仪器分析”及其实验课程教学改革",
+    "状态": "正常",
+    "发表期刊": "广州化工",
+    "刊发时间": "2022-02-23",
+    "引用量": "3",
+    "下载量": "241",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王曦烨",
+            "author_code": "000024587005",
+            "author_addresses": [
+                "内蒙古民族大学化学与材料学院,国家级化学实验教学示范中心"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "50 ",
+    "期(Issue)": "04",
+    "摘要": " “仪器分析”及其实验是高等学校化学专业的一门基础课程，具有很强的实用性。课程的开设不仅能够培养学生的实践动手能力及创新意识，还能够帮助学生与未来的工作岗位做到“无缝对接”。鉴于目前教学中存在的诸多问题，本文在课程的教材、理论课教学内容、实验课教学内容等多方面提出了改革意见，为今后“仪器分析”及其实验课程教学的进一步开展提供借鉴。",
+    "关键词": [
+        "仪器分析",
+        "仪器分析实验",
+        "教学改革"
+    ],
+    "基金资助": [
+        "内蒙古民族大学科学研究项目(No.NMDYB19052)"
+    ],
+    "专辑": "工程科技Ⅰ辑;社会科学Ⅱ辑",
+    "专题": "化学;高等教育",
+    "分类号": "G642.423;O657-4",
+    "页码": "163-164",
+    "页数": "2",
+    "爬取时间": "2025-03-28 08:47:36",
+    "论文唯一代码": "GZHA202204055"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "添加剂对黑麦草青贮品质及微生物数量的影响",
+    "状态": "正常",
+    "发表期刊": "草地学报",
+    "刊发时间": "2022-02-22 10:03",
+    "引用量": "26",
+    "下载量": "892",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "付志慧",
+            "author_code": "000002119659",
+            "author_addresses": [
+                "内蒙古农业大学草原与资源环境学院农业农村部饲草栽培加工及高效利用重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "格根图",
+            "author_code": "000066359624",
+            "author_addresses": [
+                "内蒙古农业大学草原与资源环境学院农业农村部饲草栽培加工及高效利用重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "gegentu@163.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "贾玉山",
+            "author_code": "000066357239",
+            "author_addresses": [
+                "内蒙古农业大学草原与资源环境学院农业农村部饲草栽培加工及高效利用重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王志军",
+            "author_code": "000034260513",
+            "author_addresses": [
+                "内蒙古农业大学草原与资源环境学院农业农村部饲草栽培加工及高效利用重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "孙林",
+            "author_code": "000032923159",
+            "author_addresses": [
+                "内蒙古自治区农牧业科学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "南丁罕",
+            "author_code": "000012470298",
+            "author_addresses": [
+                "内蒙古农业大学草原与资源环境学院农业农村部饲草栽培加工及高效利用重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "岳正山",
+            "author_code": "000047214493",
+            "author_addresses": [
+                "内蒙古农业大学草原与资源环境学院农业农村部饲草栽培加工及高效利用重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "闫峰",
+            "author_code": "000047214492",
+            "author_addresses": [
+                "内蒙古正奇农牧业有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 9,
+            "author_name": "任秀珍",
+            "author_code": "000000297245",
+            "author_addresses": [
+                "内蒙古民族大学农学院内蒙古自治区饲用作用工程技术研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "30 ",
+    "期(Issue)": "05",
+    "摘要": " 为探究不同添加剂对北方地区黑麦草（Lolium spp.）青贮品质及微生物数量的影响，本试验以黑麦草为原料，设无添加剂为对照组（CK）,添加植物乳杆菌（A<sub>1</sub>）、复合菌剂（乳酸菌+纤维素酶，A<sub>2</sub>）、商业菌剂（和美科盛乳酸菌标准品+糖蜜，A<sub>3</sub>）进行真空袋青贮，60 d后开袋进行感官评价、发酵品质、化学成分及微生物数量分析。结果表明：所有处理组青贮饲料茎叶结构完整，与对照相比，添加剂的加入均显著降低了青贮料的pH值（P&lt;0.05）;A<sub>2</sub>组的乳酸含量显著高于CK,A<sub>1</sub>和A<sub>3</sub>组（P&lt;0.05）;A<sub>2</sub>组的丁酸含量显著低于CK,A<sub>1</sub>和A<sub>3</sub>组（P&lt;0.05）,V-Score评分等级为良好。综合感官评价、营养品质、发酵品质及微生物数量分析，添加乳酸菌+纤维素酶对黑麦草的青贮效果最好。",
+    "关键词": [
+        "添加剂",
+        "黑麦草",
+        "青贮品质",
+        "微生物数量"
+    ],
+    "基金资助": [
+        "国家牧草产业技术体系干草调制贮藏岗位专项(CARS-34)",
+        "内蒙古自治区饲用作物工程技术研究中心资助项目(MDK2016024)资助"
+    ],
+    "专辑": "农业科技",
+    "专题": "畜牧与动物医学",
+    "分类号": "S816.53",
+    "页码": "1296-1301",
+    "页数": "6",
+    "爬取时间": "2025-03-28 08:47:54",
+    "论文唯一代码": "CDXU202205033"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "蒙药吉祥安坤丸对未成年雌性大鼠生殖发育及卵巢、子宫雌激素受体的影响",
+    "状态": "正常",
+    "发表期刊": "临床误诊误治",
+    "刊发时间": "2022-02-22",
+    "引用量": "0",
+    "下载量": "231",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "包春霞",
+            "author_code": "000002047377",
+            "author_addresses": [
+                "内蒙古民族大学蒙医药学院",
+                "内蒙古通辽市蒙医研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "富玉兰",
+            "author_code": "000019184058",
+            "author_addresses": [
+                "内蒙古通辽市蒙医研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "何乌云嘎",
+            "author_code": "000047255549",
+            "author_addresses": [
+                "内蒙古民族大学蒙医药学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王秀兰",
+            "author_code": "000028496450",
+            "author_addresses": [
+                "内蒙古民族大学蒙医药学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "tlmdwxl@163.com"
+        },
+        {
+            "author_order": 5,
+            "author_name": "奥·乌力吉",
+            "author_code": "000025747178",
+            "author_addresses": [
+                "内蒙古民族大学蒙医药学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "35 ",
+    "期(Issue)": "02",
+    "摘要": " 目的 研究吉祥安坤丸对未成年雌性大鼠生殖发育及卵巢、子宫雌激素受体（ER）的影响。方法 将未成年健康雌性SD大鼠，随机分为低、高剂量组和对照组，每组12只。低、高剂量组分别给予1.0、2.0 g/（kg·d）吉祥安坤丸混悬液灌胃，对照组给予等体积蒸馏水灌胃，连续给药21 d。阴道涂片法观察发情周期，酶联免疫吸附试验测定血清卵泡刺激素（FSH）、黄体生成素（LH）、雌二醇（E<sub>2</sub>）、孕酮（PROG）、睾酮（T）、胰岛素样生长因子-Ⅰ（IGF-Ⅰ）、血管内皮生长因子（VEGF）、肿瘤坏死因子-α（TNF-α）及白细胞介素-6（IL-6）水平，免疫组织化学法观察卵巢、子宫组织ER的表达程度。结果 与对照组比较，低、高剂量组发情周期紊乱率和血清TNF-α水平明显下降（P&lt;0.05,P&lt;0.01）,高剂量组子宫系数、血清LH、E<sub>2</sub>、PROG水平及子宫组织ER表达水平明显上升（P&lt;0.05,P&lt;0.01）,低剂量组血清LH水平及卵巢和子宫组织ER表达水平也明显升高（P&lt;0.05,P&lt;0.01）。3组血清FSH、T、IGF-Ⅰ、VEGF、IL-6水平比较差异无统计学意义（P&gt;0.05）。结论 吉祥安坤丸能改善未成年雌性大鼠发情周期，升高性激素水平，促进卵泡发育及排卵，还能抑制炎性因子水平。",
+    "关键词": [
+        "吉祥安坤丸",
+        "发情周期",
+        "卵巢",
+        "子宫",
+        "受体,雌激素",
+        "肿瘤坏死因子-α",
+        "大鼠,Sprague-Dawley"
+    ],
+    "基金资助": [
+        "内蒙古自治区重大基础研究开放课题(2019ZDKF005)"
+    ],
+    "专辑": "医药卫生科技",
+    "专题": "中医学",
+    "分类号": "R29",
+    "页码": "107-112",
+    "页数": "6",
+    "爬取时间": "2025-03-28 08:48:07",
+    "论文唯一代码": "LCWZ202202024"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "乾嘉时期新疆竹枝词的诗注研究",
+    "状态": "正常",
+    "发表期刊": "阴山学刊",
+    "刊发时间": "2022-02-20",
+    "引用量": "3",
+    "下载量": "192",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王淑芸",
+            "author_code": "000047419598",
+            "author_addresses": "内蒙古民族大学文学与新闻传播学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "郝青云",
+            "author_code": "000037805876",
+            "author_addresses": "内蒙古民族大学文学与新闻传播学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "35 ",
+    "期(Issue)": "01",
+    "摘要": " 乾嘉时期的新疆竹枝词继承前代竹枝词传统,以风土诗而成为学者研究的重点视角。同时,竹枝词的自注也在继承史家自注体例的基础上,深受乾嘉时期特殊学风感染融合发展成独特的自注体例,从而形成具有文人化、学者化趋向的独特文学形式。诗注一体,诗注与诗文之间相互印证,以注释中大量史实资料与外围资料丰富诗文内容,增强竹枝词可读性与可信度。",
+    "关键词": [
+        "乾嘉时期",
+        "诗自注",
+        "《乌鲁木齐杂诗》",
+        "《异域竹枝词》",
+        "《西陲竹枝词》"
+    ],
+    "基金资助": [
+        "国家社会科学基金重大项目“历代北疆纪行文学文献的整理与研究”(19ZDA281)"
+    ],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学",
+    "专题": "中国古代史;中国文学",
+    "分类号": "I207.22;K249.3",
+    "页码": "8-13",
+    "页数": "6",
+    "爬取时间": "2025-03-28 08:48:23",
+    "论文唯一代码": "YSXS202201003"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "超声辅助提取荞麦总黄酮工艺优化及其体外抗氧化活性",
+    "状态": "正常",
+    "发表期刊": "食品研究与开发",
+    "刊发时间": "2022-02-20",
+    "引用量": "18",
+    "下载量": "1326",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "孟晶晶",
+            "author_code": "000047334277",
+            "author_addresses": [
+                "内蒙古民族大学生命科学与食品学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张志威",
+            "author_code": "000047334278",
+            "author_addresses": [
+                "内蒙古民族大学生命科学与食品学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "周文喜",
+            "author_code": "000003096973",
+            "author_addresses": [
+                "通辽市农牧科学研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "倪娜",
+            "author_code": "000026193469",
+            "author_addresses": [
+                "内蒙古民族大学生命科学与食品学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "赵汝",
+            "author_code": "000005781891",
+            "author_addresses": [
+                "内蒙古民族大学生命科学与食品学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "李华",
+            "author_code": "000031104731",
+            "author_addresses": [
+                "内蒙古民族大学生命科学与食品学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "王华",
+            "author_code": "000060431508",
+            "author_addresses": [
+                "内蒙古民族大学生命科学与食品学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "04",
+    "摘要": " 该文对超声辅助提取荞麦总黄酮工艺进行优化，同时对通辽地区主要种植的7个荞麦品种的壳粉、全麦粉及芽粉的总黄酮得率、体外抗氧化活性进行测定。在单因素试验基础上进行Box-Behnken试验设计，试验结果表明：超声辅助提取荞麦总黄酮的最优工艺为料液比1∶50(g/mL)，提取时间86 min，温度85℃，超声频率72 kHz。7个品种荞麦以珠日河苦荞芽粉中总黄酮得率最高，为（5.13±0.08）%，其DPPH自由基清除率可达（94.79±2.58）%、ABTS+自由基清除率可达（96.92±2.58）%，表明珠日河苦荞芽粉总黄酮的抗氧化能力较强。",
+    "关键词": [
+        "荞麦",
+        "总黄酮",
+        "提取",
+        "优化",
+        "抗氧化活性"
+    ],
+    "基金资助": [
+        "内蒙古自治区高等学校教学研究项目（NJZY19149）",
+        "内蒙古自然科学基金研究项目（2019MS03079）"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "轻工业手工业",
+    "分类号": "TS210.4",
+    "页码": "82-88",
+    "页数": "7",
+    "爬取时间": "2025-03-28 08:48:40",
+    "论文唯一代码": "SPYK202204013"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "不同施氮水平下大麦可溶性糖与淀粉积累的关系",
+    "状态": "正常",
+    "发表期刊": "西南农业学报",
+    "刊发时间": "2022-02-18 08:33",
+    "引用量": "17",
+    "下载量": "1028",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王海泽",
+            "author_code": "000025624211",
+            "author_addresses": [
+                "内蒙古民族大学农学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘志萍",
+            "author_code": "000040872514",
+            "author_addresses": [
+                "内蒙古自治区农牧业科学院作物育种与栽培研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "巴图",
+            "author_code": "000049808227",
+            "author_addresses": [
+                "内蒙古自治区农牧业科学院作物育种与栽培研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "马宇",
+            "author_code": "000026969045",
+            "author_addresses": [
+                "内蒙古自治区农牧业科学院作物育种与栽培研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "吕二锁",
+            "author_code": "000020295442",
+            "author_addresses": [
+                "内蒙古自治区农牧业科学院作物育种与栽培研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "郭呈宇",
+            "author_code": "000025304000",
+            "author_addresses": [
+                "内蒙古自治区农牧业科学院作物育种与栽培研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "李建波",
+            "author_code": "000029180778",
+            "author_addresses": [
+                "内蒙古民族大学农学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "王文迪",
+            "author_code": "000005845288",
+            "author_addresses": [
+                "内蒙古民族大学农学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 9,
+            "author_name": "王金波",
+            "author_code": "000037510936",
+            "author_addresses": [
+                "内蒙古民族大学农学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 10,
+            "author_name": "齐海祥",
+            "author_code": "000018768633",
+            "author_addresses": [
+                "内蒙古民族大学农学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 11,
+            "author_name": "徐寿军",
+            "author_code": "000062786769",
+            "author_addresses": [
+                "内蒙古民族大学农学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "shoujun-xu@163.com"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "35 ",
+    "期(Issue)": "02",
+    "摘要": " 【目的】探讨大麦可溶性糖与籽粒淀粉积累的关系。【方法】以蒙啤3号、甘啤4号、蒙啤5号、垦啤7号4个大麦品种为供试材料，设0、90、180、270 kg/hm<sup>2</sup>（分别标注为N<sub>0</sub>,N<sub>1</sub>,N<sub>2</sub>,N<sub>3</sub>）4个施氮水平，分析灌浆期间不同施氮水平下大麦营养器官可溶性糖和籽粒淀粉的动态变化，研究营养器官可溶性糖输出量对籽粒淀粉积累的贡献，探索各营养器官可溶性糖积累量与籽粒总淀粉、直链淀粉、支链淀粉积累量的相关性。【结果】4个大麦品种叶片、茎秆、籽粒可溶性糖积累量随着生育时期呈现先升高后降低的变化趋势，在花后21 d达到最大值。随着施氮水平的增加，4个大麦品种叶片、茎秆、籽粒可溶性糖积累量呈现先升高后降低的变化趋势，在N<sub>2</sub>处理达到最大值。4个大麦品种籽粒总淀粉、直链淀粉、支链淀粉随着生育时期呈现升高的变化趋势。随着施氮水平的增加，4个大麦品种籽粒总淀粉、直链淀粉、支链淀粉均呈现先升高后降低的趋势，在N<sub>2</sub>处理达到最大值。营养器官可溶性糖输出量对淀粉积累有重要贡献，4个大麦品种开花前和开花后叶片、茎秆贮藏可溶性糖输出量对淀粉贡献均表现为N<sub>2</sub>&gt;N<sub>3</sub>&gt;N<sub>1</sub>&gt;N<sub>0</sub>,4个大麦品种开花前和开花后贮藏可溶性糖总输出量对淀粉贡献均表现为N<sub>2</sub>&gt;N<sub>3</sub>&gt;N<sub>1</sub>&gt;N<sub>0</sub>。4个大麦品种开花前和开花后贮藏可溶性糖输出量均表现为茎秆最大，叶片最小。相关性分析表明，4个大麦品种在不同灌浆阶段，叶片和茎秆花后7、21、28、35 d可溶性糖积累量与籽粒总淀粉、支链淀粉积累量均呈极显著正相关。叶片和茎秆花后7、21、28、35 d可溶性糖积累量与籽粒直链淀粉积累量均呈显著和极显著正相关。【结论】在本试验条件下，营养器官中可溶性糖的积累量、籽粒中淀粉积累量、花前花后营养器官可溶性糖的输出量及其对籽粒淀粉的贡献率达到最大值的最佳施氮量为180 kg/hm<sup>2</sup>纯氮。",
+    "关键词": [
+        "大麦",
+        "不同施氮水平",
+        "可溶性糖积累量",
+        "淀粉积累量",
+        "贡献率",
+        "相关性"
+    ],
+    "基金资助": [
+        "国家自然科学基金(31760357,31360307)",
+        "内蒙古自治区科技计划项目(2020GG005)",
+        "大麦青稞产业技术体系项目(CARS-05)",
+        "内蒙古民族大学博士科研启动金(BS569)"
+    ],
+    "专辑": "农业科技",
+    "专题": "农作物",
+    "分类号": "S512.3",
+    "页码": "319-328",
+    "页数": "10",
+    "爬取时间": "2025-03-28 08:49:02",
+    "论文唯一代码": "XNYX202202009"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "不同类型的少花蒺藜草种子萌发对水分和光照的响应",
+    "状态": "正常",
+    "发表期刊": "安徽农业科学",
+    "刊发时间": "2022-02-18",
+    "引用量": "12",
+    "下载量": "412",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "霍艳利",
+            "author_code": "000015145585",
+            "author_addresses": "内蒙古民族大学农学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "曲婷",
+            "author_code": "000038728518",
+            "author_addresses": "内蒙古民族大学农学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "高凯",
+            "author_code": "000030334330",
+            "author_addresses": "内蒙古民族大学农学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "周立业",
+            "author_code": "000038695425",
+            "author_addresses": "内蒙古民族大学农学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "50 ",
+    "期(Issue)": "04",
+    "摘要": " [目的]了解少花蒺藜草(Cenchrus incertus)异型种子对水分和光照的要求。[方法]以少花蒺藜草异型种子为研究对象，采用10个水分梯度(依次为土壤最大持水量的10%～100%)和5种光照强度(全光照、50%光照、25%光照、15%光照、全黑暗),观察少花蒺藜草异型种子的萌发特性。[结果]各水分梯度少花蒺藜草发芽率表现为刺苞&gt;M型种子&gt;P型种子(除50%水分梯度外),随着水分梯度的提高，刺苞及两异型种子的发芽率均呈现先升高后降低的趋势，刺苞在水分梯度60%、M型种子和P型种子在水分梯度50%时发芽率达到最大；发芽势、发芽指数和活力指数呈先升高后降低的趋势，在水分梯度为土壤最大持水量的50%～60%时达到最高值；随着水分梯度的提高，刺苞、M型种子与P型种子的胚根长和胚芽长呈先升高后降低的变化趋势；各光照强度下少花蒺藜草发芽率、发芽势、发芽指数和活力指数均表现为M型种子&gt;P型种子&gt;刺苞，随着光照强度的增加，发芽率、发芽势、发芽指数和活力指数呈现上升趋势，在全光照下达到最高值，胚根长和胚芽长均在全光照条件下达到最高值。",
+    "关键词": [
+        "少花蒺藜草",
+        "异型种子",
+        "萌发",
+        "水分",
+        "光照"
+    ],
+    "基金资助": [
+        "国家自然科学基金项目(31460634)"
+    ],
+    "专辑": "农业科技",
+    "专题": "植物保护",
+    "分类号": "S451",
+    "页码": "51-56+63",
+    "页数": "7",
+    "爬取时间": "2025-03-28 08:49:15",
+    "论文唯一代码": "AHNY202204016"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "π-延展的罗丹明酰肼类Hg2+探针的合成及光谱性质",
+    "状态": "正常",
+    "发表期刊": "分析试验室",
+    "刊发时间": "2022-02-17 15:09",
+    "引用量": "2",
+    "下载量": "200",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "裴畅",
+            "author_code": "000047174565",
+            "author_addresses": [
+                "内蒙古民族大学化学与材料学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "杨杨",
+            "author_code": "000030305393",
+            "author_addresses": [
+                "内蒙古民族大学化学与材料学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "yangyang-000@163.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "叶近婷",
+            "author_code": "000047174566",
+            "author_addresses": [
+                "内蒙古民族大学化学与材料学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "刘景林",
+            "author_code": "000040623203",
+            "author_addresses": [
+                "内蒙古民族大学化学与材料学院",
+                "内蒙古自治区天然产物化学及功能分子合成重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "jlliu2000@126.com"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "41 ",
+    "期(Issue)": "09",
+    "摘要": " 将2-（4-二乙氨基）-2-羟基苯甲酰)苯甲酸与间苯二酚在H<sub>2</sub>SO<sub>4</sub>溶液中反应，合成了π-延展的罗丹明类衍生物氨基苯并吡喃氧杂蒽（ABPX），该衍生物与水合肼反应得到探针分子ABPX-hy，并通过质谱、红外光谱、核磁共振波谱等对其结构进行了表征。该探针在乙醇溶液中加入Hg<sup>2+</sup>后，UV-Vis吸收光谱在500～600 nm明显增强，溶液颜色由无色变成粉色并逐渐加深，能够实现对Hg<sup>2+</sup>的可视化检测。在10种常见金属离子共存溶液中，在533 nm处对Hg<sup>2+</sup>的识别表现出较好的抗干扰性能。探针吸收强度与Hg<sup>2+</sup>的加入量呈良好的指数关系。ABPX-hy的N,O结合位点与Hg<sup>2+</sup>的连续配位，形成了化学计量比为2∶1的金属-探针络合物。密度泛函理论（DFT）计算研究了络合前后的轨道能量变化和空间变化。",
+    "关键词": [
+        "π-延展的罗丹明",
+        "酰肼类探针",
+        "汞离子",
+        "吸收光谱"
+    ],
+    "基金资助": [
+        "国家自然科学基金（22061033）",
+        "内蒙古自治区自然科学基金面上项目（2019MS02004）",
+        "内蒙古自治区高等学校科学研究项目（NJZZ19146）",
+        "内蒙古民族大学博士科研启动项目（BS566）资助"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学",
+    "分类号": "O657.3",
+    "页码": "1011-1015",
+    "页数": "5",
+    "爬取时间": "2025-03-28 08:49:28",
+    "论文唯一代码": "FXSY202209004"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "“旅游消费者行为学”课程在线教学模式探索",
+    "状态": "正常",
+    "发表期刊": "大学",
+    "刊发时间": "2022-02-15",
+    "引用量": "2",
+    "下载量": "437",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "阿荣高娃",
+            "author_code": "000002654603",
+            "author_addresses": [
+                "立教大学观光系",
+                "内蒙古民族大学管理学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下多个单位：单个作者多个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "05",
+    "摘要": " 互联网的发展正引领着新一轮教学方式的变革。部分课程已由传统的教学逐渐开始转向在线教学，旅游业的日新月异及旅游消费者行为的千变万化，给旅游管理专业课程教学带来了新的挑战。本文以旅游消费者行为课程特点为基础，结合当前教学实际与在线教学发展趋势，尝试从“以学生为主体”的理念出发，提出了“输入环节”“过程环节”“输出环节”的在线教学模式，详细阐述了该模式的实施过程：输入为前提，过程为核心，多层考核为保障，以期探索有效、可行的在线教学模式，为本课程及旅游管理其他专业课程的在线教学提供参考。该教学模式基于旅游消费者行为学课程应用性的特点，可提高学生在教学过程中的参与度，培养其实践能力。",
+    "关键词": [
+        "旅游消费者行为学",
+        "课程",
+        "在线教学"
+    ],
+    "基金资助": [
+        "内蒙古民族大学教育教学研究课题“‘互联网+’背景下酒店管理专业人才培养与产业变革适应性研究”（课题编号：2013244）"
+    ],
+    "专辑": "社会科学Ⅱ辑;经济与管理科学",
+    "专题": "高等教育;旅游;贸易经济",
+    "分类号": "F590-4;F713.55-4;G642",
+    "页码": "189-192",
+    "页数": "4",
+    "爬取时间": "2025-03-28 08:49:37",
+    "论文唯一代码": "DXYP202205048"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "乡村振兴背景下通辽市奈曼旗农村垃圾处理问题研究",
+    "状态": "正常",
+    "发表期刊": "山西农经",
+    "刊发时间": "2022-02-15",
+    "引用量": "4",
+    "下载量": "1067",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "武儒力",
+            "author_code": "000067514995",
+            "author_addresses": "内蒙古民族大学经济学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘艳",
+            "author_code": "000030016150",
+            "author_addresses": "内蒙古民族大学经济学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "高旭",
+            "author_code": "000032525079",
+            "author_addresses": "内蒙古民族大学经济学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "03",
+    "摘要": " 在乡村振兴战略的背景下,农村的村容村貌整治工作不断推进,而生活垃圾分类处理是整治村容村貌工作的重要环节。为了加快推进美丽乡村建设,奈曼旗也逐步开展生活垃圾有序处理工作,但在实地调研的过程中发现,在垃圾分类处理过程中仍存在一系列问题。通过发放问卷调查奈曼旗垃圾分类情况,梳理总结目前奈曼旗生活垃圾分类处理过程中存在的问题,从而有针对性地提出制定相关法律法规、定期开展宣传教育、完善基础设施、增加资金投入、建立数据平台以及构建多元化治理机制的对策建议。",
+    "关键词": [
+        "乡村振兴",
+        "垃圾分类",
+        "人居环境",
+        "奈曼旗"
+    ],
+    "基金资助": [],
+    "专辑": "经济与管理科学;农业科技;工程科技Ⅰ辑",
+    "专题": "环境科学与资源利用",
+    "分类号": "X799.3",
+    "页码": "169-171",
+    "页数": "3",
+    "爬取时间": "2025-03-28 08:49:49",
+    "论文唯一代码": "SDNJ202203058"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "乡村振兴视域下敖鲁古雅特色村寨建设研究",
+    "状态": "正常",
+    "发表期刊": "山西农经",
+    "刊发时间": "2022-02-15",
+    "引用量": "1",
+    "下载量": "222",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "谢昕",
+            "author_code": "000057687602",
+            "author_addresses": "内蒙古民族大学马克思主义学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张艾力",
+            "author_code": "000024681941",
+            "author_addresses": "内蒙古民族大学马克思主义学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "03",
+    "摘要": " 敖鲁古雅作为国家民族事务委员会重点建设的少数民族特色村寨,按照乡村振兴总要求,在产业、生态、乡风、治理、生活等方面已经取得了一定的成绩,但面临着产业发展不规范、生态环境脆弱、民族文化消失、治理能力薄弱、民生保障力度低等困难。通过对敖鲁古雅乡的田野调查,针对上述问题提出发展绿色旅游、注重环境保护、传承民族文化、加强党政工作、坚持改善民生等对策,以期探索乡村振兴下特色村寨发展道路。",
+    "关键词": [
+        "乡村振兴",
+        "特色村寨",
+        "建设",
+        "敖鲁古雅乡"
+    ],
+    "基金资助": [],
+    "专辑": "经济与管理科学;农业科技",
+    "专题": "旅游;农业经济",
+    "分类号": "F327;F592.7",
+    "页码": "95-97+101",
+    "页数": "4",
+    "爬取时间": "2025-03-28 08:49:59",
+    "论文唯一代码": "SDNJ202203034"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "EJ299-33A闪烁体光输出及其应用研究",
+    "状态": "正常",
+    "发表期刊": "核技术",
+    "刊发时间": "2022-02-15",
+    "引用量": "8",
+    "下载量": "257",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王德鑫",
+            "author_code": "000000565618",
+            "author_addresses": [
+                "内蒙古民族大学数理学院",
+                "内蒙古民族大学核物理研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张苏雅拉吐",
+            "author_code": "000023382108",
+            "author_addresses": [
+                "内蒙古民族大学数理学院",
+                "内蒙古民族大学核物理研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "zsylt@imun.edu.cn"
+        },
+        {
+            "author_order": 3,
+            "author_name": "胡新荣",
+            "author_code": "000045053252",
+            "author_addresses": [
+                "中国科学院上海应用物理研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "任杰",
+            "author_code": "000033955500",
+            "author_addresses": [
+                "中国原子能科学研究院核数据重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "红兰",
+            "author_code": "000023258076",
+            "author_addresses": [
+                "呼伦贝尔学院物理与电子信息学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "王金成",
+            "author_code": "000037458503",
+            "author_addresses": [
+                "内蒙古民族大学数理学院",
+                "内蒙古民族大学核物理研究所",
+                "中国原子能科学研究院核数据重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "宋娜",
+            "author_code": "000026888197",
+            "author_addresses": [
+                "内蒙古民族大学数理学院",
+                "内蒙古民族大学核物理研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "王宏伟",
+            "author_code": "000035310271",
+            "author_addresses": [
+                "中国科学院上海应用物理研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 9,
+            "author_name": "黄美容",
+            "author_code": "000065817998",
+            "author_addresses": [
+                "内蒙古民族大学数理学院",
+                "内蒙古民族大学核物理研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 10,
+            "author_name": "唐鑫",
+            "author_code": "000026126563",
+            "author_addresses": [
+                "内蒙古民族大学核物理研究所",
+                "沈阳师范大学物理科学与技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 11,
+            "author_name": "立立",
+            "author_code": "000017706711",
+            "author_addresses": [
+                "内蒙古民族大学核物理研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 12,
+            "author_name": "白嘎拉",
+            "author_code": "000019137754",
+            "author_addresses": [
+                "内蒙古民族大学核物理研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 13,
+            "author_name": "牛丹丹",
+            "author_code": "000043190458",
+            "author_addresses": [
+                "内蒙古民族大学数理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "45 ",
+    "期(Issue)": "02",
+    "摘要": " 闪烁体探测器的光输出影响其探测效率、探测阈值,决定着其应用范围和前景。EJ299-33A是一款具有脉冲形状甄别（Pulse Shape Discrimination,PSD）功能的塑料闪烁体,可用于核物理与核技术实验中进行中子、γ射线及带电粒子混合场的粒子鉴别和测量。利用<sup>137</sup>Cs、<sup>60</sup>Co标准γ射线放射源实验测量了EJ299-33A型探测器光输出谱,并利用蒙特卡罗模拟程序Geant4进行了理论模拟。通过对比实验与模拟光输出谱,可精确地确定康普顿边沿的位置,得到探测器电子能量刻度函数,并进一步研究了探测器有效中子探测阈。在此基础上,用Geant4模拟计算了200 keV～3 MeV区间的15个不同能量点的EJ299-33A探测器γ光输出谱,结合空气吸收剂量理论值获得了能谱-剂量转换函数G（E）。",
+    "关键词": [
+        "EJ299-33A",
+        "光输出",
+        "能量刻度",
+        "中子探测阈",
+        "能谱-剂量转换函数"
+    ],
+    "基金资助": [
+        "国家自然科学基金(No.11605097、No.11765014、No.11865010)",
+        "内蒙古自治区自然科学基金(No.2019JQ01、No.2018MS01009)",
+        "内蒙古自治区高等学校青年科技英才支持计划项目(No.NJYT-18-B21)",
+        "内蒙古民族大学博士科研启动基金(No.BS365、No.BS400)、内蒙古民族大学自然科学一般项目(No.NMDYB20044)资助~~"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "核科学技术",
+    "分类号": "TL812",
+    "页码": "55-61",
+    "页数": "7",
+    "爬取时间": "2025-03-28 08:50:13",
+    "论文唯一代码": "HJSU202202004"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "白益母草中酚苷类化合物的分离鉴定及其体外抗氧化活性评价",
+    "状态": "正常",
+    "发表期刊": "中国现代应用药学",
+    "刊发时间": "2022-02-15",
+    "引用量": "5",
+    "下载量": "458",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "胡毕斯哈拉图",
+            "author_code": "000022697500",
+            "author_addresses": [
+                "包头市蒙医中医医院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王青虎",
+            "author_code": "000005290573",
+            "author_addresses": [
+                "内蒙古民族大学蒙医药学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "wqh693@163.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "何祥",
+            "author_code": "000056271114",
+            "author_addresses": [
+                "内蒙古民族大学蒙医药学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "毕力格图",
+            "author_code": "000004956576",
+            "author_addresses": [
+                "内蒙古民族大学蒙医药学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "包文强",
+            "author_code": "000004624916",
+            "author_addresses": [
+                "内蒙古民族大学蒙医药学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "39 ",
+    "期(Issue)": "03",
+    "摘要": " 目的分离鉴定白益母草中抗氧化活性成分。方法采用常规回流提取法先以二氯甲烷对白益母草脱脂,然后药渣用乙酸乙酯提取得到其提取物。乙酸乙酯提取物利用硅胶、葡聚糖凝胶柱色谱及HPLC进行分离,分离得到化合物经波谱学数据分析,确定其结构式。同时,利用1,1-二苯基-2-三硝基苯肼（DPPH）法测定分离得到化合物的抗氧化活性。结果从白益母草乙酸乙酯提取物中分离得到4个酚苷类化合物,分别为毛蕊花苷（1）,5,7,4'-三羟基黄酮-7-O-（6\"-O-[E]-香豆酰基）-β-葡萄糖苷（2）,5,7,4'-三羟基黄酮-7-O-（6\"-O-[E]-咖啡酰基）-β-葡萄糖苷（3）和5,7,4'-三羟基黄酮-7-O-（6\"-O-[E]-二香豆酰基）-β-葡萄糖苷（4）。化合物1～4表现出较好的抗氧化活性,其EC<sub>50</sub>平均值分别为（19.5±1.81）,（26.2±3.4）,（22.9±2.7）,（24.4±3.1）。结论化合物1～4均为首次从该药材中分离得到,可作为天然抗氧化剂。",
+    "关键词": [
+        "白益母草",
+        "酚苷类",
+        "结构鉴定",
+        "抗氧化作用"
+    ],
+    "基金资助": [
+        "内蒙古自治区卫生技生科研计划项目(201701105)",
+        "内蒙古自治区自然科学基金项目(2018MS08034)"
+    ],
+    "专辑": "医药卫生科技",
+    "专题": "中药学",
+    "分类号": "R284.1;R285",
+    "页码": "312-315",
+    "页数": "4",
+    "爬取时间": "2025-03-28 08:50:27",
+    "论文唯一代码": "XDYD202203004"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "奶牛围产期脂肪肝的研究进展",
+    "状态": "正常",
+    "发表期刊": "中国奶牛",
+    "刊发时间": "2022-02-15",
+    "引用量": "20",
+    "下载量": "866",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "赵程禹",
+            "author_code": "000047428705",
+            "author_addresses": "内蒙古民族大学动物科技学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "邓清华",
+            "author_code": "000040612453",
+            "author_addresses": "内蒙古民族大学动物科技学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "刘婷",
+            "author_code": "000044083568",
+            "author_addresses": "内蒙古民族大学动物科技学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "02",
+    "摘要": " 脂肪肝是奶牛围产期常见多发的营养代谢性疾病，特别是高产奶牛的发病率极高，常常伴随难产，并诱发多种炎性反应等疾病。此外，还会导致奶牛产奶量减少和平均寿命降低，给奶牛养殖业带来巨大损失。因此探究围产期奶牛脂肪肝的发展进程，对于切实提升高产奶牛的经济价值，和对奶牛脂肪肝的预防与治疗有着重要意义。本文对奶牛围产期脂肪肝的研究情况进行了综述。",
+    "关键词": [
+        "奶牛",
+        "围产期",
+        "脂肪肝",
+        "脂代谢"
+    ],
+    "基金资助": [],
+    "专辑": "农业科技",
+    "专题": "畜牧与动物医学",
+    "分类号": "S858.23",
+    "页码": "23-27",
+    "页数": "5",
+    "爬取时间": "2025-03-28 08:50:37",
+    "论文唯一代码": "ZGNN202202006"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "SBA-15固载硅钨酸催化合成柠檬酸三丁酯",
+    "状态": "正常",
+    "发表期刊": "化学研究与应用",
+    "刊发时间": "2022-02-15",
+    "引用量": "4",
+    "下载量": "482",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王志强",
+            "author_code": "000030124292",
+            "author_addresses": [
+                "内蒙古民族大学化学与材料学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张圆圆",
+            "author_code": "000026131878",
+            "author_addresses": [
+                "内蒙古民族大学化学与材料学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "包英",
+            "author_code": "000004092338",
+            "author_addresses": [
+                "内蒙古民族大学化学与材料学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "陆爽",
+            "author_code": "000047280005",
+            "author_addresses": [
+                "内蒙古民族大学化学与材料学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "段莉梅",
+            "author_code": "000036791727",
+            "author_addresses": [
+                "内蒙古民族大学化学与材料学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "许良",
+            "author_code": "000042660471",
+            "author_addresses": [
+                "内蒙古民族大学化学与材料学院",
+                "天然产物化学及功能分子合成自治区重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "王斌",
+            "author_code": "000031855690",
+            "author_addresses": [
+                "内蒙古民族大学化学与材料学院",
+                "天然产物化学及功能分子合成自治区重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "刘宗瑞",
+            "author_code": "000038615514",
+            "author_addresses": [
+                "内蒙古民族大学化学与材料学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "34 ",
+    "期(Issue)": "02",
+    "摘要": " 以硅钨酸(H<sub>4</sub>SiW<sub>12</sub>O<sub>40</sub>)为催化剂、介孔分子筛SBA-15为载体，将浸渍法与焙烧法相结合制备了一系列介孔分子筛固载硅钨酸复合催化剂SiW<sub>12</sub>/SBA-15;并利用红外光谱（FTIR）、粉末X-射线衍射（XRD）、N<sub>2</sub>吸附-脱附、扫描电子显微镜（SEM）、透射电子显微镜（TEM）等对其组成、结构及形貌进行表征。将此催化剂用于催化合成柠檬酸三丁酯的酯化反应中，考察酸醇摩尔比、催化剂用量、反应温度、反应时间对催化合成柠檬酸三丁酯酯化率的影响；研究不同焙烧温度对催化剂重复使用性能的影响，获得固载型催化剂制备的最佳焙烧温度为380℃。",
+    "关键词": [
+        "介孔分子筛",
+        "硅钨酸",
+        "酸催化",
+        "柠檬酸三丁酯"
+    ],
+    "基金资助": [
+        "国家自然科学基金项目(21501102,21661026)",
+        "内蒙古自治区自然科学基金项目(2019MS02002)",
+        "内蒙古自治区高等学校“青年科技英才支持计划”(NJYT-18-B22)",
+        "内蒙古民族大学科学研究基金资助项目(NMDYB19051)资助"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "有机化工",
+    "分类号": "TQ414;TQ426",
+    "页码": "417-423",
+    "页数": "7",
+    "爬取时间": "2025-03-28 08:50:50",
+    "论文唯一代码": "HXYJ202202027"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "数字时代地方古籍出版探究",
+    "状态": "正常",
+    "发表期刊": "出版广角",
+    "刊发时间": "2022-02-15",
+    "引用量": "3",
+    "下载量": "535",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王双梅",
+            "author_code": "000038542202",
+            "author_addresses": [
+                "内蒙古民族大学文学与新闻传播学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "陈为兵",
+            "author_code": "000043006961",
+            "author_addresses": [
+                "贵州财经大学文学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "03",
+    "摘要": " 地方古籍出版在文化地域传承与保护、增进地方特色文化研究等方面发挥着重要作用，但仍存在专业性有待提升、受众面狭窄、重复出版等问题。文章从我国地方古籍出版的意义、现状和问题出发，提出我国古籍出版须强化内容建设，在政府部门、教育机构与媒体技术的支持下获得相应的内容保障，促进古籍出版向立体化、多元化发展；打造地方古籍出版特色，以好题材好故事在内容上取胜，配合多样化产品路径开发大众市场。",
+    "关键词": [
+        "地方古籍",
+        "现状",
+        "困境",
+        "市场",
+        "技术赋能"
+    ],
+    "基金资助": [
+        "国家社科课题“元两都文学活动研究”(18BZW055)",
+        "国家社科重大课题“历代北疆纪行文学文献的整理与研究”(19ZDA281)"
+    ],
+    "专辑": "信息科技",
+    "专题": "图书情报与数字图书馆",
+    "分类号": "G255.1",
+    "页码": "65-68",
+    "页数": "4",
+    "爬取时间": "2025-03-28 08:51:02",
+    "论文唯一代码": "CBGJ202203012"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "AICD控水工具性能实验分析及应用",
+    "状态": "正常",
+    "发表期刊": "科学技术创新",
+    "刊发时间": "2022-02-15",
+    "引用量": "0",
+    "下载量": "237",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "曾金辉",
+            "author_code": "000007193069",
+            "author_addresses": [
+                "中海油能源发展股份有限公司工程技术湛江分公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王岳能",
+            "author_code": "000047349840",
+            "author_addresses": [
+                "中海油能源发展股份有限公司工程技术湛江分公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李志达",
+            "author_code": "000039618531",
+            "author_addresses": [
+                "中海油能源发展股份有限公司工程技术湛江分公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "赵新宇",
+            "author_code": "000026654272",
+            "author_addresses": [
+                "内蒙古民族大学国家级实验教学示范中心化学化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "05",
+    "摘要": " 通过室内模拟实验验证及分析针对海上W油田设计的AICD控水工具稳油控水性能和特征。试验结果表明：该工具在一定粘度范围内具有稳油控水的效果，粘度范围为0.77～15.2mPa·s，适用于海上W油田；并分析了该工具稳油控水的特性。",
+    "关键词": [
+        "稳油控水",
+        "AICD控水工具",
+        "特性分析"
+    ],
+    "基金资助": [],
+    "专辑": "基础科学;工程科技Ⅱ辑;工程科技Ⅰ辑",
+    "专题": "石油天然气工业",
+    "分类号": "TE53",
+    "页码": "58-61",
+    "页数": "4",
+    "爬取时间": "2025-03-28 08:51:14",
+    "论文唯一代码": "HLKX202205015"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "基于三次样条插值的自动入库泊车免疫粒子群改进算法",
+    "状态": "正常",
+    "发表期刊": "计算机与现代化",
+    "刊发时间": "2022-02-15",
+    "引用量": "12",
+    "下载量": "603",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王哲",
+            "author_code": "000046463381",
+            "author_addresses": [
+                "中车大连电力牵引研发中心有限公司实验事业部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王龙达",
+            "author_code": "000024923828",
+            "author_addresses": [
+                "大连交通大学自动化与电气工程学院",
+                "大连海事大学船舶电气工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "刘罡",
+            "author_code": "000037441428",
+            "author_addresses": [
+                "上海交通大学自动化系",
+                "内蒙古民族大学工学院",
+                "江西新能源科技职业学院机电工程学院",
+                "内蒙古民族大学智能制造技术重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王兴成",
+            "author_code": "000039748073",
+            "author_addresses": [
+                "大连海事大学船舶电气工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "王忠君",
+            "author_code": "000047702523",
+            "author_addresses": [
+                "中车大连电力牵引研发中心有限公司实验事业部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "鲍鲁杰",
+            "author_code": "000047702521",
+            "author_addresses": [
+                "中车大连电力牵引研发中心有限公司实验事业部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "02",
+    "摘要": " 传统自动入库泊车轨迹优化算法不易寻到光滑、精确且优化的泊车轨迹。结合智能自动入库泊车原理，本文提出一种基于三次样条插值的自动入库泊车方法，从而获得理想优化的泊车参考轨迹。为了有效地提升自动入库泊车轨迹寻优算法的性能，以泊车轨迹最短作为优化目标来选定一组合适的泊车位置参考点，在三次样条插值的基础上，又提出一种免疫粒子群改进算法。首先，为提升算法全局搜索性能和收敛速度，引入自适应变异策略;然后，引入免疫机制来有效提升其全局优化能力。测试函数及自动入库泊车实际算例的仿真结果表明，所提出的自动入库泊车免疫粒子群改进算法具有更高的寻优精度和较快的收敛速度。",
+    "关键词": [
+        "三次样条插值",
+        "自动入库泊车",
+        "粒子群算法",
+        "自适应变异",
+        "免疫"
+    ],
+    "基金资助": [
+        "内蒙古自治区自然科学基金资助项目(2017BS0605)",
+        "内蒙古民族大学博士科研启动基金资助项目(BS416)",
+        "内蒙古自治区高等学校青年科技英才支持计划基金资助项目(NJYT-17-B34)"
+    ],
+    "专辑": "信息科技",
+    "专题": "自动化技术",
+    "分类号": "TP18",
+    "页码": "7-12+18",
+    "页数": "7",
+    "爬取时间": "2025-03-28 08:51:25",
+    "论文唯一代码": "JYXH202202002"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "从殖民主义到民族主义：殖民统治时期关于阿卜杜·卡德尔的历史记忆建构",
+    "状态": "正常",
+    "发表期刊": "世界历史",
+    "刊发时间": "2022-02-15",
+    "引用量": "4",
+    "下载量": "996",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "慈志刚",
+            "author_code": "000020296201",
+            "author_addresses": [
+                "内蒙古民族大学世界史研究所"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "01",
+    "摘要": " 阿卜杜·卡德尔是19世纪中东地区苏菲主义教团反殖民主义的代表人物，他领导了阿尔及利亚早期的抗法斗争，并进行了创建现代国家的努力。殖民主义和民族主义从不同的政治立场建构关于阿卜杜·卡德尔的历史记忆。在殖民主义历史叙事中，阿卜杜·卡德尔的形象经历了从传统的东方学叙事向服务于殖民统治的知识重建的转变，其本质是殖民霸权对殖民地社会历史文化的重塑与改造。在民族主义历史叙事中，关于阿卜杜·卡德尔的历史记忆经历了从民间传说到政治化的过程，并且在与殖民主义的政治互动中，成为民族主义话语的核心。殖民主义和民族主义在建构关于阿卜杜·卡德尔的历史记忆上，都经历了从个体回忆到集体回忆的演进，但二者在政治内涵上存在本质差异。殖民主义与民族主义对阿卜杜·卡德尔历史记忆建构的不同轨迹，恰好诠释了殖民地社会发生的最深层次变革，即西方殖民主义的衰落与本土民族意识的觉醒相伴发生的历史进程。",
+    "关键词": [
+        "阿尔及利亚",
+        "阿卜杜·卡德尔",
+        "殖民主义",
+        "民族主义",
+        "历史记忆"
+    ],
+    "基金资助": [],
+    "专辑": "哲学与人文科学",
+    "专题": "世界历史",
+    "分类号": "K415.4",
+    "页码": "28-41+153",
+    "页数": "15",
+    "爬取时间": "2025-03-28 08:51:33",
+    "论文唯一代码": "HIST202201003"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "手掌参延缓衰老及临床应用研究进展",
+    "状态": "正常",
+    "发表期刊": "中国美容医学",
+    "刊发时间": "2022-02-10",
+    "引用量": "6",
+    "下载量": "628",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘散丹",
+            "author_code": "000013205105",
+            "author_addresses": [
+                "内蒙古民族大学蒙医药学院",
+                "内蒙古民族大学附属医院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "春香",
+            "author_code": "000001894695",
+            "author_addresses": [
+                "内蒙古民族大学蒙医药学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "马秀艳",
+            "author_code": "000047484922",
+            "author_addresses": [
+                "内蒙古民族大学附属医院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "麦拉苏",
+            "author_code": "000047484923",
+            "author_addresses": [
+                "内蒙古民族大学附属医院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "刘彩虹",
+            "author_code": "000047484921",
+            "author_addresses": [
+                "内蒙古通辽市蒙医研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "斯钦图",
+            "author_code": "000045015596",
+            "author_addresses": [
+                "内蒙古民族大学附属医院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "mdsqt@163.com"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "31 ",
+    "期(Issue)": "02",
+    "摘要": " 手掌参具有补精华、固精、滋补，生津壮阳，增力生精，强身健体，神志清爽阳力强，抗老增力，可抗疲劳，强身益髓等功效。通过研究表明，手掌参具有氨基酸类化合物、菲类化合物，芳香族类化合物，二苯乙烯(芪)类等化合物，具有抗过敏、抗氧化及抗衰老等作用。在蒙医临床上运用手掌参的滋补、壮阳、增强体力等作用，主要用于手掌参-37味丸、巴萨姆酥油丸、手掌参-6、手掌参合剂等处方中。本文对手掌参抗衰老研究及临床应用进行综述，以便为今后蒙药养生研究提供借鉴及参考价值。",
+    "关键词": [
+        "手掌参",
+        "滋补",
+        "壮阳",
+        "蒙药",
+        "养生",
+        "抗衰"
+    ],
+    "基金资助": [
+        "内蒙古自治区自然科学项目(编号：2020MS08100)"
+    ],
+    "专辑": "医药卫生科技",
+    "专题": "中药学",
+    "分类号": "R285",
+    "页码": "178-181",
+    "页数": "4",
+    "爬取时间": "2025-03-28 08:51:47",
+    "论文唯一代码": "MRYX202202042"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "结肠癌术后随访规范化管理的研究进展",
+    "状态": "正常",
+    "发表期刊": "医学食疗与健康",
+    "刊发时间": "2022-02-10",
+    "引用量": "0",
+    "下载量": "237",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "屈莹",
+            "author_code": "000003546713",
+            "author_addresses": "内蒙古民族大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "包乌仁",
+            "author_code": "000019638788",
+            "author_addresses": "内蒙古民族大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王东雨",
+            "author_code": "000005087411",
+            "author_addresses": "内蒙古民族大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "高宇飞",
+            "author_code": "000061304921",
+            "author_addresses": "内蒙古民族大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "20 ",
+    "期(Issue)": "04",
+    "摘要": " 结肠癌是一种复发率较高的恶性肿瘤，特别是在接受手术治疗后，其复发率较高，且患者致死率也较高。因此，提高患者术后的随访，可以将复发初期患者进行有效筛查，来提高患者复发后，再次接受手术治疗的有效性，对于延长患者生存质量有着较大的意义。本文对结肠癌术后随访规范化管理中的随访内涵界定、随访形式、随访工作人员资质、随访质量保障等方面进行综述，为随访管理者提供参考。并为结肠癌患者术后随访提供出更全面和有效的随访方案。",
+    "关键词": [
+        "结肠癌",
+        "随访",
+        "规范化管理"
+    ],
+    "基金资助": [],
+    "专辑": "医药卫生科技",
+    "专题": "肿瘤学",
+    "分类号": "R735.35",
+    "页码": "185-188",
+    "页数": "4",
+    "爬取时间": "2025-03-28 08:52:00",
+    "论文唯一代码": "YXSL202204054"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "关于“师承+院校”对中药人才培养影响的研究进展",
+    "状态": "正常",
+    "发表期刊": "高教学刊",
+    "刊发时间": "2022-02-08",
+    "引用量": "3",
+    "下载量": "248",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "万全",
+            "author_code": "000040361228",
+            "author_addresses": [
+                "江西中医药大学药学院",
+                "内蒙古民族大学附属医院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "邓亚羚",
+            "author_code": "000018592128",
+            "author_addresses": [
+                "江西中医药大学药学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "叶先文",
+            "author_code": "000043057572",
+            "author_addresses": [
+                "江西中医药大学药学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "刘敏敏",
+            "author_code": "000007360081",
+            "author_addresses": [
+                "江西中医药大学药学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "刘颖",
+            "author_code": "000031412342",
+            "author_addresses": [
+                "江西中医药大学药学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "黄敏",
+            "author_code": "000035606271",
+            "author_addresses": [
+                "江西中医药大学药学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "张涛",
+            "author_code": "000032089971",
+            "author_addresses": [
+                "江西中医药大学药学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "谢亚婷",
+            "author_code": "000001681870",
+            "author_addresses": [
+                "江西中医药大学药学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 9,
+            "author_name": "张金莲",
+            "author_code": "000007832277",
+            "author_addresses": [
+                "江西中医药大学药学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "8 ",
+    "期(Issue)": "04",
+    "摘要": " 我国中医药事业发展起源比较早,中医药传承至今,在医学领域占据重要地位。就中医药的传承来看,能够发展至今,重要还是通过师承的模式传承下来,这种传承模式和西医的教育模式有很大不同,但是和现代医学教育也逐渐实现融合共存。随着现代中医药的教育逐渐走向标准化和规模化发展,市场对于中医药人才的需求不断增长,要求在中医药方面培养更多的专业人才,而一味地师承模式很难实现大规模的人才培养,所以,需要探索师承模式和现代教育模式的融合,促进重要人才规模化、高效化培养。对此,文章介绍\"师承+院校\"教育模式的基本内涵,分析中药人才培养现状和问题,探究\"师承+院校\"的中药人才培养对策。",
+    "关键词": [
+        "师承+院校",
+        "中药人才",
+        "培养",
+        "影响"
+    ],
+    "基金资助": [
+        "2020年国家级大学生创新创业训练计划项目“赣黄精”（202010412007）",
+        "江西省教育厅教改重点课题“基于校企-理实-教辅六维一体的《中药学》课程教学的传承与创新研究”（JXJG-17-12-3）",
+        "江西中医药大学2019年校级教改招标专项课题“校级教改专项研究课题申报书-基于产出导向的‘师承+院校’对中药人才培养影响研究”（NO.2）"
+    ],
+    "专辑": "社会科学Ⅱ辑;医药卫生科技",
+    "专题": "医学教育与医学边缘学科;高等教育",
+    "分类号": "G642;R-4",
+    "页码": "152-155",
+    "页数": "4",
+    "爬取时间": "2025-03-28 08:52:16",
+    "论文唯一代码": "GJXK202204039"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "科尔沁沙地4种生境地土壤种子库特征及其与土壤化学因子的关系",
+    "状态": "正常",
+    "发表期刊": "安徽农业科学",
+    "刊发时间": "2022-02-08",
+    "引用量": "5",
+    "下载量": "297",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "马金宝",
+            "author_code": "000039606035",
+            "author_addresses": "内蒙古民族大学农学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "高凯",
+            "author_code": "000030334330",
+            "author_addresses": "内蒙古民族大学农学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "孙忠林",
+            "author_code": "000038540117",
+            "author_addresses": "内蒙古民族大学农学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "周立业",
+            "author_code": "000038695425",
+            "author_addresses": "内蒙古民族大学农学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "50 ",
+    "期(Issue)": "03",
+    "摘要": " [目的]探究科尔沁沙地4种生境下的土壤种子库特征及其与土壤化学因子的关系。[方法]以科尔沁沙地4种不同演替阶段下的生境(农田地区、弃耕地区、自然草地区、林间草地区)为研究对象，通过野外调查取样及室内种子萌发相结合的方法，研究不同生境下瞬时土壤种子库的组成、空间分布以及与土壤化学因子之间的关系。[结果]4种生境地土壤种子库共计出现11种植物，分为6科11属，种子库组成较为简单，多为一年生植物。不同生境地土壤种子库密度有显著差异(P&lt;0.05),表现为自然草地区&gt;林间草地区&gt;农田地区&gt;弃耕地区，且在相同生境垂直方向上密度均呈递减趋势。4种生境地土壤种子库中Simpson指数、Shannon-Wiener指数变化趋势基本一致，均表现为自然草地区最高，农田地区最低；农田地区和林间草地区的种子库相似性最高，为0.88,自然草地区和弃耕地区相似性最低，为0.46。土壤种子库多样性指数与速效钾、有效磷呈正相关，与有机质、碱解氮呈负相关。[结论]该研究结果为科尔沁沙地植被的恢复与重建提供理论依据。",
+    "关键词": [
+        "土壤种子库",
+        "土壤化学因子",
+        "异质生境",
+        "变化特征",
+        "相关关系",
+        "科尔沁沙地"
+    ],
+    "基金资助": [
+        "国家自然科学基金项目(31460634)"
+    ],
+    "专辑": "农业科技;基础科学",
+    "专题": "生物学",
+    "分类号": "Q948",
+    "页码": "65-68+73",
+    "页数": "5",
+    "爬取时间": "2025-03-28 08:52:29",
+    "论文唯一代码": "AHNY202203017"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "滑膜成纤维细胞在类风湿性关节炎中的作用及中药干预研究进展",
+    "状态": "正常",
+    "发表期刊": "中国实验方剂学杂志",
+    "刊发时间": "2022-02-07 14:33",
+    "引用量": "13",
+    "下载量": "1297",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "白永峰",
+            "author_code": "000055226931",
+            "author_addresses": [
+                "内蒙古民族大学蒙医药学院",
+                "内蒙古民族大学蒙医药研发工程教育部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "曹乌吉斯古楞",
+            "author_code": "000064180874",
+            "author_addresses": [
+                "内蒙古民族大学蒙医药学院",
+                "内蒙古民族大学蒙医药研发工程教育部重点实验室",
+                "中国人民解放军海军军医大学药学院",
+                "内蒙古医科大学蒙医药学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "wjs_inmu@163.com"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "28 ",
+    "期(Issue)": "14",
+    "摘要": " 类风湿性关节炎（RA）是一种常见的自身免疫性疾病，滑膜组织的过度增生和破骨细胞性骨吸收是引起RA发生骨、关节破坏的两大主要原因。RA滑膜成纤维细胞（RA-FLS）是RA滑膜组织中最主要的细胞之一，其生长特性的改变及凋亡抑制导致滑膜组织增生，激发炎症反应，破坏关节结构及导致关节功能障碍。因此，调控RA-FLS的异常增殖和促凋亡能够干预RA发病进程。目前有很多中药及中药单体成分对RA-FLS过度增殖及促凋亡方面的研究。鉴于此，本文通过查阅大量文献资料，对RA-FLS在RA中的作用及中药单体和复方通过调控RA-FLS来干预RA的相关研究进展进行了综述，结果表明，单体成分包括萜类、黄酮类、生物碱类、蒽醌类及其他类。虽然他们的类型不相同，但通过不同的途径最终达到能够有效地干预RA。如通过抑制炎性细胞因子的分泌，抑制软骨细胞及破骨细胞的生成从而防治骨、软骨的破坏，和上调Fas/FasL、核转录因子-κB(NF-κB)、JAK/信号传导及转录激活因子（STAT）、p38丝裂原活化蛋白激酶（p38 MAPK）等信号通路中的促凋亡基因B细胞淋巴瘤-2(Bcl-2)相关X蛋白（Bax）、胱天蛋白酶（Caspase）及下调抑制凋亡基因Bcl-XL、Bcl-2的水平而实现细胞凋亡，以及降低RA-FLS自噬蛋白微管相关蛋白1轻链3Ⅱ（LC3Ⅱ）/LC3Ⅰ、Beclin-1蛋白表达水平而实现抑制RA-FLS增殖。虽然他们的分子作用机制和靶点不相同但都起到了相应的作用，以上研究结果为阐明中医药的多成分、多靶点治疗RA提供了科学依据。",
+    "关键词": [
+        "类风湿性关节炎",
+        "滑膜成纤维细胞",
+        "中药",
+        "研究进展"
+    ],
+    "基金资助": [
+        "科技部国家重点研发计划中医药现代化研究重点专项（2019YFC1712303）",
+        "内蒙古自然科学基金项目（2020MS08025）",
+        "内蒙古高等学校科学技术研究项目（NJZZ20108）",
+        "中国博士后科学基金项目（2017M613340）",
+        "内蒙古医科大学科技百万工程项目（YKD2016KJBW015）"
+    ],
+    "专辑": "医药卫生科技",
+    "专题": "中药学",
+    "分类号": "R285",
+    "页码": "226-234",
+    "页数": "9",
+    "爬取时间": "2025-03-28 08:52:42",
+    "论文唯一代码": "ZSFX202214029"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "心肾综合征研究进展",
+    "状态": "正常",
+    "发表期刊": "中西医结合心血管病电子杂志",
+    "刊发时间": "2022-02-05",
+    "引用量": "1",
+    "下载量": "285",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王丽红",
+            "author_code": "000056444309",
+            "author_addresses": [
+                "内蒙古民族大学临床医(蒙医)学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "赵明",
+            "author_code": "000035947007",
+            "author_addresses": [
+                "内蒙古民族大学附属医院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "langzhe73@163.com"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "10 ",
+    "期(Issue)": "04",
+    "摘要": " 心肾综合征（CRS）是心脏或肾脏中任一器官急性或慢性功能障碍时，另一器官继发急性或慢性病变的临床综合征。针对CRS的治疗，临床长期坚持尽可能改善心功能、肾功能，并积极预防、处理并发症，但现阶段临床尚无非常有效的CRS治疗措施。本文主要就近年来心肾综合征的治疗研究进展做一介绍，为临床有效诊治CRS提供参考。",
+    "关键词": [
+        "心肾综合征",
+        "治疗",
+        "综述"
+    ],
+    "基金资助": [],
+    "专辑": "医药卫生科技",
+    "专题": "心血管系统疾病;泌尿科学",
+    "分类号": "R541;R692",
+    "页码": "47-49",
+    "页数": "3",
+    "爬取时间": "2025-03-28 08:52:54",
+    "论文唯一代码": "ZXJH202204014"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "民族传统体育的推广对铸牢中华民族共同体意识的深远意义研究",
+    "状态": "正常",
+    "发表期刊": "当代体育科技",
+    "刊发时间": "2022-02-05",
+    "引用量": "7",
+    "下载量": "861",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李子乔",
+            "author_code": "000021468183",
+            "author_addresses": [
+                "内蒙古民族大学"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "12 ",
+    "期(Issue)": "04",
+    "摘要": " 中华民族共同体意识包含多学科、多领域，内涵丰富、意义深远。为研究民族传统体育的推广对中华民族共同体意识的意义，该文运用文献资料法、专家访谈法以及逻辑归纳法等研究方法，分析了民族传统体育历史进程与中华民族共同体间的关联性。研究认为，民族传统体育是中华民族的瑰宝，是在历史的长河中不断演化，经历时代考验的产物，当代人需要珍惜这份精神财富，将其古为今用，促使其适应当今社会的发展。",
+    "关键词": [
+        "民族传统体育",
+        "推广",
+        "中华民族共同体意识",
+        "意义"
+    ],
+    "基金资助": [
+        "国家体育总局体育文化发展中心体育文化研究基地项目（项目名称：铸牢中华民族共同体视域下民族传统体育项目的推广性研究，项目编号：2020TYZJJDY05）",
+        "内蒙古铸牢中华民族共同体意识大中小学思政课一体化建设项目（项目名称：新时代高校民族传统体育课程思政建设路径研究，项目编号：21ZLJDY06）",
+        "内蒙古民族大学科学研究项目（项目名称：内蒙古通辽市科尔沁区羽毛球裁判员队伍建设情况研究，项目编号：NMDYB20012）内蒙古民族大学教育教学研究课题（项目名称：铸牢中华民族共同体视域下民族传统体育课程思政建设研究，项目编号：QN2021018）"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G812",
+    "页码": "154-156",
+    "页数": "3",
+    "爬取时间": "2025-03-28 08:53:07",
+    "论文唯一代码": "DYKJ202204038"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "大骨节病患者全膝关节置换术后炎性因子与疼痛程度的关系",
+    "状态": "正常",
+    "发表期刊": "中国地方病防治",
+    "刊发时间": "2022-02-05",
+    "引用量": "5",
+    "下载量": "132",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "成子飞",
+            "author_code": "000018568316",
+            "author_addresses": [
+                "苏州大学附属第二医院麻醉科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "来海霞",
+            "author_code": "000047286780",
+            "author_addresses": [
+                "呼伦贝尔市人民医院麻醉科内蒙古民族大学呼伦贝尔临床医学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "秦海鹏",
+            "author_code": "000006638118",
+            "author_addresses": [
+                "呼伦贝尔市人民医院麻醉科内蒙古民族大学呼伦贝尔临床医学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "彭丽",
+            "author_code": "000028791335",
+            "author_addresses": [
+                "呼伦贝尔市人民医院麻醉科内蒙古民族大学呼伦贝尔临床医学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "谢红",
+            "author_code": "000028725439",
+            "author_addresses": [
+                "苏州大学附属第二医院麻醉科"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "hongx93044@126.com"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "37 ",
+    "期(Issue)": "01",
+    "摘要": " 目的 观察大骨节病患者全膝关节置换术后TNF-α、IL-1β、IL-6表达情况，研究其与疼痛程度的关系。方法 选择2020年1月—2021年5月呼伦贝尔市人民医院大骨节病单侧全膝关节置换术患者84例，采集患者术前、术后6 h、24 h、48 h静脉血5 ml,利用酶联免疫法(ELISA)检测血清中炎性细胞因子TNF-α、IL-1β、IL-6表达；记录患者术后30 min、6 h、24 h、48 h视觉模拟疼痛(VAS)评分。分析术后炎性因子与VAS的相关性。结果 术后患者TNF-α、IL-1β、IL-6浓度水平升高，术后6 h、24 h VAS评分较高。Pearson相关性检验得出，大骨节病患者TKA术后6 h的TNF-α浓度水平与VAS评分呈显著正相关(r=0.609,P&lt;0.05),术后6 h的IL-1β浓度水平与VAS评分呈显著正相关(r=0.667,P&lt;0.05),术后6 h的IL-6浓度水平与VAS评分呈显著正相关(r=0.706,P&lt;0.05);术后24 h的TNF-α浓度水平与VAS评分呈显著正相关(r=0.560,P&lt;0.05),术后24 h的IL-1β浓度水平与VAS评分呈显著正相关(r=0.606,P&lt;0.05),术后24 h的IL-6浓度水平与VAS评分呈显著正相关(r=0.653,P&lt;0.05)。结论 疼痛与炎症反应呈正相关，疼痛越剧烈，炎症反应越强。",
+    "关键词": [
+        "大骨节病",
+        "全膝关节置换",
+        "炎性细胞因子",
+        "术后疼痛",
+        "相关性"
+    ],
+    "基金资助": [
+        "2018年内蒙古民族大学科学研究基金资助项目(NMDYB18142)",
+        "2017年呼伦贝尔市科研计划项目(2017NS016)"
+    ],
+    "专辑": "医药卫生科技",
+    "专题": "外科学",
+    "分类号": "R687.4",
+    "页码": "4-6+75",
+    "页数": "4",
+    "爬取时间": "2025-03-28 08:53:21",
+    "论文唯一代码": "DYBF202201002"
+}
+{
+    "学校id": "4115010136",
+    "学校": "内蒙古民族大学",
+    "论文类型": "期刊",
+    "论文题目": "基于抗炎活性的蒙药地梢瓜质量标准指标性成分测定",
+    "状态": "正常",
+    "发表期刊": "中华中医药杂志",
+    "刊发时间": "2022-02-01",
+    "引用量": "7",
+    "下载量": "345",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "喜杰",
+            "author_code": "000019496529",
+            "author_addresses": [
+                "内蒙古民族大学蒙医药学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "wuxijie2021@163.com"
+        },
+        {
+            "author_order": 2,
+            "author_name": "吴依静",
+            "author_code": "000021800015",
+            "author_addresses": [
+                "江西中医药大学民族传统药现代科技与产业发展协同创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "钟国跃",
+            "author_code": "000039287541",
+            "author_addresses": [
+                "江西中医药大学民族传统药现代科技与产业发展协同创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "辛颖",
+            "author_code": "000063009455",
+            "author_addresses": [
+                "内蒙古民族大学蒙医药学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "罗维早",
+            "author_code": "000005665366",
+            "author_addresses": [
+                "江西中医药大学民族传统药现代科技与产业发展协同创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "37 ",
+    "期(Issue)": "02",
+    "摘要": " 目的:以抗炎活性为基础确定地梢瓜有效部位,对指标性成分进行提取分离纯化鉴定,同时进行抗炎活性研究,为建立地梢瓜药材质量标准提供依据。方法:采用活性部位筛选,渗漉、萃取、硅胶柱层析、HPLC制备及结晶重结晶等方法提取分离纯化得到化学成分,结合紫外、氢谱、碳谱及质谱等对该化合物进行鉴定;建立脂多糖(LPS)诱导的人正常结肠上皮细胞(NCM460)炎症模型,用所得化合物(地梢瓜苷)进行干预,观察地梢瓜苷对NCM460细胞增殖的影响,以及对白细胞介素-8(IL-8)和肿瘤坏死因子-α(TNF-α)的调控作用。结果:通过对地梢瓜进行成分分析,确定地梢瓜正丁醇萃取部位中主要含有地梢瓜苷,地梢瓜苷对LPS诱导的NCM460细胞损伤有修复作用,在0.01、0.02 mg/mL浓度时明显减轻LPS对NCM460细胞的生长抑制(P&lt;0.05),同时可明显降低炎症因子IL-8和TNF-α的含量(P&lt;0.05)。结论:地梢瓜苷可能是地梢瓜具有抗炎活性成分,可作为地梢瓜质量标准建立的指标性成分。",
+    "关键词": [
+        "蒙药",
+        "地梢瓜",
+        "地梢瓜苷",
+        "抗炎活性",
+        "指标性成分",
+        "白细胞介素-8",
+        "肿瘤坏死因子-α"
+    ],
+    "基金资助": [
+        "国家重点研发计划项目(No.2019YFC1712303)",
+        "内蒙古自治区高等学校科学研究项目(No.NJZY18161)~~"
+    ],
+    "专辑": "医药卫生科技",
+    "专题": "中医学",
+    "分类号": "R29",
+    "页码": "1046-1050",
+    "页数": "5",
+    "爬取时间": "2025-03-28 08:53:35",
+    "论文唯一代码": "BXYY202202110"
+}

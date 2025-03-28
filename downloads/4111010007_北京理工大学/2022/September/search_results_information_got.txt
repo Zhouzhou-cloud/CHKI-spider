@@ -1,0 +1,2633 @@
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "Ti-Zr-Nb固溶体合金动态压缩强度的机器学习模型优化",
+    "状态": "正常",
+    "发表期刊": "北京理工大学学报",
+    "刊发时间": "2022-09-30 11:55",
+    "引用量": "1",
+    "下载量": "436",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李树奎",
+            "author_addresses": [
+                "北京理工大学材料学院",
+                "深圳北理莫斯科大学材料系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "樊博建",
+            "author_addresses": [
+                "北京理工大学材料学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "刘兴伟",
+            "author_addresses": [
+                "北京理工大学材料学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "司胜平",
+            "author_addresses": [
+                "北京理工大学材料学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "刘爽",
+            "author_addresses": [
+                "北京理工大学材料学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "谢如玥",
+            "author_addresses": [
+                "北京理工大学材料学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "刘金旭",
+            "author_addresses": [
+                "北京理工大学材料学院",
+                "北京理工大学冲击环境材料技术国家级重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "liujinxu@bit.edu.cn."
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "05",
+    "摘要": " Ti-Zr-Nb固溶体合金具有优异的强塑性匹配和撞击释能活性，在杀爆战斗部毁伤元和聚能战斗部药型罩材料领域极具应用价值.为了实现Ti-Zr-Nb合金及类似固溶体合金的动态力学性能精准预测，并支撑战斗部材料的精准设计与成分优化，采用粉末冶金法制备了56种Ti-Zr-Nb合金，并测试了材料的动态压缩强度，在此基础上开展了Ti-Zr-Nb合金动态压缩强度预测的机器学习模型优化、主控参量筛选研究，优化后的模型实现了合金动态压缩强度的预测误差&lt;8%，并揭示了影响合金动态压缩强度的3个关键主控参量及权重排序：Δχ&gt;G&gt;δ<sub>G</sub>.采用优化后的模型成功设计了具有更高动态压缩强度的合金成分，经试验验证，所设计的材料动态压缩强度达到3 100 MPa，高于同类固溶体合金.",
+    "关键词": [
+        "Ti-Zr-Nb固溶体合金",
+        "动态压缩强度",
+        "机器学习"
+    ],
+    "基金资助": [
+        "国家自然科学基金资助项目（52001026）",
+        "北京理工大学青年教师启动基金资助项目（XSQD-202210006）北京理工大学科技创新项目创新人才科技资助专项（2022CX01012）"
+    ],
+    "专辑": "工程科技Ⅱ辑;工程科技Ⅰ辑;信息科技",
+    "专题": "金属学及金属工艺;自动化技术",
+    "分类号": "TG146.23;TP181",
+    "页码": "517-525",
+    "页数": "9",
+    "爬取时间": "2025-03-25 09:50:58",
+    "论文唯一代码": "BJLG202305008"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "高空核爆炸能量在大气层中的沉积规律",
+    "状态": "正常",
+    "发表期刊": "物理学报",
+    "刊发时间": "2022-09-30 09:29",
+    "引用量": "2",
+    "下载量": "150",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "彭国良",
+            "author_addresses": [
+                "北京理工大学机电学院",
+                "西北核技术研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "pgl02@163.com"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张俊杰",
+            "author_addresses": [
+                "西北核技术研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王仲琦",
+            "author_addresses": [
+                "北京理工大学机电学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "任泽平",
+            "author_addresses": [
+                "西北核技术研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "谢海燕",
+            "author_addresses": [
+                "西北核技术研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "杜太焦",
+            "author_addresses": [
+                "西北核技术研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "71 ",
+    "期(Issue)": "20",
+    "摘要": " 建立了高空核爆炸X射线辐射能和碎片动能在大气层中沉积的计算模型,利用该模型模拟了美国和苏联的4次大威力高空核爆炸试验(Checkmate, Starfish, K3, K4)的能量沉积情况,分析了碎片动能在海拔100—200 km的沉积规律.计算结果表明,与X射线沉积区相比,碎片动能沉积区范围较小,能量密度较大;碎片动能沉积在较短时间内(约0.5 s)完成,在爆心附近和海拔115 km附近存在两个吸收峰;动能沉积区在水平截面大体上为椭圆形,爆炸纬度越高,椭圆偏心率越小,水平截面积随海拔高度的增加而增大,随爆高的增大而减小;距爆点较远、远离磁泡时,动能沉积峰值点在穿过爆心的地磁场磁力线附近;距爆点较近、磁泡内部的动能沉积峰值点在爆心投影点附近.",
+    "关键词": [
+        "高空核爆炸",
+        "X射线能量沉积",
+        "碎片动能沉积"
+    ],
+    "基金资助": [],
+    "专辑": "基础科学;工程科技Ⅱ辑",
+    "专题": "核科学技术",
+    "分类号": "TL91",
+    "页码": "38-44",
+    "页数": "7",
+    "爬取时间": "2025-03-25 09:51:05",
+    "论文唯一代码": "WLXB202220005"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "人工智能技术在国外舰载武器系统中的应用浅析",
+    "状态": "正常",
+    "发表期刊": "现代防御技术",
+    "刊发时间": "2022-09-30 09:27",
+    "引用量": "2",
+    "下载量": "679",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张进",
+            "author_addresses": [
+                "北京理工大学自动化学院",
+                "江苏自动化研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "徐国亮",
+            "author_addresses": [
+                "江苏自动化研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "郭浩",
+            "author_addresses": [
+                "江苏自动化研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "51 ",
+    "期(Issue)": "01",
+    "摘要": " 近年来，人工智能技术广泛应用于国防等领域，并取得了相关突破。当前人工智能技术在舰载武器系统中的综合应用情况缺乏系统的总结与分析，在充分调研国外相关文献的基础上，总结阐述了人工智能技术在舰载武器系统中探测识别、指挥控制及火力打击等功能系统中的具体应用，并针对性地提出见解。最后，对人工智能技术在舰载武器系统中的应用进行总结，并提出了今后的发展趋势，以期为国内相关技术的应用和发展提供一定的参考。",
+    "关键词": [
+        "人工智能",
+        "舰载武器系统",
+        "应用浅析",
+        "火控系统",
+        "目标识别",
+        "指挥控制"
+    ],
+    "基金资助": [
+        "国防预研课题(19-H863-04-ZD-020-017-01)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "武器工业与军事技术;船舶工业",
+    "分类号": "U674.703.5",
+    "页码": "42-49",
+    "页数": "8",
+    "爬取时间": "2025-03-25 09:51:12",
+    "论文唯一代码": "XDFJ202301006"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "基于深度卷积循环网络的双通道语音增强算法",
+    "状态": "正常",
+    "发表期刊": "内蒙古科技大学学报",
+    "刊发时间": "2022-09-30",
+    "引用量": "3",
+    "下载量": "89",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "董桂官",
+            "author_addresses": [
+                "中国电子技术标准化研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "闫昭宇",
+            "author_addresses": [
+                "北京理工大学信息与电子学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "曾江蛟",
+            "author_addresses": [
+                "内蒙古科技大学信息工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张丹丹",
+            "author_addresses": [
+                "内蒙古科技大学信息工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "41 ",
+    "期(Issue)": "03",
+    "摘要": " 为提高针对手机通话应用场景中的双通道语音增强效果，使用深度卷积循环网络实现双通道语音增强算法，结合通道间的空间信息特征对模型进行改进，最后使用相位敏感掩蔽作为训练目标来修复相位损失.实验结果表明，改进方法可以提升网络对双通道信号的处理能力，得到语音质量和可懂度更高的双通道增强语音.",
+    "关键词": [
+        "深度卷积循环网络",
+        "双通道语音增强",
+        "空间信息特征",
+        "相位敏感掩蔽"
+    ],
+    "基金资助": [
+        "国家自然科学基金资助项目(62071039)",
+        "内蒙古自治区自然科学基金资助项目(2017MS(LH)0602)"
+    ],
+    "专辑": "工程科技Ⅰ辑;信息科技",
+    "专题": "电信技术;自动化技术",
+    "分类号": "TN912.35;TP183",
+    "页码": "244-250",
+    "页数": "7",
+    "爬取时间": "2025-03-25 09:51:19",
+    "论文唯一代码": "BTGX202203008"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "移动边缘计算时延与能耗联合优化方法",
+    "状态": "正常",
+    "发表期刊": "电子科技大学学报",
+    "刊发时间": "2022-09-30",
+    "引用量": "11",
+    "下载量": "728",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张先超",
+            "author_addresses": [
+                "东南大学移动通信国家重点实验室",
+                "嘉兴学院浙江省医学电子与数字健康重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "xianchao.zhang@buaa.edu.cn"
+        },
+        {
+            "author_order": 2,
+            "author_name": "任天时",
+            "author_addresses": [
+                "北京理工大学信息与电子学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "赵耀",
+            "author_addresses": [
+                "北京理工大学信息与电子学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "樊锐",
+            "author_addresses": [
+                "中国电子科学研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "51 ",
+    "期(Issue)": "05",
+    "摘要": " 针对移动边缘计算中时延与能耗是关键性能指标，且相互制约的问题，研究了通过在边缘与终端之间进行任务分配，对时延与能耗进行联合优化。首先，建立了能耗与时延联合优化的0-1整数规划模型；其次，设计了对任务进行分配的分支定界算法。仿真结果表明，该方法能够有效降低移动边缘计算能耗与时延。",
+    "关键词": [
+        "分支定界方法",
+        "能耗",
+        "联合优化",
+        "移动边缘计算",
+        "时延"
+    ],
+    "基金资助": [
+        "国家自然科学基金重点项目(61941104,U19B2015)"
+    ],
+    "专辑": "信息科技",
+    "专题": "电信技术",
+    "分类号": "TN929.5",
+    "页码": "737-742",
+    "页数": "6",
+    "爬取时间": "2025-03-25 09:51:27",
+    "论文唯一代码": "DKDX202205014"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "居民气候适应行为研究进展综述",
+    "状态": "正常",
+    "发表期刊": "环境经济研究",
+    "刊发时间": "2022-09-30",
+    "引用量": "9",
+    "下载量": "849",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "滕美萱",
+            "author_addresses": "北京理工大学能源与环境政策研究中心",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "廖华",
+            "author_addresses": "北京理工大学能源与环境政策研究中心",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "liaohua55@163.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王方志",
+            "author_addresses": "北京理工大学能源与环境政策研究中心",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "7 ",
+    "期(Issue)": "03",
+    "摘要": " 适应气候变化是现阶段降低气候损失和脆弱性的重要途径，也是当前应对气候变化研究的相对薄弱环节。居民气候适应行为的研究关注适应技术采用、气候迁移、风险管理等。面对不同的气候因素，居民适应行为选择不尽相同。在应对缓发性气候因素时，居民既能做出短期反应，又能基于预期的气候条件做出长期性适应决策。但面对突发性气候因素，居民适应行为非常有限，往往是短期和被动的。此外，居民适应行为选择受适应能力限制，而其能力差异同时体现在个体和区域间。在实证研究中，气象数据及定量分析方法迅速发展，为居民气候适应行为的经济学分析提供了重要支撑，但在评估适应有效性、量化长期适应和探究区域异质性方面，研究工作仍面临诸多挑战。基于文献梳理，本文提出居民气候适应行为的下一步研究方向。",
+    "关键词": [
+        "气候变化",
+        "居民适应行为",
+        "技术采用",
+        "气候迁移",
+        "风险管理"
+    ],
+    "基金资助": [
+        "国家杰出青年科学基金项目“能源经济与气候政策研究”(71925008)的阶段性成果"
+    ],
+    "专辑": "经济与管理科学;基础科学",
+    "专题": "气象学",
+    "分类号": "P467",
+    "页码": "143-166",
+    "页数": "24",
+    "爬取时间": "2025-03-25 09:51:32",
+    "论文唯一代码": "HGJN202203008"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "基于Hadoop的工业物联网大数据处理及应用",
+    "状态": "正常",
+    "发表期刊": "现代工业经济和信息化",
+    "刊发时间": "2022-09-30",
+    "引用量": "3",
+    "下载量": "876",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "纪晓婷",
+            "author_addresses": "北京理工大学珠海学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "朱明超",
+            "author_addresses": "北京理工大学珠海学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "赖钰聪",
+            "author_addresses": "北京理工大学珠海学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "白广智",
+            "author_addresses": "北京理工大学珠海学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "张浩铭",
+            "author_addresses": "北京理工大学珠海学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "12 ",
+    "期(Issue)": "09",
+    "摘要": " 结合工业大数据的特点，构建基于Hadoop的工业物联网大数据平台，对数据进行预处理、存储和分析计算，并应用于智慧工厂中。结合Mind Sphere平台，利用其向上与Mind Sphere的云端进行连接，向下与工厂众多硬件连接，完成数据采集与传输，实现对大量\"低质\"工业数据的提炼。通过安全通道实时传输到云端，并在云端为企业提供大数据分析挖掘，监控预警等服务，实现工业大数据的有效处理。",
+    "关键词": [
+        "Hadoop",
+        "工业物联网",
+        "大数据处理技术"
+    ],
+    "基金资助": [
+        "广东省重点领域研发计划项目：面向未来智慧银行的智能识别关键技术研究与产业化（项目编号：2018B010109001）"
+    ],
+    "专辑": "经济与管理科学;信息科技",
+    "专题": "电信技术;计算机软件及计算机应用",
+    "分类号": "TP311.13;TN929.5;TP391.44",
+    "页码": "79-81",
+    "页数": "3",
+    "爬取时间": "2025-03-25 09:51:39",
+    "论文唯一代码": "XDGY202209032"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "基于模糊FNN-ELECTRE的政治战略决策竞争力评价",
+    "状态": "正常",
+    "发表期刊": "管理评论",
+    "刊发时间": "2022-09-30",
+    "引用量": "0",
+    "下载量": "444",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘开华",
+            "author_addresses": [
+                "北京理工大学管理与经济学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "曲国华",
+            "author_addresses": [
+                "山西财经大学管理科学与工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "刘姣",
+            "author_addresses": [
+                "山西财经大学管理科学与工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "曲卫华",
+            "author_addresses": [
+                "山西大学管理与决策研究所",
+                "山西大学经济与管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "34 ",
+    "期(Issue)": "09",
+    "摘要": " 国家政治战略决策作为综合国力的重要组成部分，在全球化时代的重要性日益凸显。国家政治战略决策主要取决于政治战略决策的竞争力，其竞争力强弱深深地影响该国国家利益的获得和维持。本文对基于模糊FNN-ELECTRE的政治战略决策竞争力评价模型进行了研究。首先，借鉴因素神经网络理论（FNN）与ELECTRE评价原理，将因素空间中可识别的因素映射到构建的政治战略决策竞争力指标模型中，丰富了因素空间知识应用的广度和深度。其次，在文献分析的基础上，确定政治战略决策竞争力与经济、文化、社会、科技、国际环境五个因素为评价指标，并在专家打分的基础上，通过三角模糊理论和模糊语义定量化各影响因素，揭示了各影响因素之间的重要程度，从去模糊化的角度对五个国家政治战略决策竞争力进行分析验证，分别对其属性值进行一致性与非一致性检验，并进行优劣排序。最后，以群决策加权样本中指标的成对差异化程度为基础，确定ELECTRE-I的偏好阈值、无差异阈值和风险阈值，分析得出，国家a3竞争能力最强，国家a2竞争能力最弱，提出了国家政治战略决策竞争力的评价体系及提升对策，为国家提升其综合实力和政治战略决策竞争力提供理论依据。",
+    "关键词": [
+        "因素神经网络FNN",
+        "模糊ELECTRE-I",
+        "Hamming距离",
+        "政治战略决策竞争力"
+    ],
+    "基金资助": [
+        "教育部哲学社会科学研究后期资助项目(18JHQ086)",
+        "山西省教育改革创新课题(J20213042019JG1312018217)"
+    ],
+    "专辑": "经济与管理科学;社会科学Ⅰ辑;信息科技",
+    "专题": "行政学及国家行政管理;自动化技术",
+    "分类号": "TP183;D035",
+    "页码": "271-284",
+    "页数": "14",
+    "爬取时间": "2025-03-25 09:51:46",
+    "论文唯一代码": "ZWGD202209023"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "神经网络修正的速度约束辅助车载SINS定位算法",
+    "状态": "正常",
+    "发表期刊": "宇航学报",
+    "刊发时间": "2022-09-30",
+    "引用量": "2",
+    "下载量": "203",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李正帅",
+            "author_addresses": "北京理工大学自动化学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "缪玲娟",
+            "author_addresses": "北京理工大学自动化学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "周志强",
+            "author_addresses": "北京理工大学自动化学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "zhzhzhou@bit.edu.cn"
+        },
+        {
+            "author_order": 4,
+            "author_name": "吴子昊",
+            "author_addresses": "北京理工大学自动化学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "09",
+    "摘要": " 对于车载全球导航卫星系统(GNSS)/捷联惯性导航系统(SINS)组合导航系统，针对GNSS失效而SINS单独工作时仅使用速度约束辅助SINS其纵向位置误差逐渐发散的问题，提出一种神经网络修正的速度约束辅助车载SINS定位算法。通过径向基函数(RBF)神经网络预测SINS纵向位置误差修正系数，以提高SINS单独工作时的定位精度；此外，提出一种限定记忆指数加权实时估计量测噪声的自适应滤波算法。在人为设置GNSS失效以及真实隧道场景下进行车载试验，结果表明本文算法能够在不停车情况下在线修正SINS纵向位置误差，相比于速度约束与卡尔曼滤波相结合的常规算法，有效地提高了GNSS失效时的车载SINS定位精度。",
+    "关键词": [
+        "捷联惯性导航系统(SINS)",
+        "速度约束",
+        "神经网络",
+        "自适应滤波"
+    ],
+    "基金资助": [
+        "国家自然科学基金(62173040)"
+    ],
+    "专辑": "工程科技Ⅱ辑;信息科技",
+    "专题": "汽车工业;电信技术;自动化技术",
+    "分类号": "U463.67;TN967.2;TP183",
+    "页码": "1236-1245",
+    "页数": "10",
+    "爬取时间": "2025-03-25 09:51:52",
+    "论文唯一代码": "YHXB202209011"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "地外天体着陆巡视探测自主智能技术进展",
+    "状态": "正常",
+    "发表期刊": "宇航学报",
+    "刊发时间": "2022-09-30",
+    "引用量": "9",
+    "下载量": "695",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "吴克",
+            "author_addresses": [
+                "北京空间飞行器总体设计部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李文博",
+            "author_addresses": [
+                "北京控制工程研究所",
+                "空间智能控制技术国家级重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "liwenbo_bice@163.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张哲",
+            "author_addresses": [
+                "北京理工大学宇航学院",
+                "探月与航天工程中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "黄晓峰",
+            "author_addresses": [
+                "北京空间飞行器总体设计部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "张天柱",
+            "author_addresses": [
+                "中国科学技术大学信息科学技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "王彤",
+            "author_addresses": [
+                "北京空间飞行器总体设计部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "09",
+    "摘要": " 以月球、火星和小行星等地外天体着陆巡视探测任务为背景，对自主智能技术的发展现状、应用情况与未来趋势进行了分析研究。回顾了目前国内外地外天体着陆巡视探测任务的实施情况；从导航定位与环境感知、轨迹优化与制导控制、自主探测与路径规划、故障诊断与自主处理等四个方面，阐述了该领域自主智能技术的研究现状，并对未来发展态势进行了展望。",
+    "关键词": [
+        "地外天体",
+        "月球着陆巡视",
+        "火星着陆巡视",
+        "自主智能技术"
+    ],
+    "基金资助": [
+        "国家自然科学基金(62022013,12150007,62103450)",
+        "广东省基础与应用基础研究基金联合基金-青年基金项目(2020A1515110311)",
+        "上海航天科技创新基金项目(SAST2020-066)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "航空航天科学与工程",
+    "分类号": "V476",
+    "页码": "1129-1142",
+    "页数": "14",
+    "爬取时间": "2025-03-25 09:52:00",
+    "论文唯一代码": "YHXB202209001"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "索式火箭回收着陆系统缓冲装置设计与分析",
+    "状态": "正常",
+    "发表期刊": "宇航学报",
+    "刊发时间": "2022-09-30",
+    "引用量": "2",
+    "下载量": "438",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张欢",
+            "author_addresses": [
+                "北京理工大学宇航学院",
+                "北京理工大学飞行器动力学与控制教育部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张成",
+            "author_addresses": [
+                "北京理工大学宇航学院",
+                "北京理工大学飞行器动力学与控制教育部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "宋晓东",
+            "author_addresses": [
+                "北京理工大学宇航学院",
+                "北京理工大学飞行器动力学与控制教育部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "xd_song@bit.edu.cn"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "09",
+    "摘要": " 针对索式火箭回收着陆系统中摩擦缓冲装置的缓冲能力和调节能力有限的问题，提出了一种基于最小二乘法和系统动力学特性的液压缓冲装置反问题设计方法。该方法通过对液压缓冲装置中控制阀凸轮外形和储能器初始压强的设计来调节着陆火箭运动学特性，使火箭按照特定的运动学特性在有限的缓冲位移内减速至静止稳定且缓冲加速度最小。对索式火箭回收着陆系统建立精准高效的多体动力学模型，并针对不同的工况进行仿真校验。仿真结果表明根据所提反问题设计方法设计的索式火箭回收着陆系统能够按照特定的运动学特性减速缓冲着陆火箭，具有较强的减速缓冲能力；针对不同质量和着陆位置偏差的着陆火箭，具有自动调整液压阻力保持火箭相同的运动学特性的能力。",
+    "关键词": [
+        "可重复使用火箭",
+        "着陆系统",
+        "多体动力学",
+        "液压缓冲",
+        "反问题设计"
+    ],
+    "基金资助": [
+        "国家自然科学基金(11872108)",
+        "中国博士后科学基金资助项目(2021M690391)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "航空航天科学与工程",
+    "分类号": "V475.1",
+    "页码": "1152-1162",
+    "页数": "11",
+    "爬取时间": "2025-03-25 09:52:06",
+    "论文唯一代码": "YHXB202209003"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "面向在轨靠泊加注的管路力学分析与优化设计",
+    "状态": "正常",
+    "发表期刊": "宇航学报",
+    "刊发时间": "2022-09-30",
+    "引用量": "0",
+    "下载量": "172",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "孙志成",
+            "author_addresses": [
+                "北京理工大学宇航学院",
+                "飞行器动力学与控制教育部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李世鹏",
+            "author_addresses": [
+                "北京理工大学宇航学院",
+                "飞行器动力学与控制教育部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "宋晓东",
+            "author_addresses": [
+                "北京理工大学宇航学院",
+                "飞行器动力学与控制教育部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "xd_song@bit.edu.cn"
+        },
+        {
+            "author_order": 4,
+            "author_name": "黄奕勇",
+            "author_addresses": [
+                "军事科学院国防科技创新研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "张欢",
+            "author_addresses": [
+                "北京理工大学宇航学院",
+                "飞行器动力学与控制教育部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "闫明政",
+            "author_addresses": [
+                "北京理工大学宇航学院",
+                "飞行器动力学与控制教育部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "09",
+    "摘要": " 面向在轨伸出式靠泊加注任务，针对对接过程中加注管路因同步外伸而产生附加力的问题，提出了一种偏置椭圆螺旋构型的加注管路。首先，推导了管路的轴向刚度和应力数学表达式，通过有限元仿真和实验校验了上述两个表达式的准确性。之后，将偏置椭圆螺旋管路与其他三种适用管路在同一设计空间下分别进行了基于最小轴向刚度的构型优化设计，得到了上述四种管路各自的最优构型与最小附加力，形成了该类在轨加注螺旋管路的完整设计方法。与仿真和实验结果对比，所推导的管路轴向刚度与应力数学表达式的相对误差均小于5%,可用于该类管路的设计分析。与无偏圆螺旋管路相比，所提出的偏置椭圆螺旋管路将靠泊加注对接过程中的管路附加力降低了约83.5%,更适用于在轨靠泊加注任务。",
+    "关键词": [
+        "在轨加注",
+        "椭圆螺旋管路",
+        "轴向刚度",
+        "优化设计",
+        "在轨靠泊"
+    ],
+    "基金资助": [
+        "国家自然科学基金(11872108)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "航空航天科学与工程",
+    "分类号": "V554.4",
+    "页码": "1196-1207",
+    "页数": "12",
+    "爬取时间": "2025-03-25 23:25:27",
+    "论文唯一代码": "YHXB202209007"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "小天体柔性附着状态协同估计方法",
+    "状态": "正常",
+    "发表期刊": "宇航学报",
+    "刊发时间": "2022-09-30",
+    "引用量": "16",
+    "下载量": "284",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "崔平远",
+            "author_addresses": [
+                "北京理工大学深空探测技术研究所",
+                "深空自主导航与控制工信部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "陆晓萱",
+            "author_addresses": [
+                "北京理工大学深空探测技术研究所",
+                "深空自主导航与控制工信部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "朱圣英",
+            "author_addresses": [
+                "北京理工大学深空探测技术研究所",
+                "深空自主导航与控制工信部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "梁子璇",
+            "author_addresses": [
+                "北京理工大学深空探测技术研究所",
+                "深空自主导航与控制工信部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "葛丹桐",
+            "author_addresses": [
+                "北京理工大学深空探测技术研究所",
+                "深空自主导航与控制工信部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "gedt@bit.edu.cn"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "09",
+    "摘要": " 针对小天体附着过程易发生倾覆、反弹导致任务失败问题，提出“柔性附着”概念，替代传统小天体探测的刚性附着模式，为提高小天体附着任务可靠性提供新的解决思路和技术途径。在此基础上，针对柔性着陆器的状态估计问题展开研究。首先建立了柔性着陆器近似模型，提出了柔性着陆器“等效面”概念及柔性着陆器姿态的近似表征方式，进而提出了柔性附着状态协同估计方法，并通过数值仿真检验了柔性着陆器状态协同估计的可行性。",
+    "关键词": [
+        "小天体探测",
+        "柔性附着",
+        "等效面",
+        "自主导航",
+        "协同估计"
+    ],
+    "基金资助": [
+        "国家重点研发计划(2019YFA0706500)",
+        "国家自然科学基金(61873302,61973032)",
+        "基础科研(JCKY2018602B002)",
+        "空间碎片专项(KJSP2020020302)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "航空航天科学与工程",
+    "分类号": "V448",
+    "页码": "1219-1226",
+    "页数": "8",
+    "爬取时间": "2025-03-25 23:25:38",
+    "论文唯一代码": "YHXB202209009"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "高超声速机动目标天基跟踪鲁棒性滤波方法",
+    "状态": "正常",
+    "发表期刊": "宇航学报",
+    "刊发时间": "2022-09-30",
+    "引用量": "2",
+    "下载量": "466",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "魏世君",
+            "author_addresses": [
+                "北京理工大学宇航学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "翟光",
+            "author_addresses": [
+                "北京理工大学宇航学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "孙一勇",
+            "author_addresses": [
+                "北京理工大学宇航学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "毕幸子",
+            "author_addresses": [
+                "中国科学院微小卫星创新研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "汪宏昇",
+            "author_addresses": [
+                "中国运载火箭技术研究院研究发展部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "09",
+    "摘要": " 为解决高超声速滑翔飞行器(HGV)机动飞行过程中的跟踪问题，提出了一种基于机动观测器补偿的鲁棒扩展卡尔曼滤波方法。针对传统卡尔曼滤波器由于模型误差而无法稳定跟踪的问题，首先建立了HGV动力学模型和天基红外测量模型；随后，设计机动观测器对未知气动加速度进行在线估计；在此基础上，利用机动估计对扩展卡尔曼滤波中的预测步骤进行修正，克服了因模型误差而导致的滤波发散问题；最后，考虑到机动观测器的时延误差，在扩展卡尔曼滤波迭代过程中引入次优渐消因子，提高了滤波跟踪的鲁棒性。与强跟踪滤波、扩维卡尔曼滤波、交互多模型滤波等典型跟踪方法相比，所提方法可在不具备目标机动先验信息的情况下，以较低的计算耗时取得良好的稳定性和跟踪精度。",
+    "关键词": [
+        "高超声速滑翔飞行器",
+        "机动目标跟踪",
+        "状态估计",
+        "机动观测器",
+        "卡尔曼滤波"
+    ],
+    "基金资助": [
+        "国家自然科学基金(11872109)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "航空航天科学与工程",
+    "分类号": "V249;V448",
+    "页码": "1246-1256",
+    "页数": "11",
+    "爬取时间": "2025-03-25 23:25:52",
+    "论文唯一代码": "YHXB202209012"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "捕获器负泊松比蜂窝降冲击设计及其动态响应研究",
+    "状态": "正常",
+    "发表期刊": "宇航总体技术",
+    "刊发时间": "2022-09-30",
+    "引用量": "3",
+    "下载量": "267",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "康骁",
+            "author_addresses": [
+                "北京理工大学先进结构技术研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "肖阳",
+            "author_addresses": [
+                "武汉理工大学船海与能源动力工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王笑",
+            "author_addresses": [
+                "北京理工大学先进结构技术研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "李辰",
+            "author_addresses": [
+                "北京宇航系统工程研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "李营",
+            "author_addresses": [
+                "北京理工大学先进结构技术研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "bitliying@bit.edu.cn"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "6 ",
+    "期(Issue)": "05",
+    "摘要": " 捕捉器是星箭分离装置中的重要组成部分，在星箭分离过程中，起到捕获对接螺栓的作用。捕获过程中，高速运动的对接螺栓一方面有穿透捕捉器壳体的风险，另一方面会造成较大的冲击响应，从而危害所搭载设备的安全。因而针对捕获过程的降冲设计一直是捕获器设计的重点。传统捕捉器利用锥形壳体结构实现对被捕获体的降冲。然而，该装置吸能以及降冲能力有限，捕获过程仍会产生较大冲击响应。为实现进一步降冲设计，引入了三维手性结构，利用Abaqus对分离过程的冲击响应进行了计算，并将结果与基于锥形壳体的捕获装置所产生的冲击响应进行了对比。结果表明，利用三维手性结构，捕获过程所产生的冲击响应谱加速度幅值相较锥形结构降低了49.2%。因而利用三维手性结构可以有效降低捕获过程的冲击响应。该研究为星箭分离过程的降冲设计提供了理论及技术支撑。",
+    "关键词": [
+        "捕捉器",
+        "负泊松比结构",
+        "手性结构",
+        "冲击响应谱"
+    ],
+    "基金资助": [
+        "国家自然科学基金(1220021080)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "航空航天科学与工程",
+    "分类号": "V52",
+    "页码": "10-17",
+    "页数": "8",
+    "爬取时间": "2025-03-25 23:26:04",
+    "论文唯一代码": "YHZJ202205002"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "某航天器火工装置作动后壳体滞后裂纹机理研究",
+    "状态": "正常",
+    "发表期刊": "宇航总体技术",
+    "刊发时间": "2022-09-30",
+    "引用量": "4",
+    "下载量": "132",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "叶耀坤",
+            "author_addresses": [
+                "北京空间飞行器总体设计部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "丁锋",
+            "author_addresses": [
+                "北京空间飞行器总体设计部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李晓刚",
+            "author_addresses": [
+                "北京理工大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "穆慧娜",
+            "author_addresses": [
+                "北京理工大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "6 ",
+    "期(Issue)": "05",
+    "摘要": " 针对某航天器爆炸螺栓发火试验后出现壳体滞后裂纹问题，采用了LS-DYNA有限元仿真手段，建立了爆炸螺栓作用全过程仿真模型，完整地模拟了爆炸螺栓从点火到输出的全动态作用过程，得到了爆炸螺栓作用过程中各阶段作动时序以及结构应力分布，揭示了壳体薄弱段的滞后裂纹机理，并提出了优化改进建议，不仅为爆炸螺栓的工程研制提供了理论支撑，也为同类产品的优化设计提供了参考。",
+    "关键词": [
+        "爆炸仿真",
+        "爆炸螺栓",
+        "LS-DYNA",
+        "航天器"
+    ],
+    "基金资助": [
+        "十三五支助项目(1020J20210067)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "航空航天科学与工程",
+    "分类号": "V44",
+    "页码": "40-48",
+    "页数": "9",
+    "爬取时间": "2025-03-25 23:26:15",
+    "论文唯一代码": "YHZJ202205006"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "基于改进遗传算法的虚拟制造单元继承性重构调度技术",
+    "状态": "正常",
+    "发表期刊": "红外与激光工程",
+    "刊发时间": "2022-09-29 18:57",
+    "引用量": "10",
+    "下载量": "289",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "赵霖",
+            "author_addresses": [
+                "中国航天系统科学与工程研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王爱民",
+            "author_addresses": [
+                "北京理工大学机械与车辆学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王崑声",
+            "author_addresses": [
+                "中国航天系统科学与工程研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "于成龙",
+            "author_addresses": [
+                "北京计算机技术及应用研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "51 ",
+    "期(Issue)": "11",
+    "摘要": " 针对多品种变批量生产下效率与柔性兼顾的需求以及既有制造单元难以支持碎片化订单下的关键零件高质量一致性和高效率生产的问题，建立了以最小化C<sub>max</sub>和最小化重构前后的虚拟制造单元构成差异性为目标的数学模型，提出了一种基于继承性重构解码策略的改进的遗传算法，同时设计了一种已知单元构型下的订单与原制造单元之间的相似性计算方法，并通过量化对原制造单元重构的继承程度，保证了制造单元的最大化的继承原制造单元的构型而进行重构，最后结合某光电观测产品零件的实际生产数据，验证了所提模型与算法的有效性与可行性。",
+    "关键词": [
+        "虚拟制造单元重构",
+        "继承性重构",
+        "遗传算法",
+        "柔性作业车间",
+        "光电观测产品零件"
+    ],
+    "基金资助": [
+        "国防基础科研项目(JCKY2020210B006,JCKY2019204A004)"
+    ],
+    "专辑": "信息科技",
+    "专题": "自动化技术",
+    "分类号": "TP18",
+    "页码": "351-360",
+    "页数": "10",
+    "爬取时间": "2025-03-25 23:26:26",
+    "论文唯一代码": "HWYJ202211034"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "基于读图的生物学专业能力考核改革与实践",
+    "状态": "正常",
+    "发表期刊": "生物学杂志",
+    "刊发时间": "2022-09-29 17:19",
+    "引用量": "0",
+    "下载量": "163",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "马晓焉",
+            "author_addresses": "北京理工大学生命学院分子医学与生物诊疗工业和信息化部重点实验室",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "陈振娅",
+            "author_addresses": "北京理工大学生命学院分子医学与生物诊疗工业和信息化部重点实验室",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "霍毅欣",
+            "author_addresses": "北京理工大学生命学院分子医学与生物诊疗工业和信息化部重点实验室",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "huoyixin@bit.edu.cn"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "39 ",
+    "期(Issue)": "06",
+    "摘要": " 提出一种基于读图的问答题形式，通过解读理论概念、实验数据、工程策略等内容的相关图示，进行图示生物学过程的阐释、理论问题的解答或工程解决方案的设计，由此实现对信息提取、逻辑思维和理论应用3种生物学专业关键能力的全面考查。以代表性案例分析读图型问答题的特点与优势，并提出该题型的设计原则。实施效果表明该题型显著有别于传统的知识记忆型考题，可以有效淘汰掉“记忆型”考生，具备优异的成绩区分度和选拔精准度。读图型问答题为真实专业能力的评估提供了新手段，有助于推动生物学专业人才选拔方法的升级优化，为生物学高端教育质量提供保障。",
+    "关键词": [
+        "人才选拔",
+        "试题设计",
+        "读图题",
+        "逻辑思维",
+        "能力考查"
+    ],
+    "基金资助": [
+        "国家自然科学基金项目(3200059)"
+    ],
+    "专辑": "基础科学;社会科学Ⅱ辑",
+    "专题": "生物学;高等教育",
+    "分类号": "G642;Q-4",
+    "页码": "117-121+126",
+    "页数": "6",
+    "爬取时间": "2025-03-25 23:26:34",
+    "论文唯一代码": "SWXZ202206020"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "生物气溶胶激光远程侦测技术进展",
+    "状态": "正常",
+    "发表期刊": "激光杂志",
+    "刊发时间": "2022-09-29 10:25",
+    "引用量": "3",
+    "下载量": "429",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "杨荣",
+            "author_addresses": [
+                "西南技术物理研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "董吉辉",
+            "author_addresses": [
+                "西南技术物理研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "j.h.dong@163.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "杨泽后",
+            "author_addresses": [
+                "西南技术物理研究所",
+                "北京理工大学物理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "陈涌",
+            "author_addresses": [
+                "西南技术物理研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "李晓锋",
+            "author_addresses": [
+                "西南技术物理研究所",
+                "北京理工大学光电学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "周鼎富",
+            "author_addresses": [
+                "西南技术物理研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "史亚龙",
+            "author_addresses": [
+                "西南技术物理研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "44 ",
+    "期(Issue)": "01",
+    "摘要": " 气溶胶作为生物战剂的主要投放方式，容易引发大规模的毁伤，因此，各个国家越来越重视对它的检测、报警和防御。激光遥测技术能够实现生物气溶胶的防区外侦测，进行初步的目标定位和识别，为降低生物袭击造成的损伤赢得时间。针对生物气溶胶的实时远程侦测问题，首先详细阐述了生物气溶胶激光遥测技术的基本原理，其次从系统平台和识别算法两个方面介绍了研究进展，分析了目前生物气溶胶激光遥测技术存在的关键技术问题，并对未来该领域的发展进行了展望。",
+    "关键词": [
+        "激光雷达",
+        "生物气溶胶",
+        "激光诱导荧光",
+        "生物识别算法"
+    ],
+    "基金资助": [
+        "四川省科技计划资助(No.2022YFG0352)",
+        "北方激光研究院有限公司青年科技创新项目资助(No.K220042-003)"
+    ],
+    "专辑": "信息科技;工程科技Ⅰ辑",
+    "专题": "环境科学与资源利用;电信技术",
+    "分类号": "X831;TN958.98",
+    "页码": "1-7",
+    "页数": "7",
+    "爬取时间": "2025-03-25 23:26:46",
+    "论文唯一代码": "JGZZ202301001"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "大数据时代中国政府数据开放政策研究",
+    "状态": "正常",
+    "发表期刊": "重庆理工大学学报(社会科学)",
+    "刊发时间": "2022-09-29 08:39",
+    "引用量": "16",
+    "下载量": "2111",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张峰",
+            "author_addresses": [
+                "北京理工大学人文与社会科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "白帆",
+            "author_addresses": [
+                "北京理工大学人文与社会科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "陈政斌",
+            "author_addresses": [
+                "中国工商银行私人银行部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "36 ",
+    "期(Issue)": "10",
+    "摘要": " 随着大数据时代的到来，数据蕴含的内在价值和外部需要促使越来越多的国家跻身于政府数据开放行列中。通过对我国政府数据开放政策的演进研究，对88份政府数据开放政策进行文本分析，总结我国政府数据开放政策的主要内容及特点，在此基础上剖析当前我国政府数据开放政策存在的问题，并提出构建中国政府数据开放政策体系、加强中国政府数据开放政策区域协同、推进中国政府数据开放政策实施、扩大中国政府数据开放政策实施中的公众参与、完善政府数据开放的隐私保护与安全保障等解决策略。",
+    "关键词": [
+        "大数据时代",
+        "政府数据开放",
+        "公共政策",
+        "数据安全",
+        "数据开放平台"
+    ],
+    "基金资助": [
+        "北京市教育科学“十四五”规划2021年度优先关注课题“北京市双一流高校教师队伍建设研究”(BFEA21012)"
+    ],
+    "专辑": "社会科学Ⅱ辑;社会科学Ⅰ辑",
+    "专题": "行政学及国家行政管理",
+    "分类号": "D63",
+    "页码": "122-132",
+    "页数": "11",
+    "爬取时间": "2025-03-25 23:26:57",
+    "论文唯一代码": "CQGS202210013"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "一个B型丛代数的几何实现",
+    "状态": "正常",
+    "发表期刊": "北京理工大学学报",
+    "刊发时间": "2022-09-28 18:26",
+    "引用量": "1",
+    "下载量": "56",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张杰",
+            "author_addresses": "北京理工大学数学与统计学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "戚茜",
+            "author_addresses": "北京理工大学数学与统计学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "2386854341@qq.com."
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "05",
+    "摘要": " 通过考虑一个(2n+2)-多边形P，给出B型丛代数B的几何实现.作为应用，给出B的丛变量的一个丛扩展公式，并阐明了B的丛与P的三角剖分之间的关系.同时，通过给出一个交换图，构建σ-不变三角剖分Γ的轨道翻转与B的丛的突变之间的对应关系.",
+    "关键词": [
+        "丛代数",
+        "σ-不变三角剖分",
+        "完美匹配",
+        "丛扩展公式"
+    ],
+    "基金资助": [
+        "国家自然科学基金资助项目（12071026,12122101）"
+    ],
+    "专辑": "工程科技Ⅱ辑;基础科学",
+    "专题": "数学",
+    "分类号": "O15",
+    "页码": "534-539",
+    "页数": "6",
+    "爬取时间": "2025-03-25 23:27:11",
+    "论文唯一代码": "BJLG202305010"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "考虑告警时间的多历元解集分离RAIM算法",
+    "状态": "正常",
+    "发表期刊": "系统工程与电子技术",
+    "刊发时间": "2022-09-28 14:51",
+    "引用量": "1",
+    "下载量": "206",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "孙睿",
+            "author_addresses": "北京理工大学宇航学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "许承东",
+            "author_addresses": "北京理工大学宇航学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "黄国限",
+            "author_addresses": "北京理工大学宇航学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "兰晓伟",
+            "author_addresses": "北京理工大学宇航学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "武明",
+            "author_addresses": "北京理工大学宇航学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "45 ",
+    "期(Issue)": "05",
+    "摘要": " 针对传统快照算法故障检测效果依赖较大伪距偏差的问题，提出一种考虑告警时间的多历元解集分离接收机自主完好性监测(receiver autonomous integrity monitoring, RAIM)算法。该算法以解集分离RAIM为基础，在历元间伪距观测噪声相互独立假设下，通过累加多个历元的检验统计量，提高对微小缓变故障的检测能力。仿真试验中，以阶跃故障和缓变斜坡故障为例，将本算法与解集分离RAIM和多历元最小二乘残差RAIM算法进行对比验证。结果表明：在告警时间限值内，所提算法能够显著降低阶跃故障的最小可检测偏差和缓变斜坡故障的最小可检测斜率；超过告警时间限值时，也能够明显减小对缓变斜坡故障的检测延时。",
+    "关键词": [
+        "接收机自主完好性监测",
+        "告警时间",
+        "多历元",
+        "解集分离",
+        "微小缓变伪距偏差"
+    ],
+    "基金资助": [
+        "国家自然科学基金(61173077)资助课题"
+    ],
+    "专辑": "信息科技",
+    "专题": "电信技术",
+    "分类号": "TN967.1",
+    "页码": "1469-1475",
+    "页数": "7",
+    "爬取时间": "2025-03-25 23:27:28",
+    "论文唯一代码": "XTYD202305023"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "一种基于SPWVD-WVD的高质量时频分析方法及ISAR成像应用",
+    "状态": "正常",
+    "发表期刊": "电讯技术",
+    "刊发时间": "2022-09-28 11:19",
+    "引用量": "4",
+    "下载量": "482",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "赵婷",
+            "author_addresses": [
+                "中国人民解放军陆军工程大学通信士官学校"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张成祥",
+            "author_addresses": [
+                "北京理工大学重庆创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "63 ",
+    "期(Issue)": "10",
+    "摘要": " 交叉项干扰抑制与高时频聚集度是准确反应信号的时频分布特征的重要因素。传统的魏格纳-维尔分布(Wigner-Ville Distribution, WVD)算法虽能获得较高的时频分辨特征，但分析多成分信号时存在严重的交叉项干扰问题，限制了其实用性；而平滑伪魏格纳-维尔分布(Smoothed Pseudo Wigner-Ville Distribution, SPWVD)算法虽在一定程度上抑制交叉项干扰，但降低了时频聚集度。为了解决上述问题，提出了基于SPWVD-WVD的时频分析方法。该方法利用SPWVD与WVD之间的滤波互消效应，将SPWVD二值化结果与WVD结果进行矩阵运算，最终得到高质量的时频分析结果。实验结果表明，所提出的算法能够有效去除多分量信号的交叉项干扰，提高信号分析结果的时频聚集度，还原多分量信号的真实时频分布。最后将该算法成功应用于逆合成孔径雷达成像中。",
+    "关键词": [
+        "逆合成孔径雷达(ISAR)",
+        "时频分析",
+        "交叉项干扰抑制",
+        "魏格纳-维尔分布"
+    ],
+    "基金资助": [],
+    "专辑": "信息科技",
+    "专题": "电信技术",
+    "分类号": "TN957.52",
+    "页码": "1538-1545",
+    "页数": "8",
+    "爬取时间": "2025-03-25 23:27:39",
+    "论文唯一代码": "DATE202310012"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "组合式MEFP成型及对典型无人机的侵彻性能",
+    "状态": "正常",
+    "发表期刊": "兵器装备工程学报",
+    "刊发时间": "2022-09-28 09:40",
+    "引用量": "3",
+    "下载量": "401",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "朱斐宇",
+            "author_addresses": "北京理工大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "姜春兰",
+            "author_addresses": "北京理工大学",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "jiangchunwh@bit.edu.cn"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "10",
+    "摘要": " 为减小由多个爆轰波的相互干扰而引起子弹丸间的发散角，提高MEFP对典型无人机的侵彻能力和打击面积，选用了轴向组合式MEFP战斗部。选取了代表性的“捕食者”无人机为研究对象，应用ANSYS/LS-DYNA就不同变量形成的弹丸对无人机的侵彻性能进行了数值分析。数值模拟结果表明：相比于TNT及B炸药，拥有更高密度和更快爆速的8701炸药对轴向组合式MEFP的成型效果和对典型无人机的毁伤效果更好。并且在特定的装药条件下，轴向组合式MEFP战斗部药型罩壁厚的最佳取值为2.5～3 mm,最佳曲率半径r取72～82 mm。",
+    "关键词": [
+        "轴向组合式",
+        "MEFP",
+        "成型",
+        "无人机",
+        "侵彻性能"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "武器工业与军事技术",
+    "分类号": "TJ410",
+    "页码": "130-136",
+    "页数": "7",
+    "爬取时间": "2025-03-25 23:27:48",
+    "论文唯一代码": "CUXI202210018"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "活性/金属串联爆炸成型弹丸侵爆耦合毁伤行为",
+    "状态": "正常",
+    "发表期刊": "兵工学报",
+    "刊发时间": "2022-09-28 08:58",
+    "引用量": "10",
+    "下载量": "732",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "郑元枫",
+            "author_addresses": "北京理工大学爆炸科学与技术国家重点实验室",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王仕鹏",
+            "author_addresses": "北京理工大学爆炸科学与技术国家重点实验室",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李培亮",
+            "author_addresses": "北京理工大学爆炸科学与技术国家重点实验室",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张勇",
+            "author_addresses": "北京理工大学爆炸科学与技术国家重点实验室",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "葛超",
+            "author_addresses": "北京理工大学爆炸科学与技术国家重点实验室",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "gechao@bit.edu.cn"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "44 ",
+    "期(Issue)": "08",
+    "摘要": " 为提升爆炸成型弹丸(EFP)对目标的综合毁伤效应，提出一种活性/金属复合球缺药型罩聚能装药结构，其复合药型罩包括内层紫铜药型罩和外层活性药型罩，外层活性药型罩由质量配比73.5%/26.5%的聚四氟乙烯(PTFE)/Al含能粉体经冷压、烧结制备而成。采用静爆实验研究活性/金属串联EFP对间隔靶的侵爆耦合毁伤行为。研究结果表明：活性/金属串联EFP对间隔靶既产生了有效的侵彻作用，也能在靶间发生类爆轰反应，提高对间隔靶的毁伤效应；活性/金属串联EFP对间隔靶的侵彻层数和开孔直径显著受厚度影响，随间隔靶前两层厚度从10 mm增加至20 mm,贯穿总层数从6层降至3层，开孔直径也明显减小；采用SPH算法，仿真发现活性/金属复合药型罩在聚能作用下形成了紫铜EFP在前，活性EFP部分嵌入前驱紫铜EFP内的复合侵彻体；通过反应延迟时间引入和材料模型转换，数值模拟进一步揭示了尾随活性EFP类爆轰反应引发前驱紫铜EFP膨胀，导致开孔直径扩大而侵彻能力下降的作用机理。",
+    "关键词": [
+        "爆炸成型弹丸",
+        "活性材料",
+        "侵爆耦合",
+        "毁伤"
+    ],
+    "基金资助": [
+        "国家自然科学基金项目(12172052、12132003)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "武器工业与军事技术",
+    "分类号": "TJ410",
+    "页码": "2273-2282",
+    "页数": "10",
+    "爬取时间": "2025-03-25 23:27:55",
+    "论文唯一代码": "BIGO202308006"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "高校资助育人创新模式探究——以“思政+资助”育人体系为例",
+    "状态": "正常",
+    "发表期刊": "人才资源开发",
+    "刊发时间": "2022-09-28",
+    "引用量": "5",
+    "下载量": "777",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张舒一",
+            "author_addresses": "北京理工大学珠海学院会计与金融学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "孙蕾",
+            "author_addresses": "北京理工大学珠海学院会计与金融学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "19",
+    "摘要": " &lt;正&gt;高校作为育人的沃土，为党和国家培养各类人才，但也需要充足的“养分”。习近平总书记多次在思政会议上提出，高校要围绕“培养什么人”“如何培养人”“为谁培养人”而思考，将思政教育贯穿高校的教育教学全过程。高校的贫困生是一群需要特殊关注的群体，对他们的关怀和帮助不仅仅是精准扶贫的问题，还是资助育人问题。因此，如何将高校的资助工作由“经济资助”转型为“以育人为主、经济资助为辅”的高校资助育人体系，真正实现习近平总书记所提出的“扶困”必须“扶智”“扶志”，是高校学生工作团队一直以来所探讨的课题。",
+    "关键词": [],
+    "基金资助": [
+        "北京理工大学珠海学院2021年度资助育人专题课题立项项目“高校‘思政+资助’育人模式创新研究”，项目编号：2021Z004"
+    ],
+    "专辑": "经济与管理科学;社会科学Ⅱ辑",
+    "专题": "高等教育",
+    "分类号": "G641",
+    "页码": "21-23",
+    "页数": "3",
+    "爬取时间": "2025-03-25 23:28:02",
+    "论文唯一代码": "XZRG202219009"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "基于光学锁相环的高稳定度激光稳频方法研究",
+    "状态": "正常",
+    "发表期刊": "计量学报",
+    "刊发时间": "2022-09-28",
+    "引用量": "15",
+    "下载量": "779",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张超超",
+            "author_addresses": [
+                "中国计量大学计量测试工程学院",
+                "中国计量科学研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王建波",
+            "author_addresses": [
+                "中国计量科学研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "wangjianbo@nim.ac.cn"
+        },
+        {
+            "author_order": 3,
+            "author_name": "殷聪",
+            "author_addresses": [
+                "中国计量科学研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张宝武",
+            "author_addresses": [
+                "中国计量大学计量测试工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "刘若男",
+            "author_addresses": [
+                "中国计量大学计量测试工程学院",
+                "中国计量科学研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "席路",
+            "author_addresses": [
+                "中国计量科学研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "李孟瑶",
+            "author_addresses": [
+                "中国计量科学研究院",
+                "北京理工大学光电学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "09",
+    "摘要": " 报道了一种基于光学锁相环的高稳定度激光稳频方法，用于提高可调谐外腔半导体激光器（TECDL）的频率稳定度和准确度。自行研制的光学锁相环电路采用数字鉴相与差分运算相结合的方式获得高灵敏度的鉴频鉴相误差信号，并通过高速模拟PID实现整个系统的闭环锁定。利用该光学锁相环系统进行了TECDL偏频锁定至光学频率梳（OFC）的实验，实验结果表明环路锁定后拍频频率波动在±0.3 Hz范围内，偏置频率为50 MHz时，光学锁相环系统在1 s和1 000 s积分时间的相对阿伦方差分别为1.5×10<sup>-9</sup>和8.5×10<sup>-13</sup>。系统锁定后，拍频线宽由500 kHz压缩至2 kHz。该研究表明采用基于光学锁相环的激光稳频方法可以实现亚Hz级的激光频差控制，通过将TECDL偏频锁定至高稳定度的参考激光源可显著提高其频率稳定度，使其能够满足超精密测量、冷原子/离子干涉测量等领域对激光频率稳定度和准确度的要求。",
+    "关键词": [
+        "计量学",
+        "激光稳频",
+        "光学锁相环",
+        "偏频锁定",
+        "光频梳"
+    ],
+    "基金资助": [
+        "国家重点研发计划(2021YFF0603300)",
+        "国家自然科学基金(62075165)"
+    ],
+    "专辑": "工程科技Ⅱ辑;基础科学;信息科技",
+    "专题": "物理学;无线电电子学",
+    "分类号": "TN248.4",
+    "页码": "1154-1160",
+    "页数": "7",
+    "爬取时间": "2025-03-25 23:28:13",
+    "论文唯一代码": "JLXB202209008"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "基于侧边耦合一维光子晶体微腔的高分辨率光子温度计",
+    "状态": "正常",
+    "发表期刊": "计量学报",
+    "刊发时间": "2022-09-28",
+    "引用量": "4",
+    "下载量": "167",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "熊祎缇",
+            "author_addresses": [
+                "北京理工大学",
+                "中国计量科学研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "康果果",
+            "author_addresses": [
+                "北京理工大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张诚",
+            "author_addresses": [
+                "北京理工大学",
+                "中国计量科学研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "徐同同",
+            "author_addresses": [
+                "北京理工大学",
+                "中国计量科学研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "顾林棚",
+            "author_addresses": [
+                "西北工业大学物理科学与技术学院",
+                "西北工业大学陕西省光信息技术重点实验室",
+                "西北工业大学光场调控与信息感知工业和信息化部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "甘雪涛",
+            "author_addresses": [
+                "西北工业大学物理科学与技术学院",
+                "西北工业大学陕西省光信息技术重点实验室",
+                "西北工业大学光场调控与信息感知工业和信息化部重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "潘奕捷",
+            "author_addresses": [
+                "中国计量科学研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "panyijie@nim.ac.cn"
+        },
+        {
+            "author_order": 8,
+            "author_name": "屈继峰",
+            "author_addresses": [
+                "中国计量科学研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "09",
+    "摘要": " 针对线上耦合结构的高品质因数一维光子晶体微腔具有极低透射率的缺陷，提出研制一种具有高分辨率、高信噪比、高动态范围的侧边耦合一维光子晶体温度计。通过调制光子晶体单元结构的反射系数以及微腔和耦合波导之间的模场重叠，光子晶体器件的品质因数和透射率得到提高。制备得到的器件品质因数值、灵敏度、消光比和基模与二阶模之间的模式间隔分别为2.7×10～4、65.6 pm/℃、0.45和18.5 nm。采用扫频测量技术,该光子温度计具有mK量级分辨率和超过280℃的温度感应范围。",
+    "关键词": [
+        "计量学",
+        "光子温度计",
+        "硅基光子学",
+        "一维光子晶体微腔",
+        "侧边耦合"
+    ],
+    "基金资助": [
+        "国家重点研发计划(2017YFF0206102)",
+        "国家自然科学基金(62075206)"
+    ],
+    "专辑": "工程科技Ⅱ辑;基础科学;工程科技Ⅰ辑",
+    "专题": "物理学;化学;仪器仪表工业",
+    "分类号": "TH811;O734",
+    "页码": "1109-1114",
+    "页数": "6",
+    "爬取时间": "2025-03-25 23:28:29",
+    "论文唯一代码": "JLXB202209001"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "车用热泵空调系统制热工况车内冷凝器温度控制策略研究",
+    "状态": "正常",
+    "发表期刊": "制冷与空调",
+    "刊发时间": "2022-09-28",
+    "引用量": "2",
+    "下载量": "346",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "许伟康",
+            "author_addresses": [
+                "上汽通用五菱汽车股份有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "赵小山",
+            "author_addresses": [
+                "上海光裕汽车空调压缩机有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "季宏增",
+            "author_addresses": [
+                "北京理工大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "22 ",
+    "期(Issue)": "09",
+    "摘要": " 对热泵空调系统制热工况下的性能进行了研究，基于热泵空调系统制热工况与制冷工况的差异性，提出制热时以车内冷凝器温度作为目标温度的控制策略。基于Simcenter Amesim搭建了热泵空调系统制热循环模型，利用Simulink建立了控制策略仿真模型，并联合仿真对比研究了以车内冷凝器温度和车内传感器温度分别作为目标温度时的系统性能。与控制车内传感器温度相比，以车内冷凝器温度作为目标温度时，前600 s系统COP高出5%以上，车内温度调节时间较长，舒适性较差。",
+    "关键词": [
+        "热泵空调",
+        "制热",
+        "冷凝器温度",
+        "控制策略",
+        "仿真"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU83",
+    "页码": "98-102",
+    "页数": "5",
+    "爬取时间": "2025-03-25 23:28:38",
+    "论文唯一代码": "ZLDT202209015"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "锂离子动力电池传感器多故障诊断策略综述",
+    "状态": "正常",
+    "发表期刊": "科学技术与工程",
+    "刊发时间": "2022-09-28",
+    "引用量": "10",
+    "下载量": "948",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王志福",
+            "author_addresses": [
+                "广西科技大学自动化学院",
+                "北京理工大学机械与车辆学院",
+                "北京理工大学电动车辆国家工程研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "罗崴",
+            "author_addresses": [
+                "广西科技大学自动化学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "barry218@163.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "闫愿",
+            "author_addresses": [
+                "北京理工大学机械与车辆学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "魏中宝",
+            "author_addresses": [
+                "北京理工大学机械与车辆学院",
+                "北京理工大学电动车辆国家工程研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "杨忠义",
+            "author_addresses": [
+                "广西科技大学自动化学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "22 ",
+    "期(Issue)": "27",
+    "摘要": " 锂离子电池作为新一代可充电电源，具有能量密度大、安全性能高等优点，显示出了广阔的市场前景。但锂离子电池在运行过程中会发生各种内、外部故障，所以锂离子电池安全问题一直备受关注。锂离子电池的传感器正常运行是保证对电池系统实时监测的关键，但是传感器故障微小且不易察觉，并且故障具有关联性、并发性的特征，可能引起多故障的发生，进而触发热失控的风险。所以如何保证传感器精确、快速地进行锂离子电池故障检测与诊断是确保安全稳定运行的关键。首先从锂离子电池结构出发总结了锂离子故障的类型及成因，并详细分析了传感器故障和多故障产生的机理。然后，对锂离子电池从单体电池到电池包所涉及的传感器故障和多故障诊断策略进行全面的阐述，并且分析了可能成为未来发展趋势的传感器多故障协同诊断策略和电池新模式下的故障诊断方式(如气体检测等)。最后，以全文锂离子电池的传感器多故障研究的重难点，提出了传感器多故障诊断未来可能的研究方向。",
+    "关键词": [
+        "锂离子电池",
+        "传感器故障",
+        "多故障诊断",
+        "策略",
+        "安全平稳"
+    ],
+    "基金资助": [
+        "国家自然科学基金面上项目(51775042)",
+        "广西科技大学研究生教育创新计划(GKYC202103)"
+    ],
+    "专辑": "工程科技Ⅱ辑;信息科技",
+    "专题": "电力工业;自动化技术",
+    "分类号": "TM912;TP212",
+    "页码": "11761-11773",
+    "页数": "13",
+    "爬取时间": "2025-03-25 23:28:49",
+    "论文唯一代码": "KXJS202227002"
+}
+{
+    "学校id": "4111010007",
+    "学校": "北京理工大学",
+    "论文类型": "期刊",
+    "论文题目": "学习索引研究综述",
+    "状态": "正常",
+    "发表期刊": "计算机科学",
+    "刊发时间": "2022-09-27 20:43",
+    "引用量": "1",
+    "下载量": "433",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王艺潭",
+            "author_addresses": [
+                "东北大学计算机科学与工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王一舒",
+            "author_addresses": [
+                "东北大学计算机科学与工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "袁野",
+            "author_addresses": [
+                "北京理工大学计算机学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "yuan-ye@bit.edu.cn"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "50 ",
+    "期(Issue)": "01",
+    "摘要": " 大数据时代数据呈爆发式增长，传统索引结构难以处理庞大复杂的数据，为解决这一问题，学习索引应运而生，并成为当前数据库领域的研究热点之一。学习索引利用机器学习模型进行索引构建，通过对数据和物理位置之间的关系进行训练和学习得到学习模型，掌握二者之间的分布特点和规律，从而实现对传统索引的改进和优化。大量实验表明，与传统索引相比，学习索引可以适应大规模数据集，提供更好的搜索性能，具有更低的空间要求。文中详细介绍了学习索引的应用背景，梳理了现有的学习索引模型；根据数据类型的不同，将学习索引分为一维和多维两种类别，并对每种类别中学习索引模型的优缺点和可以支持的查询进行了详细的介绍和分析；最后对学习索引的未来研究方向进行了展望，以期为相关研究提供参考。",
+    "关键词": [
+        "学习索引",
+        "机器学习",
+        "索引构建",
+        "数据结构",
+        "数据库"
+    ],
+    "基金资助": [
+        "国家重点研发计划(2022YFB2702100)",
+        "国家自然科学基金(61932004,62225203,U21A20516)~~"
+    ],
+    "专辑": "信息科技",
+    "专题": "计算机软件及计算机应用",
+    "分类号": "TP311.13",
+    "页码": "1-8",
+    "页数": "8",
+    "爬取时间": "2025-03-25 23:29:06",
+    "论文唯一代码": "JSJA202301001"
+}

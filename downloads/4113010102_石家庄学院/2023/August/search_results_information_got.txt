@@ -1,0 +1,1007 @@
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "基于轴控阀的阀控非对称缸位置控制系统研究",
+    "状态": "正常",
+    "发表期刊": "机床与液压",
+    "刊发时间": "2023-08-28",
+    "引用量": "4",
+    "下载量": "199",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "陈立娟",
+            "author_addresses": [
+                "南京工程学院机械工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张苏南",
+            "author_addresses": [
+                "南京工程学院机械工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "高伟",
+            "author_addresses": [
+                "南京工程学院机械工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "葛杰",
+            "author_addresses": [
+                "南京工程学院机械工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "赵朋程",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "艾超",
+            "author_addresses": [
+                "燕山大学机械工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "51 ",
+    "期(Issue)": "16",
+    "摘要": " 针对阀控非对称缸位置控制系统，通过理论公式搭建非对称液压缸的数学模型，采用前馈PID控制方法实现其位置控制并进行仿真和实验验证。利用传递函数推导出基于轴控阀的阀控非对称缸位置控制系统数学模型；根据所推导的数学模型采用前馈PID控制算法，利用AMESim搭建了非对称液压缸位置控制系统仿真模型；通过对阀控非对称液压缸位置控制系统进行实验，验证了搭建的轴控阀阀芯位置控制系统与非对称液压缸位置控制系统的正确性和有效性，实现了轴控阀阀芯精确位置控制与对外负载的控制。",
+    "关键词": [
+        "轴控阀",
+        "阀控非对称缸系统",
+        "外负载控制",
+        "前馈PID"
+    ],
+    "基金资助": [],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "工业通用技术及设备;机械工业",
+    "分类号": "TH137.51",
+    "页码": "150-159",
+    "页数": "10",
+    "爬取时间": "2025-03-26 06:28:15",
+    "论文唯一代码": "JCYY202316023"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "防己结构中红外光谱研究",
+    "状态": "正常",
+    "发表期刊": "煤炭与化工",
+    "刊发时间": "2023-08-26",
+    "引用量": "0",
+    "下载量": "52",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "贾冉",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "钟舸宁",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "陈楷元",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "尹子璇",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "吴雨靓",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "周子轩",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "刘荣",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "郭瑞霞",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "46 ",
+    "期(Issue)": "08",
+    "摘要": " 采用MIR光谱（包括一维MIR光谱、二阶导数MIR光谱、四阶导数MIR光谱及去卷积MIR光谱）开展了防己结构的研究。试验发现，防己结构的红外吸收模式主要包括ν_(asCH<sub>3-防己</sub>)、ν_(asCH<sub>2-防己</sub>)、ν_(sCH<sub>3-防己</sub>)、ν_(sCH<sub>2-防己</sub>)、ν_(C=O<sub>-防己</sub>)、ν_(C=C<sub>-防己</sub>)、δ_(CH<sub>2-防己</sub>)、δ_(asCH<sub>3-防己</sub>)、δ_(sCH<sub>3-防己</sub>_和ν_(C-O<sub>-防己</sub>)。研究发现，防己结构的去卷积MIR光谱的谱图分辨能力要优于相应的一维MIR光谱、二阶导数MIR光谱和四阶导数MIR光谱。本项研究拓展了MIR光谱技术在重要的传统中药（防己）结构的研究范围。",
+    "关键词": [
+        "防己",
+        "一维MIR光谱",
+        "二阶导数MIR光谱",
+        "四阶导数MIR光谱",
+        "去卷积MIR光谱",
+        "结构"
+    ],
+    "基金资助": [
+        "石家庄学院大学生创新创业项目（SCXM067）"
+    ],
+    "专辑": "工程科技Ⅰ辑;医药卫生科技",
+    "专题": "化学;中药学",
+    "分类号": "O657.33;R284.1",
+    "页码": "150-155",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:28:26",
+    "论文唯一代码": "HHGZ202308036"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "陶瓷助剂聚乙二醇分子结构及热变性研究",
+    "状态": "正常",
+    "发表期刊": "煤炭与化工",
+    "刊发时间": "2023-08-26",
+    "引用量": "1",
+    "下载量": "111",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "牟微",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "河北省建陶工程技术研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "次立杰",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "河北省建陶工程技术研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张绍岩",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "河北省建陶工程技术研究中心",
+                "石家庄市低碳能源材料重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "李中秋",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "河北省建陶工程技术研究中心",
+                "石家庄市低碳能源材料重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "陈秋义",
+            "author_addresses": [
+                "高邑县力马建陶有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "吴军召",
+            "author_addresses": [
+                "高邑县力马建陶有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "常美玲",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "吴雨靓",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 9,
+            "author_name": "于宏伟",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "46 ",
+    "期(Issue)": "08",
+    "摘要": " 基于中红外（MIR）光谱原理开展了聚乙二醇的分子结构研究。试验发现，聚乙二醇分子的红外吸收模式主要包括ν<sub>sCH2-聚乙二醇</sub>、ν<sub>OH-聚乙二醇</sub>、δ<sub>CH2-聚乙二醇</sub>、ω<sub>CH2-聚乙二醇</sub>、ρ<sub>CH2-聚乙二醇</sub>和ν<sub>C-O-聚乙二醇</sub>。采用变温中红外（TD-MIR）光谱进一步开展了聚乙二醇分子热变性研究。结果表明，在303K～473K的温度范围内，随着测定温度的升高，聚乙二醇分子主要官能团对应的吸收频率及强度都有一定的改变，进一步进行了热变性机理研究。本项研究拓展了MIR及TD-MIR光谱在重要的陶瓷工业助剂（聚乙二醇）分子结构及热变性的研究范围。",
+    "关键词": [
+        "聚乙二醇",
+        "结构",
+        "热变性",
+        "MIR光谱",
+        "TD-MIR光谱",
+        "吸收频率"
+    ],
+    "基金资助": [
+        "石家庄市科学技术研究与发展计划项目（211160313A）"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学;无机化工;有机化工",
+    "分类号": "O657.33;TQ174.4;TQ317",
+    "页码": "130-135",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:28:38",
+    "论文唯一代码": "HHGZ202308032"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "电子材料聚四氟乙烯无定型相结构及热变性研究",
+    "状态": "正常",
+    "发表期刊": "煤炭与化工",
+    "刊发时间": "2023-08-26",
+    "引用量": "1",
+    "下载量": "164",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李勃萱",
+            "author_addresses": [
+                "大连理工大学电子信息与电气工程学部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "常美玲",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "周子轩",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "吴雨靓",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "于宏伟",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "徐元媛",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "46 ",
+    "期(Issue)": "08",
+    "摘要": " 为了研究不同温度下聚四氟乙烯无定型相结构的改变，分别采用了中红外（MIR）光谱和变温MIR光谱技术。实验结果表明，303 K的温度下聚四氟乙烯无定型相结构的红外吸收模式主要包括ν<sub>-A-无定型相</sub>(854.33 cm<sup>-1</sup>)、ν<sub>-B-1-无定型相</sub>、(781.57 cm<sup>-1</sup>)、ν<sub>-B-2-无定型相</sub>(773.03 cm<sup>-1</sup>)和ν<sub>-C-无定型相</sub>(740.67 cm<sup>-1</sup>)。在303～523 K温度范围内，随着测定温度的升高，聚四氟乙烯无定型相结构主要官能团对应的红外吸收频率及强度都有一定的改变，其热稳定性进一步降低。研究表明，上述方法可以开展聚四氟乙烯无定型相结构及热变性研究，为其它电子材料无定型相结构研究提供了参考依据。",
+    "关键词": [
+        "中红外光谱",
+        "变温中红外光谱",
+        "聚四氟乙烯",
+        "无定型相",
+        "结构",
+        "热稳定性"
+    ],
+    "基金资助": [
+        "河北省高等学校科学技术研究项目（Z2020113）",
+        "石家庄市高等教育科学研究项目（20230325）"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学;有机化工",
+    "分类号": "O657.33;TQ317.2",
+    "页码": "136-139+155",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:28:48",
+    "论文唯一代码": "HHGZ202308033"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "魏晋至隋唐时期河北藏书事业发展",
+    "状态": "正常",
+    "发表期刊": "赤峰学院学报(汉文哲学社会科学版)",
+    "刊发时间": "2023-08-25",
+    "引用量": "0",
+    "下载量": "91",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘孝文",
+            "author_addresses": [
+                "河北民族师范学院学报编辑部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "苏海燕",
+            "author_addresses": [
+                "石家庄学院图书馆"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "律超颖",
+            "author_addresses": [
+                "承德市委党校图书馆"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "44 ",
+    "期(Issue)": "08",
+    "摘要": " 魏晋南北朝和隋唐时期，文化的蓬勃发展，政治环境的稳定，政策的扶持刺激，经济文化的发展，印刷技术的进步以及抄书队伍的壮大都推动了藏书事业的发展。河北地区虽然当时并未处于文化和政治中心，但是全国性的文化进步使得河北也沐浴在文化大发展的和煦春光中，藏书事业也由此上升了一个新台阶。河北藏书史是我国古代藏书事业的重要组成部分，河北成为全国重要的农业经济区后，经济和社会的发展推进了文化事业的长足进步，民间藏书量得到大幅度提升，藏书家也不断涌现。本文对这一历史时期河北地域的官府藏书和宗教藏书的概况、规模、政策，以及有影响的藏书家的典型事迹做了详细介绍。",
+    "关键词": [
+        "河北藏书",
+        "官府藏书",
+        "私家藏书",
+        "魏晋",
+        "南北朝",
+        "隋唐"
+    ],
+    "基金资助": [
+        "河北省社科基金“河北古代藏书史研究”（HB20TQ004）"
+    ],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学;信息科技",
+    "专题": "中国古代史;图书情报与数字图书馆",
+    "分类号": "K23;G259.29",
+    "页码": "21-24",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:29:03",
+    "论文唯一代码": "ZWDM202308005"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "家庭收入流动对消费的影响效应测度——来自CFPS的微观证据",
+    "状态": "正常",
+    "发表期刊": "商业经济研究",
+    "刊发时间": "2023-08-22",
+    "引用量": "2",
+    "下载量": "605",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "康敏",
+            "author_addresses": "石家庄学院经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "周德胜",
+            "author_addresses": "石家庄学院经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "左晓丽",
+            "author_addresses": "石家庄学院经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "16",
+    "摘要": " 目前鲜有文献关注到家庭收入流动的消费效应问题。本文利用中国家庭追踪调查（CFPS）2010年和2018年数据，归纳梳理不同收入组家庭不同方向收入流动与消费特征，并实证检验家庭收入流动的消费效应，得到以下结论：不同方向收入流动对家庭消费支出的影响是非对称的；不同收入组家庭收入流动引致的消费扩张效应与消费收缩效应存在异质性。",
+    "关键词": [
+        "收入流动",
+        "消费效应",
+        "非对称性",
+        "异质性"
+    ],
+    "基金资助": [
+        "河北省高等学校人文社会科学研究项目(编号:SZ2023089)"
+    ],
+    "专辑": "经济与管理科学",
+    "专题": "经济体制改革",
+    "分类号": "F126",
+    "页码": "59-62",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:29:19",
+    "论文唯一代码": "SYJJ202316014"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "基于物联网技术的高校实验教学与实验室综合管理系统设计",
+    "状态": "正常",
+    "发表期刊": "物联网技术",
+    "刊发时间": "2023-08-17",
+    "引用量": "12",
+    "下载量": "466",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "董雷",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "龚聪",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "高伟坤",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "13 ",
+    "期(Issue)": "08",
+    "摘要": " 实验教学管理和实验室综合信息管理是实验室管理的关键。在新工科背景下，实验教学是应用型本科院校在培养学生创新实践能力的重要环节，对实验教学过程进行更科学的管理迫在眉睫。近年来国家对高校科研的投入不断提高，实验设备数量和种类不断增加，使得实验室管理变得日渐复杂。石家庄学院机电学院实验中心针对实验教学管理和实验室综合信息管理两方面，建立实验教学管理和实验室综合信息管理，对实验教学全过程监控和管理，方便广大师生使用；对实验室综合信息进行智能管理，提高了实验室管理水平和实验室安全性。",
+    "关键词": [
+        "高校实验教学",
+        "实验室综合管理",
+        "物联网技术",
+        "高校实验室",
+        "智能管理",
+        "仪器设备管理"
+    ],
+    "基金资助": [],
+    "专辑": "信息科技;社会科学Ⅱ辑",
+    "专题": "高等教育;计算机软件及计算机应用",
+    "分类号": "TP315;G642.423;G647",
+    "页码": "154-155+158",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:29:26",
+    "论文唯一代码": "WLWJ202308044"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "“大智移云”下高校财务管理模式创新思考",
+    "状态": "正常",
+    "发表期刊": "合作经济与科技",
+    "刊发时间": "2023-08-15",
+    "引用量": "2",
+    "下载量": "119",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李多",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "孟海峰",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "赵炯",
+            "author_addresses": [
+                "石家庄市城投集团"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "20",
+    "摘要": " 伴随“大智移云”应用迅速发展，传统的高校财务管理模式已经无法满足发展要求，互联网给高校财务管理模式提出新挑战的同时，也为高校财务管理带来新的发展契机。首先分析“大智移云”背景下高校财务管理模式创新的必要性与可行性；其次提出“大智移云”背景下高校财务管理模式存在的问题；最后提出创新思路，以期为高校财务管理模式智能化创新提供参考。",
+    "关键词": [
+        "“大智移云”",
+        "高校财务管理",
+        "管理模式"
+    ],
+    "基金资助": [
+        "河北省会计学会2022年度会计科研课题：“‘大智移云’背景下高校财务管理模式创新研究”（冀会[2022]2号）"
+    ],
+    "专辑": "经济与管理科学;社会科学Ⅱ辑",
+    "专题": "高等教育;会计",
+    "分类号": "G647.5",
+    "页码": "166-168",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:29:35",
+    "论文唯一代码": "HZJJ202320062"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "我国肉牛屠宰加工产业发展现状及对策研究",
+    "状态": "正常",
+    "发表期刊": "吉林农业大学学报",
+    "刊发时间": "2023-08-15",
+    "引用量": "12",
+    "下载量": "725",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "魏萌",
+            "author_addresses": [
+                "中国农业科学院北京畜牧兽医研究所",
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张丽",
+            "author_addresses": [
+                "甘肃农业大学食品科学与工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张一敏",
+            "author_addresses": [
+                "山东农业大学食品科学与工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "李善珍",
+            "author_addresses": [
+                "西宁市城中区市场监督管理局"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "赵改名",
+            "author_addresses": [
+                "河南农业大学食品科学技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "孙宝忠",
+            "author_addresses": [
+                "中国农业科学院北京畜牧兽医研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "baozhongsun@163.com"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "45 ",
+    "期(Issue)": "04",
+    "摘要": " 规范化、规模化屠宰加工是我国肉牛屠宰加工行业的发展方向，产业运行状况影响肉牛养殖端发展质量和市场端肉类消费质量。分别对国内规模化肉牛屠宰加工企业和牛肉消费者进行了调研，结果表明：我国牛肉消费量还将进一步增加，消费方式趋向特色化、多样化，消费者对牛肉品质提出更高要求。我国规范化、规模化屠宰加工企业由于存在牛源少、价格高，胴体品质与市场需求脱节，技术成果转化效果差等问题，总体生产效益有待提升。文章对影响屠宰加工产业发展的制约因素和相应的对策进行了探讨。",
+    "关键词": [
+        "肉牛",
+        "屠宰加工",
+        "规模化",
+        "产业发展"
+    ],
+    "基金资助": [
+        "国家现代农业（肉牛牦牛）产业技术体系建设专项（CARS-37）",
+        "河北省现代农业（肉牛）产业技术体系创新团队建设项目（HBCT2018130204）",
+        "山东援建“十四五”牦牛藏羊产业技术研发项目（2023）"
+    ],
+    "专辑": "农业科技;经济与管理科学",
+    "专题": "畜牧与动物医学;农业经济",
+    "分类号": "F326.3",
+    "页码": "429-436",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:29:45",
+    "论文唯一代码": "JLNY202304009"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "红色物业让小区“老而不旧”",
+    "状态": "正常",
+    "发表期刊": "中国物业管理",
+    "刊发时间": "2023-08-15",
+    "引用量": "0",
+    "下载量": "32",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张志红",
+            "author_addresses": [
+                "石家庄学院经济管理学院物业管理系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李祥",
+            "author_addresses": [
+                "石家庄银都物业管理有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "08",
+    "摘要": " &lt;正&gt;银都物业在社区和街道党组织的帮助下，推进红色物业创建，让这个30年的小区“老而不旧”。石家庄银都花园小区始建于1993年，建有22栋多层住宅楼和5栋高层住宅楼，共计1387户，居住人口5000余人，由石家庄银都物业管理有限公司（以下简称银都物业）提供物业管理。随着时间的推移，银都花园小区也像大多数老旧小区一样暴露出许多矛盾，比如，物业费收费标准低与服务成本上涨的矛盾、设施设备老化与业主追求高品质小区环境的矛盾等。面对诸多矛盾，银都物业于2017年响应石家庄市长安区委组织部号召，加入石纺一社区非公企业联合党支部。2018年，又在胜北街道党工委、石纺一社区党总支的领导和支持下成立了党支部。从此，银都物业在社区和街道党组织的帮助下，推进红色物业创建，让这个30年的小区“老而不旧”。",
+    "关键词": [],
+    "基金资助": [],
+    "专辑": "经济与管理科学;社会科学Ⅰ辑",
+    "专题": "中国共产党;中国政治与国际政治;宏观经济管理与可持续发展",
+    "分类号": "F299.233.47;D267;D669.3",
+    "页码": "96-98",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:29:53",
+    "论文唯一代码": "WYGL202308031"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "拥挤约束型城市应急物资储备库网络功能优化模型——以河北省石家庄市为例",
+    "状态": "正常",
+    "发表期刊": "灾害学",
+    "刊发时间": "2023-08-08 13:32",
+    "引用量": "2",
+    "下载量": "406",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "陆相林",
+            "author_addresses": "石家庄学院经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "赵佳娜",
+            "author_addresses": "石家庄学院经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "陈景昭",
+            "author_addresses": "石家庄学院经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "39 ",
+    "期(Issue)": "01",
+    "摘要": " 应急物资的合理储备和运输分配是应急管理中防灾减灾救灾的基础。重大风险处置过程中，应急物资调配极易因拥挤而发生时间延迟，故考虑其拥挤情景的约束极为必要。然而，当前考虑拥挤约束以及结合区域加以实证的应急物资调配研究成果偏少，其研究广度和深度有待加强。因此，该文提出了拥挤约束型城市应急物资储备库网络功能优化问题。基于排队理论设计拥挤约束条件，并从覆盖半径内需求满意距离递减、交通方式多样化、交通通达程度复杂化等视角，对传统应急物资储备库功能优化模型加以改进，构建了拥挤型单目标无容量限制设施选址模型，并设计了求解的启发式算法。把所构建模型应用于河北省石家庄市应急物资储备库网络优化，并从城市群、多影响以及等级优化视角提出拓展研究的方向。",
+    "关键词": [
+        "设施选址",
+        "城市应急物资储备库网络",
+        "拥挤系统",
+        "功能优化模型",
+        "石家庄市"
+    ],
+    "基金资助": [
+        "河北省自然科学基金资助项目“京津冀城市群应急物资储备库网络协同发展研究”(D2019106020)"
+    ],
+    "专辑": "基础科学;社会科学Ⅰ辑;经济与管理科学",
+    "专题": "行政学及国家行政管理;宏观经济管理与可持续发展",
+    "分类号": "D63;F259.27",
+    "页码": "75-79",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:30:01",
+    "论文唯一代码": "ZHXU202401013"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "孙犁北平生活、工作相关问题辨正",
+    "状态": "正常",
+    "发表期刊": "河北民族师范学院学报",
+    "刊发时间": "2023-08-03",
+    "引用量": "1",
+    "下载量": "43",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张占杰",
+            "author_addresses": [
+                "石家庄学院文学与历史学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "03",
+    "摘要": " 孙犁本人对在北平的生活、工作记录多有矛盾和不实之处，经考证，我们还原了他这一段的情况。孙犁1933年6月高中毕业，在家待业半年。1934年春，到北平闯荡，住宣武门内东太平街天仙庵公寓，想以写稿为生，但投出的稿件大多泥牛入海，入不敷出，生计都成了问题。期间，曾接父亲要他考邮局职员的信，因英语口语差，应考未中。父亲托关系让其到北平象鼻子中坑小学工作。年末，以到济南为借口辞职回乡。在家待业半年，1935年夏，又由父亲托人安排到北平市政府工务局第四科登记股任书记。11月，被辞退。半年后的1936年夏季，接到侯世珍等同学的邀请信，去安新县同口镇小学教书。",
+    "关键词": [
+        "孙犁",
+        "北平",
+        "生活与工作",
+        "辨正"
+    ],
+    "基金资助": [
+        "教育部人文社科规划一般课题“孙犁佚文佚简辑录、考订与研究”（22YJA751026）阶段性成果"
+    ],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学",
+    "专题": "中国文学;人物传记",
+    "分类号": "K825.6;I206",
+    "页码": "48-52",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:30:14",
+    "论文唯一代码": "CDMZ202303005"
+}

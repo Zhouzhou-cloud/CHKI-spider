@@ -1,0 +1,1431 @@
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "三全育人视角下的高校大学生慢就业",
+    "状态": "正常",
+    "发表期刊": "山西财经大学学报",
+    "刊发时间": "2022-10-28",
+    "引用量": "45",
+    "下载量": "5505",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王翔",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "44 ",
+    "期(Issue)": "S2",
+    "摘要": " 就业是国家重点关注对象，是社会关注的热点问题。我国高教步入大众化后，受人力资源需求、大学生价值理念等方面的影响，大学生就业难问题日益突出。近几年大学生存在慢就业群，慢就业比例逐步上升，成为社会就业的新问题。基于三全育人视角指导大学生就业教育，有利于增强大学生就业能力，改善大学生就业形势，促进我国社会稳定发展。",
+    "关键词": [
+        "三全育人",
+        "高校大学生",
+        "慢就业"
+    ],
+    "基金资助": [
+        "河北省95后大学生慢就业情况调查研究（JRS-2021-1004）"
+    ],
+    "专辑": "经济与管理科学;社会科学Ⅱ辑",
+    "专题": "人才学与劳动科学;高等教育;宏观经济管理与可持续发展",
+    "分类号": "F249.2;G647.38",
+    "页码": "73-75",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:24:58",
+    "论文唯一代码": "SXCJ2022S2024"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "爱情小说中阻碍者身份及其文化内涵研究——以双渐苏小卿系列作品为中心",
+    "状态": "正常",
+    "发表期刊": "长江师范学院学报",
+    "刊发时间": "2022-10-27",
+    "引用量": "0",
+    "下载量": "133",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王凯",
+            "author_addresses": [
+                "石家庄学院文学与传媒学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "326140112@qq.com"
+        },
+        {
+            "author_order": 2,
+            "author_name": "薛杰",
+            "author_addresses": [
+                "石家庄市北郡小学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "38 ",
+    "期(Issue)": "06",
+    "摘要": " 《苏小卿》是宋代著名的婚恋题材小说，讲述了士人双渐与妓女苏小卿之间曲折的恋爱故事。该作品影响深远，在后世出现多部演变作品。故事中出现了破坏两人爱情的角色，即婚恋故事中不可或缺的“爱情阻碍者”。其人身份随着时代的发展而不断变化：从宋传奇中的官员，到元代作品中财大气粗的奸险茶商冯魁，逐步演变为明代小说中品质尚可的盐商谢子启（谢启）。阻碍者身份的演变历程，反映了不同历史时期的商人阶层身份地位的不断变化，以及商人与读书人的力量对比与竞争关系。到明代后期，商人和读书人的界限越来越模糊，二者逐渐合流。此时的商人形象在文学作品中得到了之前只有读书人才能享受的待遇：邂逅女神，并与其成婚。此类作品充分说明了生气勃勃的商人地位的不断提升，甚至正在取代读书人，成为新时期的社会宠儿。文学作品所描写的这种社会心理的微妙变化，深刻地表现了晚明时代社会的鲜明特点，反映出一种新的价值取向。",
+    "关键词": [
+        "爱情小说",
+        "《苏小卿》",
+        "阻碍者",
+        "元明演变作品",
+        "商人地位",
+        "文化内涵"
+    ],
+    "基金资助": [
+        "石家庄学院博士科研启动基金资助项目“宋代传奇小说嬗变研究”（21BS022）"
+    ],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学",
+    "专题": "中国文学",
+    "分类号": "I207.41",
+    "页码": "78-84",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:25:05",
+    "论文唯一代码": "FLSZ202206009"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "物理阻隔剂结构中红外光谱研究",
+    "状态": "正常",
+    "发表期刊": "煤炭与化工",
+    "刊发时间": "2022-10-26",
+    "引用量": "0",
+    "下载量": "36",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "戎媛",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张雨萱",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张蕊",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "李佳欣",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "孟露",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "杜龙伟",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "常明",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "徐元媛",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "45 ",
+    "期(Issue)": "10",
+    "摘要": " 采用中红外（MIR）光谱(包括：一维中红外（MIR）光谱、二阶导数中红外（MIR）光谱、四阶导数中红外（MIR）光谱及去卷积中红外（MIR）光谱)开展了物理阻隔剂结构的研究。实验发现：物理阻隔剂的红外吸收模式主要包括：νas CH<sub>3</sub>-物理阻隔剂、νs CH<sub>3</sub>-物理阻隔剂、νas CH<sub>2</sub>-物理阻隔剂、νs CH<sub>2</sub>-物理阻隔剂、δas CH<sub>3</sub>-物理阻隔剂、δs CH<sub>3</sub>-物理阻隔剂、δCH<sub>2</sub>-物理阻隔剂和ρCH<sub>2</sub>-物理阻隔剂。物理阻隔剂主要化学结构为长碳链烷烃。拓展了MIR光谱在重要的治疗过敏性鼻炎药物（物理阻隔剂）分子结构的研究范围。",
+    "关键词": [
+        "物理阻隔剂",
+        "中红外光谱",
+        "结构",
+        "鼻炎"
+    ],
+    "基金资助": [
+        "2022年度河北省大中学生科技创新能力培育专项（22E502380）",
+        "石家庄学院博士科研启动基金（20BS008）"
+    ],
+    "专辑": "工程科技Ⅰ辑;医药卫生科技",
+    "专题": "眼科与耳鼻咽喉科",
+    "分类号": "R765.21",
+    "页码": "133-138+143",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:25:13",
+    "论文唯一代码": "HHGZ202210038"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "凯芙拉酰胺基团结构及热变性三级中红外光谱",
+    "状态": "正常",
+    "发表期刊": "弹性体",
+    "刊发时间": "2022-10-25",
+    "引用量": "28",
+    "下载量": "90",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "常明",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "魏爱佳",
+            "author_addresses": [
+                "河北省科学院能源研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "孟露",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "李佳欣",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "吴梦谣",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "于宏伟",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "徐元媛",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "32 ",
+    "期(Issue)": "05",
+    "摘要": " 聚对苯二甲酰对苯二胺（凯芙拉）是美国杜邦公司研制的一种芳纶纤维材料。采用中红外（MIR）光谱开展了凯芙拉分子结构研究。结果表明，凯芙拉分子的红外吸收模式主要包括：ν<sub>NH</sub>、ν<sub>amide-Ⅰ</sub>、ν<sub>amide-Ⅱ</sub>、ν<sub>amide-Ⅲ</sub>、ν<sub>amide-Ⅴ</sub>、ν<sub>amide-Ⅵ</sub>、ν<sub>CC</sub>、β<sub>C—H</sub>和γ<sub>C—H</sub>。进一步开展了凯芙拉分子的变温中红外（TD-MIR）光谱研究。在303～573 K的温度范围内，随着测定温度的升高，凯芙拉分子酰胺基团(ν<sub>NH</sub>、ν<sub>amide-Ⅴ</sub>和ν<sub>amide-Ⅵ</sub>)对应的红外吸收频率及强度均有明显的改变。采用二维中红外（2D-MIR）光谱，进一步开展了凯芙拉分子热变性的研究。在三个温度区间，凯芙拉分子酰胺基团(ν<sub>NH</sub>、ν<sub>amide-Ⅴ</sub>和ν<sub>amide-Ⅵ</sub>)对热的敏感程度及官能团变化快慢顺序都存在着较大的差异性，并进一步进行了机理的研究。本项研究拓展了三级MIR光谱在重要的芳纶类高分子材料凯芙拉分子酰胺基团结构及热变性的研究范围。",
+    "关键词": [
+        "凯芙拉",
+        "中红外光谱",
+        "变温中红外光谱",
+        "二维中红外光谱",
+        "结构",
+        "热变性"
+    ],
+    "基金资助": [
+        "河北省高等学校科学技术研究项目(Z2020113)",
+        "河北省人力资源和社会保障研究课题(JRS-2022-1021)",
+        "石家庄学院博士科研启动基金(20BS008)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学;有机化工",
+    "分类号": "O657.33;TQ342.72",
+    "页码": "69-76",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:25:27",
+    "论文唯一代码": "TXTZ202205012"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "高校传承地方红色文化的路径分析——以石家庄红色文化为例",
+    "状态": "正常",
+    "发表期刊": "教育理论与实践",
+    "刊发时间": "2022-10-25",
+    "引用量": "20",
+    "下载量": "2149",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "葛婧茹",
+            "author_addresses": [
+                "石家庄学院教师教育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李运仓",
+            "author_addresses": [
+                "石家庄学院法学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "陈宏",
+            "author_addresses": [
+                "石家庄学院教师教育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "42 ",
+    "期(Issue)": "30",
+    "摘要": " 地方红色文化是中国共产党在推进马克思主义中国化的进程中创造的先进文化，具有地域性、革命性、人民性、历史传承性和时代创新性。高校传承地方红色文化有利于增强大学生的文化自信，培育和践行社会主义核心价值观，培养学生底线思维。高校应当讲好地方红色文化故事，掌握意识形态话语权；加强高校校园文化建设，做好地方红色文化传承；增强创新意识，积极打造地方红色文化网络教育平台，实现高校思政教育与红色文化传承的融合。",
+    "关键词": [
+        "高校",
+        "地方红色文化",
+        "校园文化",
+        "创新意识",
+        "网络教育平台"
+    ],
+    "基金资助": [
+        "2021年度石家庄市社科专家培养资助项目“高校思想政治教育视角下石家庄红色文化资源的传承与影响力研究”（项目编号：2021zjpy44）的研究成果"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "高等教育",
+    "分类号": "G641",
+    "页码": "36-39",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:25:37",
+    "论文唯一代码": "JYLL202230007"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "个案社会工作本土化困境与突破",
+    "状态": "正常",
+    "发表期刊": "中国社会工作",
+    "刊发时间": "2022-10-25",
+    "引用量": "5",
+    "下载量": "920",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "曹玮丽",
+            "author_addresses": "石家庄学院法学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "曹月如",
+            "author_addresses": "石家庄学院法学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "30",
+    "摘要": " &lt;正&gt;个案工作一直是社会工作服务中的难点。笔者在对一线社工的督导中发现，不少社工惧怕做个案，在个案工作中难以将理论与实践结合起来开展专业服务。之所以出现这一现象，根源在于源于西方的个案工作理论与实务体系尚未完全本土化。本文以笔者多年的社工机构督导经验为基础，梳理一线社工在个案工作中遭遇的具体困境，分析导致困境的原因，并尝试寻找突破困境的路径。",
+    "关键词": [],
+    "基金资助": [
+        "河北省人力资源和社会保障厅课题“河北省社会工作人才激励机制的扎根理论研究”（编号：JRS-2020-3142）的阶段性成果"
+    ],
+    "专辑": "社会科学Ⅱ辑;社会科学Ⅰ辑",
+    "专题": "社会学及统计学",
+    "分类号": "C916",
+    "页码": "26-27",
+    "页数": "2",
+    "爬取时间": "2025-03-26 06:25:47",
+    "论文唯一代码": "ZSGZ202230013"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "将微文化融入思政教育专业课教学设计——以“人民至上”主题导读教学为例",
+    "状态": "正常",
+    "发表期刊": "中学政治教学参考",
+    "刊发时间": "2022-10-25",
+    "引用量": "1",
+    "下载量": "387",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李爱华",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王磊",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "孟亚明",
+            "author_addresses": [
+                "河北科技大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "40",
+    "摘要": " “人民至上”主题是《共产党宣言》(以下简称《宣言》)的中心命题之一,内含着“肯定人民主体历史地位”“坚决依靠人民思想路线”“立足为民谋利根本立场”“切实代表人民利益革命原则”等思想要义。在微文化背景下,结合党史学习教育主题,加强思想政治教育专业学生学科核心素养培养,有必要遵循以微文化选取为桥梁(以理服人、以文化人),以党史教育为引领(坚持以史感人、以史明理)的原.则。以党史教育引领微文化融入思政教育专业课教学,引导学生深刻认识和理解百年党史进程中中国共产党以马克思主义群众史观为指导、结合中国社会实际、凝聚各方力量所取得的成功经验,坚定马克思主义信仰、中国特色社会主义信念、中国共产党领导信心。",
+    "关键词": [
+        "党史教育",
+        "微文化",
+        "思政教育专业课",
+        "设计"
+    ],
+    "基金资助": [
+        "石家庄学院2019年度校级教学改革研究与实践项目“微文化融入高校思政专业课教学实践的对策研究”(项目编号:JGXM—201907)阶段性成果"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "高等教育",
+    "分类号": "G641",
+    "页码": "45-48",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:25:56",
+    "论文唯一代码": "ZXZZ202240037"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "半导体光催化剂降解聚乙烯的研究进展",
+    "状态": "正常",
+    "发表期刊": "现代塑料加工应用",
+    "刊发时间": "2022-10-20",
+    "引用量": "5",
+    "下载量": "708",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王泽宏",
+            "author_addresses": [
+                "石家庄铁道大学材料科学与工程学院河北省交通工程与环境协同发展新材料重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "马啸野",
+            "author_addresses": [
+                "石家庄铁道大学材料科学与工程学院河北省交通工程与环境协同发展新材料重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "刘金鹏",
+            "author_addresses": [
+                "石家庄铁道大学材料科学与工程学院河北省交通工程与环境协同发展新材料重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王俊川",
+            "author_addresses": [
+                "石家庄铁道大学材料科学与工程学院河北省交通工程与环境协同发展新材料重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "wangjunchuan@stdu.edu.cn"
+        },
+        {
+            "author_order": 5,
+            "author_name": "刘磊",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "王惠",
+            "author_addresses": [
+                "石家庄铁道大学材料科学与工程学院河北省交通工程与环境协同发展新材料重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "34 ",
+    "期(Issue)": "05",
+    "摘要": " 介绍了半导体光催化剂降解聚乙烯(PE)的基本原理，阐述了近年来半导体光催化剂在降解PE中的研究进展，包括使用单一光催化剂、构筑复合光催化剂如元素掺杂、贵金属修饰和构建异质结等，总结了半导体光催化剂在降解PE方面存在的问题。",
+    "关键词": [
+        "光催化剂",
+        "聚乙烯",
+        "塑料降解"
+    ],
+    "基金资助": [
+        "河北省自然科学基金项目(B2019210331)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学;环境科学与资源利用",
+    "分类号": "X705;O643.36;O644.1",
+    "页码": "48-51",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:26:11",
+    "论文唯一代码": "XDSL202205013"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "论《战国策》中山国的人物形象及其辞令表达",
+    "状态": "正常",
+    "发表期刊": "安康学院学报",
+    "刊发时间": "2022-10-20",
+    "引用量": "0",
+    "下载量": "651",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王峥",
+            "author_addresses": [
+                "石家庄学院文学与历史学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "34 ",
+    "期(Issue)": "05",
+    "摘要": " 《战国策》主要涉及8位中山国人物，目力所及，学界尚缺乏对这些人物及其辞令的系统研究。从记载来看，中山桓公、张登和司马憙是刻画重点，其中桓公“知错自省”，辞令讲求对仗，有“格言体”特征；张登善用“关系”巧设计谋，其辞令质朴但长于话术技巧，形成了一定的话术体系；司马憙伪善狡猾，其辞令注重修饰与铺排，具有较高的艺术水平；其他人物形象与言辞也各具特色。总体而言，《战国策》对中山国臣子的记载多于君主，这与全书“士贵耳，王者不贵”的编写理念直接相关。另外，在辞令表达上，忠臣相对质朴的语言风格也与他们“耿直”“言行如一”的性格保持一致。",
+    "关键词": [
+        "《战国策》",
+        "中山国",
+        "人物形象",
+        "辞令"
+    ],
+    "基金资助": [
+        "石家庄市社科联社科专家培养项目“《战国策·中山策》编纂方式及其文学文化研究”（2021zjpy47）",
+        "河北省高等学校人文社会科学研究青年拔尖人才项目“‘七十子’辞令研究”（BJS2022030）"
+    ],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学",
+    "专题": "中国文学;中国古代史",
+    "分类号": "I206.2;K231",
+    "页码": "90-97",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:26:18",
+    "论文唯一代码": "AKSZ202205021"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "城市社区治理中社工机构的关系处境与角色功能",
+    "状态": "正常",
+    "发表期刊": "社会治理",
+    "刊发时间": "2022-10-15",
+    "引用量": "9",
+    "下载量": "457",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张学东",
+            "author_addresses": [
+                "石家庄学院法学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "胡博",
+            "author_addresses": [
+                "河北外国语学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "10",
+    "摘要": " 当前我国城市社区治理问题与诉求日益突出，社工机构在城市社区治理中扮演着重要角色，发挥着特定功能。本文通过对S市实践情况进行研究发现，在城市社区治理中社工机构与政府、居委会、居民等之间的关系处境较为复杂。从正功能看，社工机构扮演着精细化服务提供者，促进服务式治理，扮演着虚实化平台搭建者，推进参与式治理，扮演着多元化资源链接者，增进福利式治理。从负功能看，社工机构面临着方式非便捷化、参与非广泛化、效益非最大化等角色功能性缺陷。为此，在改变不利的关系处境的同时，社工机构应通过保障优质服务供给、赋予权能动员参与、增进有效资源配置等实施策略，助力城市社区治理水平的提升。",
+    "关键词": [
+        "城市社区治理",
+        "社工机构",
+        "关系处境",
+        "角色功能"
+    ],
+    "基金资助": [
+        "河北省社科基金项目“河北省‘三社联动’模式创新与社会工作发展研究”（编号：HB19SH002）阶段性成果"
+    ],
+    "专辑": "社会科学Ⅰ辑;社会科学Ⅱ辑",
+    "专题": "社会学及统计学",
+    "分类号": "C916",
+    "页码": "84-96",
+    "页数": "13",
+    "爬取时间": "2025-03-26 06:26:53",
+    "论文唯一代码": "ZLSH202210007"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "蝙蝠寄生线虫杜瑞特线属新种的鉴定（圆形目，莫林科）",
+    "状态": "正常",
+    "发表期刊": "中国预防兽医学报",
+    "刊发时间": "2022-10-15",
+    "引用量": "1",
+    "下载量": "65",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "菅蕊",
+            "author_addresses": [
+                "承德医学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "徐真",
+            "author_addresses": [
+                "河北工程大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张东红",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "徐凤周",
+            "author_addresses": [
+                "石家庄市人民医院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "宋素洁",
+            "author_addresses": [
+                "河北地质职工大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "陈慧霞",
+            "author_addresses": [
+                "河北师范大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "剧慧栋",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "juhuidong615@163.com"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "44 ",
+    "期(Issue)": "10",
+    "摘要": " 为了确定采自广东省龙门县的小黄蝠（翼手目，蝙蝠科）[Scotophilus kuhlii(Leach)]体内寄生线虫的种类及其分类学地位，本研究对采集的线虫通过光学和电子扫描显微镜观察，初步确定该虫种属于圆形目，莫林科，杜瑞特线属，该种与同属其他种的主要形态鉴别特征是：雄虫交合刺末端和引带的形态不同，雌虫排卵器形态不同。进一步通过PCR扩增其ITS-1基因序列并测序分析，结果显示该线虫在莫林科线虫的系统发育中具有相对独立的地位，确定该线虫为杜瑞特线属的一新种，命名为小黄蝠杜瑞特线虫。本研究首次发现杜瑞特线属新种—小黄蝠杜瑞特线虫，为潜在的人畜共患寄生虫病防治提供了基础资料和病原学检测依据。",
+    "关键词": [
+        "蝙蝠",
+        "线虫",
+        "新种",
+        "杜瑞特线属"
+    ],
+    "基金资助": [
+        "河北省自然科学基金面上项目（C2022106002）河北省自然科学基金青年基金（C2021205018）",
+        "石家庄学院博士科研启动基金（21BS006）",
+        "承德医学院高层次人才启动资金（201807）"
+    ],
+    "专辑": "农业科技",
+    "专题": "畜牧与动物医学",
+    "分类号": "S852.731",
+    "页码": "1111-1115+1124",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:27:10",
+    "论文唯一代码": "ZGXQ202210014"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "建构与管理：非洲国家民主化对种族关系的影响",
+    "状态": "正常",
+    "发表期刊": "黑龙江民族丛刊",
+    "刊发时间": "2022-10-15",
+    "引用量": "0",
+    "下载量": "134",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "罗永忠",
+            "author_addresses": [
+                "石家庄学院历史文化学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张国飞",
+            "author_addresses": [
+                "石家庄学院马克思主义学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "05",
+    "摘要": " 在非洲的多数国家，不管是在西方殖民统治、非洲争取独立还是独立之后的国家建设时期，因为政治权力控制、制度安排等原因，种族成为界定和阐明群体利益的逻辑基础。在民族独立解放过程中，民主理想和种族动员都是非洲国家领导人采取的团结人民的方式。在国家建设时期，延续种族动员的方式追寻民主并反抗专制、抵制腐败、争取人民的尊严和群体利益具有合理性。所以，非洲民主化进程是要发展出管理种族利益的机制和能容纳种族利益的民主制度并培养维护民主制度所需要的价值、和解精神和发展能力。",
+    "关键词": [
+        "非洲",
+        "国家民主化",
+        "政治民主化",
+        "种族冲突"
+    ],
+    "基金资助": [
+        "2021年度石家庄学院专业认证专项教学改革研究与实践项目“影视资源在历史学师范生培养中的应用研究”(JGXM-2021136Z)成果"
+    ],
+    "专辑": "社会科学Ⅱ辑;社会科学Ⅰ辑",
+    "专题": "政治学;中国政治与国际政治",
+    "分类号": "D062;D74",
+    "页码": "48-54",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:27:18",
+    "论文唯一代码": "HLMZ202205008"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "粤港澳大湾区人才保障性住房协同治理政策研究",
+    "状态": "正常",
+    "发表期刊": "经济论坛",
+    "刊发时间": "2022-10-15",
+    "引用量": "1",
+    "下载量": "487",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "孙中伟",
+            "author_addresses": "石家庄学院资源与环境科学学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李晨静",
+            "author_addresses": "石家庄学院资源与环境科学学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "陆璐",
+            "author_addresses": "石家庄学院资源与环境科学学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "10",
+    "摘要": " 粤港澳大湾区能够成为我国人才集聚高地，与其人才保障性住房良好的政策环境和丰富的实践经验紧密相关。随着粤港澳大湾区区域协同发展的不断深入，对区域人才保障性住房协同治理提出了更高要求。为此，粤港澳大湾区在人才保障性住房协同治理方面形成了“省—市—合作区”三级协调的完整政策体系，并在合作区层面制定了各具特点的实施制度。在全面梳理粤港澳大湾区人才保障性住房协同治理关键性举措的基础上总结其实施特色，以期为国内区域一体化发展地区人才住房协同治理提供有益借鉴。",
+    "关键词": [
+        "粤港澳大湾区",
+        "协同治理",
+        "人才保障性住房",
+        "政策体系"
+    ],
+    "基金资助": [
+        "2021年河北省人力资源和社会保障研究课题“粤港澳大湾区人才保障性住房协同治理政策调查与启示研究”（JRS-2021-6001）"
+    ],
+    "专辑": "经济与管理科学;社会科学Ⅱ辑",
+    "专题": "人才学与劳动科学;宏观经济管理与可持续发展",
+    "分类号": "C964.2;F299.23",
+    "页码": "28-35",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:27:29",
+    "论文唯一代码": "JJLT202210003"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "非物质文化遗产在大学生思政教育中的价值及融入路径探索——以耿村民间故事为例",
+    "状态": "正常",
+    "发表期刊": "延安职业技术学院学报",
+    "刊发时间": "2022-10-15",
+    "引用量": "3",
+    "下载量": "437",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李爱玲",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "韩英超",
+            "author_addresses": [
+                "石家庄市第十中学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "谷冬梅",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "36 ",
+    "期(Issue)": "05",
+    "摘要": " 耿村民间故事是我国重要的非物质文化遗产，蕴含着丰富的思政元素，具有较高的教育价值。通过在大学生中调查耿村民间故事的教育现状，梳理问题、分析原因，从而探讨融入路径，并指出学校开展非遗校园文化、实施非遗入课程上课堂、创新非遗实践活动等，搭建非遗与大学生思政教育的平台，实现大学生对非遗的传承、保护和大学生思想教育的“双赢”发展。",
+    "关键词": [
+        "非物质文化遗产",
+        "大学生",
+        "耿村民间故事",
+        "思政教育",
+        "融入路径"
+    ],
+    "基金资助": [
+        "2021年石家庄市社科专家培养资助项目“大学生对非物质文化遗产的传承与发展研究——以耿村民间故事为例”（2021zjpy32）",
+        "2021年石家庄学院教学改革研究与实践项目“‘课程思政’视域下高校历史教学实践研究”（JGXM-202124P）"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "高等教育",
+    "分类号": "G641",
+    "页码": "1-3",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:27:38",
+    "论文唯一代码": "YAXB202205001"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "产学研协同育人——材料类专业实践教学改革研究",
+    "状态": "正常",
+    "发表期刊": "云南化工",
+    "刊发时间": "2022-10-15",
+    "引用量": "1",
+    "下载量": "135",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "崔文广",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "石家庄市高分子基复合材料技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "高岩磊",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "石家庄市高分子基复合材料技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张绍岩",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "石家庄市高分子基复合材料技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "胡江浦",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "石家庄市高分子基复合材料技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "赵娜",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "石家庄市高分子基复合材料技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "49 ",
+    "期(Issue)": "10",
+    "摘要": " 根据企业发展需要，将材料专业实践教学与科学研究、成果转化和挂职锻炼经验相融合，通过将部分项目成果、技术成果、挂职锻炼经验与实践教学计划和方案的有效结合，使实践教学内容更贴近企业实际生产，有效增强学生实践、创新能力及工作适应能力，利于学生实现从科学知识型向科学知识实用技能型的转变。",
+    "关键词": [
+        "产学研协同育人",
+        "材料专业",
+        "实践教学",
+        "实践创新能力"
+    ],
+    "基金资助": [
+        "“河北省高等教育教学改革研究与实践项目”(项目编号：2020GJJG399)的研究成果"
+    ],
+    "专辑": "工程科技Ⅰ辑;社会科学Ⅱ辑",
+    "专题": "材料科学;高等教育",
+    "分类号": "G642.0;TB30-4",
+    "页码": "139-141",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:27:51",
+    "论文唯一代码": "YNHG202210037"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "基于多种探测资料对华北中部一次回流暴雪过程的分析",
+    "状态": "正常",
+    "发表期刊": "气象学报",
+    "刊发时间": "2022-10-15",
+    "引用量": "6",
+    "下载量": "316",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "钤伟妙",
+            "author_addresses": [
+                "石家庄市气象局",
+                "中国气象科学研究院灾害天气国家重点实验室",
+                "河北省气象与生态环境重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "罗亚丽",
+            "author_addresses": [
+                "中国气象科学研究院灾害天气国家重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "ylluo@cma.gov.cn"
+        },
+        {
+            "author_order": 3,
+            "author_name": "曹越",
+            "author_addresses": [
+                "石家庄市气象局"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张晓",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "车少静",
+            "author_addresses": [
+                "河北省气象与生态环境重点实验室",
+                "河北省气候中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "80 ",
+    "期(Issue)": "05",
+    "摘要": " 2020年1月5日07时至6日04时（北京时，下同）华北中部出现一次回流暴雪天气，过程最大降雪量15.5 mm。文中应用ERA5再分析和多种高分辨率观测资料分析了此次暴雪的大尺度天气背景和本地动、热力状况，探讨了暴雪落区、强度演变和降雪微物理特征及成因。结果表明，受河套地区地面倒槽和东北平原高压影响，900 hPa以下东北气流（被称为“回流”）自东北平原经渤海抵达华北平原，早于降雪7 h开始影响华北中部，受太行山阻挡在华北平原形成浅薄的近地面中尺度辐合线，对应暴雪落区；暴雪落区位于500 hPa高空槽前、700 hPa南北走向切变线东侧，850 hPa受西南低涡外围东南气流影响。降雪前1 h石家庄市观测到800 m以下转为东北风，1 km以下气温迅速下降至-5—-1℃，形成“冷垫”；暴雪区上空700 hPa附近低空急流较降雪早2 h出现，随后急流变厚、向下伸展至2 km高度，其下部暖湿空气沿“冷垫”爬升触发降雪，急流风速增至极值（19 m/s）和急流指数达峰值（约8）与大于1 mm/h强降雪时段重合，此时700 hPa上下为上升运动和水汽输送的大值中心。本次降雪粒子直径多为0.35—0.55 mm，降雪强度与粒子数浓度呈线性正相关；降雪云层位于1.3—5.5 km高度，大致以3 km （约-10℃）为分界线，下层为冰雪混合层，上层为冰雪层，冰雪层相对湿度与地面雪花粒子浓度及降雪强度呈正相关。基于雨滴谱仪探测资料反演的地面反射率因子与降雪强度拟合关系为Z=149.85R<sup>1.14</sup>。",
+    "关键词": [
+        "回流暴雪",
+        "天气背景",
+        "低空急流指数",
+        "降雪微物理特征"
+    ],
+    "基金资助": [
+        "灾害天气国家重点实验室开放课题（2018LASW-B02）",
+        "国家重点研发计划项目（2018YFC1505604）",
+        "河北省青年科学基金项目（D2019106042）",
+        "河北省气象局面上项目（20ky14）和河北省气象局指导性项目（21zc03）"
+    ],
+    "专辑": "基础科学",
+    "专题": "气象学",
+    "分类号": "P458.121",
+    "页码": "732-747",
+    "页数": "16",
+    "爬取时间": "2025-03-26 06:28:03",
+    "论文唯一代码": "QXXB202205006"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "产业振兴视域下农村产业融合的创新模式",
+    "状态": "正常",
+    "发表期刊": "农业经济",
+    "刊发时间": "2022-10-15",
+    "引用量": "24",
+    "下载量": "1314",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "宋晓华",
+            "author_addresses": "石家庄学院经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "尹德斌",
+            "author_addresses": "石家庄学院经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李慧",
+            "author_addresses": "石家庄学院经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "10",
+    "摘要": " 乡村振兴战略中明确要求产业、人才、文化、生态与组织五位一体的振兴，这是新时期三农工作的重点与难点。现阶段，产业基础薄弱是农村地区的共有特征，所以产业振兴首先解决的是产业由“简”至“繁”的问题，然后进一步寻求产业高质量发展的道路。已有产业基础的农村地区，要充分发挥产业振兴的先锋作用，积极探索产业融合的创新模式，为今后广大农村地区的产业振兴提供新思路、新模式。",
+    "关键词": [
+        "产业振兴",
+        "产业融合",
+        "创新发展",
+        "模式探索",
+        "乡村振兴"
+    ],
+    "基金资助": [
+        "2018年河北省社会科学基金项目“雄安新区周边县域产业创新与发展规划研究”（项目编号：HB18YJ078）成果之一"
+    ],
+    "专辑": "经济与管理科学;农业科技",
+    "专题": "农业经济",
+    "分类号": "F323",
+    "页码": "43-45",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:28:14",
+    "论文唯一代码": "NYJJ202210015"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "新媒体时代石家庄非物质文化遗产数字化继承和推广策略探究",
+    "状态": "正常",
+    "发表期刊": "文化产业",
+    "刊发时间": "2022-10-10",
+    "引用量": "6",
+    "下载量": "568",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张艮山",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘旭宁",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "陈枫",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "28",
+    "摘要": " &lt;正&gt;石家庄是一个名副其实的非遗大市，据统计，石家庄现有国家级非遗项目12项，省级非遗项目140项，市级非遗项目360项。数字技术的快速发展为石家庄市非物质文化遗产的继承传播与发展开辟了新的道路，使非物质文化遗产以更加立体化和多元化的形式展现出来，焕发蓬勃的生命力。现对数字技术下非遗文化的传播应用形式进行分析与总结，针对石家庄市非物质文化遗产数字化应用设计进行理论与实践的创新思索与探究，结合藁城宫灯、石家庄丝弦、井陉拉花几个案例，",
+    "关键词": [],
+    "基金资助": [
+        "石家庄市社科专家培养项目“新媒体时代石家庄非物质文化遗产传播策略探究”研究成果(课题编号：2022zjpy68)"
+    ],
+    "专辑": "经济与管理科学;哲学与人文科学",
+    "专题": "文化",
+    "分类号": "G127",
+    "页码": "141-143",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:28:22",
+    "论文唯一代码": "WHCC202228047"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "基于图论模型的乒乓球混双技战术分析与应用研究",
+    "状态": "正常",
+    "发表期刊": "广州体育学院学报",
+    "刊发时间": "2022-10-08 20:50",
+    "引用量": "12",
+    "下载量": "1102",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "曹烨程",
+            "author_addresses": [
+                "北京体育大学研究生院",
+                "石家庄学院体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "陈辉",
+            "author_addresses": [
+                "重庆第二师范学院体育与健康管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "郭晨",
+            "author_addresses": [
+                "福建师范大学体育科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "42 ",
+    "期(Issue)": "03",
+    "摘要": " 本文旨在构建乒乓球混双技战术图论模型，为乒乓球混双比赛技战术分析提供新的研究方法。方法：应用文献资料法与录像观察法构建技战术分析指标体系，运用图论模型对高水平混双比赛的373个回合为研究案例，对比赛的发球方式、技战术运用、技战术衔接进行分析，应用图论模型构建乒乓球混双动态网络G=(V(G),E(G))。结果：通过计算节点的度和网络边数，得到混双运动员使用最频繁的技战术组合与下一板最有可能采用的回击方式。结论：两对混双选手都是在女子发球轮次占优，当男女运动员双方采用逆旋转发球方式时，获胜概率较高；刘诗雯和伊藤美诚在比赛中使用较多的技术线路组合分别是正手摆短斜线和反手拉斜线；许昕和水谷隼在出台球进攻上技术线路组合应用较多的是正手侧身拉斜线。",
+    "关键词": [
+        "图论模型",
+        "乒乓球",
+        "混双",
+        "技战术分析"
+    ],
+    "基金资助": [
+        "全国教育科学“十三五”规划课题教育部青年项目（ELA200416）"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G846",
+    "页码": "110-117",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:28:32",
+    "论文唯一代码": "GZTX202203013"
+}

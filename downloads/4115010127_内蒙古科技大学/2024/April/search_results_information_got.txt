@@ -1,0 +1,296 @@
+{
+    "学校id": "4115010127",
+    "学校": "内蒙古科技大学",
+    "论文类型": "期刊",
+    "论文题目": "预制装配式综合管廊不同连接件承插接头抗剪性能试验研究",
+    "状态": "正常",
+    "发表期刊": "铁道科学与工程学报",
+    "刊发时间": "2024-04-30 17:02",
+    "引用量": "0",
+    "下载量": "323",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张朝",
+            "author_code": "000026307887",
+            "author_addresses": [
+                "内蒙古科技大学土木工程学院",
+                "内蒙古自治区高校城市地下工程研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "z_dynasty@126.com"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘杰",
+            "author_code": "000065934434",
+            "author_addresses": [
+                "内蒙古科技大学土木工程学院",
+                "内蒙古自治区高校城市地下工程研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "许有俊",
+            "author_code": "000020354120",
+            "author_addresses": [
+                "内蒙古科技大学土木工程学院",
+                "内蒙古自治区高校城市地下工程研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "聂绪致",
+            "author_code": "000050792399",
+            "author_addresses": [
+                "内蒙古科技大学土木工程学院",
+                "内蒙古自治区高校城市地下工程研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "21 ",
+    "期(Issue)": "12",
+    "摘要": " 纵向连接件是预制装配式综合管廊接头的重要组成部分，其将预制管节沿纵向连接成为一个整体。为揭示各类型连接件对预制综合管廊结构和接头受力性能的影响规律，使其得到更好的应用，以包头市新都市区地下综合管廊项目为背景，开展纵向连接件+综合管廊承插接头的剪切模型试验，对比分析4种工况下管廊接头破坏特征及抗剪性能的差异性，探讨不同类型连接件的优缺点。试验结果表明：接头破坏前期以管节的挤压作用为主，后期以连接件的协同变形作用为主导，连接件作用与承担荷载呈正相关；GL-1(短螺杆)协同变形能力最佳，GL-3(钢绞线)次之，GL-2(长螺杆)最差；有无连接件破坏阶段不一致，GL-0(无连接件)可分为部分滑移阶段及破坏发展阶段，纵向连接件可延缓管节破坏进程，GL-1、GL-2、GL-3可大致分为部分滑移阶段、整体滑移阶段及破坏发展阶段；纵向连接件对减小管节的错台量以GL-1最优，且相对于GL-2、GL-3分别减少9.13%、1.70%的错台量；建议在预制综合管廊接头设计中，减小纵向连接件的长度，同时不跨接头布置，有利于保持结构的整体稳定性。研究结果可为进一步优化预制地下综合管廊接头及纵向连接件设计提供参考。",
+    "关键词": [
+        "预制综合管廊",
+        "承插式接头",
+        "纵向连接件",
+        "模型试验",
+        "抗剪性能",
+        "破坏机制"
+    ],
+    "基金资助": [
+        "内蒙古自然科学基金资助项目(2021BS05013)",
+        "内蒙古自治区科技成果转化下划资金资助项目(NM2019BT067)"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU990.3",
+    "页码": "5175-5185",
+    "页数": "11",
+    "爬取时间": "2025-03-28 05:07:31",
+    "论文唯一代码": "CSTD202412028"
+}
+{
+    "学校id": "4115010127",
+    "学校": "内蒙古科技大学",
+    "论文类型": "期刊",
+    "论文题目": "草原丝路沿线历史村镇空间特征及演进规律",
+    "状态": "正常",
+    "发表期刊": "新建筑",
+    "刊发时间": "2024-04-30 11:02",
+    "引用量": "0",
+    "下载量": "219",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王文明",
+            "author_code": "000030365666",
+            "author_addresses": [
+                "西安建筑科技大学建筑学院",
+                "内蒙古科技大学建筑与艺术设计学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘加男",
+            "author_code": "000061553364",
+            "author_addresses": [
+                "内蒙古科技大学建筑与艺术设计学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "尚丹",
+            "author_code": "000051840817",
+            "author_addresses": [
+                "内蒙古科技大学建筑与艺术设计学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "马明",
+            "author_code": "000046364090",
+            "author_addresses": [
+                "内蒙古科技大学建筑与艺术设计学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "孙丽平",
+            "author_code": "000041536469",
+            "author_addresses": [
+                "内蒙古科技大学建筑与艺术设计学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "02",
+    "摘要": " 文章聚焦草原丝绸之路，以张库商道内蒙古段沿线1133个历史村镇为研究对象，探究历史村镇时空分布集聚性与自然环境、古道的耦合关系；总结出军防影响型、寺庙影响型、商贸影响型3类历史村镇的形态、功能特征，并通过区域系统理论分析历史村镇演进的内在驱动因素与外在影响因素，进而得出其演进规律。文章在理论上构建了草原丝路沿线历史村镇的研究框架，为后续沿线历史村镇遗产保护提供基础，为一带一路战略下沿线历史村镇人居环境可持续发展提供理论依据。",
+    "关键词": [
+        "草原丝路",
+        "内蒙古",
+        "张库商道",
+        "历史村镇",
+        "空间形态",
+        "演进规律"
+    ],
+    "基金资助": [
+        "国家自然科学基金地区科学基金项目（52368003）",
+        "内蒙古自然科学基金面上项目（2022MS05013）",
+        "内蒙古自治区科技计划项目（2019GG142）"
+    ],
+    "专辑": "工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU982.29",
+    "页码": "144-149",
+    "页数": "6",
+    "爬取时间": "2025-03-28 05:07:41",
+    "论文唯一代码": "XJZJ202402026"
+}
+{
+    "学校id": "4115010127",
+    "学校": "内蒙古科技大学",
+    "论文类型": "期刊",
+    "论文题目": "内质网应激对骨骼肌细胞影响的研究进展",
+    "状态": "正常",
+    "发表期刊": "农业生物技术学报",
+    "刊发时间": "2024-04-30",
+    "引用量": "1",
+    "下载量": "282",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘颖",
+            "author_code": "000031409584",
+            "author_addresses": [
+                "内蒙古科技大学生命科学与技术学院",
+                "中国农业科学院北京畜牧兽医研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "石建凯",
+            "author_code": "000061667436",
+            "author_addresses": [
+                "内蒙古科技大学生命科学与技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "郭肖蓉",
+            "author_code": "000048842373",
+            "author_addresses": [
+                "中国农业科学院北京畜牧兽医研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "林晓",
+            "author_code": "000027199576",
+            "author_addresses": [
+                "南宁壮博生物科技有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "Linxiao_vet@163.com"
+        },
+        {
+            "author_order": 5,
+            "author_name": "周荣",
+            "author_code": "000046660966",
+            "author_addresses": [
+                "中国农业科学院北京畜牧兽医研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "zhourong03@caas.cn"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "32 ",
+    "期(Issue)": "05",
+    "摘要": " 骨骼肌对人体和畜禽均有重要意义，与身体机能及畜禽的产肉性能直接相关。当细胞受到外界刺激或内环境发生改变时，内质网(endoplasmic reticulum, ER)会引发一系列保护机制—内质网应激。内质网应激反应具有双向作用,适当的内质网应激会通过自噬、未折叠蛋白反应等行为缓解细胞对生存条件的不适应性,但是不利因素引起的持续内质网应激会影响内质网的功能,进而促进细胞凋亡。本文主要针对近年来内质网应激对骨骼肌细胞脂质代谢、细胞自噬凋亡、分化等生理过程的影响及作用机制进行综述，旨在为进一步揭示内质网应激对骨骼肌细胞的作用机制提供理论依据。",
+    "关键词": [
+        "骨骼肌细胞",
+        "内质网应激",
+        "未折叠蛋白反应",
+        "自噬",
+        "凋亡",
+        "胰岛素抵抗"
+    ],
+    "基金资助": [
+        "国家自然科学基金面上项目(31972541 32130102)"
+    ],
+    "专辑": "农业科技",
+    "专题": "畜牧与动物医学",
+    "分类号": "S813",
+    "页码": "1169-1177",
+    "页数": "9",
+    "爬取时间": "2025-03-28 05:07:50",
+    "论文唯一代码": "NYSB202405017"
+}

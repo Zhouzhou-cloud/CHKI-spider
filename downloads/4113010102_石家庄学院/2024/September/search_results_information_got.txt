@@ -1,0 +1,1991 @@
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "载流子浓度优化与动态掺杂提高n型PbS宽温域的热电性能",
+    "状态": "正常",
+    "发表期刊": "科学通报",
+    "刊发时间": "2024-09-30 09:37",
+    "引用量": "0",
+    "下载量": "111",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "侯正浩",
+            "author_addresses": [
+                "河北大学物理科学与技术学院,河北省光电信息材料重点实验室",
+                "石家庄学院化工学院,石家庄市低碳能源材料重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "崔秋娟",
+            "author_addresses": [
+                "河北大学物理科学与技术学院,河北省光电信息材料重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "钱鑫",
+            "author_addresses": [
+                "河北大学物理科学与技术学院,河北省光电信息材料重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "qianxin@hbu.edu.cn"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王淑芳",
+            "author_addresses": [
+                "河北大学物理科学与技术学院,河北省光电信息材料重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "sfwang@hbu.edu.cn"
+        }
+    ],
+    "年份": "2025",
+    "卷(Volume)": "70 ",
+    "期(Issue)": "06",
+    "摘要": " 硫化铅（Pb S）基热电材料因其组成元素储量丰富、价格低廉、热稳定性高等优势而备受研究人员关注.目前关于Pb S的研究主要聚焦于通过元素重掺杂提高其载流子浓度,以获得优良的中高温热电性能.然而,这种方法导致Pb S近室温热电性能较差,严重制约了其在制冷领域的发展.本工作通过掺杂微量的Ga Bi,优化了n型Pb S的载流子浓度,室温的功率因子达到21.70μW cm<sup>-1</sup>K<sup>-2</sup>.同时,形成的Ga/Bi间隙原子与位错缺陷增强了声子散射,降低了Pb S的晶格热导率,Pb<sub>0.99875</sub>（Ga Bi）<sub>0.00125</sub>S样品在300～773 K的平均ZT值达到0.58.为了进一步优化n型Pb S在宽温域下的热电性能,通过引入Cu原子实现了载流子浓度的动态掺杂,Pb<sub>0.99875</sub>（Ga Bi）<sub>0.00125</sub>S+2%Cu样品的平均功率因子增加至17.6μW cm<sup>-1</sup>K<sup>-2</sup>,平均ZT值进一步提升至0.65.本工作为优化Pb S近室温区热电性能提供了新方法,对于推动Pb S基热电材料在制冷领域的应用具有重要意义.",
+    "关键词": [
+        "热电材料",
+        "n型PbS",
+        "载流子浓度",
+        "动态掺杂",
+        "ZT值"
+    ],
+    "基金资助": [
+        "国家自然科学基金(52102234)",
+        "河北省自然科学基金(E2024106001)",
+        "河北省教育厅科学研究项目(QN2024263)",
+        "石家庄学院博士科研启动基金(22BS006)",
+        "河北省光电信息材料重点实验室补助经费(22567634H)资助"
+    ],
+    "专辑": "基础科学;工程科技Ⅰ辑",
+    "专题": "材料科学",
+    "分类号": "TB34",
+    "页码": "737-745",
+    "页数": "9",
+    "爬取时间": "2025-03-26 06:33:11",
+    "论文唯一代码": "KXTB202506013"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "四大著名小米淀粉晶体/非晶体结构及热变性研究",
+    "状态": "正常",
+    "发表期刊": "江苏调味副食品",
+    "刊发时间": "2024-09-28",
+    "引用量": "1",
+    "下载量": "84",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "周子轩",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "郑海桥",
+            "author_addresses": [
+                "东北林业大学奥林学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王宁",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "李穆婵",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "田晨阳",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "于宏伟",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "03",
+    "摘要": " 采用中红外(MIR)光谱分别开展了四大著名小米(蔚县桃花小米、沁州黄小米、金乡小米、龙山小米)及红谷小米的淀粉晶体/非晶体结构研究。采用二维中红外(2D-MIR)光谱进一步开展了小米淀粉晶体/非晶体结构的热变性研究。",
+    "关键词": [
+        "小米",
+        "淀粉",
+        "晶体/非晶体",
+        "结构",
+        "热变性",
+        "中红外光谱",
+        "二维中红外光谱"
+    ],
+    "基金资助": [
+        "石家庄市麻醉药技术创新中心项目(2023)",
+        "河北省生物制药国际联合中心项目(2023)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "轻工业手工业",
+    "分类号": "TS231",
+    "页码": "21-28",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:33:14",
+    "论文唯一代码": "JSTW202403006"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "中华民族共同体意识与中国“和”文化关系刍议",
+    "状态": "正常",
+    "发表期刊": "中学政治教学参考",
+    "刊发时间": "2024-09-25",
+    "引用量": "0",
+    "下载量": "127",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "唐奎",
+            "author_addresses": [
+                "河北省社会主义学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "马静",
+            "author_addresses": [
+                "河北师范大学",
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "36",
+    "摘要": " 中华民族共同体意识既是人们对中华民族共同体不断进行建构的结果,又是中国“和”文化能动内生的结果。铸牢中华民族共同体意识的辩证逻辑与“和”文化哲学意蕴相连相通,中华民族共同体意识与“和”文化价值理念相互涵养、养分互润。要持续加强“和”文化建设,以“和”文化价值理念润养民族团结之花和中华民族共同体意识。",
+    "关键词": [
+        "“和”文化",
+        "中华民族",
+        "中华民族共同体意识"
+    ],
+    "基金资助": [
+        "河北省教育厅研究生创新资助项目“中国共产党百年历史主题的实践智慧研究”(项目编号:CXZZBS2022057)阶段性成果"
+    ],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学;社会科学Ⅰ辑",
+    "专题": "文化;行政学及国家行政管理",
+    "分类号": "D633;G122",
+    "页码": "75-79",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:33:16",
+    "论文唯一代码": "ZXZZ202436015"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "siRNA靶向干扰TRAF6的表达对肺癌细胞增殖与凋亡的影响",
+    "状态": "正常",
+    "发表期刊": "生物技术进展",
+    "刊发时间": "2024-09-25",
+    "引用量": "0",
+    "下载量": "149",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "赵轩",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "任丽梅",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "河北省高校微生物制药应用技术研发中心",
+                "河北省生物制药国际联合研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王晓茹",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "河北省高校微生物制药应用技术研发中心",
+                "河北省生物制药国际联合研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "韩广欣",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "顾丹丹",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "姚亚森",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "祁永浩",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "河北省生物制药国际联合研究中心",
+                "河北医科大学河北省创新药物研究与评价重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "qiyonghao1009@163.com"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "14 ",
+    "期(Issue)": "05",
+    "摘要": " 研究旨在探究体外干扰肿瘤坏死因子受体相关因子6(tumor necrosis factor receptor-associated factor 6,TRAF6)的表达对肺癌A549细胞增殖与凋亡的影响以及可能的作用机理。siRNA转染A549细胞，运用荧光定量PCR(qPCR)和Western blotting检测siRNA转染后TRAF6的mRNA和蛋白表达水平。CCK-8法检测增殖情况，Annexin V-FITC/PI双染流式细胞术检测细胞凋亡率，Transwell小室探究转染后细胞的侵袭能力，Western blotting检测TRAF6/TAK1通路相关蛋白（TAK1、ub-TAK1、p-TAK1、Bax、Bcl-2）的表达水平。A549细胞经siRNA干扰后，TRAF6 mRNA和蛋白的表达水平与空白对照组相比均显著下降，细胞增殖减少，凋亡增多，且侵袭能力下降明显。同时，干扰TRAF6的表达抑制了TAK1的活化，明显诱导Bax表达，显著抑制了Bcl-2蛋白的表达。结果表明干扰TRAF6的表达可以抑制肺癌细胞的增殖和侵袭，促进凋亡，其作用机制可能与抑制TRAF6/TAK1信号通路活化有关。",
+    "关键词": [
+        "肺癌",
+        "TRAF6",
+        "TAK1",
+        "凋亡"
+    ],
+    "基金资助": [
+        "河北省自然科学基金青年项目（H2022106006）",
+        "石家庄市科学技术研究与发展计划项目(211200973)"
+    ],
+    "专辑": "基础科学;医药卫生科技",
+    "专题": "肿瘤学",
+    "分类号": "R734.2",
+    "页码": "875-881",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:33:20",
+    "论文唯一代码": "SWJZ202405020"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "注射用泮托拉唑钠与组合包材相容性试验中元素杂质迁移研究",
+    "状态": "正常",
+    "发表期刊": "中国药学杂志",
+    "刊发时间": "2024-09-22",
+    "引用量": "0",
+    "下载量": "84",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "周冉",
+            "author_addresses": [
+                "石家庄学院化工学院,石家庄市靶点药物研究与药效学评价重点实验室,河北省核苷类抗病毒药物技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "林佳睿",
+            "author_addresses": [
+                "石家庄学院化工学院,石家庄市靶点药物研究与药效学评价重点实验室,河北省核苷类抗病毒药物技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "高笑颖",
+            "author_addresses": [
+                "石家庄学院化工学院,石家庄市靶点药物研究与药效学评价重点实验室,河北省核苷类抗病毒药物技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "刘斯婕",
+            "author_addresses": [
+                "石家庄学院化工学院,石家庄市靶点药物研究与药效学评价重点实验室,河北省核苷类抗病毒药物技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "王飞",
+            "author_addresses": [
+                "石家庄学院科研处"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "59 ",
+    "期(Issue)": "18",
+    "摘要": " 目的 建立注射用泮托拉唑钠与中性硼硅玻璃管制注射剂瓶-覆膜塞组合包材相容性的电感耦合等离子体质谱(ICP-MS)实验方法。方法 通过提取试验、模拟加速试验条件以及长期试验条件下的迁移实验，考察注射用泮托拉唑钠在不同时间下元素杂质的变化，对侵蚀后的模拟溶液进行分析，预测中硼管制瓶内表面脱片的倾向，并对其迁移量进行安全性评价。结果 ICP-MS法测定各元素的线性关系良好，相关系数r均大于0.999 0,定量限小于其相应限度10%。回收率为97.5%～108.8%。提取实验中，各样品中检出较高的元素为Si、B、Al,但均低于安全限度，其他元素的检出量较小，甚至低于检出限。在加速条件6、12个月和长期条件6、12个月下，包装材料中各种添加成分的元素杂质检测结果均低于分析评价阈值(AET)。结论 该方法能有效测定样品中各杂质元素的含量，并揭示其迁移趋势。组合包材组件与注射用泮托拉唑钠的相容性良好，产品的安全性符合要求，为选择中硼管制瓶-覆膜塞作为内包材提供了科学依据。",
+    "关键词": [
+        "注射用泮托拉唑钠",
+        "中性硼硅玻璃",
+        "覆膜塞",
+        "相容性",
+        "迁移试验"
+    ],
+    "基金资助": [
+        "石家庄市科技计划-青年创新能力提升专项项目资助(241200145A)",
+        "石家庄学院教学改革研究与实践项目-国际化建设专项资助(GJZX-2023009)石家庄学院思政示范课程(KCSZ-202308)"
+    ],
+    "专辑": "医药卫生科技",
+    "专题": "药学",
+    "分类号": "R927.1",
+    "页码": "1741-1747",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:33:24",
+    "论文唯一代码": "ZGYX202418010"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "石家庄市生产性服务业与制造业融合发展研究",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2024-09-20",
+    "引用量": "0",
+    "下载量": "349",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "周德胜",
+            "author_addresses": "石家庄学院经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "陆相林",
+            "author_addresses": "石家庄学院经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "26 ",
+    "期(Issue)": "05",
+    "摘要": " 生产性服务业与制造业的融合发展，对于石家庄市提升产业一体化、空间布局合理化和提高经济整体竞争力具有重要的现实意义。采用耦合协调度模型对2017—2021年石家庄市生产性服务业与制造业耦合协调度进行了实证分析，得出石家庄市两业耦合协调度处于良好耦合发展阶段。选择市场规模、人力资本、技术进步和外部环境4个因素，运用偏相关分析法测算它们与两业耦合协调度的相关系数，结果表明：市场规模、人力资本、外部环境与石家庄市两业协同发展呈显著性相关，而技术进步与石家庄市两业协同发展相关性不显著。因此，石家庄市应提升产业规模，优化产业结构，强化产业链协同；加大R&amp;D投入，提升技术创新与服务能力；加强人才的培养与引进；加强基础设施建设，改善营商环境，促进两业协同发展。",
+    "关键词": [
+        "生产性服务业",
+        "制造业",
+        "产业融合",
+        "耦合协调度模型"
+    ],
+    "基金资助": [
+        "2023年度石家庄市哲学社会科学规划课题研究项目“石家庄市生产性服务业与制造业融合发展研究”（sjzkt2319）"
+    ],
+    "专辑": "社会科学Ⅱ辑;经济与管理科学",
+    "专题": "工业经济;服务业经济;贸易经济",
+    "分类号": "F719;F427",
+    "页码": "53-58",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:33:30",
+    "论文唯一代码": "SSZK202405007"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "新文科背景下文化产业管理专业建设实践与思考——以石家庄学院为例",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2024-09-20",
+    "引用量": "0",
+    "下载量": "200",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张旺芝",
+            "author_addresses": [
+                "石家庄学院经济管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王锋",
+            "author_addresses": [
+                "石家庄学院文学与历史学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "26 ",
+    "期(Issue)": "05",
+    "摘要": " 新文科建设为专业建设提供了新的理论视角和实践思路。在新文科建设理念的指引下，石家庄学院突破传统文科的思维模式，积极探索专业建设新模式，围绕发展定位、方案优化、课程体系构建、教学改革、协同育人及师资建设等，开展了较有成效的实践探索。新文科背景下，文化产业管理专业未来亟需适应时代发展新要求和文化产业新趋势,持续强化习近平新时代中国特色社会主义文化思想的融入与引领，从多个维度全面推进跨界与融合，基于“第三种文化”推进对话与重构，将成为专业建设的重中之重。",
+    "关键词": [
+        "新文科",
+        "文化产业管理",
+        "跨学科整合"
+    ],
+    "基金资助": [
+        "河北省高等教育教学改革研究与实践项目“新文科背景下文化产业管理一流专业建设研究与实践”（2020GJJG398）"
+    ],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学;经济与管理科学",
+    "专题": "文化;高等教育;文化经济",
+    "分类号": "G124-4;G642.3",
+    "页码": "140-144",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:33:34",
+    "论文唯一代码": "SSZK202405019"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "基于可持续发展的职业农民资产建设分析",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2024-09-20",
+    "引用量": "0",
+    "下载量": "71",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "曹玮丽",
+            "author_addresses": [
+                "石家庄学院法学与社会学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "26 ",
+    "期(Issue)": "05",
+    "摘要": " 职业农民是我国农业现代化的主力军。从资产建设角度看，职业农民的资产建设对乡村振兴、现代农业高质量发展和职业农民的持续发展都有重要作用。但是现有职业农民在资产建设方面存在不足，表现为土地资产扩张难、金融资产不足、人力资本有限和社会资本匮乏。为解决这一问题，需要结合我国实际，通过建立土地流转机制、开展金融专项扶持计划、设立现代农民职业教育体系、扩大职业农民社会关系网络和提升职业影响力等措施进行赋能，以推动职业农民资产建设，助力职业农民的可持续发展。",
+    "关键词": [
+        "职业农民",
+        "资产建设",
+        "可持续发展",
+        "乡村振兴"
+    ],
+    "基金资助": [
+        "2021—2022年度石家庄市哲学社会科学规划课题研究项目“乡村振兴背景下农村家庭资产建设研究”（4-22）"
+    ],
+    "专辑": "社会科学Ⅱ辑;社会科学Ⅰ辑;经济与管理科学",
+    "专题": "政党及群众组织;农业经济",
+    "分类号": "F323.6;D422.6",
+    "页码": "37-41",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:33:36",
+    "论文唯一代码": "SSZK202405005"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "河北省农民工欠薪治理现状、问题与对策——基于信用监管视角",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2024-09-20",
+    "引用量": "0",
+    "下载量": "445",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "孙军锋",
+            "author_addresses": "石家庄学院经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王慧娟",
+            "author_addresses": "石家庄学院经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "369312397@qq.com"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "26 ",
+    "期(Issue)": "05",
+    "摘要": " 有效治理农民工欠薪问题一直以来都是热门话题。从信用监管的视角分析，发现河北省农民工欠薪治理还存在传统治理手段局限性日益凸显，信用监管体系不够健全、完善，用工单位不够重视和参与度较低等问题。为此，应构建科学的信用评价体系、优化信用信息采集与管理、引入第三方机构参与信用监管平台的运营、充分发挥守信激励机制的积极引导作用，以加强农民工欠薪问题的信用监管，进而保障农民工合法权益，维护正常市场经济秩序，促进河北省农民工用工市场更加规范健康发展。",
+    "关键词": [
+        "河北省",
+        "农民工工资",
+        "欠薪治理",
+        "信用监管"
+    ],
+    "基金资助": [
+        "河北省人力资源社会保障课题资金支持项目“基于信用监管视角的河北省农民工工资支付模式研究”（JRSHZ-2018-06004）"
+    ],
+    "专辑": "社会科学Ⅱ辑;经济与管理科学",
+    "专题": "人才学与劳动科学;宏观经济管理与可持续发展;农业经济",
+    "分类号": "F249.24;F323.6",
+    "页码": "86-91",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:33:43",
+    "论文唯一代码": "SSZK202405011"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "新时期新闻的文化属性与体系建设再思考",
+    "状态": "正常",
+    "发表期刊": "新闻传播",
+    "刊发时间": "2024-09-20",
+    "引用量": "0",
+    "下载量": "38",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "任洪涛",
+            "author_addresses": "石家庄学院新闻与传媒学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "高达",
+            "author_addresses": "石家庄学院新闻与传媒学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "康鹏旭",
+            "author_addresses": "石家庄学院新闻与传媒学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "18",
+    "摘要": " 新时期,数字化、智能化媒体为新闻学科发展提供新发展机遇的同时,也对新闻的文化属性及体系建设提出了更高的要求和挑战。本文从新闻的文化属性分析入手,对新闻学科体系的逻辑理性、科学理性、公正理性进行探究,由此依次形成媒介的理性客观、社会公信、普世追求等核心竞争力,促使媒体成为中国在社会主义事业建设上走向富强的促进者和推动者。",
+    "关键词": [
+        "新闻",
+        "文化属性",
+        "体系建设"
+    ],
+    "基金资助": [
+        "2022-2023年度河北省高等教育教学改革研究与实践项目《应用型高校新闻学专业体系建设研究与实践》（项目编号：2022GJJG549）"
+    ],
+    "专辑": "信息科技",
+    "专题": "新闻与传媒",
+    "分类号": "G210",
+    "页码": "16-18",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:33:46",
+    "论文唯一代码": "YWCB202418005"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "元代科举兴废与畿辅文坛重构",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2024-09-20",
+    "引用量": "0",
+    "下载量": "151",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王昕",
+            "author_addresses": [
+                "石家庄学院文学与历史学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "26 ",
+    "期(Issue)": "05",
+    "摘要": " 元朝科举的废兴，直接或间接决定了畿辅地区文坛格局的形成和变化。元朝前期长时间科举不行，士人无法通过科举渠道入仕，从而造就大批优秀的书会才人，由此带来畿辅戏剧的繁荣；延祐开科使得士气复振，科举选拔的人才成为畿辅文坛的主体，传统诗文创作逐渐趋于雅正化；后期科举的再废再复使得人心动荡，畿辅文学也逐渐走向衰落。元朝科举的实施情况，不仅影响了士人的人生选择和情感心态，也影响了文人的思想追求和艺术表现方式，畿辅词曲尤其杂剧走在全国通俗文学的前列，诗文在崇古文和尚科艺的较量中也呈现多元化文学面貌。",
+    "关键词": [
+        "元代",
+        "科举",
+        "畿辅",
+        "文坛格局"
+    ],
+    "基金资助": [
+        "石家庄市哲学社会科学规划课题“元代正定文集整理与研究”（sjzkt2317）",
+        "石家庄市社科专家培养资助项目“正定王沂文集校订与研究”（2023zJpy66）"
+    ],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学;社会科学Ⅰ辑",
+    "专题": "中国文学;中国古代史;中国政治与国际政治",
+    "分类号": "I206.2;K247;D691.3",
+    "页码": "119-126+160",
+    "页数": "9",
+    "爬取时间": "2025-03-26 06:33:48",
+    "论文唯一代码": "SSZK202405016"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "华北人民政府时期的教育治理与实践",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2024-09-20",
+    "引用量": "0",
+    "下载量": "199",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王倩",
+            "author_addresses": [
+                "石家庄学院学报编辑部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "巩志娟",
+            "author_addresses": [
+                "石家庄学院马克思主义学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "59651173@qq.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "庞俊丽",
+            "author_addresses": [
+                "石家庄学院教师教育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "祁卉璇",
+            "author_addresses": [
+                "石家庄学院文学与历史学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "郜文华",
+            "author_addresses": [
+                "石家庄学院化工学院/生物医药学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "26 ",
+    "期(Issue)": "05",
+    "摘要": " 华北人民政府在解放战争后期，根据政治和军事形势的变化，着力恢复、整顿和发展教育事业，重视文化教育和各类人才的培养，推进教育向正规化方向转型，在教育治理方面取得了显著成就。积极推动教育方针与教育任务的转变，加强教育行政管理，规范教育教学秩序，强化教育经费保障，为新中国教育事业奠定了基础。",
+    "关键词": [
+        "华北人民政府",
+        "教育",
+        "治理"
+    ],
+    "基金资助": [
+        "2023年度石家庄市哲学社会科学规划课题“华北人民政府与中国式教育现代化研究”（sjzkt2309）",
+        "河北省人力资源和社会保障厅课题“新时代技工院校产教协同育人模式创新研究”（JRSJY-2024-1147）"
+    ],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学",
+    "专题": "中国近现代史;教育理论与教育管理",
+    "分类号": "K266;G529",
+    "页码": "98-103",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:33:50",
+    "论文唯一代码": "SSZK202405013"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "乙基纤维素分子结构三级近红外光谱组学研究",
+    "状态": "正常",
+    "发表期刊": "长沙大学学报",
+    "刊发时间": "2024-09-15",
+    "引用量": "1",
+    "下载量": "64",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "徐元媛",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "孔晓美",
+            "author_addresses": [
+                "河北科技大学化学与制药工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王春润",
+            "author_addresses": [
+                "河北科技大学化学与制药工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "吉一帆",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "柴嘉欣",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "于宏伟",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "河北省麻醉药技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "38 ",
+    "期(Issue)": "05",
+    "摘要": " 基于一维漫反射近红外（NIR）光谱及一维原位漫反射NIR光谱分别研究了乙基纤维素分子结构及平均吸收频率/吸收强度。基于二维原位漫反射NIR光谱进一步研究了乙基纤维素分子官能团变化快慢顺序。实验发现，乙基纤维素分子结构的NIR光谱吸收模式主要包括：CH<sub>3</sub>官能团中红外（MIR）不对称弯曲振动模式(δ<sub>as CH3-一维-MIR</sub>)的2级倍频(ν<sub>1-一维-NIR</sub>)、缔合O-H官能团MIR伸缩振动模式(ν<sub>O-H（缔合）-一维-MIR</sub>)的1级倍频(ν<sub>2-一维-NIR</sub>)、缔合O-H官能团MIR伸缩振动模式的2级倍频(ν<sub>3-一维-NIR</sub>)、C-H官能团MIR伸缩振动模式(ν<sub>C-H-一维-MIR</sub>)和C-C官能团MIR伸缩振动模式(ν<sub>C-C-一维-MIR</sub>)的合频(ν<sub>4-一维-NIR</sub>)、C-H官能团MIR伸缩振动模式和CH<sub>3</sub>官能团MIR对称伸缩振动模式(ν<sub>s CH3-一维-MIR</sub>)的合频(ν<sub>5-一维-NIR</sub>)、CH<sub>3</sub>官能团MIR不对称伸缩振动模式(ν<sub>as CH3-一维-MIR</sub>)和CH<sub>2</sub>官能团MIR不对伸缩振动模式(ν<sub>as CH2-一维-MIR</sub>)的合频(ν<sub>6-一维-NIR</sub>)。室温下，乙基纤维素分子官能团变化快慢顺序存在着一定的差异性。变化快慢顺序为，4 250 cm<sup>-1</sup>(ν<sub>1-2-二维-NIR</sub>)&gt;4 252 cm<sup>-1</sup>(ν<sub>1-1-二维-NIR</sub>)&gt;4 248 cm<sup>-1</sup>(ν<sub>1-3-二维-NIR</sub>),6 988 cm<sup>-1</sup>(ν<sub>2-1-二维-NIR</sub>)&gt;6 976 cm<sup>-1</sup>(ν<sub>2-2-二维-NIR</sub>),11 012 cm<sup>-1</sup>(ν<sub>3-1-二维-NIR</sub>)&gt;10 998 cm<sup>-1</sup>(ν<sub>3-2-二维-NIR</sub>),4 016 cm<sup>-1</sup>(ν<sub>4-1-二维-NIR</sub>)&gt;4 012 cm<sup>-1</sup>(ν<sub>4-2-二维-NIR</sub>),5 777 cm<sup>-1</sup>(ν<sub>5-2-二维-NIR</sub>)&gt;5 774 cm<sup>-1</sup>(ν<sub>5-3-二维-NIR</sub>)&gt;5 782 cm<sup>-1</sup>(ν<sub>5-1-二维-NIR</sub>),5 895 cm<sup>-1</sup>(ν<sub>6-2-二维-NIR</sub>)&gt;5 893 cm<sup>-1</sup>(ν<sub>6-3-二维-NIR</sub>)&gt;5 900 cm<sup>-1</sup>(ν<sub>6-1-二维-NIR</sub>)。三级漫反射NIR光谱组学（包括一维漫反射NIR光谱、一维原位漫反射NIR光谱和二维原位漫反射NIR光谱）技术可以有效开展乙基纤维素分子结构研究。",
+    "关键词": [
+        "乙基纤维素",
+        "一维漫反射近红外光谱",
+        "一维原位漫反射近红外光谱",
+        "二维原位漫反射近红外光谱",
+        "结构"
+    ],
+    "基金资助": [
+        "石家庄市麻醉药技术创新中心项目（石科[2019]34号）",
+        "河北省生物制药国际联合中心项目（冀科外函[2022]3号）"
+    ],
+    "专辑": "社会科学Ⅱ辑;工程科技Ⅰ辑",
+    "专题": "化学;有机化工",
+    "分类号": "O657.33;TQ352.79",
+    "页码": "53-60",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:33:54",
+    "论文唯一代码": "CSDX202405009"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "雾计算发展现状及其应用前景综述",
+    "状态": "正常",
+    "发表期刊": "物联网技术",
+    "刊发时间": "2024-09-15",
+    "引用量": "0",
+    "下载量": "250",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张钰涛",
+            "author_addresses": [
+                "郑州西亚斯学院计算机与软件工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "赵梦凡",
+            "author_addresses": [
+                "郑州西亚斯学院计算机与软件工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张波",
+            "author_addresses": [
+                "郑州西亚斯学院计算机与软件工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "赵铤钊",
+            "author_addresses": [
+                "石家庄学院理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "刘小雨",
+            "author_addresses": [
+                "郑州西亚斯学院计算机与软件工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "14 ",
+    "期(Issue)": "09",
+    "摘要": " 大数据、云计算、人工智能和物联网等新兴技术的产生及迅猛发展，改变了当今世界的信息处理方式，但随着数据爆炸式地增长，云计算逐渐暴露出了延时高、安全性差、能耗大以及拥塞等缺点。为了弥补这些缺点，雾计算应运而生。雾计算是继云计算之后产生的新的计算范式，因其在贴近数据源的网络边缘层进行数据处理和存储，减少了“云”的压力；并且利用去中心化的思想有效解决了长期困扰云计算的延时高、能耗大和拥塞问题，提高了数据处理效率和传输速率，因而迅速成为近些年的研究热点。文中首先介绍了雾计算的发展，然后对雾计算的研究现状进行了总结与分析，将研究进展分为任务调度算法研究、安全机制研究以及其他研究，最后展望了雾计算的实际应用及未来研究方向。",
+    "关键词": [
+        "雾计算",
+        "云计算",
+        "大数据",
+        "物联网",
+        "安全性",
+        "任务调度"
+    ],
+    "基金资助": [
+        "河南省2021年民办普通高等学校学科专业建设资助项目（软件工程专业）"
+    ],
+    "专辑": "信息科技",
+    "专题": "互联网技术",
+    "分类号": "TP393.09",
+    "页码": "114-120",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:33:58",
+    "论文唯一代码": "WLWJ202409032"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "教育家精神引领下学前教师教育课程重构的路径探索",
+    "状态": "正常",
+    "发表期刊": "河北能源职业技术学院学报",
+    "刊发时间": "2024-09-15",
+    "引用量": "1",
+    "下载量": "943",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "许玥",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "茹荣芳",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "24 ",
+    "期(Issue)": "03",
+    "摘要": " 教育家精神的提出符合我国现代化建设的需要以及建设教育强国的战略需要。用教育家精神引领学前教师教育课程的重构，是促进学前教育健康发展的关键一步，既能保障师范生综合素养与专业能力的稳步提升，同时能够引导学前教育专业规范化高效发展，是党和国家对教育事业发展和教师队伍建设提出的划时代战略方针。基于此，本文梳理当前师范类院校学前教育专业教师教育课程各环节存在的问题，探究教育家精神融入学前教师教育课程的价值，从课程目标构建、课程内容创新、课程实施路径以及课程评价体系构建等方面归纳出一条以教育家精神引航学前教师教育课程重构的实践路径，为师范类院校学前教育专业更好地开展教师教育类课程、培育未来教育家打下基础。",
+    "关键词": [
+        "教育家精神",
+        "学前教育",
+        "教师教育课程"
+    ],
+    "基金资助": [
+        "2024年度石家庄市高等教育科学研究项目“教育家精神视域下地方高校学前教育人才培养路径研究”的研究成果"
+    ],
+    "专辑": "工程科技Ⅰ辑;社会科学Ⅱ辑",
+    "专题": "学前教育;高等教育",
+    "分类号": "G61-4;G652.3",
+    "页码": "27-30",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:34:01",
+    "论文唯一代码": "HBXY202403007"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "天然橡胶中蛋白质的酰胺Ⅲ带二级结构及其热变性",
+    "状态": "正常",
+    "发表期刊": "合成橡胶工业",
+    "刊发时间": "2024-09-15",
+    "引用量": "0",
+    "下载量": "120",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "雷晓静",
+            "author_addresses": [
+                "河北科技大学化学与制药工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王春润",
+            "author_addresses": [
+                "河北科技大学化学与制药工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张美环",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "刘荣",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "常明",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "张勇",
+            "author_addresses": [
+                "河北科技大学化学与制药工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "于宏伟",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "徐元媛",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "47 ",
+    "期(Issue)": "05",
+    "摘要": " 采用中红外（MIR）光谱对天然橡胶中蛋白质酰胺Ⅲ带的二级结构及其热变性进行了研究。变温去卷积MIR光谱结果表明，酰胺Ⅲ带二级结构在293～393 K的温度范围内升温时，无规则卷曲、β-折叠、α-螺旋及β-转角二级结构的红外吸收峰强度降低。二维MIR光谱结果表明，酰胺Ⅲ带二级结构对热的敏感程度存在较大差异，其中无规则卷曲二级结构最先改变。热扰动因素下，无规则卷曲二级结构改变是整个酰胺Ⅲ带二级结构改变的关键步骤。",
+    "关键词": [
+        "天然橡胶",
+        "蛋白质二级结构",
+        "酰胺Ⅲ带",
+        "二维中红外光谱",
+        "热变性"
+    ],
+    "基金资助": [
+        "河北省高等学校科学技术研究项目（ZC2021250）",
+        "石家庄市高等教育科学研究项目（20241073）",
+        "石家庄学院教学改革研究与实践项目（JGXM-202408 Y）石家庄学院大学生创新创业训练计划项目（SCXM 0289）"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "有机化工",
+    "分类号": "TQ332",
+    "页码": "389-393",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:34:03",
+    "论文唯一代码": "HCXF202405005"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "含氟药物地塞米松棕榈酸酯分子结构三级近红外光谱研究",
+    "状态": "正常",
+    "发表期刊": "有机氟工业",
+    "刊发时间": "2024-09-15",
+    "引用量": "1",
+    "下载量": "77",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "杜林楠",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "孟肖",
+            "author_addresses": [
+                "山西医科大学基础医学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "刘诗琪",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "孔晓美",
+            "author_addresses": [
+                "河北科技大学化学与制药工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "雷晓静",
+            "author_addresses": [
+                "河北科技大学化学与制药工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "吉一帆",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "柴嘉欣",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "于宏伟",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "河北省麻醉药技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "03",
+    "摘要": " 利用一维漫反射近红外（NIR）光谱和一维原位漫反射NIR光谱分别开展了地塞米松棕榈酸酯分子结构和平均吸收频率/吸收强度的研究。利用二维原位漫反射NIR光谱进一步开展了地塞米松棕榈酸酯分子官能团变化快慢顺序的研究。研究发现，地塞米松棕榈酸酯分子结构的NIR光谱吸收模式主要包括游离O—H官能团伸缩振动倍频模式(ν<sub>1-一维</sub>)、缔合O—H官能团伸缩振动倍频模式(ν<sub>2-一维</sub>)、CH<sub>2</sub>官能团对称伸缩振动倍频模式(ν<sub>3-一维</sub>)、C=O官能团伸缩振动倍频模式(ν<sub>4-一维</sub>)、CH<sub>2</sub>官能团不对称伸缩振动和CH<sub>2</sub>官能团对称伸缩振动合频模式(ν<sub>5-一维</sub>)。地塞米松棕榈酸酯分子结构2级倍频模式NIR光谱吸收频率数据重现性相对较差，而1级倍频模式NIR光谱吸收频率数据重现性相对较好。室温下，地塞米松棕榈酸酯分子官能团变化快慢顺序存在着一定的差异性。一维原位漫反射NIR/二维原位漫反射NIR光谱联用技术可以有效开展地塞米松棕榈酸酯分子结构研究。",
+    "关键词": [
+        "地塞米松棕榈酸酯",
+        "一维漫反射近红外光谱",
+        "一维原位漫反射近红外光谱",
+        "二维原位漫反射近红外光谱",
+        "结构"
+    ],
+    "基金资助": [
+        "石家庄市麻醉药技术创新中心项目(石科【2019】34号)",
+        "河北省生物制药国际联合中心项目(冀科外函【2022】3号)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学;有机化工",
+    "分类号": "TQ460.1;O657.33",
+    "页码": "16-24",
+    "页数": "9",
+    "爬取时间": "2025-03-26 06:34:06",
+    "论文唯一代码": "YJFG202403005"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "聚偏二氟乙烯γ晶型结构中红外光谱研究",
+    "状态": "正常",
+    "发表期刊": "化学推进剂与高分子材料",
+    "刊发时间": "2024-09-13 12:49",
+    "引用量": "2",
+    "下载量": "143",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "常利双",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "柴嘉欣",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王宁",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "杨子佳",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "游子涵",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "于宏伟",
+            "author_addresses": [
+                "石家庄学院化工学院",
+                "河北省麻醉药技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "yhw0411@163.com"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "22 ",
+    "期(Issue)": "05",
+    "摘要": " 采用中红外（MIR）光谱（包括：一维MIR光谱、二阶导数MIR光谱、四阶导数MIR光谱及去卷积MIR光谱）分别开展聚偏二氟乙烯（PVDF） γ晶型结构研究。实验发现，303K温度下，PVDFγ晶型结构的红外吸收频率(ν（γ晶型结构–去卷积）)为1235.75cm<sup>–1</sup>。采用去卷积变温MIR光谱进一步开展了温度变化对于PVDF γ晶型结构的影响研究。实验发现，在303～523K，随着测定温度的升高，PVDF（γ晶型结构–去卷积）对应的吸收强度增加。温度的增加会促进PVDF部分α晶型及β晶型转变为γ晶型。采用二维MIR光谱进一步开展了PVDF γ晶型结构热变性的研究。在303～523K，PVDF γ晶型结构吸收峰对于温度变化的敏感程度及变化快慢信息均存在着一定的差异。相变前，PVDF γ晶型结构吸收峰变化快慢信息为：1237cm<sup>–1</sup>处(ν（γ晶型结构–2–二维–相变前）)吸收峰变化早于1241cm<sup>–1</sup>处(ν（γ晶型结构–1–二维–相变前）)吸收峰；相变过程中，PVDF γ晶型结构吸收峰变化快慢信息依次为：1244cm<sup>–1</sup>处(ν（γ晶型结构–1–二维–相变过程中）)吸收峰、1239cm<sup>–1</sup>处(ν（γ晶型结构–2–二维–相变过程中）)吸收峰、1236cm<sup>–1</sup>处(ν（γ晶型结构–3–二维–相变过程中）)吸收峰和1234cm<sup>–1</sup>处(ν（γ晶型结构–4–二维–相变过程中）)吸收峰。",
+    "关键词": [
+        "聚偏二氟乙烯",
+        "中红外光谱",
+        "变温中红外光谱",
+        "二维中红外光谱",
+        "γ晶型结构"
+    ],
+    "基金资助": [
+        "石家庄市麻醉药技术创新中心项目(石科[2019]34号)",
+        "河北省生物制药国际联合中心项目(冀科外函[2022]3号)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学;有机化工",
+    "分类号": "TQ317;O657.33",
+    "页码": "65-73",
+    "页数": "9",
+    "爬取时间": "2025-03-26 06:34:08",
+    "论文唯一代码": "HXTJ202405013"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "基于肝脏代谢组学的酸枣仁汤抗抑郁作用机制研究",
+    "状态": "正常",
+    "发表期刊": "中国中药杂志",
+    "刊发时间": "2024-09-03 13:04",
+    "引用量": "1",
+    "下载量": "911",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李静",
+            "author_addresses": [
+                "石家庄学院,河北省藏药质量技术创新中心",
+                "河北科技大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "童亚男",
+            "author_addresses": [
+                "石家庄以岭药业股份有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王宏涛",
+            "author_addresses": [
+                "石家庄以岭药业股份有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "赵韶华",
+            "author_addresses": [
+                "石家庄以岭药业股份有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "陈伟燕",
+            "author_addresses": [
+                "河北医科大学第二医院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "李志伟",
+            "author_addresses": [
+                "河北科技大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "lizhiwei@hebust.edu.cn"
+        },
+        {
+            "author_order": 7,
+            "author_name": "刘敏彦",
+            "author_addresses": [
+                "石家庄学院,河北省藏药质量技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "liuminyan75@163.com"
+        }
+    ],
+    "年份": "2025",
+    "卷(Volume)": "50 ",
+    "期(Issue)": "01",
+    "摘要": " 采用LC-MS代谢组学技术，分析酸枣仁汤对慢性不可预知温和应激(CUMS)抑郁大鼠肝脏内源性代谢物调控作用，探索酸枣仁汤抗抑郁的作用机制。将大鼠随机分为正常组、模型组、酸枣仁汤低剂量组、酸枣仁汤高剂量组和阳性药组，采用禁食、禁水、冰水游泳、热水游泳、昼夜颠倒、夹尾、束缚等刺激，复制CUMS大鼠抑郁模型，造模与给药持续56d。观察各组大鼠行为学指标(大鼠体质量、旷场实验、糖水偏好实验和悬尾实验),收集大鼠血浆和肝脏组织，采用酶联免疫吸附测定(ELISA)检测血浆中5-羟色胺(5-HT)、多巴胺(DA)、去甲肾上腺素(NE)的含量，采用LC-MS代谢组学方法分析酸枣仁汤对CUMS模型大鼠肝脏代谢轮廓的调节作用。结果显示酸枣仁汤能显著改善CUMS模型大鼠的抑郁样行为，升高血浆中5-HT、DA、NE的神经递质水平；通过LC-MS代谢组学技术在肝脏中鉴定出24种差异代谢物，酸枣仁汤能回调其中的13种；代谢通路分析共筛选得到9条与抑郁显著相关的代谢通路，酸枣仁汤低剂量组能调节其中的4条，包括戊糖磷酸途径、嘌呤代谢、磷酸肌醇代谢、鞘脂代谢；酸枣仁汤高剂量组能调节其中的2条，包括鞘脂代谢和甘油磷脂代谢。鞘脂代谢是酸枣仁汤在不同剂量下均可调节的代谢通路，推测可能是其改善CUMS模型大鼠肝脏代谢紊乱的主要途径。",
+    "关键词": [
+        "酸枣仁汤",
+        "慢性不可预知温和应激抑郁",
+        "作用机制",
+        "UPLC-Q-TOF-MS",
+        "肝脏代谢组学",
+        "代谢通路"
+    ],
+    "基金资助": [
+        "河北省自然科学基金项目(H2022106048)",
+        "河北省中央引导地方科技发展项目(236Z2502G)",
+        "石家庄学院博士科研启动基金项目(22BS001)"
+    ],
+    "专辑": "医药卫生科技",
+    "专题": "中药学",
+    "分类号": "R285.5",
+    "页码": "19-31",
+    "页数": "13",
+    "爬取时间": "2025-03-26 06:34:10",
+    "论文唯一代码": "ZGZY202501003"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "基于PBL教学法的普通动物学实验课程的教学探索与研究",
+    "状态": "正常",
+    "发表期刊": "医学动物防制",
+    "刊发时间": "2024-09-03",
+    "引用量": "1",
+    "下载量": "154",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "杜鑫",
+            "author_addresses": [
+                "河北农业大学海洋学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "潘哲",
+            "author_addresses": [
+                "河北农业大学海洋学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张琳琳",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "马宁",
+            "author_addresses": [
+                "石家庄市育英小学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "杜明",
+            "author_addresses": [
+                "邯郸市曙光第六小学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "林双龙",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "王宇",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "剧慧栋",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "juhuidong@aliyun.com"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "40 ",
+    "期(Issue)": "11",
+    "摘要": " 为探索与研究问题驱动学习(problem based learning, PBL)教学法在普通动物学实验课程的应用及效果，按照普通动物学实验课程的一般讲授方法，课题组设计了PBL教学模式和流程，包括设置问题、自主学习、小组讨论、总结评价、结合生产实践教学。课程改革教学效果良好，学生的期末考试成绩得到提升，对照组的平均实验成绩为76.92分，实验组的平均实验成绩为96.93分；实验组学生对PBL教学模式的评价满意度高，对照组对教师认可度评价为69.74分，实验组对教师的评价为满分70.00分。将PBL教学法引入普通动物学实验课程后，从实际效果看，PBL教学法在实验类课程中的作用相当显著，其与实验类课程极为契合，该教学法不仅有利于学生对理论知识的梳理和学习，更能提高学生独立思考问题、解决问题的能力。",
+    "关键词": [
+        "PBL教学法",
+        "普通动物学",
+        "教学模式与流程",
+        "探索与研究",
+        "对照组",
+        "实验组"
+    ],
+    "基金资助": [
+        "河北省高等教育教学改革研究与实践项目(2022GJJG541)",
+        "河北省自然科学基金面上项目(C2022106002)",
+        "河北农业大学人才引进基金专项(YJ2020020)河北农业大学海洋学院创新创业类项目(2021KY15)",
+        "石家庄市科技计划项目(241460085A)",
+        "石家庄市高等教育科学研究项目(20230323)",
+        "石家庄学院教学改革研究与实践项目(JGXM-202210X,JGXM-202221P)"
+    ],
+    "专辑": "医药卫生科技;基础科学;社会科学Ⅱ辑",
+    "专题": "生物学;高等教育",
+    "分类号": "Q95-4;G642",
+    "页码": "1103-1107",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:34:13",
+    "论文唯一代码": "YXDZ202411014"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "胀包学生饮用乳中不解糖嗜胨菌的鉴定",
+    "状态": "正常",
+    "发表期刊": "乳业科学与技术",
+    "刊发时间": "2024-09-01",
+    "引用量": "0",
+    "下载量": "24",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "高佳丽",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王晓茹",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "肖霄",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "陈佳",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "孟德尚",
+            "author_addresses": [
+                "北京市茶叶质量监督检验站"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "18811753887@163.com"
+        },
+        {
+            "author_order": 6,
+            "author_name": "孙伟",
+            "author_addresses": [
+                "河北省知识产权保护中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "1172938405@qq.com"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "47 ",
+    "期(Issue)": "05",
+    "摘要": " 以学生饮用乳（发酵乳）来源的不解糖嗜胨菌为研究对象，基于分离计数、形态学观察、生化鉴定、基质辅助激光解吸电离飞行时间质谱（matrix-assisted laser desorption ionization-time-of-flight mass spectrometry,MALDITOF MS）和全基因组测序技术，建立适用于不解糖嗜胨菌的鉴定方法。结果表明：不解糖嗜胨菌在PCA培养基上厌氧环境下生长较适；在全自动微生物鉴定系统上鉴定为不解糖嗜胨菌，置信度98%;MALDI-TOF MS鉴定为不解糖嗜胨菌，鉴定比对值为2.241。通过全基因组测序，平均核苷酸一致性分析结果为98.58%。利用本研究建立的方法能够满足不解糖嗜胨菌的快速、准确鉴定，符合食品安全检测需求。",
+    "关键词": [
+        "学生饮用乳(发酵乳)",
+        "不解糖嗜胨菌",
+        "菌株鉴定",
+        "基质辅助激光解吸电离飞行时间质谱",
+        "全基因组测序"
+    ],
+    "基金资助": [
+        "河北省高等学校科学技术研究项目（ZC2023112）"
+    ],
+    "专辑": "农业科技;工程科技Ⅰ辑",
+    "专题": "轻工业手工业",
+    "分类号": "TS252.7",
+    "页码": "7-11",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:34:15",
+    "论文唯一代码": "RYKJ202405002"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "Taq Man探针实时荧光定量聚合酶链式反应检测低温酸乳中常见的霉菌和酵母",
+    "状态": "正常",
+    "发表期刊": "乳业科学与技术",
+    "刊发时间": "2024-09-01",
+    "引用量": "1",
+    "下载量": "72",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张捷",
+            "author_addresses": [
+                "河北省食品检验研究院,河北省食品安全重点实验室,国家市场监督管理总局重点实验室(特殊食品监管技术),特殊食品安全与健康河北省工程研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "陈勃旭",
+            "author_addresses": [
+                "河北省食品检验研究院,河北省食品安全重点实验室,国家市场监督管理总局重点实验室(特殊食品监管技术),特殊食品安全与健康河北省工程研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "杜海宽",
+            "author_addresses": [
+                "河北省食品检验研究院,河北省食品安全重点实验室,国家市场监督管理总局重点实验室(特殊食品监管技术),特殊食品安全与健康河北省工程研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张子仑",
+            "author_addresses": [
+                "河北省食品检验研究院,河北省食品安全重点实验室,国家市场监督管理总局重点实验室(特殊食品监管技术),特殊食品安全与健康河北省工程研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "严陶陶",
+            "author_addresses": [
+                "河北省食品检验研究院,河北省食品安全重点实验室,国家市场监督管理总局重点实验室(特殊食品监管技术),特殊食品安全与健康河北省工程研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "陈佳",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "chenjia0311@aliyun.com"
+        },
+        {
+            "author_order": 7,
+            "author_name": "周巍",
+            "author_addresses": [
+                "河北省食品检验研究院,河北省食品安全重点实验室,国家市场监督管理总局重点实验室(特殊食品监管技术),特殊食品安全与健康河北省工程研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "zhouwei0311@aliyun.com"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "47 ",
+    "期(Issue)": "05",
+    "摘要": " 为提高低温酸乳中霉菌和酵母菌检测效率，根据保守基因延伸因子1α(elongation factor 1α,EF-1α)序列分别针对霉菌与酵母菌设计引物与探针，利用实时荧光定量聚合酶链式反应，基于Taq Man探针分别建立霉菌和酵母菌检测方法。以低温酸乳中常见真菌与乳酸菌基因组DNA为扩增模板进行特异性检验，并对方法灵敏度与重复性进行检验，同时构建标准曲线。结果表明：根据EF-1α基因设计的引物与探针特异性良好；所构建的标准曲线相关系数均大于0.99；该方法检测酵母菌的灵敏度为101 CFU/m L，检测霉菌的灵敏度为102 CFU/m L；重复性检验中组内与组间的变异系数均小于2%，表明方法具有良好的可靠性与稳定性，适用于低温酸乳中霉菌与酵母菌的快速检测。",
+    "关键词": [
+        "Taq Man探针",
+        "霉菌",
+        "酵母",
+        "实时荧光定量聚合酶链式反应",
+        "低温酸乳"
+    ],
+    "基金资助": [
+        "河北省市场监督管理局科技计划项目（2023ZD20）",
+        "河北省高等学校科学技术研究项目（ZC2023112）",
+        "国家市场监督管理总局科技创新人才计划项目（QNBJ202323）"
+    ],
+    "专辑": "农业科技;工程科技Ⅰ辑",
+    "专题": "化学;轻工业手工业",
+    "分类号": "TS252.7;O657.3",
+    "页码": "20-24",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:34:19",
+    "论文唯一代码": "RYKJ202405004"
+}

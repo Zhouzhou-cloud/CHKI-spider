@@ -1,0 +1,1784 @@
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "房地产企业土地增值税税收筹划探究",
+    "状态": "正常",
+    "发表期刊": "行政事业资产与财务",
+    "刊发时间": "2022-11-28",
+    "引用量": "5",
+    "下载量": "524",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "苏志超",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "22",
+    "摘要": " 房地产企业市场收缩，增加了企业的运营负担。如何管控与协调组织环境，应对市场的竞争问题，则成为房地产企业的发展重点。基于此，本文以房地产企业税收筹划为切入点，阐述土地增值税、税收筹划的意义，指出房地产企业土地增值税税收筹划必要性，并对具体税收筹划路径进行研究。",
+    "关键词": [
+        "房地产企业",
+        "土地增值税",
+        "税收筹划"
+    ],
+    "基金资助": [],
+    "专辑": "经济与管理科学",
+    "专题": "宏观经济管理与可持续发展;财政与税收",
+    "分类号": "F812.42;F299.233.42",
+    "页码": "32-34",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:25:16",
+    "论文唯一代码": "XZSY202222011"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "创新创业背景下大学生知识产权素养教育的实践探索与思考",
+    "状态": "正常",
+    "发表期刊": "创新创业理论研究与实践",
+    "刊发时间": "2022-11-25",
+    "引用量": "5",
+    "下载量": "367",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "郝家宝",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "5 ",
+    "期(Issue)": "22",
+    "摘要": " 通过分析创新创业教育融入知识产权素养教育的必要性，并结合石家庄学院以知识产权工程师培训班、公共选修课等形式开展知识产权素养教育的相关实践，从转变教育理念、优化课程体系、丰富课程资源、整合师资队伍、探索培养模式等方面对知识产权素养教育的实践要点进行思考与展望，希望能为相关高校开展知识产权素养教育提供有益参考。",
+    "关键词": [
+        "创新创业",
+        "知识产权素养",
+        "知识产权工程师",
+        "实践探索"
+    ],
+    "基金资助": [
+        "新工科背景下专利信息检索与运用课程研究与实践（JY2021022）"
+    ],
+    "专辑": "社会科学Ⅱ辑;社会科学Ⅰ辑",
+    "专题": "民商法;高等教育",
+    "分类号": "D923.4;G642",
+    "页码": "105-108",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:25:29",
+    "论文唯一代码": "CXYL202222033"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "社会主义核心价值观融入高校校园文化建设的实践路径探究——以石家庄学院为例",
+    "状态": "正常",
+    "发表期刊": "大学",
+    "刊发时间": "2022-11-25",
+    "引用量": "1",
+    "下载量": "126",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "谷伟",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "鲍玉芹",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "33",
+    "摘要": " 当代大学生是建设社会主义现代化国家的重要力量之一，高校应高度重视青年群体的价值观塑造。当前，在部分学生中出现了不同程度的马克思主义信仰的淡化和缺失、理想信念不坚定、集体主义和社会责任感不强等问题。高校应通过意识形态建设、发掘核心价值观建设的多样载体、形成心理认同机制、理论与实践相结合等多种方式，探索社会主义核心价值观融入高校校园文化建设的有效路径。",
+    "关键词": [
+        "大学生",
+        "校园文化",
+        "社会主义核心价值观"
+    ],
+    "基金资助": [
+        "2019年度石家庄市哲学社会科学规划课题研究项目“新时代社会主义核心价值观融入高校校园文化建设的实践路径探究”（项目编号：WH1901）研究成果"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "高等教育",
+    "分类号": "G641",
+    "页码": "38-41",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:25:40",
+    "论文唯一代码": "DXYP202233010"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "河北省发展红色旅游 助力乡村振兴",
+    "状态": "正常",
+    "发表期刊": "河北农业",
+    "刊发时间": "2022-11-25",
+    "引用量": "0",
+    "下载量": "291",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "周志平",
+            "author_addresses": [
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "马文慧",
+            "author_addresses": [
+                "华北科技学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李凌云",
+            "author_addresses": [
+                "燕赵农村报社"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "刘柳",
+            "author_addresses": [
+                "北京市潞河中学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "11",
+    "摘要": " &lt;正&gt;2020年，全国范围内都已按计划消除了绝对贫困。接续推进全面脱贫、促进乡村振兴、走共同富裕之路将成为国内新农村建设的核心任务。2020年3月6日，习近平总书记在脱贫攻坚座谈会上指出，要“接续推进全面脱贫与乡村振兴有效衔接。脱贫摘帽不是终点，而是新生活、新奋斗的起点……要加快建立防止返贫监测和帮扶机制。”其实，只要我们善于依托自身优势，规划新的起点，科学制定短期目标和长期规划，充分利用各种资源优势，优化顶层设计，",
+    "关键词": [],
+    "基金资助": [
+        "2022年河北省文化艺术科学规划和旅游研究项目课题,编号：HB22-YB041"
+    ],
+    "专辑": "农业科技;经济与管理科学",
+    "专题": "农业经济;旅游",
+    "分类号": "F327;F592.7",
+    "页码": "11-13",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:25:55",
+    "论文唯一代码": "HBLI202211004"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "二氧化硅分子三级中红外光谱研究",
+    "状态": "正常",
+    "发表期刊": "保定学院学报",
+    "刊发时间": "2022-11-24",
+    "引用量": "20",
+    "下载量": "432",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "于宏伟",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张美环",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "赵毅哲",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "35 ",
+    "期(Issue)": "06",
+    "摘要": " 采用中红外（MIR）光谱技术开展了二氧化硅分子结构研究.红外光谱测试结果表明：二氧化硅分子红外吸收模式主要包括 ν<sub>as Si-O-二氧化硅</sub>、ν<sub>s Si-O-二氧化硅</sub>和 ν<sub>结晶-二氧化硅</sub>等.进一步开展了二氧化硅分子的变温中红外（TD-MIR）光谱研究.实验发现：在 303～573 K 的温度范围内，二氧化硅分子主要官能团的吸收峰强度及频率均有改变.采用二维中红外（2D-MIR）光谱进一步研究了二氧化硅分子主要官能团吸收峰对于热的敏感程度及变化快慢的信息.本项研究拓展了三级中红外光谱在重要的无机矿物盐（二氧化硅）结构及热变性的研究范围.",
+    "关键词": [
+        "二氧化硅",
+        "中红外光谱",
+        "变温中红外光谱",
+        "二维中红外光谱",
+        "热变性"
+    ],
+    "基金资助": [
+        "河北省高等学校科学技术研究项目“中药材忍冬农药残留及限度控制研究”（ZC2021250）"
+    ],
+    "专辑": "社会科学Ⅱ辑;工程科技Ⅰ辑",
+    "专题": "化学;无机化工",
+    "分类号": "O657.33;TQ127.2",
+    "页码": "109-116",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:26:09",
+    "论文唯一代码": "BDSZ202206015"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "生物基PA56织物的板栗壳色素染色",
+    "状态": "正常",
+    "发表期刊": "印染",
+    "刊发时间": "2022-11-22",
+    "引用量": "3",
+    "下载量": "265",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "杜培波",
+            "author_code": "000057988592",
+            "author_addresses": [
+                "东华大学化学与化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张施岚",
+            "author_code": "000015868740",
+            "author_addresses": [
+                "东华大学化学与化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "蔡再生",
+            "author_code": "000039282193",
+            "author_addresses": [
+                "东华大学化学与化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王娟",
+            "author_code": "000046593557",
+            "author_addresses": [
+                "石家庄学院河北省纤维材料技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "葛凤燕",
+            "author_code": "000036750607",
+            "author_addresses": [
+                "东华大学化学与化工学院",
+                "国家先进印染技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "dhufyge@163.com"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "48 ",
+    "期(Issue)": "11",
+    "摘要": " 试验采用天然板栗壳色素染料对生物基PA56织物进行染色，探讨了pH、染色温度等因素对织物染色性能的影响。结果表明：染色织物的耐干、湿摩擦色牢度可达3～4级，耐水洗色牢度可达到4级，耐汗渍色牢度可达4级，耐日晒色牢度可达2～3级；织物具有良好的抗紫外线和抗菌性能，紫外线防护系数（UPF）达到299；对大肠埃希菌和金黄葡萄球菌的抑菌率分别达到99.53%和92.80%；织物本征阻燃特性未受到明显影响。",
+    "关键词": [
+        "染色",
+        "板栗壳",
+        "抗紫外",
+        "抗菌",
+        "生物基PA 56"
+    ],
+    "基金资助": [
+        "国家先进印染技术创新中心科研基金项目（ZJ2021A13）",
+        "河北省纤维材料技术创新中心科研基金项目（SG2020022）",
+        "国家重点研发计划资助项目（2017YFB0309400）"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "轻工业手工业",
+    "分类号": "TS193.62",
+    "页码": "20-22",
+    "页数": "3",
+    "爬取时间": "2025-03-28 03:01:46",
+    "论文唯一代码": "YIRA202211005"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "加强地方高校高层次人才引进资金管理的建议",
+    "状态": "正常",
+    "发表期刊": "财务与会计",
+    "刊发时间": "2022-11-20",
+    "引用量": "2",
+    "下载量": "257",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张旺芝",
+            "author_code": "000019551053",
+            "author_addresses": [
+                "河北师范大学",
+                "石家庄学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘珊",
+            "author_code": "000053313383",
+            "author_addresses": [
+                "石家庄铁道大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "成军",
+            "author_code": "000053313382",
+            "author_addresses": [
+                "河北省财政政策信息服务中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "22",
+    "摘要": " &lt;正&gt;地方高校为提高人才引进资金使用效能，需要对人才引进专项资金精准化管理，加强人才引进资金的预算管理，完善资金绩效评价机制，有效促进人才发展。（一）加强资金预算管理，科学规划和分配高层次人才引进资金地方高校应将人才资金预算与发展实际相结合，科学规划和分配高层次人才资金，精准匹配地方高校的办学目标与发展需要，",
+    "关键词": [],
+    "基金资助": [
+        "河北省省级科技计划软科学研究专项资助“河北省科技人才分类评价指标体系构建与应用研究”<21557667D>的阶段性成果之一"
+    ],
+    "专辑": "经济与管理科学;社会科学Ⅱ辑",
+    "专题": "高等教育;会计",
+    "分类号": "G647.5",
+    "页码": "80-81",
+    "页数": "2",
+    "爬取时间": "2025-03-28 03:01:56",
+    "论文唯一代码": "CWKJ202222022"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "锻炼正念对青少年锻炼坚持的影响及内部机制",
+    "状态": "正常",
+    "发表期刊": "首都体育学院学报",
+    "刊发时间": "2022-11-15",
+    "引用量": "2",
+    "下载量": "1112",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "靳明",
+            "author_code": "000038979611",
+            "author_addresses": [
+                "石家庄学院体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "靳勇",
+            "author_code": "000040759483",
+            "author_addresses": [
+                "首都体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "jinyong73@163.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "潘乐",
+            "author_code": "000007712622",
+            "author_addresses": [
+                "石家庄学院体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "冯蕾",
+            "author_code": "000027243648",
+            "author_addresses": [
+                "石家庄学院体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "34 ",
+    "期(Issue)": "06",
+    "摘要": " 目的：分析锻炼正念对锻炼坚持的影响及内部机制。方法：以2 290名青少年为研究对象，运用统计软件“SPSS24.0”，采用Pearson相关分析法分析锻炼正念、锻炼投入、锻炼效果满意的相关性。运用统计软件“AMOS22.0”，采用结构方程模型分析锻炼投入、锻炼效果满意的链式中介作用，利用放回式抽样统计法对中介作用进行进一步检验。结果：锻炼正念对锻炼周期长度、锻炼频率、锻炼时长具有正向显著影响（p &lt;0.05）；锻炼投入在青少年锻炼正念和锻炼坚持之间具有中介作用（中介效应占总效应的27.5%），锻炼效果满意在青少年锻炼正念和锻炼坚持之间具有中介作用（中介效应占总效应的35.3%）；锻炼投入和锻炼效果满意在青少年锻炼正念和锻炼坚持之间具有链式中介作用（链式中介效应占总效应的17.6%）。结论：锻炼正念正向显著影响青少年锻炼坚持；锻炼正念以锻炼投入和锻炼效果满意为单独中介分别正向影响青少年锻炼坚持，即锻炼正念可通过锻炼投入正向影响青少年锻炼坚持，也可通过锻炼效果满意正向影响青少年锻炼坚持；锻炼正念以锻炼投入和锻炼效果满意为链式中介共同正向影响青少年锻炼坚持，即锻炼正念顺序性先影响锻炼投入再影响锻炼效果满意，进而正向影响青少年锻炼坚持。",
+    "关键词": [
+        "锻炼正念",
+        "锻炼坚持",
+        "内部机制"
+    ],
+    "基金资助": [
+        "教育部人文社会科学规划基金（20YJA890010）"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G804.8",
+    "页码": "679-687",
+    "页数": "9",
+    "爬取时间": "2025-03-28 03:03:16",
+    "论文唯一代码": "BTSF202206010"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "“双减”政策下地方院校师范生就业现状分析与思考——基于对河北省5所高校师范生就业数据的分析",
+    "状态": "正常",
+    "发表期刊": "中国就业",
+    "刊发时间": "2022-11-15",
+    "引用量": "0",
+    "下载量": "1033",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "檀慧",
+            "author_code": "000018153669",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "韩明会",
+            "author_code": "000023282563",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "冯笑颜",
+            "author_code": "000015502552",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "李芳",
+            "author_code": "000036498381",
+            "author_addresses": "石家庄学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "11",
+    "摘要": " &lt;正&gt;2021年7月中共中央办公厅、国务院办公厅联合印发了《关于进一步减轻义务教育阶段学生作业负担和校外培训负担的意见》（简称“双减”政策），政策以提升学校教育教学质量、全面规范校外培训机构、有效减轻义务教育阶段学生过重作业负担和校外培训负担等为内容，以强化素质教育、构建良好的教育生态为核心要义。“双减”政策在减轻学生作业负担过重、治理校外培训机构、缓解家长“教育焦虑症”及提升课后服务质量方面取得积极成效。",
+    "关键词": [],
+    "基金资助": [
+        "2022年度河北省人力资源和社会保障研究课题：“双减”政策对师范生就业影响与对策探析（编号：JRS-2022-1022）"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "高等教育",
+    "分类号": "G657.38",
+    "页码": "7-9",
+    "页数": "3",
+    "爬取时间": "2025-03-28 03:03:25",
+    "论文唯一代码": "GGJX202211003"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "基于信息素养的高校基础英语教学模式研究",
+    "状态": "正常",
+    "发表期刊": "产业与科技论坛",
+    "刊发时间": "2022-11-15",
+    "引用量": "0",
+    "下载量": "80",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王哲",
+            "author_code": "000051880643",
+            "author_addresses": "石家庄学院外国语学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘丛姣",
+            "author_code": "000051880642",
+            "author_addresses": "石家庄学院外国语学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "21 ",
+    "期(Issue)": "22",
+    "摘要": " 在科技迅速发展的大背景下，我国逐渐迈入了信息时代。在信息时代，社会对高素质人才的需求量不断增加，尤其是对兼具较高英语水平和信息素养的人才的需求日益增大。事实上，这给高校的英语教学带来了巨大的挑战，高校的英语教师一方面应当探索提升英语教学水平的方法，另一方面应当兼顾学生信息素养的培养。与此同时，从事英语教学的高校英语教师逐渐意识到了基础英语教学的重要性。通过科学合理的方式开展基础英语教学，一方面可以帮助学生打下坚实的英语学习基础，另一方面有利于学生信息素养的培养。鉴于此，基础英语教学在高校教学中的地位日益凸显。然而通过深入分析高校基础英语教学的现状可以发现，其中还存在许多问题亟待解决，基础英语教学的教学效益非常低。因此，提升高校基础英语教学效果的方法就成为了高校英语教师所面临的核心问题。本文从信息素养视角分析了高校基础英语教学的现状，继而为推动基础英语教学和信息素养的融合发展提出了一些建议，以期可以有效地提升高校基础英语教学的效果，为学生的英语学习打下坚实知识基础。",
+    "关键词": [
+        "信息素养",
+        "高等学校",
+        "基础英语",
+        "教学模式"
+    ],
+    "基金资助": [],
+    "专辑": "经济与管理科学;哲学与人文科学;社会科学Ⅱ辑;信息科技",
+    "专题": "外国语言文字;教育理论与教育管理;计算机软件及计算机应用",
+    "分类号": "G434;H319.3",
+    "页码": "150-151",
+    "页数": "2",
+    "爬取时间": "2025-03-28 03:03:35",
+    "论文唯一代码": "CYYT202222062"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "运营商汇聚机房的规划选址研究",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2022-11-12",
+    "引用量": "0",
+    "下载量": "82",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "潘亮",
+            "author_code": "000061824027",
+            "author_addresses": [
+                "中通服咨询设计研究院有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "康元元",
+            "author_code": "000024269363",
+            "author_addresses": [
+                "石家庄学院机电学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "24 ",
+    "期(Issue)": "06",
+    "摘要": " 汇聚机房是各运营商本地网网络架构的关键，是快速收敛业务、维持网络稳定的重要因素.基于“他山之石，可以攻玉”的理念，借鉴电力变电站的建设方法，提出了2个汇聚机房的建设模型，分别是：基于业务量带宽需求的汇聚机房面积测算模型以及基于粒子群优化算法的汇聚机房选址模型，详细分析了汇聚机房的建设原则以及最优的选址方法.",
+    "关键词": [
+        "汇聚机房",
+        "变电站",
+        "机房面积",
+        "最大负荷法",
+        "粒子群优化算法",
+        "机房选址"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑;信息科技",
+    "专题": "电信技术",
+    "分类号": "TN80",
+    "页码": "71-75",
+    "页数": "5",
+    "爬取时间": "2025-03-28 03:03:45",
+    "论文唯一代码": "SSZK202206010"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "西柏坡精神融入虚拟现实课程思政实验教学设计",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2022-11-11",
+    "引用量": "1",
+    "下载量": "489",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张苗苗",
+            "author_code": "000050700025",
+            "author_addresses": [
+                "石家庄学院资源与环境科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "贺军亮",
+            "author_code": "000020077497",
+            "author_addresses": [
+                "石家庄学院资源与环境科学学院",
+                "河北师范大学资源与环境科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "韦锐",
+            "author_code": "000003319658",
+            "author_addresses": [
+                "石家庄学院资源与环境科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "田建文",
+            "author_code": "000039038328",
+            "author_addresses": [
+                "石家庄学院资源与环境科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "宋保平",
+            "author_code": "000038768201",
+            "author_addresses": [
+                "石家庄学院资源与环境科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "24 ",
+    "期(Issue)": "06",
+    "摘要": " 针对课程思政教学要求，结合地理信息科学专业课程特点，设计了融入乡土红色资源的虚拟现实实验.以西柏坡中共中央旧址为例，从乡土红色资源特点、课程教学要求、虚拟现实实验特点等方面讨论西柏坡精神融入课程思政的可行性，并具体说明如何利用ArcGIS、Skyline、3ds MAX等专业软件开展虚拟建模实验过程，阐述课程思政实验教学思路.该实验形成了与专业相结合的特色教学素材，提高了学生实验兴趣，既完成了专业技能教育任务，又实现了政治思想教育目标，实现了思政教育与专业教育深度融合，值得在其他院校虚拟现实课程思政教学过程中推广应用.",
+    "关键词": [
+        "地理信息科学",
+        "西柏坡精神",
+        "课程思政",
+        "虚拟现实"
+    ],
+    "基金资助": [
+        "河北省高等教育教学改革研究与实践项目（2020GJJG658）",
+        "石家庄市高等教育科学研究项目（20220323）",
+        "石家庄学院教学改革研究与实践项目（JGXM-202020）石家庄学院课程思政示范课程项目（KCSZ-202102）石家庄学院西柏坡文化专项研究项目（XBPZX2006）"
+    ],
+    "专辑": "社会科学Ⅱ辑;信息科技",
+    "专题": "高等教育;计算机软件及计算机应用",
+    "分类号": "TP391.9-4;G641",
+    "页码": "36-42",
+    "页数": "7",
+    "爬取时间": "2025-03-28 03:03:55",
+    "论文唯一代码": "SSZK202206004"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "基于DIALux evo室内装饰与灯光照明设计",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2022-11-11",
+    "引用量": "4",
+    "下载量": "488",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张利钦",
+            "author_code": "000023879893",
+            "author_addresses": "石家庄学院机电学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张俊彦",
+            "author_code": "000040582628",
+            "author_addresses": "石家庄学院机电学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "袁莉",
+            "author_code": "000028475815",
+            "author_addresses": "石家庄学院机电学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张晶",
+            "author_code": "000027869141",
+            "author_addresses": "石家庄学院机电学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "杨丽",
+            "author_code": "000046248598",
+            "author_addresses": "石家庄学院机电学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "24 ",
+    "期(Issue)": "06",
+    "摘要": " 室内照明设计除了考虑装饰效果，更重要的是还要满足照明设计标准.在室内照明设计中，为了提高设计效率，确保图纸质量，优化设计方案，利用DIALux evo软件建模仿真，根据设计空间的三维伪色图、等照度曲线和计算报表快速分析是否满足设计指标和照明效果，检验设计是否合理，将照明设计精细化，平面设计可视化，切实解决照明设计问题.该方法对室内光环境的改善有较强的应用价值.",
+    "关键词": [
+        "光源",
+        "照度",
+        "色温",
+        "照明设计"
+    ],
+    "基金资助": [
+        "河北省应用技术大学研究会项目（JY2022112）",
+        "石家庄学院课程思政示范建设项目（GJSZ202203）石家庄学院教学案例库建设项目（JXAL-202125、JXAL-202114）石家庄学院教改项目（JGXM-202204P）"
+    ],
+    "专辑": "社会科学Ⅱ辑;工程科技Ⅱ辑",
+    "专题": "建筑科学与工程",
+    "分类号": "TU113.66",
+    "页码": "65-70",
+    "页数": "6",
+    "爬取时间": "2025-03-28 03:04:05",
+    "论文唯一代码": "SSZK202206009"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "专业认证背景下生物化学课程思政探索与实践",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2022-11-11",
+    "引用量": "2",
+    "下载量": "416",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "顾丹丹",
+            "author_code": "000006265912",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "赵星",
+            "author_code": "000029427488",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "马闻师",
+            "author_code": "000020309877",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "姚清国",
+            "author_code": "000019922885",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "祁永浩",
+            "author_code": "000017979911",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "李晶",
+            "author_code": "000046456787",
+            "author_addresses": "石家庄学院化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "24 ",
+    "期(Issue)": "06",
+    "摘要": " 专业认证的目的在于建立与注册工程师制度相衔接的工程教育专业认证体系.立足高校实际，在专业认证建设中构建好协同推进课程思政建设的体制机制，从而提高人才培养质量.在工程专业认证基础上，对生物化学中的思政元素进行梳理和挖掘，并对与思政元素的有机融合途径进行探索和实践，让价值引导的成分在课程设计和课堂教学中如盐在水，达到春风化雨、润物无声的育人效果.",
+    "关键词": [
+        "生物化学",
+        "课程思政",
+        "融合",
+        "挖掘"
+    ],
+    "基金资助": [
+        "2021年河北省应用技术大会研究会项目（JY2021004）",
+        "2020年石家庄市高等教育科学研究项目（20201015）",
+        "2021年石家庄学院校级教学改革研究与实践项目（JGXM-202143Z）",
+        "2020年石家庄学院线上线下混合式一流课程（生物化学）"
+    ],
+    "专辑": "社会科学Ⅱ辑;基础科学",
+    "专题": "生物学;高等教育",
+    "分类号": "Q5-4;G641",
+    "页码": "29-35",
+    "页数": "7",
+    "爬取时间": "2025-03-28 03:04:13",
+    "论文唯一代码": "SSZK202206024"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "制度与实践的错位：新生代农民工户籍城镇化的路径",
+    "状态": "正常",
+    "发表期刊": "理论月刊",
+    "刊发时间": "2022-11-10",
+    "引用量": "8",
+    "下载量": "827",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张红霞",
+            "author_code": "000033875878",
+            "author_addresses": [
+                "石家庄学院法学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "江立华",
+            "author_code": "000036812451",
+            "author_addresses": [
+                "华中师范大学社会学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "No record",
+    "期(Issue)": "11",
+    "摘要": " 新一轮户籍制度改革在促进新生代农民工户籍城镇化方面效果不明显。户籍层级体系中落户政策的引导与新生代农民工落户意愿错位，户籍改革的福利剥除与新生代农民工落户的关注点不一致，人户分离现象的大量存在与户籍人口管理功能背离，落户障碍看似消除实质上却存在隐形壁垒。制度场域中户籍进行资源分配的制度惯性难以完全破除；行动者难以获得新的预期；户籍改革难以彻底改变户籍对城乡二元结构的嵌入惯性；大城市居民身份、资源、福利区隔再生产带来了户籍改革的体制锁定。如在制度上进行配套的综合改革，政策执行上激发地方政府吸引新生代农民工落户城市的动力，并对新生代农民工的户籍选择预期进行引导，将更好地达成户籍制度改革的目标。",
+    "关键词": [
+        "新生代农民工",
+        "户籍城镇化",
+        "户籍制度"
+    ],
+    "基金资助": [
+        "河北省社科基金项目“新生代农民工户籍城镇化的实践问题与创新路径研究”（HB18SH028）"
+    ],
+    "专辑": "社会科学Ⅱ辑;社会科学Ⅰ辑",
+    "专题": "公安",
+    "分类号": "D631.42",
+    "页码": "111-118",
+    "页数": "8",
+    "爬取时间": "2025-03-28 03:04:22",
+    "论文唯一代码": "LLYK202211012"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "基于3S技术的石家庄市土壤碳汇时空变化研究",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2022-11-10",
+    "引用量": "2",
+    "下载量": "566",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘征",
+            "author_code": "000029302102",
+            "author_addresses": "石家庄学院资源与环境科学学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王晓蕊",
+            "author_code": "000040570852",
+            "author_addresses": "石家庄学院资源与环境科学学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "冯晓淼",
+            "author_code": "000019835007",
+            "author_addresses": "石家庄学院资源与环境科学学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张夏坤",
+            "author_code": "000050696918",
+            "author_addresses": "石家庄学院资源与环境科学学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "24 ",
+    "期(Issue)": "06",
+    "摘要": " 土壤碳汇储量研究为生态环境的治理提供理论依据与方向指导.采用ArcGIS、MRT、ENVI等软件，对2009年和2019年逐月气温、降水量、日照、MODIS归一化植被指数（NDVI）、全国植被类型数据进行处理，利用CASA模型插件计算石家庄市植被净初级生产力（NPP）.同时，运用土壤微生物呼吸模型计算石家庄市土壤碳汇，最终得到2009年和2019年研究区净生态系统生产力（NEP）分布图，显示出了NEP的时空变化规律，然后分析了影响NEP的相关因素.结果表明：2009年和2019年，石家庄市NEP空间上自中心向外围呈增加趋势，时间上明显下降，季节变化上夏高冬低.石家庄市NEP由碳汇转为碳源，与植被覆盖率降低、植物凋落物的人工清理以及农业用地大幅度减少等因素有关.",
+    "关键词": [
+        "土壤碳汇",
+        "CASA模型",
+        "植被净初级生产力",
+        "石家庄市"
+    ],
+    "基金资助": [
+        "河北省自然科学基金（D2019106006）",
+        "石家庄学院博士科研启动基金（20BS027）"
+    ],
+    "专辑": "社会科学Ⅱ辑;农业科技",
+    "专题": "农业基础科学;农艺学",
+    "分类号": "S154.1",
+    "页码": "16-23",
+    "页数": "8",
+    "爬取时间": "2025-03-28 03:04:30",
+    "论文唯一代码": "SSZK202206002"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "地沟油制备复混肥防结块剂",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2022-11-10",
+    "引用量": "2",
+    "下载量": "181",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "史兰香",
+            "author_code": "000036834185",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王永彬",
+            "author_code": "000043681110",
+            "author_addresses": [
+                "赵县农业农村局"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张宝华",
+            "author_code": "000028240651",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "郭瑞霞",
+            "author_code": "000040623094",
+            "author_addresses": [
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "24 ",
+    "期(Issue)": "06",
+    "摘要": " 精制地沟油经酸水解制备出脂肪酸，脂肪酸与赖氨酸和精氨酸反应制备了2种脂肪酸氨基酸盐.再将脂肪酸氨基酸盐与精制地沟油复配，低成本地制备了2种新型防结块剂.当精制地沟油与脂肪酸氨基酸盐的质量比为2:1、防结块剂用量为复混肥的0.4%～0.5%时，复混肥的结块率最低，分别为10.1%和9.9%.制备的防结块剂能使复混肥具有一定缓释性能，长期贮存时防结块率约为90%.",
+    "关键词": [
+        "地沟油",
+        "防结块剂",
+        "复混肥",
+        "脂肪酸",
+        "赖氨酸",
+        "精氨酸"
+    ],
+    "基金资助": [
+        "河北省重点研发计划项目（21321401D）"
+    ],
+    "专辑": "社会科学Ⅱ辑;工程科技Ⅰ辑;农业科技",
+    "专题": "有机化工;农业基础科学",
+    "分类号": "TQ444",
+    "页码": "48-51",
+    "页数": "4",
+    "爬取时间": "2025-03-28 03:04:39",
+    "论文唯一代码": "SSZK202206006"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "儿童骨密度发展趋势及与身高、体质量、BMI值的相关性研究",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2022-11-10",
+    "引用量": "3",
+    "下载量": "671",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "崔巴特尔",
+            "author_code": "000036910315",
+            "author_addresses": [
+                "石家庄学院体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "贾静怡",
+            "author_code": "000048055774",
+            "author_addresses": [
+                "石家庄长安区奥北幼儿园"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王立军",
+            "author_code": "000048055776",
+            "author_addresses": [
+                "石家庄长安区奥北幼儿园"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "陈玉娟",
+            "author_code": "000045953361",
+            "author_addresses": [
+                "石家庄学院体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "胡雯雯",
+            "author_code": "000000405529",
+            "author_addresses": [
+                "石家庄学院体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "24 ",
+    "期(Issue)": "06",
+    "摘要": " 通过Osteopro超声骨密度仪、身高计、体质量计对669名4～10岁儿童进行骨密度、身高、体质量测定，以了解随着年龄增长儿童骨密度发展的趋势以及与身高、体质量、身体质量指数（BMI）值的相关性.结果显示：男女儿童骨密度随年龄增长呈现逐步增长的趋势，8岁和9岁男女儿童骨密度大小有统计学意义（P&lt;0.05）；男女儿童骨密度与身高、体质量、BMI值的相关度呈现出随年龄增加相关度逐步增加的趋势；男童9岁、10岁两个年龄段骨密度与身高、体质量、BMI值的相关度显著提高；女童7～10岁4个年龄段骨密度与身高、体质量、BMI值的相关度显著提高.研究发现：4～10岁儿童骨密度随年龄增长逐步提高，与身高、体质量、BMI值的相关度也随年龄增长逐步增加.",
+    "关键词": [
+        "儿童",
+        "骨密度",
+        "身高",
+        "体质量",
+        "相关"
+    ],
+    "基金资助": [
+        "教育部人文社会科学研究规划基金（21YJA890006）",
+        "河北省教育科学研究“十四五”规划项目（2103031）"
+    ],
+    "专辑": "社会科学Ⅱ辑;医药卫生科技",
+    "专题": "预防医学与卫生学",
+    "分类号": "R179",
+    "页码": "93-96",
+    "页数": "4",
+    "爬取时间": "2025-03-28 03:04:47",
+    "论文唯一代码": "SSZK202206013"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "高校环境类人才培养的校企合作实践探究——以石家庄学院环境生态工程专业为例",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2022-11-10",
+    "引用量": "1",
+    "下载量": "248",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "梁晶晶",
+            "author_code": "000037261356",
+            "author_addresses": "石家庄学院资源与环境科学学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "宋保平",
+            "author_code": "000038768201",
+            "author_addresses": "石家庄学院资源与环境科学学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "刘征",
+            "author_code": "000029302102",
+            "author_addresses": "石家庄学院资源与环境科学学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王娜",
+            "author_code": "000036355777",
+            "author_addresses": "石家庄学院资源与环境科学学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "刘旭辉",
+            "author_code": "000048459499",
+            "author_addresses": "石家庄学院资源与环境科学学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "24 ",
+    "期(Issue)": "06",
+    "摘要": " 基于社会对环境类人才的需求，探索人才培养的校企合作模式，以石家庄学院新兴工科专业环境生态工程为例，从开展校地合作的基础条件分析、开展校企合作的实施途径、实现校企合作最终目标等3个方面探讨环境生态工程专业建设中的校企合作事宜.开展校企合作的途经包括：通过校企联合最终实现校企合作协同双向育人，提升学生的工科素养；优化师资团队，建设“双师双能型”的教师队伍；校企深度合作，推进特色专业建设；校企双选，实现毕业生“预就业”.这些途径可以为应用型院校推进校企合作提供参考，为工科专业发展提供思路.",
+    "关键词": [
+        "环境类人才培养",
+        "校地合作",
+        "实践探究"
+    ],
+    "基金资助": [
+        "河北省教育教学改革项目（2018GJJG504）",
+        "石家庄市高等教育科学研究项目（20201024）",
+        "2018年度石家庄学院教改课题（JGXM-201821A）",
+        "国家教育部供需对接就业育人项目(20220105870)",
+        "河北省应用技术大学研究会课题（JY2022124）",
+        "石家庄学院新工科研究与改革实践项目"
+    ],
+    "专辑": "社会科学Ⅱ辑;工程科技Ⅰ辑",
+    "专题": "环境科学与资源利用;高等教育",
+    "分类号": "X1-4;G642",
+    "页码": "147-150",
+    "页数": "4",
+    "爬取时间": "2025-03-28 03:04:56",
+    "论文唯一代码": "SSZK202206022"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "动作发展视域下体育教学模式对儿童感觉统合功能的影响",
+    "状态": "正常",
+    "发表期刊": "石家庄学院学报",
+    "刊发时间": "2022-11-10",
+    "引用量": "7",
+    "下载量": "456",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "贾富池",
+            "author_code": "000020271977",
+            "author_addresses": [
+                "石家庄学院体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "贾静怡",
+            "author_code": "000048055774",
+            "author_addresses": [
+                "石家庄长安区奥北幼儿园"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王立军",
+            "author_code": "000048055776",
+            "author_addresses": [
+                "石家庄长安区奥北幼儿园"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "潘期生",
+            "author_code": "000048055775",
+            "author_addresses": [
+                "石家庄学院体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "陈玉娟",
+            "author_code": "000045953361",
+            "author_addresses": [
+                "石家庄学院体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "杨惠玲",
+            "author_code": "000041209516",
+            "author_addresses": [
+                "石家庄学院体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "胡雯雯",
+            "author_code": "000000405529",
+            "author_addresses": [
+                "石家庄学院体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "24 ",
+    "期(Issue)": "06",
+    "摘要": " 运用实验法对351名儿童进行了为期12周的实验研究，以了解基于动作发展研发的体育课程对儿童感觉统合功能的影响.实验组（176人）根据《3-6岁儿童学习与发展指南》和儿童基本动作发展的规律实施情景化、游戏式基本动作教学，对照组（175人）根据《3-6岁儿童学习与发展指南》中的相关要求，按照幼儿园原有的课程目标实施体育游戏教学，实验前后分别对实验组和对照组进行感觉统合能力评估.结果显示：实验前，实验组感统失调人数131人，失调率74.4%，对照组感统失调人数127人，失调率72.6%；实验后，实验组感统失调人数61人，失调率34.7%，对照组感统失调人数98人，失调率56.0%；实验后两组比较具有统计学意义（P&lt;0.01）.体育教学可以有效提升儿童的感觉统合能力，但基于儿童动作发展规律进行的体育教学会使儿童感觉统合能力提升更加有效.",
+    "关键词": [
+        "儿童",
+        "动作发展",
+        "体育教学",
+        "感觉统合"
+    ],
+    "基金资助": [
+        "教育部人文社会科学研究规划基金（21YJA890011）",
+        "中国学前教育研究会“十四五”研究项目（K20210916）",
+        "石家庄市社会科学界联合会社科专家培养项目（2021zjpy48）"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "学前教育",
+    "分类号": "G613.7",
+    "页码": "97-103",
+    "页数": "7",
+    "爬取时间": "2025-03-28 03:05:06",
+    "论文唯一代码": "SSZK202206014"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "新时期体育运动服装功能特征与发展研究",
+    "状态": "正常",
+    "发表期刊": "棉纺织技术",
+    "刊发时间": "2022-11-10",
+    "引用量": "3",
+    "下载量": "213",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "冯蕾",
+            "author_code": "000027243648",
+            "author_addresses": [
+                "石家庄学院体育学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "50 ",
+    "期(Issue)": "11",
+    "摘要": " &lt;正&gt;体育运动是一种益于身体健康且能够强身健体的休闲娱乐活动，随着社会经济、生产水平以及大众生活品质的不断提高而越来越受到广泛关注和重视，同时体育运动的发展与社会经济、文化、政治等多方面都息息相关，涉及体育运动的各项产业规模也在不断扩增。体育运动服装属于一种以体育运动为核心所产生的服装，不仅能够对体育运动的普及、发展和创新起到一定的促进作用，而且可以给人带来舒适自如的运动体验和安全保护，",
+    "关键词": [],
+    "基金资助": [],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "轻工业手工业",
+    "分类号": "TS941.734",
+    "页码": "96-97",
+    "页数": "2",
+    "爬取时间": "2025-03-28 03:05:13",
+    "论文唯一代码": "MFJS202211026"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "不同钙盐对牛肉品质影响初探",
+    "状态": "正常",
+    "发表期刊": "中国食品添加剂",
+    "刊发时间": "2022-11-08 15:32",
+    "引用量": "3",
+    "下载量": "430",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "杨晓东",
+            "author_code": "000047792686",
+            "author_addresses": [
+                "中国农业科学院北京畜牧兽医研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "魏萌",
+            "author_code": "000042191005",
+            "author_addresses": [
+                "中国农业科学院北京畜牧兽医研究所",
+                "石家庄学院化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "于豪杰",
+            "author_code": "000001754885",
+            "author_addresses": [
+                "中国农业科学院北京畜牧兽医研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "谢鹏",
+            "author_code": "000030953093",
+            "author_addresses": [
+                "中国农业科学院北京畜牧兽医研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "雷元华",
+            "author_code": "000025666303",
+            "author_addresses": [
+                "中国农业科学院北京畜牧兽医研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "刘晓畅",
+            "author_code": "000003045821",
+            "author_addresses": [
+                "中国农业科学院北京畜牧兽医研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "孙宝忠",
+            "author_code": "000039319608",
+            "author_addresses": [
+                "中国农业科学院北京畜牧兽医研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "张松山",
+            "author_code": "000001055072",
+            "author_addresses": [
+                "中国农业科学院北京畜牧兽医研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "474002029@qq.com"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "33 ",
+    "期(Issue)": "11",
+    "摘要": " 为探究不同钙盐对牛肉品质影响作用。本实验以西门塔尔牛宰后24h的背最长肌为原料，分别注射200mmol/L（以钙离子等物质的量浓度）占肉重5%的氯化钙、丙酸钙、磷酸二氢钙、抗坏血酸钙溶液，真空包装放置于12℃，湿度为80%±1%的牛排成熟柜中成熟24h，与空白组比较分析钙盐对牛背最长肌pH、肉色、系水力、剪切力、质构及感官评价评分的影响。结果发现四种钙盐处理对牛肉品质均有不同程度的改善作用，且丙酸钙处理效果最好，pH和剪切力都显著低于空白组（P &lt;0.05），肉色方面无显著性改变（P&gt;0.05），系水力显著性提高（P &lt;0.05），质构中硬度、粘性和咀嚼性显著低于空白组（P &lt;0.05），消费者感官评价中生肉评价评分低于空白组。",
+    "关键词": [
+        "钙盐",
+        "嫩化方法",
+        "肉品质",
+        "感官评价"
+    ],
+    "基金资助": [
+        "新疆自治区重大科技专项“牛羊肉屠宰加工关键技术集成与产业化示范”（项目编号2021A02003-3）",
+        "河南省重大公益专项“河南省地方肉牛种质创新”（项目号201300111200）",
+        "财政部和农业农村部：国家现代农业产业技术体系资助”（CARS-37）",
+        "河北省现代农业（肉牛）产业技术体系创新团队建设项目（HBCT2018130204）"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "轻工业手工业",
+    "分类号": "TS251.52",
+    "页码": "106-112",
+    "页数": "7",
+    "爬取时间": "2025-03-28 03:05:23",
+    "论文唯一代码": "ZSTJ202211014"
+}
+{
+    "学校id": "4113010102",
+    "学校": "石家庄学院",
+    "论文类型": "期刊",
+    "论文题目": "文化自信视阈下高校礼仪文化建设路径探索",
+    "状态": "正常",
+    "发表期刊": "文化创新比较研究",
+    "刊发时间": "2022-11-01",
+    "引用量": "0",
+    "下载量": "192",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "朱珠",
+            "author_code": "000028938969",
+            "author_addresses": "石家庄学院经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "孙静",
+            "author_code": "000035772707",
+            "author_addresses": "石家庄学院经济管理学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "84355825@qq.com"
+        }
+    ],
+    "年份": "2022",
+    "卷(Volume)": "6 ",
+    "期(Issue)": "31",
+    "摘要": " 高校是坚定大学生文化自信的重要阵地，礼仪文化建设作为中华优秀传统礼仪文化的传承与发展，有助于大学生对中国文化价值的肯定，坚定信念，规范大学生言行举止，促进内外兼修、全面发展。文化自信能为礼仪文化建设提供思想源泉和理论支撑，礼仪文化建设是增强大学生文化自信的载体，两者同频共振。因此，在文化自信视阈下通过优化教育内容、促进认知认同，强化礼仪实践，能够实现礼仪文化在高校教育中的传承与发展。",
+    "关键词": [
+        "文化自信",
+        "礼仪文化",
+        "传承发展"
+    ],
+    "基金资助": [
+        "2022年石家庄市哲学社会科学规划课题“文化自信视阈下礼仪文化在高校教育中的传承与发展研究”(项目编号：2-25)"
+    ],
+    "专辑": "哲学与人文科学;社会科学Ⅱ辑",
+    "专题": "文化;高等教育",
+    "分类号": "G641;G122",
+    "页码": "151-154",
+    "页数": "4",
+    "爬取时间": "2025-03-28 03:05:31",
+    "论文唯一代码": "WCBJ202231034"
+}

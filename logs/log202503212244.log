@@ -1,0 +1,141 @@
+2025-03-21 22:44:42,799 - make_task_list.py[line:51] - INFO: 任务是paper形
+2025-03-21 22:44:42,804 - make_task_list.py[line:51] - INFO: 任务是paper形
+2025-03-21 22:44:42,812 - crawl.py[line:81] - INFO: downloads\如何认识负利率政策及其影响文件夹已经建立
+2025-03-21 22:44:42,812 - crawl.py[line:81] - INFO: downloads\数据生产要素的基础理论构建：新结构经济学视角文件夹已经建立
+2025-03-21 22:44:42,812 - crawl.py[line:81] - INFO: downloads\不同β受体阻滞剂对大鼠心肌间隙连接结构作用的对比研究文件夹已经建立
+2025-03-21 22:44:42,815 - crawl.py[line:81] - INFO: downloads\用于全口义齿计算机辅助设计的虚拟半可调文件夹已经建立
+2025-03-21 22:44:42,820 - crawl.py[line:81] - INFO: downloads\“东亚共同体”_地区与国家的观点文件夹已经建立
+2025-03-21 22:44:42,822 - crawl.py[line:81] - INFO: downloads\试论利益集团在美国对华政策中的影响——以美国对华最惠国待遇政策为例文件夹已经建立
+2025-03-21 22:44:42,823 - crawl.py[line:81] - INFO: downloads\中美战略合作展望_对机遇与挑战前景的评估文件夹已经建立
+2025-03-21 22:44:42,824 - crawl.py[line:81] - INFO: downloads\偏振模色散对光纤数字通信系统影响的讨论文件夹已经建立
+2025-03-21 22:44:42,825 - crawl.py[line:81] - INFO: downloads\南疆行记文件夹已经建立
+2025-03-21 22:44:42,826 - crawl.py[line:81] - INFO: downloads\近年来CCA在气候分析与气候预测中的应用文件夹已经建立
+2025-03-21 22:44:49,613 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-21 22:44:49,683 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-21 22:44:49,698 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-21 22:44:49,698 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-21 22:44:49,762 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-21 22:44:49,880 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-21 22:44:50,143 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-21 22:44:50,329 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-21 22:44:50,480 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-21 22:44:50,735 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-21 22:44:51,616 - crawl.py[line:267] - INFO: 1 records found, divided into 1 pages
+2025-03-21 22:44:51,646 - crawl.py[line:267] - INFO: 15 records found, divided into 1 pages
+2025-03-21 22:44:51,651 - crawl.py[line:267] - INFO: 1 records found, divided into 1 pages
+2025-03-21 22:44:51,821 - crawl.py[line:267] - INFO: 7 records found, divided into 1 pages
+2025-03-21 22:44:51,844 - crawl.py[line:267] - INFO: 1 records found, divided into 1 pages
+2025-03-21 22:44:51,907 - crawl.py[line:267] - INFO: 1 records found, divided into 1 pages
+2025-03-21 22:44:51,963 - crawl.py[line:267] - INFO: 1 records found, divided into 1 pages
+2025-03-21 22:44:52,062 - crawl.py[line:267] - INFO: 1 records found, divided into 1 pages
+2025-03-21 22:44:52,204 - crawl.py[line:267] - INFO: 4 records found, divided into 1 pages
+2025-03-21 22:44:52,229 - crawl.py[line:267] - INFO: 1 records found, divided into 1 pages
+2025-03-21 22:45:01,060 - common.py[line:135] - ERROR: 检查1023457565.nh是否已经处理过出错！
+2025-03-21 22:45:01,255 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:45:01,516 - common.py[line:135] - ERROR: 检查1021122989.nh是否已经处理过出错！
+2025-03-21 22:45:01,736 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:45:01,947 - common.py[line:135] - ERROR: 检查GJPP202001011是否已经处理过出错！
+2025-03-21 22:45:03,735 - common.py[line:135] - ERROR: 检查BFJD202402006是否已经处理过出错！
+2025-03-21 22:45:03,871 - common.py[line:135] - ERROR: 检查BJDZ200101022是否已经处理过出错！
+2025-03-21 22:45:04,208 - common.py[line:135] - ERROR: 检查1019156719.nh是否已经处理过出错！
+2025-03-21 22:45:04,231 - common.py[line:135] - ERROR: 检查1023083482.nh是否已经处理过出错！
+2025-03-21 22:45:04,257 - common.py[line:135] - ERROR: 检查JMZG201101008是否已经处理过出错！
+2025-03-21 22:45:04,263 - common.py[line:135] - ERROR: 检查GTXS200002024是否已经处理过出错！
+2025-03-21 22:45:04,266 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:45:04,269 - common.py[line:135] - ERROR: 检查BYDB200801027是否已经处理过出错！
+2025-03-21 22:45:04,286 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:45:04,286 - common.py[line:135] - ERROR: 检查ZHXX200702025是否已经处理过出错！
+2025-03-21 22:45:04,385 - common.py[line:135] - ERROR: 检查1020701132.nh是否已经处理过出错！
+2025-03-21 22:45:04,434 - common.py[line:135] - ERROR: 检查1021741646.nh是否已经处理过出错！
+2025-03-21 22:45:04,434 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:45:04,500 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:45:04,641 - common.py[line:135] - ERROR: 检查9787305178283000是否已经处理过出错！
+2025-03-21 22:45:04,663 - common.py[line:135] - ERROR: 检查1019608602.nh是否已经处理过出错！
+2025-03-21 22:45:04,825 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:45:04,831 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:45:05,059 - common.py[line:135] - ERROR: 检查MGYJ802.003是否已经处理过出错！
+2025-03-21 22:45:05,074 - common.py[line:135] - ERROR: 检查1018153599.nh是否已经处理过出错！
+2025-03-21 22:45:05,089 - common.py[line:135] - ERROR: 检查1013324362.nh是否已经处理过出错！
+2025-03-21 22:45:05,169 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:45:05,198 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:45:05,415 - common.py[line:135] - ERROR: 检查1017242192.nh是否已经处理过出错！
+2025-03-21 22:45:05,416 - common.py[line:135] - ERROR: 检查1011081359.nh是否已经处理过出错！
+2025-03-21 22:45:05,497 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:45:05,499 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:45:05,533 - common.py[line:135] - ERROR: 检查2009088959.nh是否已经处理过出错！
+2025-03-21 22:45:05,586 - common.py[line:135] - ERROR: 检查1011170924.nh是否已经处理过出错！
+2025-03-21 22:45:05,598 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:45:05,726 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:45:05,762 - common.py[line:135] - ERROR: 检查ZGGG200402025是否已经处理过出错！
+2025-03-21 22:45:05,779 - common.py[line:135] - ERROR: 检查1011170990.nh是否已经处理过出错！
+2025-03-21 22:45:05,809 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:45:05,915 - common.py[line:135] - ERROR: 检查1011094749.nh是否已经处理过出错！
+2025-03-21 22:45:05,945 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:45:05,979 - common.py[line:135] - ERROR: 检查1011094728.nh是否已经处理过出错！
+2025-03-21 22:45:05,999 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:45:06,035 - common.py[line:135] - ERROR: 检查1011135180.nh是否已经处理过出错！
+2025-03-21 22:45:06,072 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:45:06,204 - common.py[line:135] - ERROR: 检查2010107551.nh是否已经处理过出错！
+2025-03-21 22:45:06,244 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:45:06,446 - common.py[line:135] - ERROR: 检查2009017699.nh是否已经处理过出错！
+2025-03-21 22:45:06,472 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:45:06,566 - common.py[line:135] - ERROR: 检查2007168837.nh是否已经处理过出错！
+2025-03-21 22:45:06,595 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:45:06,783 - common.py[line:135] - ERROR: 检查WJXY200504003是否已经处理过出错！
+2025-03-21 22:45:12,367 - crawl.py[line:733] - INFO: ZGGG200402025没找到单一a要素，正转向单一text要素
+2025-03-21 22:45:12,392 - crawl.py[line:733] - INFO: GTXS200002024没找到单一a要素，正转向单一text要素
+2025-03-21 22:45:13,402 - crawl.py[line:592] - INFO: 论文：ZGGG200402025无关键词！
+2025-03-21 22:45:13,560 - crawl.py[line:604] - INFO: 论文：ZGGG200402025无基金资助！
+2025-03-21 22:45:13,569 - crawl.py[line:592] - INFO: 论文：JMZG201101008无关键词！
+2025-03-21 22:45:13,607 - crawl.py[line:733] - INFO: BJDZ200101022没找到单一a要素，正转向单一text要素
+2025-03-21 22:45:13,623 - crawl.py[line:604] - INFO: 论文：JMZG201101008无基金资助！
+2025-03-21 22:45:14,916 - crawl.py[line:592] - INFO: 论文：MGYJ802.003无关键词！
+2025-03-21 22:45:15,535 - crawl.py[line:604] - INFO: 论文：MGYJ802.003无基金资助！
+2025-03-21 22:45:15,599 - crawl.py[line:641] - INFO: 论文：ZGGG200402025无页码！
+2025-03-21 22:45:15,631 - crawl.py[line:379] - INFO: 论文：(ZGGG200402025) 子页面信息提取完成！
+2025-03-21 22:45:15,694 - crawl.py[line:472] - INFO: 论文：(ZGGG200402025) 子页面信息处理全部结束！
+2025-03-21 22:45:17,007 - crawl.py[line:379] - INFO: 论文：(BFJD202402006) 子页面信息提取完成！
+2025-03-21 22:45:17,576 - crawl.py[line:472] - INFO: 论文：(BFJD202402006) 子页面信息处理全部结束！
+2025-03-21 22:45:17,775 - crawl.py[line:379] - INFO: 论文：(JMZG201101008) 子页面信息提取完成！
+2025-03-21 22:45:18,018 - crawl.py[line:472] - INFO: 论文：(JMZG201101008) 子页面信息处理全部结束！
+2025-03-21 22:45:19,028 - crawl.py[line:641] - INFO: 论文：MGYJ802.003无页码！
+2025-03-21 22:45:19,075 - crawl.py[line:592] - INFO: 论文：GJPP202001011无关键词！
+2025-03-21 22:45:19,175 - crawl.py[line:604] - INFO: 论文：GJPP202001011无基金资助！
+2025-03-21 22:45:19,233 - crawl.py[line:379] - INFO: 论文：(GTXS200002024) 子页面信息提取完成！
+2025-03-21 22:45:19,376 - crawl.py[line:379] - INFO: 论文：(MGYJ802.003) 子页面信息提取完成！
+2025-03-21 22:45:19,613 - crawl.py[line:472] - INFO: 论文：(GTXS200002024) 子页面信息处理全部结束！
+2025-03-21 22:45:19,676 - crawl.py[line:472] - INFO: 论文：(MGYJ802.003) 子页面信息处理全部结束！
+2025-03-21 22:45:20,238 - crawl.py[line:379] - INFO: 论文：(BJDZ200101022) 子页面信息提取完成！
+2025-03-21 22:45:20,276 - crawl.py[line:379] - INFO: 论文：(GJPP202001011) 子页面信息提取完成！
+2025-03-21 22:45:20,276 - crawl.py[line:379] - INFO: 论文：(BYDB200801027) 子页面信息提取完成！
+2025-03-21 22:45:20,517 - crawl.py[line:472] - INFO: 论文：(BJDZ200101022) 子页面信息处理全部结束！
+2025-03-21 22:45:20,581 - crawl.py[line:472] - INFO: 论文：(GJPP202001011) 子页面信息处理全部结束！
+2025-03-21 22:45:20,692 - crawl.py[line:472] - INFO: 论文：(BYDB200801027) 子页面信息处理全部结束！
+2025-03-21 22:45:21,449 - crawl.py[line:604] - INFO: 论文：WJXY200504003无基金资助！
+2025-03-21 22:45:21,550 - crawl.py[line:604] - INFO: 论文：ZHXX200702025无基金资助！
+2025-03-21 22:45:23,344 - crawl.py[line:379] - INFO: 论文：(WJXY200504003) 子页面信息提取完成！
+2025-03-21 22:45:23,495 - crawl.py[line:472] - INFO: 论文：(WJXY200504003) 子页面信息处理全部结束！
+2025-03-21 22:45:23,849 - crawl.py[line:379] - INFO: 论文：(ZHXX200702025) 子页面信息提取完成！
+2025-03-21 22:45:24,006 - crawl.py[line:472] - INFO: 论文：(ZHXX200702025) 子页面信息处理全部结束！
+2025-03-21 22:45:24,083 - crawl.py[line:332] - ERROR: 不是期刊
+2025-03-21 22:45:24,575 - crawl.py[line:379] - INFO: 论文：(JJXD201706014) 子页面信息提取完成！
+2025-03-21 22:45:24,636 - crawl.py[line:472] - INFO: 论文：(JJXD201706014) 子页面信息处理全部结束！
+2025-03-21 22:45:28,890 - crawl.py[line:500] - INFO: downloads\中美战略合作展望_对机遇与挑战前景的评估已经全部处理结束!
+2025-03-21 22:45:28,890 - crawl.py[line:81] - INFO: downloads\咬合板的临床应用特点文件夹已经建立
+2025-03-21 22:45:29,079 - crawl.py[line:500] - INFO: downloads\南疆行记已经全部处理结束!
+2025-03-21 22:45:29,079 - crawl.py[line:81] - INFO: downloads\龟龄集胶囊治疗轻-中度老年认知障碍肾虚髓减证多中心随机双盲对照研究文件夹已经建立
+2025-03-21 22:45:29,252 - crawl.py[line:500] - INFO: downloads\试论利益集团在美国对华政策中的影响——以美国对华最惠国待遇政策为例已经全部处理结束!
+2025-03-21 22:45:29,252 - crawl.py[line:81] - INFO: downloads\专访富碳纳米材料领域代表人物——智林杰研究员文件夹已经建立
+2025-03-21 22:45:29,615 - crawl.py[line:500] - INFO: downloads\偏振模色散对光纤数字通信系统影响的讨论已经全部处理结束!
+2025-03-21 22:45:29,742 - crawl.py[line:500] - INFO: downloads\“东亚共同体”_地区与国家的观点已经全部处理结束!
+2025-03-21 22:45:29,760 - crawl.py[line:500] - INFO: downloads\数据生产要素的基础理论构建：新结构经济学视角已经全部处理结束!
+2025-03-21 22:45:29,760 - crawl.py[line:500] - INFO: downloads\近年来CCA在气候分析与气候预测中的应用已经全部处理结束!
+2025-03-21 22:45:29,773 - crawl.py[line:500] - INFO: downloads\用于全口义齿计算机辅助设计的虚拟半可调已经全部处理结束!
+2025-03-21 22:45:30,594 - crawl.py[line:500] - INFO: downloads\不同β受体阻滞剂对大鼠心肌间隙连接结构作用的对比研究已经全部处理结束!
+2025-03-21 22:45:30,704 - crawl.py[line:500] - INFO: downloads\如何认识负利率政策及其影响已经全部处理结束!
+2025-03-21 22:45:33,083 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-21 22:45:33,244 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-21 22:45:33,254 - crawl.py[line:189] - INFO: Click the search btn succeed
+2025-03-21 22:45:34,483 - crawl.py[line:267] - INFO: 1 records found, divided into 1 pages
+2025-03-21 22:45:34,652 - crawl.py[line:267] - INFO: 1 records found, divided into 1 pages
+2025-03-21 22:45:35,176 - crawl.py[line:267] - INFO: 1 records found, divided into 1 pages

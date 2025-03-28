@@ -1,0 +1,1662 @@
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "大孔树脂分离纯化艾绒总黄酮工艺探索",
+    "状态": "正常",
+    "发表期刊": "山西化工",
+    "刊发时间": "2024-08-31",
+    "引用量": "0",
+    "下载量": "546",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "常孜伊",
+            "author_addresses": "太原工业学院化学与化工系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张旭霞",
+            "author_addresses": "太原工业学院化学与化工系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "侯乐",
+            "author_addresses": "太原工业学院化学与化工系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "刘天金",
+            "author_addresses": "太原工业学院化学与化工系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "呼楠",
+            "author_addresses": "太原工业学院化学与化工系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "李文科",
+            "author_addresses": "太原工业学院化学与化工系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "宋建庆",
+            "author_addresses": "太原工业学院化学与化工系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "张博文",
+            "author_addresses": "太原工业学院化学与化工系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 9,
+            "author_name": "毛伟桓",
+            "author_addresses": "太原工业学院化学与化工系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 10,
+            "author_name": "周奕楷",
+            "author_addresses": "太原工业学院化学与化工系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 11,
+            "author_name": "梁燕",
+            "author_addresses": "太原工业学院化学与化工系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 12,
+            "author_name": "朱江敏",
+            "author_addresses": "太原工业学院化学与化工系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 13,
+            "author_name": "王慧芳",
+            "author_addresses": "太原工业学院化学与化工系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "44 ",
+    "期(Issue)": "08",
+    "摘要": " 探索优化大孔树脂分离纯化艾绒总黄酮的工艺。本实验采用单因素实验优化分离纯化工艺。经过研究，发现HPD100大孔树脂具有最优的吸附和解析附能力。采用90 min的上样时间，pH=3，吸附温度40℃，上样液质量浓度0.2 mg/mL，上样液流速1.5 m L/min，吸附率可达到68.5%。用体积分数80%乙醇洗脱，流速为1.5 m L/min，洗脱液用量为100 m L，洗脱率高达到60.45%。在此吸附和解析条件下，艾绒总黄酮的纯度由5.9%提升到13.5%，提纯效果好。",
+    "关键词": [
+        "艾绒",
+        "黄酮",
+        "大孔树脂",
+        "分离纯化工艺"
+    ],
+    "基金资助": [
+        "山西省大学生创新创业训练项目（S202314101094）",
+        "太原工业学院大学生创新创业训练项目（GK2023062）"
+    ],
+    "专辑": "工程科技Ⅰ辑;工程科技Ⅱ辑;医药卫生科技",
+    "专题": "有机化工;工业通用技术及设备;中药学",
+    "分类号": "TQ028;R284.1;TQ28",
+    "页码": "29-32",
+    "页数": "4",
+    "爬取时间": "2025-03-26 08:53:50",
+    "论文唯一代码": "SDHW202408009"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "零价铁活化过硫酸钠降解亚甲基蓝",
+    "状态": "正常",
+    "发表期刊": "山西化工",
+    "刊发时间": "2024-08-31",
+    "引用量": "0",
+    "下载量": "254",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李江",
+            "author_addresses": "太原工业学院化学与化工系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张翠红",
+            "author_addresses": "太原工业学院化学与化工系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "44 ",
+    "期(Issue)": "08",
+    "摘要": " 采用零价铁（Fe<sup>0</sup>）活化过硫酸钠工艺降解亚甲基蓝染料废水，研究了Fe<sup>0</sup>投加量、过硫酸钠浓度、反应pH值、反应温度等操作条件对亚甲基蓝降解效果的影响。结果表明，亚甲基蓝降解的最佳条件为初始pH=3、Fe<sup>0</sup>投加量2 mmol/L、过硫酸钠浓度2 mmol/L，初始质量浓度10 mg/L亚甲基蓝废水在25℃时反应10 min，亚甲基蓝的降解率可达99%；温度对降解反应影响不显著；降解过程中起主要氧化作用的为硫酸根自由基。",
+    "关键词": [
+        "硫酸根自由基",
+        "零价铁",
+        "亚甲基蓝"
+    ],
+    "基金资助": [
+        "大学生创新创业训练项目（202314101039）"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "环境科学与资源利用",
+    "分类号": "X703",
+    "页码": "23-25",
+    "页数": "3",
+    "爬取时间": "2025-03-26 08:54:01",
+    "论文唯一代码": "SDHW202408007"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "半芳香族聚间苯二甲酰己二胺的合成工艺研究",
+    "状态": "正常",
+    "发表期刊": "合成材料老化与应用",
+    "刊发时间": "2024-08-29",
+    "引用量": "0",
+    "下载量": "88",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "罗海威",
+            "author_addresses": [
+                "广东中塑新材料股份有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "马立群",
+            "author_addresses": [
+                "太原工业学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李媛",
+            "author_addresses": [
+                "太原工业学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "郭青青",
+            "author_addresses": [
+                "太原工业学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "刘羽玲",
+            "author_addresses": [
+                "广东中塑新材料股份有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "刘显勇",
+            "author_addresses": [
+                "广东中塑新材料股份有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "王忠强",
+            "author_addresses": [
+                "广东中塑新材料股份有限公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "Jaw1985@Sina.com"
+        },
+        {
+            "author_order": 8,
+            "author_name": "刘冰肖",
+            "author_addresses": [
+                "太原工业学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "53 ",
+    "期(Issue)": "04",
+    "摘要": " 以己二胺和间苯二甲酰氯为原料，采用界面聚合+固相缩聚法制备得到了聚间苯二甲酰己二胺（PA6I），并着重对其聚合工艺进行了探究。通过分析界面聚合类型、间苯二甲酰氯和己二胺的浓度、反应温度、缚酸剂种类和用量以及界面聚合面积对其相对黏度和分子量的影响规律，得出了最佳聚合工艺：己二胺与间苯二甲酰氯的单体浓度为0.2 mol/L；反应温度为70°C；缚酸剂无水碳酸钠与反应单体的摩尔比为2:1；在此条件下，合成的尼龙6I的相对黏度可达到1.78。",
+    "关键词": [
+        "半芳香尼龙",
+        "尼龙6I",
+        "界面聚合",
+        "固相缩聚"
+    ],
+    "基金资助": [
+        "2023年中塑公司-太原工业学院产学研合作项目（项目编号：820668）"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "有机化工",
+    "分类号": "TQ323.6",
+    "页码": "29-31",
+    "页数": "3",
+    "爬取时间": "2025-03-26 08:54:23",
+    "论文唯一代码": "HOCE202404008"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "6G无线通信新型毫米波双频带通滤波器的设计与仿真",
+    "状态": "正常",
+    "发表期刊": "中国测试",
+    "刊发时间": "2024-08-28 15:27",
+    "引用量": "0",
+    "下载量": "401",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "郭文静",
+            "author_addresses": [
+                "太原工业学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "50 ",
+    "期(Issue)": "09",
+    "摘要": " 针对6G无线通信系统对毫米波带通滤波器的需求,提出一种工作频段为W波段的毫米波双频带通滤波器。基于对多模谐振腔的研究,利用谐振腔内的TE<sub>301</sub>模式和TE<sub>102</sub>模式设计一种超宽带谐振腔,并基于TE<sub>302</sub>模式和TE<sub>103</sub>模式设计一种具有传输零点的多模谐振腔,通过将这两种谐振腔进行级联和优化,设计出一款工作于W波段的双频带通滤波器。两个工作频段分别为83.26～91.54 GHz和96.58～105 GHz,3 dB相对分数带宽分别为9.5%和8.4%。3个传输零点的位置分别在81.12、93.3、109.31 GHz。所设计结构采用CNC工艺进行制备,经测试,测试结果与仿真结果具有良好的一致性。两个工作频段的3 dB相对分数带宽误差分别为0.3%和1.5%。因此,所提出的W波段双频带通滤波器的设计方式可以为高频毫米波的设计带来一定的参考价值。",
+    "关键词": [
+        "W波段",
+        "多模谐振腔",
+        "传输零点",
+        "双频",
+        "带通滤波器"
+    ],
+    "基金资助": [
+        "山西省教育厅高等学校科技创新计划(2023L357)"
+    ],
+    "专辑": "工程科技Ⅱ辑;信息科技",
+    "专题": "无线电电子学;电信技术",
+    "分类号": "TN713.5;TN929.5",
+    "页码": "167-173",
+    "页数": "7",
+    "爬取时间": "2025-03-26 08:54:35",
+    "论文唯一代码": "SYCS202409021"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "吡啶基苯修饰的氮氧自由基-MnⅡ-LnⅢ四核簇的合成、晶体结构、发光及磁性能研究",
+    "状态": "正常",
+    "发表期刊": "人工晶体学报",
+    "刊发时间": "2024-08-27 15:54",
+    "引用量": "0",
+    "下载量": "165",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李宝毅",
+            "author_addresses": [
+                "太原工业学院化学与化工系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "何敏",
+            "author_addresses": [
+                "中北大学化学化工学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李弘道",
+            "author_addresses": [
+                "太原工业学院化学与化工系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "lihong.dao@163.com"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "53 ",
+    "期(Issue)": "10",
+    "摘要": " 本文通过5-（4-吡啶基）苯基修饰的氮氧双自由基与铽/钬离子、锰离子反应，构建了两例同构的氮氧双自由基-稀土-过渡异自旋簇[Ln<sub>2</sub>Mn<sub>2</sub>（hfac）<sub>10</sub>（NITPhPybis）<sub>2</sub>][Ln=Tb 1,Ho 2]。在该体系中，两个双自由基配体NITPhPybis凭借两个吡啶环上的氮原子和两个氮氧基团同两个Mn（Ⅱ）离子结合。与此同时，每个双自由基配体NITPhPybis凭借两个相邻的N-O基团封装一个Ln（Ⅲ）离子，最终构成了一个中心对称的类环形异金属四核簇。此外，本文还对配合物的直流、交流磁性和荧光性质进行了分析研究。磁动力学研究结果显示多核簇1-TbMn展现慢磁弛豫行为；荧光性能测试结果表明多核簇1-TbMn和2-HoMn表现出铽或钬离子的特征荧光。",
+    "关键词": [
+        "氮氧双自由基",
+        "异自旋配合物",
+        "镧",
+        "过渡金属",
+        "自组装",
+        "配位反应"
+    ],
+    "基金资助": [
+        "太原工业学院科研启动基金(2022LJ014)",
+        "山西省基础研究计划项目(20210302124460)"
+    ],
+    "专辑": "基础科学;工程科技Ⅰ辑",
+    "专题": "化学",
+    "分类号": "O641.4",
+    "页码": "1769-1775",
+    "页数": "7",
+    "爬取时间": "2025-03-26 08:54:57",
+    "论文唯一代码": "RGJT202410014"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "Al含量对高锰高铝轻质钢组织和力学性能的影响",
+    "状态": "正常",
+    "发表期刊": "金属热处理",
+    "刊发时间": "2024-08-25",
+    "引用量": "0",
+    "下载量": "114",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "白瑞",
+            "author_addresses": "太原工业学院机械工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "杜云飞",
+            "author_addresses": "太原工业学院机械工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "贺秀丽",
+            "author_addresses": "太原工业学院机械工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "梁红玉",
+            "author_addresses": "太原工业学院机械工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "49 ",
+    "期(Issue)": "08",
+    "摘要": " 利用物相分析、显微组织表征和室温拉伸、硬度测试等手段，以3种不同Al含量（10%, 12%, 14%,质量分数）的高锰高铝轻质钢为研究对象，探究了其铸态及固溶态的力学性能以及第二相的析出规律。结果表明，在铸态下，随着Al含量的增加，试验钢中铁素体含量增加，在奥氏体晶间呈不连续析出；κ碳化物的尺寸不断变大，主要由奥氏体晶内析出。经1100℃固溶处理后，试验钢可获得强度与塑性的协同提高，Al含量为12%的试验钢具有良好的综合性能，密度为6.41 g·cm<sup>-3</sup>,比强度为157 MPa·cm<sup>3</sup>·g<sup>-1</sup>,断后伸长率为26.2%。",
+    "关键词": [
+        "高锰高铝轻质钢",
+        "Al含量",
+        "固溶处理",
+        "κ碳化物",
+        "力学性能"
+    ],
+    "基金资助": [
+        "山西省高等学校科技创新项目(2022L550)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "金属学及金属工艺",
+    "分类号": "TG142.1",
+    "页码": "48-52",
+    "页数": "5",
+    "爬取时间": "2025-03-26 08:55:12",
+    "论文唯一代码": "JSRC202408008"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "普惠制殡葬改革的正当性探析——以法律家长主义为视角",
+    "状态": "正常",
+    "发表期刊": "陕西行政学院学报",
+    "刊发时间": "2024-08-20",
+    "引用量": "0",
+    "下载量": "218",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "余娜如",
+            "author_addresses": [
+                "太原工业学院思政部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李雅云",
+            "author_addresses": [
+                "中共中央党校(国家行政学院)政治和法律教研部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "38 ",
+    "期(Issue)": "03",
+    "摘要": " 殡葬改革对每位公民来说都具有重要意义。不论是出于改革效果的提升还是基本的政治道德考量，殡葬改革都需要向公民解释其正当性，以赢得公民内心的认同。从法律家长主义的角度出发，对普惠制殡葬改革的正当性进行论证后发现，目前公权力在干预殡葬行为时，以节约土地等经济利益为依据说服力不足，法律家长主义对公权力的正当性的论证存在缺陷。应当增强个体的主体性和对公民参与立法过程的重视，以此提升公权力的正当性，促进殡葬法治的良性发展。",
+    "关键词": [
+        "殡葬改革",
+        "法律家长主义",
+        "正当性"
+    ],
+    "基金资助": [
+        "国家社会科学基金青年项目“近代中国法治与刑法伦理的变迁研究”(2015CFX008)",
+        "湖南省财政厅资助项目“湖南省殡葬管理之法律规制探析”(B41952)"
+    ],
+    "专辑": "社会科学Ⅰ辑",
+    "专题": "行政学及国家行政管理;行政法及地方法制",
+    "分类号": "D632.9;D922.182.3",
+    "页码": "115-119",
+    "页数": "5",
+    "爬取时间": "2025-03-26 08:55:30",
+    "论文唯一代码": "SXSX202403022"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "讲好中国共产党故事融入党风建设的三重逻辑",
+    "状态": "正常",
+    "发表期刊": "延边党校学报",
+    "刊发时间": "2024-08-20",
+    "引用量": "0",
+    "下载量": "136",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "孙磊",
+            "author_addresses": [
+                "太原工业学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "40 ",
+    "期(Issue)": "04",
+    "摘要": " 讲好中国共产党故事是党风建设重要途径。从历史脉络看，延安整风运动形成了讲好中国共产党故事培育党风的优良传统，建国后搜集整理并宣讲优秀党员事迹成为党风建设重要工作业态，新时代党性教育大力提倡讲好中国共产党故事。从理论意蕴看，讲好中国共产党故事融入党风建设是发展党内政治文化必然要求，要求讲好中国共产党治国理政的理论与实践，发挥党内政治文化的规训作用。从实践要求看，在党风建设中讲好中国共产党故事是营造良好政治生态重要工作抓手，要讲好马克思主义中国化时代化故事，要讲好中国共产党推进中国式现代化故事，要讲好中国共产党人坚持“三个务必”故事。",
+    "关键词": [
+        "党风建设",
+        "中国共产党故事",
+        "党性教育",
+        "党内政治文化",
+        "政治文化教育"
+    ],
+    "基金资助": [
+        "太原工业学院青年学科带头人基金项目",
+        "2022年度山西省高等学校教学改革创新项目(思想政治理论课)“山西人民军工史融入习近平强军思想教学研究”(项目编号：2022JGSZ041)的研究成果"
+    ],
+    "专辑": "社会科学Ⅰ辑",
+    "专题": "中国共产党",
+    "分类号": "D261",
+    "页码": "47-52",
+    "页数": "6",
+    "爬取时间": "2025-03-26 08:55:42",
+    "论文唯一代码": "YBDB202404009"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "蓝靛果多酚调控肠道健康缓解小鼠低温运动疲劳研究",
+    "状态": "正常",
+    "发表期刊": "食品科技",
+    "刊发时间": "2024-08-20",
+    "引用量": "0",
+    "下载量": "184",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘昊",
+            "author_addresses": [
+                "太原工业学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张晋芳",
+            "author_addresses": [
+                "太原工业学院",
+                "山西师范大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李玥",
+            "author_addresses": [
+                "河北科技师范学院食品科技学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "刘素稳",
+            "author_addresses": [
+                "河北科技师范学院食品科技学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "49 ",
+    "期(Issue)": "08",
+    "摘要": " 长期高强度低温体育运动会造成机体疲劳损伤，降低运动员的成绩。该研究评价了蓝靛果多酚(Lonicera caerulea berry polyphenols,LCBP)对小鼠低温(–5 ℃)跑步机运动疲劳的影响，以VC为阳性对照，测定了结肠氧化、产物代谢(乳酸(Lactic acid,LA)、血尿素氮(Blood urea nitrogen,BUN)、血红蛋白(Hemoglobin,Hb)、肌酸激酶(Creatine kinase,CK)、乳酸脱氢酶(Lactate dehydrogenase,LDH)等生化指标。结肠苏木精-伊红(Hematoxylin-eosin,H&amp;E)染色检测结肠病理，气相色谱-质谱检测结肠内容物短链脂肪酸靶向代谢和16S rRNA高通量测序小鼠肠道菌群。结果表明，与模型组相比，膳食增补LCBP极显著延长了小鼠跑步机运动的力竭时间27.4%(P&lt;0.01)；血液中Hb水平升高，LA、BUN和CK水平极显著降低(P&lt;0.01)，膳食补充LCBP(250 mg/kg bw)可极显著降低低温运动诱导的小鼠结肠组织丙二醛水平(P&lt;0.01)，增加抗氧化酶活力，提升总抗氧化水平(P&lt;0.01)；促进短链脂肪酸中乙酸、丙酸、丁酸、戊酸和己酸的生成(P&lt;0.01)，极显著改善肠道菌群，增加普雷沃氏菌属(Prevotella)、毛螺菌属(Lachnospira)和双歧杆菌属(Bifidobacterium)等有益菌属相对丰度和种类，促进肠道健康。总之，膳食增补LCBP可减少氧化应激、代谢产物积累，平衡肠道菌群稳态缓解小鼠低温运动疲劳。",
+    "关键词": [
+        "多酚",
+        "低温",
+        "运动疲劳",
+        "短链脂肪酸",
+        "肠道菌"
+    ],
+    "基金资助": [
+        "河北省技术创新引导计划项目(19975708D)",
+        "河北省产业创新创业团队项目(215A7103D)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "轻工业手工业",
+    "分类号": "TS201.4",
+    "页码": "79-88",
+    "页数": "10",
+    "爬取时间": "2025-03-26 08:56:02",
+    "论文唯一代码": "SSPJ202408010"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "介孔钙钛矿/g-C3N4的制备及氧还原性能研究",
+    "状态": "正常",
+    "发表期刊": "化工新型材料",
+    "刊发时间": "2024-08-19 10:40",
+    "引用量": "0",
+    "下载量": "143",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "闫蕊",
+            "author_addresses": "太原工业学院材料工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "柳艺东",
+            "author_addresses": "太原工业学院材料工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张泽",
+            "author_addresses": "太原工业学院材料工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "江康伟",
+            "author_addresses": "太原工业学院材料工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "牛李琦",
+            "author_addresses": "太原工业学院材料工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "刘超",
+            "author_addresses": "太原工业学院材料工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2025",
+    "卷(Volume)": "53 ",
+    "期(Issue)": "01",
+    "摘要": " 采用溶胶凝胶-硬模板法制备介孔钙钛矿（LFO）前驱体，采用高温固相反应法制备g-C<sub>3</sub>N<sub>4</sub>,并采用冷凝回流法将LFO与不同比例的g-C<sub>3</sub>N<sub>4</sub>进行复合。通过X射线衍射、比表面积分析、扫描电子显微镜、循环伏安、线性扫描等方式对复合材料结构和性能进行表征测试。结果表明，LaFeO<sub>3</sub>-70%g-C<sub>3</sub>N<sub>4</sub>（LFO-70%）氧还原电位为0.75V,半波电位为0.65V,初始电位为0.8V,具有最优异的氧还原催化性能。",
+    "关键词": [
+        "溶胶凝胶-硬模板法",
+        "介孔钙钛矿",
+        "氧还原"
+    ],
+    "基金资助": [
+        "山西省高等学校科技创新项目(2020L0652)",
+        "山西省高等学校大学生创新创业项目(S202314101108)",
+        "山西省基础研究计划资助项目(20210302124226)"
+    ],
+    "专辑": "工程科技Ⅰ辑;工程科技Ⅱ辑",
+    "专题": "无机化工;有机化工;电力工业",
+    "分类号": "TM911.4;TQ426",
+    "页码": "180-183+188",
+    "页数": "5",
+    "爬取时间": "2025-03-26 08:56:21",
+    "论文唯一代码": "HGXC202501033"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "《共产党宣言》中现代化思想的理论阐释及当代价值",
+    "状态": "正常",
+    "发表期刊": "领导科学论坛",
+    "刊发时间": "2024-08-15",
+    "引用量": "0",
+    "下载量": "1323",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "鲍江",
+            "author_addresses": [
+                "太原工业学院思政部"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "08",
+    "摘要": " 《共产党宣言》中蕴含着丰富的现代化思想，揭示了西方资本主义现代化产生发展的历史过程，洞察了资本主义现代化的根源性弊端，同时也为构建人类新型现代化道路奠定了基本理论框架。这些现代化思想成为中国式现代化的思想指引。从《共产党宣言》出发，中国式现代化遵循现代化道路多样性为现代化发展提供中国版本，坚守“人民至上”作为现代化发展的价值旨归，坚持正义作为现代化发展的必然要求，走出了一条人类文明新形态的现代化新路。",
+    "关键词": [
+        "《共产党宣言》",
+        "资本主义现代化",
+        "中国式现代化",
+        "人类文明新形态"
+    ],
+    "基金资助": [
+        "山西省哲学社会科学规划课题“习近平总书记关于中国共产党人精神谱系重要论述研究”（2021YJ002）",
+        "2023年山西省高等学校思想政治教育研究会课题“短视频传播背景下大学生正确党史观构建路径研究”（SYH2023-034）"
+    ],
+    "专辑": "经济与管理科学;社会科学Ⅰ辑",
+    "专题": "马克思主义;中国政治与国际政治;经济体制改革",
+    "分类号": "F124;D61;A811",
+    "页码": "33-37",
+    "页数": "5",
+    "爬取时间": "2025-03-26 08:56:35",
+    "论文唯一代码": "LDLT202408007"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "便携式自动牙刷设计与仿真",
+    "状态": "正常",
+    "发表期刊": "山西电子技术",
+    "刊发时间": "2024-08-15",
+    "引用量": "0",
+    "下载量": "99",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "田静",
+            "author_addresses": "太原工业学院机械工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张焕梅",
+            "author_addresses": "太原工业学院机械工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "04",
+    "摘要": " 通过查阅资料以及实物观察，设计了一款可以便于携带且能达到清洁要求的自动牙刷，该牙刷总共包含动力机构、调速机构、刷头机构、折叠机构以及壳架五部分，通过二维图纸以及三维模型来建立基础模型。",
+    "关键词": [
+        "便于携带",
+        "自动牙刷",
+        "三维模型"
+    ],
+    "基金资助": [],
+    "专辑": "信息科技;工程科技Ⅰ辑",
+    "专题": "轻工业手工业;计算机软件及计算机应用",
+    "分类号": "TS959.12;TP391.9",
+    "页码": "35-36+49",
+    "页数": "3",
+    "爬取时间": "2025-03-26 08:56:50",
+    "论文唯一代码": "SXDS202404011"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "表面肌电信号功能性电刺激无线采集装置设计",
+    "状态": "正常",
+    "发表期刊": "太原科技大学学报",
+    "刊发时间": "2024-08-15",
+    "引用量": "0",
+    "下载量": "421",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "郭文静",
+            "author_addresses": [
+                "太原工业学院电子工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "崔让",
+            "author_addresses": [
+                "中北大学仪器与电子学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "曹慧亮",
+            "author_addresses": [
+                "中北大学仪器与电子学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王江朋",
+            "author_addresses": [
+                "国网山西超高压变电公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "45 ",
+    "期(Issue)": "04",
+    "摘要": " 表面肌肉电信号是肌肉运动变化时产生的生物电信号，是在体表无创检测肌肉运动的重要方法。该研究设计了一种肌肉电信号采集装置，可通过无线方式将多通道肌肉电信号传输至电脑端，并通过上位机界面进行显示。肌肉电信号采集电路实现微弱的肌肉电信号采集、放大、滤波等前置处理，方便进行数据采集并无线发送；单片机实现数据采集及数据封包处理，并按照无线协议将数据发送至电脑端。电脑端上位机将接收到的数据包进行解析，提取有用数据，最后将肌肉电信号波形进行显示。通过在人体肌肉表面贴附此采集装置，可以将肌肉的运动状态信息回传到电脑端进行分析。",
+    "关键词": [
+        "表面肌电信号",
+        "无线数据采集",
+        "多通道采集",
+        "无创检测",
+        "硬件电路"
+    ],
+    "基金资助": [
+        "山西省高等学校科技创新项目(2023L357)"
+    ],
+    "专辑": "工程科技Ⅱ辑;医药卫生科技;信息科技",
+    "专题": "生物医学工程;电信技术",
+    "分类号": "R318.6;TN911.7",
+    "页码": "353-359",
+    "页数": "7",
+    "爬取时间": "2025-03-26 08:57:09",
+    "论文唯一代码": "TYZX202404005"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "基于改进粒子群算法的无线通信网络资源分配研究",
+    "状态": "正常",
+    "发表期刊": "长江信息通信",
+    "刊发时间": "2024-08-15",
+    "引用量": "0",
+    "下载量": "104",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "赵燕萍",
+            "author_addresses": [
+                "太原工业学院计算机工程系"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "37 ",
+    "期(Issue)": "08",
+    "摘要": " 由于传统的无线网络资源分配方法分配节点不均，导致资源分配不合理，传输资源效率低。因此提出基于改进粒子群算法的无线通信网络资源分配研究。首先，合理布设无线通信网络资源分配节点，确保网络覆盖的全面性和通信的稳定性。然后，建立一个智能化的无线网络资源分配结构，该结构能够根据用户需求和网络状态动态调整资源分配。接下来，利用改进的粒子群算法来求解资源总效用。最后，通过求解资源分配函数，输出一个合理的资源分配方案。该方案能够最大化网络性能，同时满足用户需求和保证公平性。实验结果表明，改进粒子群算法能够合理的分配无线通信网络资源，提高资源传输效率。",
+    "关键词": [
+        "改进粒子群算法",
+        "无线通信网络",
+        "网络资源",
+        "资源分配"
+    ],
+    "基金资助": [],
+    "专辑": "信息科技",
+    "专题": "电信技术;自动化技术",
+    "分类号": "TN92;TP18",
+    "页码": "15-17",
+    "页数": "3",
+    "爬取时间": "2025-03-26 08:57:24",
+    "论文唯一代码": "HBYD202408005"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "金属有机骨架材料在光催化固氮领域的应用进展",
+    "状态": "正常",
+    "发表期刊": "石油化工",
+    "刊发时间": "2024-08-14 07:14",
+    "引用量": "0",
+    "下载量": "400",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "郭丽君",
+            "author_addresses": "太原工业学院化学与化工系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "杨红",
+            "author_addresses": "太原工业学院化学与化工系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "孟戎茜",
+            "author_addresses": "太原工业学院化学与化工系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "邵圣娟",
+            "author_addresses": "太原工业学院化学与化工系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "张庭渌",
+            "author_addresses": "太原工业学院化学与化工系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "53 ",
+    "期(Issue)": "09",
+    "摘要": " 光催化固氮在常温常压下利用N<sub>2</sub>和H<sub>2</sub>O直接反应生成氨，是极具前景的人工固氮方式之一。近几年金属有机骨架（MOFs）在光催化固氮领域受到越来越多的关注。综述了各种类MOFs材料在光催化固氮方面的研究进展，分析了MOFs材料在光催化固氮应用方面的优势，并对MOFs基光催化固氮催化剂的发展趋势进行展望。",
+    "关键词": [
+        "光催化固氮",
+        "金属有机骨架材料",
+        "固氮性能"
+    ],
+    "基金资助": [
+        "山西省科技厅面上项目（202203021221058）",
+        "山西省高等学校科技创新计划项目（2022L535）",
+        "山西省大学生创新创业训练项目（SG202314101253）"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学;无机化工",
+    "分类号": "O643.36;O644.1;TQ113.2",
+    "页码": "1338-1343",
+    "页数": "6",
+    "爬取时间": "2025-03-26 08:57:37",
+    "论文唯一代码": "SYHG202409020"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "晋中市夏季典型臭氧污染事件中VOCs化学特征与来源分析",
+    "状态": "正常",
+    "发表期刊": "环境科学学报",
+    "刊发时间": "2024-08-12 16:58",
+    "引用量": "0",
+    "下载量": "261",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王振涛",
+            "author_addresses": [
+                "太原科技大学环境与资源学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "wangzt@tyust.edu.cn"
+        },
+        {
+            "author_order": 2,
+            "author_name": "龙腾飞",
+            "author_addresses": [
+                "太原科技大学环境与资源学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "崔阳",
+            "author_addresses": [
+                "太原科技大学环境与资源学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "何秋生",
+            "author_addresses": [
+                "山西职业技术学院材料环境工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "heqs@tyust.edu.cn"
+        },
+        {
+            "author_order": 5,
+            "author_name": "王振燊",
+            "author_addresses": [
+                "太原科技大学环境与资源学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "高玮泽",
+            "author_addresses": [
+                "太原科技大学环境与资源学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "高少龙",
+            "author_addresses": [
+                "太原工业学院环境与安全工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "王新明",
+            "author_addresses": [
+                "中国科学院广州地球化学研究所有机地球化学国家重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "44 ",
+    "期(Issue)": "10",
+    "摘要": " 本研究基于2022年6月15—30日晋中市一次典型臭氧（O<sub>3</sub>）污染过程，深入分析了不同污染阶段（污染前期、中期、后期）O<sub>3</sub>及其前体挥发性有机污染物（VOCs）变化.通过计算臭氧生成潜势（OFP）和OH自由基的消耗速率(L<sub>OH</sub>)，评估了VOCs活性并识别关键活性组分和物种，运用正定矩阵因子分析（PMF）研究其来源贡献.结果表明，O<sub>3</sub>污染中期主要受高温、低湿、风速小等恶劣气象条件作用，叠加VOCs浓度升高的影响；OVOCs、烯烃和芳香烃是晋中市O<sub>3</sub>生成贡献较大的组分；乙醛、乙烯、丙醛和异戊二烯对L<sub>OH</sub>和OFP贡献突出，是防治关注的关键活性物种；PMF揭示了焦化源、溶剂使用、机动车排放、LPG&amp;NG和生物源5个主要排放来源，其中焦化源是晋中市O<sub>3</sub>污染期VOCs控制的重点；后向轨迹揭示O<sub>3</sub>污染过程中西南方向气团中VOCs体积分数明显高于其他方向气团，故需针对上述VOCs展开区域范围联防联控.",
+    "关键词": [
+        "挥发性有机物(VOCs)",
+        "污染特征",
+        "臭氧生成潜势(OFP)",
+        "来源解析"
+    ],
+    "基金资助": [
+        "国家自然科学基金项目（No.42077201）",
+        "山西省基础研究计划资助项目（No.20210302124474,202203021212337）",
+        "大气污染协同实验室项目（No.2022P007）",
+        "大学生创新创业训练计划项目（No.DCX2024090）"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "环境科学与资源利用",
+    "分类号": "X51",
+    "页码": "91-102",
+    "页数": "12",
+    "爬取时间": "2025-03-26 08:58:01",
+    "论文唯一代码": "HJXX202410010"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "δ-MnO2催化剂的制备、表征及其催化甲苯燃烧性能研究",
+    "状态": "正常",
+    "发表期刊": "合成化学",
+    "刊发时间": "2024-08-12 09:37",
+    "引用量": "0",
+    "下载量": "301",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "马琰",
+            "author_addresses": "太原工业学院环境与安全工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李佳伟",
+            "author_addresses": "太原工业学院环境与安全工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "毛彦鹏",
+            "author_addresses": "太原工业学院环境与安全工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "程丽军",
+            "author_addresses": "太原工业学院环境与安全工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "clj1114947291@163.com"
+        }
+    ],
+    "年份": "",
+    "卷(Volume)": "No record",
+    "期(Issue)": "No record",
+    "摘要": " 本文以高锰酸钾为氧化剂，考察甲醇、乙醇、正丙醇、正丁醇及正戊醇等还原剂对δ-MnO<sub>2</sub>微观结构的影响，并评价了其催化氧化甲苯的性能，通过XRD、 Raman、 BET、 SEM、 XPS和H<sub>2</sub>-TPR等技术对催化剂进行了表征。结果表明，不同碳链的醇会对催化剂的织构性质、表面元素价态及氧化还原性能有显著影响。以正丁醇为还原剂制备的δ-MnO<sub>2</sub>催化剂具有最大的比表面积188.5m<sup>2</sup>/g、较高的表面Mn<sup>3+</sup>/(Mn<sup>3+</sup>+Mn<sup>4+</sup>)=86%和O<sub>ads</sub>/(O<sub>latt</sub>+O<sub>ads</sub>)=59%及优良的低温还原性能等优点，从而表现出优异的甲苯催化燃烧活性和抗水蒸气性能，反应温度仅需在208 ℃时甲苯转化率即可达90%。",
+    "关键词": [
+        "甲苯",
+        "催化燃烧",
+        "δ-MnO2催化剂",
+        "微观结构",
+        "氧空位"
+    ],
+    "基金资助": [
+        "山西省青年基金自由探索项目（202203021212334）",
+        "太原工业学院科研启动基金项目(2022KJ021)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "化学",
+    "分类号": "O643.36;O625.11;O643.21",
+    "页码": "",
+    "页数": "11",
+    "爬取时间": "2025-03-26 08:58:14",
+    "论文唯一代码": "HCHX20240809001"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "交联型自修复水性聚氨酯的合成与性能",
+    "状态": "正常",
+    "发表期刊": "工程塑料应用",
+    "刊发时间": "2024-08-10",
+    "引用量": "0",
+    "下载量": "277",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "党海春",
+            "author_addresses": "太原工业学院材料工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "武美君",
+            "author_addresses": "太原工业学院材料工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "边祥成",
+            "author_addresses": "太原工业学院材料工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "林先鸿",
+            "author_addresses": "太原工业学院材料工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "梁晋帆",
+            "author_addresses": "太原工业学院材料工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "李杰",
+            "author_addresses": "太原工业学院材料工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "赵剑波",
+            "author_addresses": "太原工业学院材料工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "张子梁",
+            "author_addresses": "太原工业学院材料工程系",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "52 ",
+    "期(Issue)": "08",
+    "摘要": " 水性聚氨酯膜容易被划伤，利用双硫键引发的动态交换反应可赋予水性聚氨酯自修复能力。但动态共价键键合强度较弱，导致水性聚氨酯的自修复和力学性能难以兼得。采用聚环氧丙烷醚三醇和含双硫键的2-羟乙基二硫化物，在水性聚氨酯分子中同时引入双硫键和支化结构，制得高强度、交联型的自修复水性聚氨酯。以异氟尔酮二异氰酸酯(IPDI)、聚四氢呋喃醚二醇、聚环氧丙烷醚三醇、2-双(羟甲基)丙酸(DMPA)以及2-羟乙基二硫化物(HEDS)等为主要原料，经预聚物法合成不同DMPA/HEDS物质的量比的IPDI型交联型自修复水性聚氨酯，研究DMPA与HEDS物质的量比对水性聚氨酯乳液稳定性、水性聚氨酯胶膜力学性能和自修复性能的影响。采用傅里叶变换红外光谱(FTIR)仪和拉曼光谱对其进行结构表征，验证了含双硫键的自修复水性聚氨酯的成功合成。双硫键和支化结构的同时引入显著提高了水性聚氨酯胶膜的拉伸强度和自修复性能，当DMPA与HEDS物质的量比为1∶1时，拉伸强度从不含双硫键聚氨酯胶膜的13.1 MPa提高到24.2 MPa，自修复后强度达19.4 MPa，自修复率达80.1%。",
+    "关键词": [
+        "水性聚氨酯",
+        "双硫键",
+        "交联",
+        "自修复",
+        "胶膜"
+    ],
+    "基金资助": [
+        "山西省重点研发项目(202102040201005)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "有机化工",
+    "分类号": "TQ323.8",
+    "页码": "39-45",
+    "页数": "7",
+    "爬取时间": "2025-03-26 08:58:31",
+    "论文唯一代码": "ACSN202408006"
+}
+{
+    "学校id": "4114014101",
+    "学校": "太原工业学院",
+    "论文类型": "期刊",
+    "论文题目": "土坷垃与泥疙瘩：如何认识和表征土壤团聚体生物物理结构？",
+    "状态": "正常",
+    "发表期刊": "地球科学进展",
+    "刊发时间": "2024-08-10",
+    "引用量": "1",
+    "下载量": "302",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "赵正",
+            "author_addresses": [
+                "南京农业大学资源环境学院土壤学系",
+                "南京农业大学农业资源与生态环境研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "冯潇",
+            "author_addresses": [
+                "南京农业大学资源环境学院土壤学系",
+                "太原工业学院环境与安全工程系"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "刘成",
+            "author_addresses": [
+                "南京农业大学资源环境学院土壤学系",
+                "浙江科技大学环境与资源学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "陈硕桐",
+            "author_addresses": [
+                "南京农业大学资源环境学院土壤学系",
+                "扬州大学环境科学与工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "刘志伟",
+            "author_addresses": [
+                "南京农业大学资源环境学院土壤学系",
+                "南京农业大学农业资源与生态环境研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "王燕",
+            "author_addresses": [
+                "南京农业大学资源环境学院土壤学系",
+                "南京农业大学农业资源与生态环境研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "夏少攀",
+            "author_addresses": [
+                "南京农业大学资源环境学院土壤学系",
+                "南京农业大学农业资源与生态环境研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "刘晓雨",
+            "author_addresses": [
+                "南京农业大学资源环境学院土壤学系",
+                "南京农业大学农业资源与生态环境研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 9,
+            "author_name": "卞荣军",
+            "author_addresses": [
+                "南京农业大学资源环境学院土壤学系",
+                "南京农业大学农业资源与生态环境研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 10,
+            "author_name": "张旭辉",
+            "author_addresses": [
+                "南京农业大学资源环境学院土壤学系",
+                "南京农业大学农业资源与生态环境研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 11,
+            "author_name": "程琨",
+            "author_addresses": [
+                "南京农业大学资源环境学院土壤学系",
+                "南京农业大学农业资源与生态环境研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 12,
+            "author_name": "郑聚锋",
+            "author_addresses": [
+                "南京农业大学资源环境学院土壤学系",
+                "南京农业大学农业资源与生态环境研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 13,
+            "author_name": "李恋卿",
+            "author_addresses": [
+                "南京农业大学资源环境学院土壤学系",
+                "南京农业大学农业资源与生态环境研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 14,
+            "author_name": "潘根兴",
+            "author_addresses": [
+                "南京农业大学资源环境学院土壤学系",
+                "南京农业大学农业资源与生态环境研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "pangenxing@aliyun.com"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "39 ",
+    "期(Issue)": "08",
+    "摘要": " 近20年来土壤团聚体的研究逐渐成为土壤学研究的主要方向，其理论和方法不断推陈出新。通过回顾土壤团聚体形成发育的基本理论沿革，梳理了土壤团聚体粒径分组、组分分析和结构表征的技术沿革，讨论和归纳了土壤团聚体分离制备和生物物理结构解剖分析的技术方法，并凝练了对土壤团聚体系统的本质科学认识。得到的主要认识包括：(1)土壤团聚体是土壤中矿物质、有机质和生物质相互作用构成的最小微域构造单元，应赋予功能性土壤颗粒的本质地位；(2)土壤中不同层级团聚体的不同微域分布格式是土壤异质性和功能多样性的原由；(3)土壤团聚体的最终本质是土壤（生物）动态孔隙系统，不同层级团聚体在总孔度、孔径及其堆砌构造上或者说团聚体—孔隙的偶联构造上具有固有的特征；(4)主要可从宏团聚体—微团聚体—（未团聚的）粉黏粒3个层级的组合关系来表征土壤团聚体系统，可用“石榴”模式来理解粉黏粒和微团聚体进一步发育为宏团聚体；(5)在团聚体分离制备方法中，尽管干筛法和润筛法对于干土样本应用较多，但湿筛法制备的样品更接近于团聚体的自然形成和稳定；(6)计算机断层扫描孔隙微形貌技术提供了刻画团聚体孔隙系统并与土壤生命过程和生态系统服务相联系的定量化和可视化技术途径。未来需要通过广泛国际合作发展全球土壤团聚体系统的定量化解剖、功能化分析和可视化呈现的通用方法和实验室操作规范，以便从团聚体系统层面解构土壤复杂系统，特别是生物多样性系统，为开发基于团聚体理论的全球土壤管理政策及技术路径提供科学依据和参考。",
+    "关键词": [
+        "土壤团聚体",
+        "团聚体系统",
+        "层级系统",
+        "孔隙系统",
+        "生物物理结构",
+        "CT微形貌学"
+    ],
+    "基金资助": [
+        "国家自然科学基金项目（编号：42077082,41771332）资助~~"
+    ],
+    "专辑": "基础科学;农业科技",
+    "专题": "农业基础科学;农艺学",
+    "分类号": "S152",
+    "页码": "772-787",
+    "页数": "16",
+    "爬取时间": "2025-03-26 08:58:56",
+    "论文唯一代码": "DXJZ202408002"
+}

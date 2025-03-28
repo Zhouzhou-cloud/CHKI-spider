@@ -1,0 +1,1482 @@
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "基于YOLOv5s的轻量化乒乓球目标检测算法",
+    "状态": "正常",
+    "发表期刊": "计算机应用",
+    "刊发时间": "2023-06-30",
+    "引用量": "9",
+    "下载量": "734",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "赵英",
+            "author_addresses": [
+                "北京化工大学信息科学与技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王琦",
+            "author_addresses": [
+                "北京化工大学信息科学与技术学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "沙捷",
+            "author_addresses": [
+                "首都体育学院实验室与资产管理处"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "郭倩玲",
+            "author_addresses": [
+                "北京化工大学图书馆"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "guoql@mail.buct.edu.cn"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "S1",
+    "摘要": " 针对乒乓球目标检测方法易受环境、光线、速度等多种因素干扰导致精度和实时性不佳的问题，提出了一种基于YOLOv5s框架的轻量化乒乓球目标检测算法——SYOLO5(Shuffle-YOLOv5s)。首先，采用改进的ShuffleNetV2网络单元组合重构YOLOv5s主干网络，提高特征提取速度；其次，在特征融合的过程中引入高效通道注意力（ECA）机制，有效提升模型的检测性能；接着，采用SIoU Loss(S-Intersection over Union)作为定位损失函数提升网络的收敛速度和定位精度；最后，贴合乒乓球小尺寸的特点，采用双尺度目标检测，进一步提高模型推理速度。实验结果表明，所提算法与YOLOv5s相比，参数量和计算量分别减少了80%和60%，精确率提升了1.9个百分点。",
+    "关键词": [
+        "乒乓球检测",
+        "YOLOv5s",
+        "ShuffleNetV2",
+        "高效通道注意力",
+        "SIoU Loss"
+    ],
+    "基金资助": [
+        "国家重点研发计划项目（2018YFB1403903）"
+    ],
+    "专辑": "信息科技;社会科学Ⅱ辑",
+    "专题": "体育;计算机软件及计算机应用",
+    "分类号": "G846;TP391.41",
+    "页码": "229-234",
+    "页数": "6",
+    "爬取时间": "2025-03-26 03:21:38",
+    "论文唯一代码": "JSJY2023S1037"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "冬奥会越野滑雪比赛出发顺序的抽签与编排规则研究——以北京冬奥会越野滑雪比赛为例",
+    "状态": "正常",
+    "发表期刊": "安徽体育科技",
+    "刊发时间": "2023-06-30",
+    "引用量": "0",
+    "下载量": "103",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "曹淼孙",
+            "author_addresses": [
+                "首都体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "左伟",
+            "author_addresses": [
+                "首都体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "张学春",
+            "author_addresses": [
+                "尚志市实验小学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "44 ",
+    "期(Issue)": "03",
+    "摘要": " 以北京冬奥会越野滑雪项目为切入点，详细分析了间隔出发比赛、集体出发比赛、双追逐比赛、个人短距离比赛、团体短距离比赛和接力比赛出发顺序的赛事抽签与编排工作。研究得出，冬奥会越野滑雪比赛因涉及项目众多，出发顺序编排规则各异，因此，实践中要注意区别具体的赛事形式，厘清各赛事形式遵循的具体规则、依据和标准，才能更好地发挥出现有赛事组织体系的优势，最大限度地保障选手出发顺序的公平和正义，确保比赛的顺利进行。",
+    "关键词": [
+        "冬奥会",
+        "越野滑雪",
+        "出发顺序",
+        "抽签",
+        "编排"
+    ],
+    "基金资助": [
+        "北京市社科基金项目“2022年冬奥会借鉴往届冬奥会成功经验研究”,课题编号：18YTB004"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G863.13",
+    "页码": "6-13",
+    "页数": "8",
+    "爬取时间": "2025-03-26 03:21:44",
+    "论文唯一代码": "ATKJ202303002"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "久坐行为对学龄前儿童肌肉力量的影响",
+    "状态": "正常",
+    "发表期刊": "科学技术与工程",
+    "刊发时间": "2023-06-28",
+    "引用量": "4",
+    "下载量": "312",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张豪文",
+            "author_addresses": [
+                "首都体育学院运动科学与健康学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "吴剑",
+            "author_addresses": [
+                "首都体育学院运动科学与健康学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "wujiancupes@126.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "路朝旭",
+            "author_addresses": [
+                "首都儿科研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "郭金",
+            "author_addresses": [
+                "首都儿科研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "包怡华",
+            "author_addresses": [
+                "首都儿科研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "23 ",
+    "期(Issue)": "18",
+    "摘要": " 目前的研究尚未明确久坐行为(sedentary behavior, SB)与肌肉力量(muscle strength, MS)之间的关系，尤其缺乏国内学龄前儿童的相关证据。为探讨SB对3～6岁学龄前期儿童MS的作用，采用横断面研究设计，以北京市3～6岁学龄前儿童为研究对象(n=275),利用握力测试和立定跳远测试分别对上、下肢肌肉力量进行评测，根据肌肉力量标准分公式，结合测评结果计算得出MS的T分；连续佩戴7 d ActiGraph GT9X Link加速度计以评估学龄前儿童的SB的总时间、持续SB时间。结果显示，在控制性别、年龄、家庭年收入，父、母亲学历因素之后，SB的总时间和持续SB时间与肌肉力量均呈显著负相关，SB的总时间每增加10 min/d, MS的T总分下降0.739(95%CI:-1.122,-0.355),持续SB时间每增加10 min/d, MS的T总分下降0.825(95%CI:-1.644,-0.007)。此外，上肢MS和下肢MS与SB的总时间均呈显著负相关，SB的总时间增加10 min/d,上肢MS的T分降低0.427(95%CI:-0.664,-0.189),下肢MS的T分下降0.312(95%CI:-0.533,-0.091)。结果表明SB的总时间和持续SB时间与MS总T分值均呈显著负相关，对于MS而言，SB可能是一个风险因素。为促进学龄前儿童的肌肉力量的发育，应该控制学龄前期儿童的SB的总时间和持续SB时间。",
+    "关键词": [
+        "久坐行为",
+        "学龄前期儿童",
+        "上肢肌肉力量",
+        "下肢肌肉力量"
+    ],
+    "基金资助": [
+        "北京市百千万人才工程(2019A15)"
+    ],
+    "专辑": "工程科技Ⅱ辑;医药卫生科技",
+    "专题": "预防医学与卫生学",
+    "分类号": "R179",
+    "页码": "7701-7708",
+    "页数": "8",
+    "爬取时间": "2025-03-26 03:22:02",
+    "论文唯一代码": "KXJS202318012"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "从文化传承角度探寻足球发展文化底蕴的重要性——以河南一九八二年省运会新乡代表队为例",
+    "状态": "正常",
+    "发表期刊": "体育世界",
+    "刊发时间": "2023-06-28",
+    "引用量": "1",
+    "下载量": "52",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张锦程",
+            "author_addresses": [
+                "西安体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "沈之聪",
+            "author_addresses": [
+                "首都体育学院体育教育训练学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "刘志云",
+            "author_addresses": [
+                "西安体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "06",
+    "摘要": " &lt;正&gt;近年来，多处文件提到了建立百年足球俱乐部的重要性，并明确指出要注重俱乐部自身品牌形象、足球教育和青训体系建设以及俱乐部可持续健康发展等方面。例如：《国家体育总局关于推进中国足球改革发展的若干意见》（2015年9月）提出要打造一批国际竞争力强的超级联赛球队和百年足球俱乐部；《国家体育总局关于重点推进中国足球持续健康发展的意见》(2017年4月）提出注重青训建设和俱乐部自身品牌形象；",
+    "关键词": [],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G843",
+    "页码": "107-110",
+    "页数": "4",
+    "爬取时间": "2025-03-26 03:22:09",
+    "论文唯一代码": "TYSJ202306022"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "冰雪人才培养瓶颈与优化路径研究",
+    "状态": "正常",
+    "发表期刊": "青少年体育",
+    "刊发时间": "2023-06-25",
+    "引用量": "2",
+    "下载量": "35",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "朱永国",
+            "author_addresses": [
+                "首都体育学院冰雪运动学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "杜亚都",
+            "author_addresses": [
+                "首都体育学院体育教育训练学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "06",
+    "摘要": " 本文采用文献资料法和逻辑分析法，对近年来国内关于冰雪人才培养的研究从培养理念、培养模式、培养体系及出现的问题4个方面进行归纳和评述，旨在从整体上把握我国冰雪运动人才培养研究现状；同时借鉴国外冰雪人才培养理念，结合国内现阶段冰雪运动发展趋势，以期为后冬奥时代持续、高质量培养更多冰雪人才提供较为宏观的理论支持。",
+    "关键词": [
+        "冰雪运动",
+        "冰雪人才",
+        "瓶颈",
+        "优化"
+    ],
+    "基金资助": [
+        "2022年北京高等教育本科教学改革创新项目（编号：202210029003）"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "人才学与劳动科学;体育",
+    "分类号": "G86;C961",
+    "页码": "46-48",
+    "页数": "3",
+    "爬取时间": "2025-03-26 03:22:16",
+    "论文唯一代码": "QSTY202306007"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "高校辅导员职业素养提升的价值意蕴和实践进路",
+    "状态": "正常",
+    "发表期刊": "北京教育(德育)",
+    "刊发时间": "2023-06-25",
+    "引用量": "0",
+    "下载量": "185",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘伟杰",
+            "author_addresses": "首都体育学院武术与表演学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "祝莹",
+            "author_addresses": "首都体育学院武术与表演学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "06",
+    "摘要": " 高校辅导员是教师队伍的重要组成部分，是培养德智体美劳全面发展的社会主义建设者和接班人的重要力量，高校辅导员职业素养提升关乎落实立德树人根本任务，关乎培养堪当民族复兴重任的时代新人。从政治素养、品德修养、能力素质和职业操守四个方面，剖析了高校辅导员职业素养的内涵，进而从落实立德树人根本任务、实施“三全育人”综合改革和加强思想政治工作队伍建设三个方面，阐述了高校辅导员职业素养提升的重要意义，最后从牢记岗位职责、掌握工作方法、勇担工作任务、能排安全隐患和树好个人形象五个方面，分学校和辅导员个人两个层面，对高校辅导员职业素养提升提出了可操作性的意见和建议。",
+    "关键词": [
+        "高校辅导员",
+        "职业素养",
+        "价值意蕴",
+        "实践进路"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "高等教育",
+    "分类号": "G645.1",
+    "页码": "88-92",
+    "页数": "5",
+    "爬取时间": "2025-03-26 03:22:23",
+    "论文唯一代码": "BJDE202306017"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "新时代家庭健康指导员培养的现实诉求、发展困境与推进思考",
+    "状态": "正常",
+    "发表期刊": "山东体育学院学报",
+    "刊发时间": "2023-06-21",
+    "引用量": "1",
+    "下载量": "468",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "张俊杰",
+            "author_addresses": [
+                "首都体育学院研究生部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王文龙",
+            "author_addresses": [
+                "东北师范大学体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "郭成根",
+            "author_addresses": [
+                "北京师范大学体育与运动学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "刘海元",
+            "author_addresses": [
+                "首都体育学院研究生部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "39 ",
+    "期(Issue)": "03",
+    "摘要": " 开展家庭健康促进行动是深入贯彻落实健康中国建设的重要举措，家庭健康指导员培养是构建家庭健康服务体系、提升基层健康服务水平的关键环节。运用文献资料、逻辑分析和调研等方法对新时代家庭健康指导员培养的现实诉求、发展困境与推进思考进行研究。研究认为，新时代家庭健康指导员培养的现实诉求包括:政府层面推进健康中国战略落地见效的迫切性、社会层面促成家庭健康指导员培养的需求性、家庭层面落实体育健康教育的紧迫性、个体层面学习运动健康知识与技能的必要性。当前家庭健康指导员培养存在顶层设计不完善与制度保障不健全、职责任务不明确与人才培养不完备、资金保障不系统与数字媒体技术手段应用不成熟等发展困境。建议未来我国家庭健康指导员培养应不断加强组织领导，推进顶层谋划，促成家庭健康指导员制度政策保障;明确职责任务，组织开展培训，加强家庭健康指导员人才培养;完善资金保障，做好总结推广，形成全民健身进家庭中国式现代化发展之路;加强服务阵地建设，规范家庭健康服务中心建设，利用数字媒体技术开展健康知识普及。从而开创家庭健康指导员培养工作的新局面，促成以家庭为单位的健康治理新模式，切实提高国民体质健康水平和健康素养。",
+    "关键词": [
+        "家庭健康",
+        "健康教育",
+        "健康中国",
+        "家庭健康指导员"
+    ],
+    "基金资助": [
+        "国家社会科学基金一般项目(编号:20BTY063)"
+    ],
+    "专辑": "社会科学Ⅱ辑;医药卫生科技",
+    "专题": "医药卫生方针政策与法律法规研究",
+    "分类号": "R197.1",
+    "页码": "33-41",
+    "页数": "9",
+    "爬取时间": "2025-03-26 03:22:32",
+    "论文唯一代码": "TIRE202303005"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "我国U16沙滩排球运动员运动素质特征及与比赛成绩的相关性研究",
+    "状态": "正常",
+    "发表期刊": "山东体育科技",
+    "刊发时间": "2023-06-21",
+    "引用量": "4",
+    "下载量": "184",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "魏智丰",
+            "author_addresses": "首都体育学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "陆卫平",
+            "author_addresses": "首都体育学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王子朴",
+            "author_addresses": "首都体育学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "45 ",
+    "期(Issue)": "03",
+    "摘要": " U16青少年运动员是我国沙滩排球运动未来发展的希望，采用文献资料、测量和访谈等方法，以参加十四运会资格赛的青年组男、女沙滩排球运动员为测试对象，对我国青少年沙滩排球运动员的运动素质特征进行分析，并明晰各项运动素质与比赛成绩的相关性。结果表明：(1)我国U16沙排运动员的弹跳素质、上肢力量素质、直线冲刺速度和多方向移动速度并不理想，耐力素质整体较为可观。男子运动员的沙地多方向移动速度整体较快，而直线冲刺速度较差。此外，男、女各组内运动员之间的各项运动素质均存在显著的不均衡现象；(2)U16男、女沙排运动员的体能水平与比赛成绩之间均有着显著相关性。各运动素质方面，男、女运动员的弹跳素质、上肢相对力量、沙地多方向移动速度均与比赛成绩存在着相关性。此外，男、女运动员的比赛成绩还分别与耐力素质和沙地直线冲刺速度存在相关性。",
+    "关键词": [
+        "青少年运动员",
+        "沙滩排球",
+        "运动素质",
+        "比赛成绩"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G842",
+    "页码": "35-40",
+    "页数": "6",
+    "爬取时间": "2025-03-26 03:22:39",
+    "论文唯一代码": "STKJ202303006"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "体育强国建设背景下高校体育赛事赞助问题与策略研究",
+    "状态": "正常",
+    "发表期刊": "山东体育科技",
+    "刊发时间": "2023-06-21",
+    "引用量": "3",
+    "下载量": "329",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "韩立冬",
+            "author_addresses": [
+                "中国石油大学(华东)体育教学部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "商勇",
+            "author_addresses": [
+                "中国石油大学(华东)体育教学部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "杨铁黎",
+            "author_addresses": [
+                "首都体育学院成人教育部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "45 ",
+    "期(Issue)": "03",
+    "摘要": " 赞助不仅能够为体育赛事注入更多活力，而且能够帮助赞助商扩大知名度，增加企业收益，创造更多价值。本研究利用文献资料法、问卷调查法和数理统计法，探究影响大学生高水平赛事潜在赞助商赞助行为的因素。通过分析可知，赞助企业更重视赛事是否有自媒体直播剪辑或者校园文案的推广、赛事承办单位学校的知名度、承办单位学校体育赛事管理水平三个因素。中国大学生体育协会可以从知名度、赞助商的企业形象、承办单位高校三个方面进行优化，提升引入赞助的能力。",
+    "关键词": [
+        "体育赞助",
+        "大学生高水平赛事",
+        "赞助商"
+    ],
+    "基金资助": [
+        "中国大学生体育协会一般项目(编号：L202103002)"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G807.4",
+    "页码": "60-65",
+    "页数": "6",
+    "爬取时间": "2025-03-26 03:22:47",
+    "论文唯一代码": "STKJ202303010"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "2021年世界青少年啦啦操锦标赛集体技巧成套难度动作编排分析——以全女子集体技巧(精英组)前三名为例2021",
+    "状态": "正常",
+    "发表期刊": "体育科技文献通报",
+    "刊发时间": "2023-06-20",
+    "引用量": "2",
+    "下载量": "264",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "马梦琦",
+            "author_addresses": [
+                "首都体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "陈萱",
+            "author_addresses": [
+                "首都体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "武杰",
+            "author_addresses": [
+                "长治学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王美",
+            "author_addresses": [
+                "首都体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "31 ",
+    "期(Issue)": "06",
+    "摘要": " 本文根据国际技巧啦啦操竞赛规则和评分标准，并结合文献资料法和录像观察法等研究方法，从2021年世界青少年啦啦操锦标赛全女子集体技巧啦啦操前三名优秀成套难度动作的参赛人数、托举、金字塔、篮抛、翻腾等5个方面进行剖析，旨在深入了解优秀队伍的编排原则和难度构成，为我国发展技巧啦啦操运动提供参考。结果表明：哥斯达黎加队整体竞技水平高，在成套动作中参与人数多，选择难度系数高，完成质量高；日本队整体水平较高，过渡链接动作多样，视觉效果好，但在编排中没有将难度均匀分配，且参与人数较少，很大程度限制了水平展示；斯洛文尼亚整体水平较低，失误率高，且在难度编排上缺少多样性。",
+    "关键词": [
+        "技巧啦啦操",
+        "世锦赛",
+        "难度动作",
+        "成套编排"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G837",
+    "页码": "62-64",
+    "页数": "3",
+    "爬取时间": "2025-03-26 03:22:55",
+    "论文唯一代码": "SPOR202306017"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "低频脉冲磁场诱导TRPC1改善COVID-19患者康复期下肢的肌肉无力症状",
+    "状态": "正常",
+    "发表期刊": "中国组织工程研究",
+    "刊发时间": "2023-06-19 18:08",
+    "引用量": "3",
+    "下载量": "207",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "厉中山",
+            "author_addresses": [
+                "福建师范大学体育科学学院",
+                "东北大学体育部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "包义君",
+            "author_addresses": [
+                "中国医科大学附属第四医院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "刘洁",
+            "author_addresses": [
+                "中国医科大学科学试验研究中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "孔维签",
+            "author_addresses": [
+                "沈阳工业大学信息科学与工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "李伟",
+            "author_addresses": [
+                "沈阳工业大学信息科学与工程学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "陈琳",
+            "author_addresses": [
+                "东北大学生命科学与健康学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "白石",
+            "author_addresses": [
+                "沈阳工业大学信息科学与工程学院",
+                "辽宁省磁医学检测与治疗专业技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 8,
+            "author_name": "杨铁黎",
+            "author_addresses": [
+                "首都体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 9,
+            "author_name": "王春露",
+            "author_addresses": [
+                "北京体育大学冰上运动学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "28 ",
+    "期(Issue)": "16",
+    "摘要": " 背景：肌肉无力是新型冠状病毒(COVID-19)感染后的常见症状，影响康复期人体日常活动能力。在强度1.5 mT，频率3 300 Hz的低频脉冲磁场刺激下可通过诱导和激活经典瞬时感受器电位通1(classical transient receptor potential channel 1,TRPC1)，提升人体骨骼肌的最大自主收缩力与力量耐力，对肌肉组织产生一系列生理支持效应，该手段是否会改善新型冠状病毒肺炎患者康复期的肌无力症状尚无研究。目的：选用低频脉冲磁场对新型冠状病毒肺炎患者下肢肌群进行磁刺激，以观察该刺激对新型冠状病毒肺炎患者康复期下肢肌群肌无力改善的影响。方法：招募胶体金法抗原检测试剂(COVID-19)为阳性并伴有肌肉无力症状的新型冠状病毒(奥密克戎毒株)感染患者14例，将所有受试者随机分成2组，分别为接受磁场刺激的试验组和接受假治疗的对照组。试验总时长3周，试验组每隔48 h对腿部进行低频脉冲磁刺激，对照组与试验组干预流程一致但给予假刺激，两组患者均不被告知磁刺激仪器是否运行，两组患者共进行9次操作，随后观察两组患者下肢局部肌群最大自主收缩力、腿部爆发力与力量耐力的变化情况。结果与结论：(1)在采集的8个局部肌群中，试验组患者7个局部肌群在经过3周的低频脉冲磁场刺激，最大自主收缩力值均增长。对照组除3个肌群最大自主收缩力自行增长改善以外，其他肌群肌力无提升。(2)试验组的左腿前群与双腿后群提升率显著高于对照组。(3)两组的纵跳摸高高度与膝关节峰值角速度相比试验前测均提升，试验组摸高高度提升率高于对照组。(4)在疲劳状态下，试验组膝关节峰值角速度下降率显著下降，对照组膝关节峰值角速度下降率无显著性变化；试验组摸高高度下降率显著下降，而对照组摸高高度下降率无显著性变化。(5)上述数据证实，在强度1.5 mT，频率3 300 Hz的低频脉冲磁场刺激方案下，新型冠状病毒肺炎患者在康复期经过3周的低频脉冲磁场刺激相比人体自愈过程可使更多的下肢局部肌群肌力获得提升，对基于腿部爆发力的全身协调发力能力及功能状态明显改善。因此，低频脉冲磁场刺激可作为一种改善新冠感染患者下肢肌肉无力症状的有效、非运动的康复手段。",
+    "关键词": [
+        "新型冠状病毒",
+        "COVID-19",
+        "新型冠状病毒肺炎",
+        "脉冲磁场",
+        "经典瞬时感受器电位通道1",
+        "TRPC1",
+        "肌肉无力"
+    ],
+    "基金资助": [
+        "国家自然科学基金青年项目(62001313),项目负责人:白石",
+        "中国大学生体育协会一般项目(L202103003),项目负责人:厉中山~~"
+    ],
+    "专辑": "医药卫生科技",
+    "专题": "呼吸系统疾病",
+    "分类号": "R563.1",
+    "页码": "2605-2612",
+    "页数": "8",
+    "爬取时间": "2025-03-26 03:23:07",
+    "论文唯一代码": "XDKF202416023"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "短足训练对成年扁平足患者干预效果的系统综述",
+    "状态": "正常",
+    "发表期刊": "中国康复理论与实践",
+    "刊发时间": "2023-06-15 12:07",
+    "引用量": "3",
+    "下载量": "749",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "余中起",
+            "author_addresses": [
+                "首都体育学院运动科学与健康学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王超",
+            "author_addresses": [
+                "首都体育学院体医融合创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "wangchao@cupes.edu.cn"
+        },
+        {
+            "author_order": 3,
+            "author_name": "贺刚",
+            "author_addresses": [
+                "首都体育学院运动科学与健康学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张梁",
+            "author_addresses": [
+                "首都体育学院运动科学与健康学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "王瑞艳",
+            "author_addresses": [
+                "首都体育学院运动科学与健康学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "29 ",
+    "期(Issue)": "05",
+    "摘要": " 目的 系统综述短足训练对成年扁平足患者的干预效果。方法 检索2010年1月至2022年12月发表在PubMed、Web of Science、Cochrane、Embase、Scopus、中国知网、万方数据库、中国生物医学文献数据库中短足训练干预治疗扁平足的相关文献，采用物理治疗证据数据库(PEDro)量表进行方法学质量评价，提取相关数据进行系统综述。结果 最终纳入10篇随机对照试验，涉及335例。PEDro量表平均分7.1分。短足训练可降低扁平足患者足舟骨下降高度，提高足姿指数评分，改善平衡能力，增加拇外展肌横截面积，对足底压力无影响。结论 短足训练对成年扁平足患者的足形态、平衡能力和拇外展肌有良好效果，但对足底压力的效果不显著。",
+    "关键词": [
+        "扁平足",
+        "短足训练",
+        "系统综述"
+    ],
+    "基金资助": [
+        "北京高等教育本科教学改革创新项目(No.201910029003)~~"
+    ],
+    "专辑": "医药卫生科技",
+    "专题": "临床医学;外科学",
+    "分类号": "R493;R682.16",
+    "页码": "551-557",
+    "页数": "7",
+    "爬取时间": "2025-03-26 03:23:24",
+    "论文唯一代码": "ZKLS202305009"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "城市居民体育锻炼行为对就医次数的影响：“收敛”还是“发散”？",
+    "状态": "正常",
+    "发表期刊": "上海体育学院学报",
+    "刊发时间": "2023-06-15",
+    "引用量": "4",
+    "下载量": "1207",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李骁天",
+            "author_addresses": [
+                "首都体育学院休闲与社会体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "马笑妮",
+            "author_addresses": [
+                "首都体育学院研究生部"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "和立新",
+            "author_addresses": [
+                "山东农业大学体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "helixin6688@sohu.com"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "47 ",
+    "期(Issue)": "06",
+    "摘要": " 就医次数是衡量居民健康平等的重要指标之一。采用逐步回归的方法构建零膨胀泊松回归模型和处理效应模型，从健康不平等的视角探讨城市居民体育锻炼对就医次数的积极影响。发现：随着年龄增长，城市居民就医次数增加，不同人口学特征、社会经济地位城市居民的就医次数呈现“发散效应”，健康不平等现象突出。收入、体育锻炼对城市居民整体就医次数有一定抑制作用：收入有一定抑制作用的同时“发散效应”显著；体育锻炼的抑制作用和“收敛效应”均显著，且在不同人口学特征、社会经济地位城市居民间存在差异。体育锻炼对女性、低收入、45岁以上城市居民的就医次数抑制作用显著，呈现出不同性别、城市、收入城市居民就医次数差异不随年龄变化的“平行效应”，但体育锻炼未能改变由社会经济地位引起的健康不平等。",
+    "关键词": [
+        "体育锻炼",
+        "就医次数",
+        "城市居民",
+        "健康不平等",
+        "收敛效应",
+        "发散效应"
+    ],
+    "基金资助": [
+        "国家重点研发计划子课题（2020YFC2006205）",
+        "2019年促进高校内涵发展定额经费项目-京津冀体育健身休闲发展协同创新中心（2011协同创新中心）（PXM2021＿014206＿000030）"
+    ],
+    "专辑": "社会科学Ⅱ辑;医药卫生科技",
+    "专题": "医药卫生方针政策与法律法规研究;体育",
+    "分类号": "R195;G812",
+    "页码": "42-56",
+    "页数": "15",
+    "爬取时间": "2025-03-26 03:23:54",
+    "论文唯一代码": "STYB202306005"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "体育学术期刊通信作者署名规范化探讨：共识、审核、评价与监督",
+    "状态": "正常",
+    "发表期刊": "中国科技期刊研究",
+    "刊发时间": "2023-06-15",
+    "引用量": "2",
+    "下载量": "205",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "朱姣",
+            "author_addresses": "首都体育学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李海燕",
+            "author_addresses": "首都体育学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "34 ",
+    "期(Issue)": "06",
+    "摘要": " 【目的】探讨体育学术期刊中通信作者的署名问题，分析存在问题的原因，探寻体育学术期刊通信作者署名规范化的方法与路径，助力体育学科发展。【方法】采用逻辑分析法和案例分析法对43种体育学术期刊2022年第1期发表文章的通信作者标注情况进行分析。【结果】体育学术期刊通信作者标注率为34.18%,署名信息、作者身份、相关贡献等方面存在问题。体育学术期刊尚未就通信作者署名形成共识，未对通信作者建立标注审核机制，未建立体育学术科研评价机制，未确立科研诚信监督体系。【结论】体育学术期刊应就通信作者署名形成共识，体育学术期刊编辑部需要建立严格的标注审核机制，体育科研机构应进一步改革通信作者评价机制，与学术期刊编辑部一起确立科研诚信监督体系，以促进体育学科论文通信作者署名规范化。",
+    "关键词": [
+        "通信作者",
+        "体育学术期刊",
+        "署名规范",
+        "不当署名",
+        "科研诚信"
+    ],
+    "基金资助": [],
+    "专辑": "信息科技",
+    "专题": "出版",
+    "分类号": "G237.5",
+    "页码": "738-743",
+    "页数": "6",
+    "爬取时间": "2025-03-26 03:24:08",
+    "论文唯一代码": "JYKQ202306008"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "体育人工智能领域关键技术的研究现状和发展方向",
+    "状态": "正常",
+    "发表期刊": "首都体育学院学报",
+    "刊发时间": "2023-06-14 09:08",
+    "引用量": "91",
+    "下载量": "5918",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "霍波",
+            "author_addresses": [
+                "首都体育学院体育人工智能研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "李彦锋",
+            "author_addresses": [
+                "首都体育学院体育人工智能研究院",
+                "首都体育学院体育教育训练学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "高腾",
+            "author_addresses": [
+                "首都体育学院体育人工智能研究院",
+                "首都体育学院体育教育训练学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "王子鑫",
+            "author_addresses": [
+                "首都体育学院体育人工智能研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "杜泽华",
+            "author_addresses": [
+                "首都体育学院体育人工智能研究院",
+                "首都体育学院休闲与社会学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "孙纪元",
+            "author_addresses": [
+                "首都体育学院体育人工智能研究院",
+                "首都体育学院休闲与社会学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "35 ",
+    "期(Issue)": "03",
+    "摘要": " 随着人工智能技术在体育领域的逐步推广，体育人工智能学科已初现端倪，具体是指以人工智能技术为手段，通过感知、归纳、分析、挖掘人类体育运动的数据，揭示人体运动规律、评估运动表现效果、形成科学运动的方案、研发辅助运动训练的装备，以此提升竞技体育运动表现及实现健身科学化和主动健康。首先介绍人工智能及体育人工智能学科的发展历程，进而基于检索到的855篇学术论文，针对体育人工智能领域的3类主要技术——计算机视觉技术、智能可穿戴设备和大数据技术，归纳了不同技术的数据获取方式，介绍了包括深度学习在内的机器学习等人工智能算法，梳理了其在竞技体育、学校体育、全民健身领域中的应用现状和研究方向，最后分别分析了上述3类主要技术在当前的应用中面临的挑战及未来的主要发展方向。",
+    "关键词": [
+        "人工智能",
+        "体育人工智能",
+        "体医工融合",
+        "主动健康",
+        "竞技体育",
+        "学校体育",
+        "全民健身"
+    ],
+    "基金资助": [
+        "中央高校基本科研业务费专项资金资助课题（2021TD009）"
+    ],
+    "专辑": "社会科学Ⅱ辑;信息科技",
+    "专题": "体育;自动化技术",
+    "分类号": "TP18;G80-05",
+    "页码": "233-256",
+    "页数": "24",
+    "爬取时间": "2025-03-26 03:24:22",
+    "论文唯一代码": "BTSF202303001"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "佩戴口罩运动对心率、血氧饱和度及呼气末二氧化碳影响的Meta分析",
+    "状态": "正常",
+    "发表期刊": "中国组织工程研究",
+    "刊发时间": "2023-06-12 11:05",
+    "引用量": "1",
+    "下载量": "424",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "代新语",
+            "author_addresses": [
+                "首都体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "闫纪红",
+            "author_addresses": [
+                "吉首大学体育科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "毕学翠",
+            "author_addresses": [
+                "首都体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "郑晓鸿",
+            "author_addresses": [
+                "首都体育学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "28 ",
+    "期(Issue)": "14",
+    "摘要": " 目的：口罩是阻隔病毒最重要的防线之一，然而日常活动或运动时佩戴口罩对呼吸循环功能的影响尚存分歧。文章运用Meta分析方法综合定量评价佩戴口罩运动中的心率、血氧饱和度和呼气末二氧化碳，探讨在不同强度、时间运动中佩戴不同类型的口罩对人体呼吸循环系统的影响。方法：截至2023年2月，以“口罩，面罩，N95，训练，运动，跑步，步行，自行车”为中文检索词，以“Masks,Respiratory Protective Devices,N95 Respirators,Surgical Face Masks,Exercise,Resistance Training,Explosive training,Muscle Stretching Exercises”为英文检索词在中国知网和Web of Science、PubMed、Cochrane Library、万方网络数据库进行检索，收集佩戴口罩运动对血流动力学指标影响的试验研究。结局指标包括运动中心率、血氧饱和度和呼气末二氧化碳，共3个连续性变量，运用Stata 16.0软件对所纳入文献的结局指标进行分析，以PEDro量表作为质量评估的工具，采用漏斗图进行发表偏倚的分析。结果：共纳入25篇文献，含健康儿童及成年人共857人。PEDro量表评分6分的研究22项，7分的研究2项，8分的研究1项，总体文献方法学质量较高。Meta分析结果显示：(1)与对照组相比佩戴口罩进行运动对心率影响不显著(SMD=0.02,95%CI:-0.11-0.15,P=0.81)，但会提高呼气末二氧化碳水平(SMD=0.60,95%CI:0.37-0.83,P=0.00)，降低血氧饱和度(SMD=-0.28,95%CI:-0.47至-0.09,P=0.03)；(2)强度与持续时间是影响研究间异质性的因素，佩戴口罩进行高强度运动会使心率显著升高(SMD=-0.20,95%CI:-0.36至-0.04,P=0.02)，高强度、短时间运动对被试血氧饱和度的影响非常显著地高于其他运动(SMD=-0.40,95%CI:-0.70至-0.10;SMD=-0.25,95%CI:-0.45至-0.04)；(3)对于呼气末二氧化碳水平而言，维持一定强度增加运动时间或进一步增加强度，该指标均会显著升高，达到中等效应量(SMD=0.61,95%CI:0.06-1.15;SMD=0.58,95%CI:0.04-1.13)。结论：(1)现有的证据表明，戴口罩运动可能有增加呼气末二氧化碳、降低血氧饱和度的不良影响。(2)不同运动测试时间、强度对3个结局指标的影响程度存在差异。(3)高强度运动中佩戴口罩会显著提升心率并降低血氧饱和度，维持中等强度进行长时间运动或进一步增加运动强度，均会导致呼气末二氧化碳水平增加。",
+    "关键词": [
+        "外科口罩",
+        "N95式口罩",
+        "血氧饱和度",
+        "运动中心率",
+        "运动测试",
+        "呼气末二氧化碳",
+        "Meta分析"
+    ],
+    "基金资助": [
+        "辽宁省教育厅科学研究经费项目(WJC2020ST06),项目参与人：代新语~~"
+    ],
+    "专辑": "医药卫生科技;基础科学",
+    "专题": "生物学;基础医学",
+    "分类号": "R33",
+    "页码": "2290-2296",
+    "页数": "7",
+    "爬取时间": "2025-03-26 03:24:28",
+    "论文唯一代码": "XDKF202414025"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "新时代体育院校思政课教师的使命担当探赜",
+    "状态": "正常",
+    "发表期刊": "北京教育(高教)",
+    "刊发时间": "2023-06-10",
+    "引用量": "1",
+    "下载量": "127",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李金花",
+            "author_addresses": [
+                "首都体育学院马克思主义学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "06",
+    "摘要": " 思政课作为落实立德树人根本任务的关键课程，其作用无可替代。思政课教师使命光荣、责任重大。新时代体育院校思政课教师既需要具备普通高校思政课教师的共性，又具有体育院校思政课教师的个性，达到共性与个性的统一。为此，体育院校思政课教师要不断修炼内功，契合体育院校学生发展需求，探索适合学生特点的思政课教学方法，凸显体育特色，切实担好育人使命。",
+    "关键词": [
+        "新时代",
+        "体育院校",
+        "思政课"
+    ],
+    "基金资助": [
+        "北京市教育委员会科研计划项目“习近平治国理政对马克思恩格斯国家职能思想的创新发展研究”（项目批准号：SM202110029001）阶段性研究成果"
+    ],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G807.4",
+    "页码": "51-52",
+    "页数": "2",
+    "爬取时间": "2025-03-26 03:24:33",
+    "论文唯一代码": "BJYG202306013"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "基于OBE理念的体育教育专业体育课程教学改革设计",
+    "状态": "正常",
+    "发表期刊": "北京教育(高教)",
+    "刊发时间": "2023-06-10",
+    "引用量": "7",
+    "下载量": "393",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李越苹",
+            "author_addresses": [
+                "首都体育学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "06",
+    "摘要": " 针对国家培养人才的需要，深入探讨体育教育专业体育课程教学存在的问题，以OBE教育理论为指导，提出明确课程目标、重组课程教学体系、优化体育课程教学评价体系三项体育课程教学改革内容和改革目标，为培养高质量体育教学专业人才提供改革的思路和方法。",
+    "关键词": [
+        "OBE理念",
+        "体育课程",
+        "教学改革"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G807.4",
+    "页码": "53-55",
+    "页数": "3",
+    "爬取时间": "2025-03-26 03:24:40",
+    "论文唯一代码": "BJYG202306014"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "从新生到裂变：中国体育纪录片的跨媒介传播进路",
+    "状态": "正常",
+    "发表期刊": "当代电影",
+    "刊发时间": "2023-06-05",
+    "引用量": "2",
+    "下载量": "727",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "兰馨",
+            "author_addresses": [
+                "首都体育学院管理与传播学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "No record",
+    "期(Issue)": "06",
+    "摘要": " 纵观我国体育纪实影像发展史，先后经历了从纪录电影到电视纪录片再到网生纪录片的跨界传播演进，观众的注意力也在跨屏与协同中完成转移与定格，中国体育纪录电影的传播逻辑得以重塑。应该说，中国体育纪录电影的跨媒介传播是一个持续进行的再“统一”的过程，而非某种全新的结果。",
+    "关键词": [
+        "中国体育纪录片",
+        "体育媒介事件",
+        "跨媒介传播"
+    ],
+    "基金资助": [],
+    "专辑": "哲学与人文科学",
+    "专题": "戏剧电影与电视艺术",
+    "分类号": "J952",
+    "页码": "94-98",
+    "页数": "5",
+    "爬取时间": "2025-03-26 03:24:49",
+    "论文唯一代码": "DDDY202306013"
+}
+{
+    "学校id": "4111010029",
+    "学校": "首都体育学院",
+    "论文类型": "期刊",
+    "论文题目": "参照与借鉴：“一带一路”体育交流的“上合路径”",
+    "状态": "正常",
+    "发表期刊": "体育研究与教育",
+    "刊发时间": "2023-06-05",
+    "引用量": "0",
+    "下载量": "169",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "刘贝",
+            "author_addresses": [
+                "首都体育学院体育教育训练学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "蒋佳欣",
+            "author_addresses": [
+                "首都体育学院体育教育训练学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "杨俊琳",
+            "author_addresses": [
+                "首都体育学院体育教育训练学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张云天",
+            "author_addresses": [
+                "国家体育总局体育科学研究所"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "张旭辉",
+            "author_addresses": [
+                "首都体育学院体育教育训练学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2023",
+    "卷(Volume)": "38 ",
+    "期(Issue)": "03",
+    "摘要": " 体育交流对“一带一路”倡议的实施与发展具有重要现实意义。笔者采用文献资料、逻辑分析以及比较研究法，分阶段探讨“一带一路”体育交流所面临的困境及挑战，并根据“如何参照与借鉴‘上合组织’区域成功经验”的思路，初步探索“一带一路”体育交流的创新路径。研究建议：(1)发出“上合最强音”,提升中国国际体育话语权；(2)基于“上合组织”区域经济的成功经验，促进“一带一路”体育产业经济发展；(3)延续与夯实“上海精神”,建设“国际体育文化共同体”;(4)发挥与借鉴“上合组织”机制，提升“一带一路”体育交流的影响力。",
+    "关键词": [
+        "“一带一路”",
+        "上合组织",
+        "体育交流",
+        "中国方案"
+    ],
+    "基金资助": [],
+    "专辑": "社会科学Ⅱ辑",
+    "专题": "体育",
+    "分类号": "G812.78",
+    "页码": "14-21",
+    "页数": "8",
+    "爬取时间": "2025-03-26 03:24:56",
+    "论文唯一代码": "SXST202303003"
+}

@@ -1,0 +1,1297 @@
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "增强铸牢中华民族共同体意识的道德认同机制",
+    "状态": "正常",
+    "发表期刊": "满语研究",
+    "刊发时间": "2024-12-31",
+    "引用量": "0",
+    "下载量": "96",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "许袖飞",
+            "author_addresses": [
+                "海南师范大学马克思主义学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "王鑫垚",
+            "author_addresses": [
+                "河北民族师范学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王文东",
+            "author_addresses": [
+                "中央民族大学哲学与宗教学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "02",
+    "摘要": " 铸牢中华民族共同体意识是开创党的民族工作新局面的必然要求，是维护各民族根本利益、实现中华民族伟大复兴的必由之路。新时代条件下增强铸牢中华民族共同体意识的道德认同机制，对各族群众认同并忠诚于中华民族共同体具有积极意义，但同时也面临着一系列问题和挑战。增强铸牢中华民族共同体意识的道德认同机制，要在中华民族道德生活中，准确把握发展机遇，通过健全中华民族共同体道德体系、提升各族群众道德品质及营造良好道德风尚等路径，从整体上推进社会道德建设和个体道德建设的良性互动，使各族群众在准确理解并果敢践行社会主义道德的活动中，铸牢中华民族共同体意识，自觉承担实现中华民族伟大复兴的历史使命。",
+    "关键词": [
+        "铸牢中华民族共同体意识",
+        "道德认同机制",
+        "价值认同"
+    ],
+    "基金资助": [
+        "国家社科基金重大项目(项目编号：22&ZD039)"
+    ],
+    "专辑": "哲学与人文科学;社会科学Ⅰ辑",
+    "专题": "伦理学;思想政治教育;行政学及国家行政管理",
+    "分类号": "B82-05;D633;D648",
+    "页码": "16-25",
+    "页数": "10",
+    "爬取时间": "2025-03-26 06:05:46",
+    "论文唯一代码": "MYYJ202402002"
+}
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "承德非遗“棉花鬼”在高校教学中铸牢中华民族共同体意识的培养途径",
+    "状态": "正常",
+    "发表期刊": "黄河之声",
+    "刊发时间": "2024-12-30",
+    "引用量": "0",
+    "下载量": "0",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "白萌",
+            "author_addresses": [
+                "河北民族师范学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "24",
+    "摘要": " “棉花鬼”是流传于承德市滦平县满族地区的一种民俗表演形式，以独特的装扮风格、幽默的舞蹈动作、浓郁的民族特色而闻名，于清康熙年间兴起，至今已有两百余年的发展历史，属于河北省非物质文化遗产。习近平总书记在党的二十大报告中就中华优秀传统文化进行了深刻阐述，强调要不断提升国家文化软实力和中华文化影响力。本文以二十大文化精神为指导，聚焦承德非遗“棉花鬼”在高校教学中铸牢中华民族共同体意识的培养，旨在以“棉花鬼”为例，深入分析探索传统文化融入高校人才培养体系的价值与途径，推动传统文化在高校教学中实现高质量创新发展的同时，有效激发传统文化的教育功能，为国家培育更多具备较高知识水平与深厚文化自信的时代新人。",
+    "关键词": [
+        "承德非遗“棉花鬼”",
+        "中华优秀传统文化",
+        "传统文化保护与传承"
+    ],
+    "基金资助": [],
+    "专辑": "哲学与人文科学;社会科学Ⅱ辑",
+    "专题": "音乐舞蹈;高等教育",
+    "分类号": "J722.2-4;G642",
+    "页码": "20-22",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:05:52",
+    "论文唯一代码": "HHZS202424005"
+}
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "文化符号铸牢中华民族共同体意识路径研究——以承德避暑山庄为例",
+    "状态": "正常",
+    "发表期刊": "怀化学院学报",
+    "刊发时间": "2024-12-28",
+    "引用量": "0",
+    "下载量": "194",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "徐婧",
+            "author_addresses": [
+                "河北民族师范学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "祁进玉",
+            "author_addresses": [
+                "中央民族大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "43 ",
+    "期(Issue)": "06",
+    "摘要": " 符号是意义的载体，更是参与或促成社会行动的途径与手段，各民族共享的中华文化符号是中华民族各民族在历史长河中创造、使用的文化象征，具象地表达了中华文化的丰富内涵与独特魅力，是强化中华民族情感认同、凝聚民族精神、铸牢中华民族共同体意识的重要途径。承德避暑山庄作为各民族共享的中华文化符号的典型代表，象征着中华民族深厚的历史底蕴与灿烂的文化传承，深入讨论其作为各民族共享的中华文化符号的历史过程、文化内涵及现实价值，是凝聚民族力量、坚定民族自信、铸牢中华民族共同体意识的一种重要途径。我们应继续深入挖掘和传承各民族共享的中华文化符号，共同建设中华民族共有的精神家园，为实现中华民族伟大复兴的中国梦贡献文化力量。",
+    "关键词": [
+        "文化符号",
+        "中华民族共同体意识",
+        "承德",
+        "避暑山庄",
+        "路径研究"
+    ],
+    "基金资助": [
+        "国家社会科学基金重大项目“‘一带一路’沿线各国民族志研究及数据库建设”（17ZDA155）",
+        "河北省民族事务委员会民族领域研究项目“作为中华文化符号的避暑山庄及其当代价值研究”（202312）",
+        "河北省教育厅科学研究项目“河北多元民族文化交融与中华民族共同体意识生成研究”（BJ2025352）"
+    ],
+    "专辑": "社会科学Ⅱ辑;哲学与人文科学;社会科学Ⅰ辑",
+    "专题": "文化;行政学及国家行政管理",
+    "分类号": "D633;G127",
+    "页码": "24-31",
+    "页数": "8",
+    "爬取时间": "2025-03-26 06:06:03",
+    "论文唯一代码": "HUAI202406004"
+}
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "基层成为传媒类毕业生就业沃土",
+    "状态": "正常",
+    "发表期刊": "村委主任",
+    "刊发时间": "2024-12-25",
+    "引用量": "0",
+    "下载量": "19",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "陈姝睿",
+            "author_addresses": [
+                "河北民族师范学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "24",
+    "摘要": " 乡村振兴战略的实施为地方高校传媒类毕业生到基层就业创造了广阔空间，但受主客观因素制约，传媒类毕业生“下得去、留得住”还面临诸多现实困境。文章在分析传媒类毕业生基层就业对国家、高校、学生等多方主体重要意义的基础上，剖析制约其基层就业的思想观念落差、专业能力不足、保障机制不健全等瓶颈，进而从加强思想引导，提升就业认同；优化培养模式，提高专业适应能力；完善就业机制，激发发展内生动力等方面，提出推动地方高校传媒类毕业生基层就业的对策建议，以期为助推乡村人才振兴提供参考。",
+    "关键词": [],
+    "基金资助": [
+        "河北省人力资源和社会保障厅课题“乡村振兴战略下地方高校传媒类毕业生基层就业的现实困境与对策”（项目编号JRSHZ-2024-01082）阶段性研究成果"
+    ],
+    "专辑": "经济与管理科学;社会科学Ⅰ辑;社会科学Ⅱ辑;信息科技",
+    "专题": "高等教育;新闻与传媒",
+    "分类号": "G206-4;G647.38",
+    "页码": "180-182",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:06:09",
+    "论文唯一代码": "CWZR202424061"
+}
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "智能无人车道路缺陷自动检测模型的设计与研究",
+    "状态": "正常",
+    "发表期刊": "现代计算机",
+    "刊发时间": "2024-12-25",
+    "引用量": "0",
+    "下载量": "69",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "邹成",
+            "author_addresses": [
+                "河北民族师范学院数学与计算机科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "纪佳琪",
+            "author_addresses": [
+                "河北民族师范学院数学与计算机科学学院",
+                "河北省文化旅游大数据技术创新中心"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "52987541@qq.com"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "30 ",
+    "期(Issue)": "24",
+    "摘要": " 随着交通网络的不断扩展，公路里程持续增长，道路养护压力也与日俱增。针对该问题，提出适用于智能无人车的道路缺陷自动检测模型，该模型基于目标检测，采用YOLOv8为基础模型，使用道路缺陷数据对模型进行训练。优先对模型训练参数进行调整，得到在相同训练周期下效果最好的训练参数，对全部数据进行训练，最后模型的mAP值为45.8%，将模型应用在智能无人车，可以准确、快速地识别多种道路缺陷。",
+    "关键词": [
+        "目标检测",
+        "道路缺陷",
+        "智能无人车",
+        "YOLOv8模型",
+        "道路养护"
+    ],
+    "基金资助": [
+        "汇智领创空间第四批科技创新项目(HZLC202402)",
+        "2024年国家级大学生创新训练计划项目(202410098004)",
+        "中央引导地方科技发展资金项目(246Z0203G)"
+    ],
+    "专辑": "信息科技;工程科技Ⅱ辑",
+    "专题": "汽车工业;计算机软件及计算机应用",
+    "分类号": "TP391.41;U463.6",
+    "页码": "9-15",
+    "页数": "7",
+    "爬取时间": "2025-03-26 06:06:24",
+    "论文唯一代码": "XDJS202424002"
+}
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "基于元启发式算法的移动边缘计算任务卸载优化",
+    "状态": "正常",
+    "发表期刊": "自动化技术与应用",
+    "刊发时间": "2024-12-23 15:04",
+    "引用量": "0",
+    "下载量": "189",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "孔庆泽",
+            "author_addresses": [
+                "国网冀北电力有限公司承德供电公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "张添洋",
+            "author_addresses": [
+                "河北民族师范学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "李岩",
+            "author_addresses": [
+                "国网冀北电力有限公司承德供电公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "张勇",
+            "author_addresses": [
+                "国网冀北电力有限公司承德供电公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "迟承哲",
+            "author_addresses": [
+                "国网冀北电力有限公司承德供电公司"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "",
+    "卷(Volume)": "No record",
+    "期(Issue)": "No record",
+    "摘要": " 基于物联网设备和移动设备计算能力有限的问题，针对移动边缘计算（mobile edge computing，MEC）环境中的任务卸载优化问题，采用蚁群优化算法（ant colony optimiz-\nation，ACO）、灰狼优化算法（Grey wolf optimization，GWO）和鲸鱼优化算法（whale optimization algorithm，WOA）三种元启发式算法，建立了能量消耗和计算延迟的数学模型，并结合大量仿真试验，分析了三种算法在不同任务大小和节点数量情况下的性能表现。结果表明，在节点数量为100、任务大小为1 000 kB的条件下，GWO算法相比ACO和WOA算法，平均节能10.2%，平均减少延迟15.8%。结论是，GWO算法在优化MEC系统的能耗和延迟方面表现出优异的综合性能，为MEC任务卸载策略提供了有效的优化方案。",
+    "关键词": [
+        "移动边缘计算",
+        "MCC",
+        "能量优化",
+        "卸载决策",
+        "元启发式算法"
+    ],
+    "基金资助": [
+        "国家自然科学基金（61374184）"
+    ],
+    "专辑": "信息科技",
+    "专题": "电信技术;自动化技术",
+    "分类号": "TP18;TN929.5",
+    "页码": "",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:06:47",
+    "论文唯一代码": "ZDHJ20241220006"
+}
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "京津冀一体化视域下民族传统体育赛事利益网络治理策略研究",
+    "状态": "正常",
+    "发表期刊": "文体用品与科技",
+    "刊发时间": "2024-12-23",
+    "引用量": "0",
+    "下载量": "29",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "杨华莉",
+            "author_addresses": "河北民族师范学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "孔艳君",
+            "author_addresses": "河北民族师范学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "刘尚杭",
+            "author_addresses": "河北民族师范学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "梁爽",
+            "author_addresses": "河北民族师范学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "24",
+    "摘要": " 民族传统体育赛事肩负着文化传承与传播的重要使命，在文化传承和族群认同的促进中发挥着关键作用。本文运用文献资料法、专家访谈法、网络分析法等，剖析京津冀一体化视域下民族传统体育赛事的利益相关者，并进行利益网络分析，得出：民族传统体育赛事的利益相关主体是指个体集合，它具有权利能力和自主行动能力，是受到利益影响驱使形成的一个利益关联体，利益相关者由核心利益相关者、蛰伏利益相关者、边缘利益相关者构成。赛事治理中出现了利益网络凝聚性不强、益网络中介角色缺失、利益网络等级性明显的特征突出等关键问题，提出了赛事利益网络治理路径：利益相关者参与主体的多元化、构建赛事的协同治理机制、以文化自信为依托的赛事回归，以期提高京津冀一体化视域下民族传统体育赛事利益网络治理水平，更好地发挥赛事的综合效益，发挥区域经济的优势，弘扬中华优秀传统文化。",
+    "关键词": [
+        "民族传统体育",
+        "赛事网络治理",
+        "利益相关者"
+    ],
+    "基金资助": [
+        "河北省体育局体育科技研究项目：京津冀一体化背景下民族传统体育赛事利益网络治理研究项目编号：2025QT17"
+    ],
+    "专辑": "社会科学Ⅱ辑;工程科技Ⅰ辑",
+    "专题": "体育",
+    "分类号": "G808.2",
+    "页码": "25-27",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:06:56",
+    "论文唯一代码": "WTYP202424009"
+}
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "世界文化遗产避暑山庄研究可视化分析",
+    "状态": "正常",
+    "发表期刊": "文化创新比较研究",
+    "刊发时间": "2024-12-21",
+    "引用量": "0",
+    "下载量": "21",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李建峰",
+            "author_addresses": "河北民族师范学院避暑山庄研究中心",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "黄大伟",
+            "author_addresses": "河北民族师范学院避暑山庄研究中心",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "代洪宝",
+            "author_addresses": "河北民族师范学院避暑山庄研究中心",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "8 ",
+    "期(Issue)": "36",
+    "摘要": " 世界文化遗产避暑山庄具有园林建筑、政治思想、民族宗教等多元文化属性，得到多学科学者持续关注。该文采用知识图谱软件CiteSpace，辅以Excel表格对2003年以来国内避暑山庄研究文献进行年度发文量、发文期刊、发文机构、研究热点4个维度的可视化分析，发现避暑山庄学学科建设探索、避暑山庄历史价值与历史图景、避暑山庄文化遗产的保护与利用、避暑山庄园林价值特征与艺术技法、避暑山庄民族政策与宗教政策5项研究热点，并从成果、平台与学术共同体3个方面总结研究特征，据此提出强化研究系统性与整体性、研究创新性与服务性的研究展望。",
+    "关键词": [
+        "避暑山庄",
+        "避暑山庄学",
+        "可视化分析",
+        "CiteSpace",
+        "文化遗产",
+        "知识图谱"
+    ],
+    "基金资助": [
+        "2024年河北省文化艺术科学规划和旅游研究项目“承德市‘旅游促进各民族交往交流交融’游客体验价值研究”（项目编号：HB24-YB076）",
+        "2024河北科学院科技计划项目“承德市实施促‘旅游促进各民族交往交流’发展路径研究”（项目编号：24103）"
+    ],
+    "专辑": "哲学与人文科学;信息科技",
+    "专题": "文化;图书情报与数字图书馆",
+    "分类号": "G112;G353.1",
+    "页码": "176-181",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:07:02",
+    "论文唯一代码": "WCBJ202436038"
+}
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "数智赋能背景下大学生饲料行业创新创业的前景",
+    "状态": "正常",
+    "发表期刊": "中国饲料",
+    "刊发时间": "2024-12-20",
+    "引用量": "0",
+    "下载量": "38",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "任源",
+            "author_addresses": [
+                "河北科技工程职业技术大学"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "司红十",
+            "author_addresses": [
+                "河北民族师范学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "24",
+    "摘要": " 在数智赋能背景下，大学生在饲料行业的创新创业面临众多机遇。通过研发精准营养与环境友好型饲料，创业者能响应可持续发展趋势，满足市场需求。构建智能化生产管理系统，利用物联网、大数据与人工智能技术，实现饲料生产的自动化与精细化管理，提升企业的效率与产品质量。提高供应链透明度，并接入供应链金融平台，有助于解决融资难题，增强供应链稳定性。创新品牌定位与数字营销模式，通过大数据分析与社交媒体互动，提高品牌知名度与吸引力。建立在线用户服务平台，提供个性化售后服务，增强用户体验与忠诚度，为大学生创业者开辟饲料行业新的增长点。",
+    "关键词": [
+        "数智赋能",
+        "大学生",
+        "饲料行业",
+        "创新创业",
+        "前景"
+    ],
+    "基金资助": [
+        "河北省社会科学发展研究课题（202402140）",
+        "邢台市社会科学规划立项课题（XTSKGH2024107）",
+        "河北科技工程职业技术大学2024年度教研教改校级课题（2024JYZD0029）"
+    ],
+    "专辑": "农业科技;社会科学Ⅱ辑;经济与管理科学",
+    "专题": "高等教育;农业经济",
+    "分类号": "G647.38;F324.6",
+    "页码": "153-156",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:07:13",
+    "论文唯一代码": "SLGZ202424038"
+}
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "高校志愿者管理系统的设计与实现",
+    "状态": "正常",
+    "发表期刊": "科技风",
+    "刊发时间": "2024-12-20",
+    "引用量": "0",
+    "下载量": "931",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "房健",
+            "author_addresses": [
+                "河北民族师范学院数学与计算机科学学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "35",
+    "摘要": " 随着高校志愿活动的增加，需要进一步设计开发出符合高校需求、高效实用的志愿者管理系统。高校志愿者管理系统有助于科学、规范地管理大学生参加志愿活动，高效地记录大学生志愿者的活动时间和活动质量，方便志愿活动组织者管理并维护志愿者的权益。研究试图采用SOA架构和Web Service技术，设计开发出一套高校志愿者管理系统。该系统设置管理员、组织者、志愿者三种用户和管理员、组织者、志愿者和活动四个实体，能够实现用户管理、志愿活动管理、报名管理、评价管理、志愿者统计查询服务等功能。同时，进一步对管理系统的使用进行了展示，包括界面登录、组织者申报活动、志愿者报名、组织者评价等关键环节，为高校志愿者管理部门提供参考。",
+    "关键词": [
+        "SOA",
+        "Web Service",
+        "高校志愿者",
+        "管理系统"
+    ],
+    "基金资助": [
+        "2020年度河北省高等学校科学技术研究项目“高校志愿者管理系统的设计与实现”(项目编号：Z2020209)研究成果"
+    ],
+    "专辑": "基础科学;社会科学Ⅱ辑;信息科技",
+    "专题": "高等教育;计算机软件及计算机应用",
+    "分类号": "TP315;G647",
+    "页码": "59-61",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:07:20",
+    "论文唯一代码": "KJFT202435020"
+}
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "面向FFT处理器的CSD编码复数乘法器优化设计",
+    "状态": "正常",
+    "发表期刊": "电子器件",
+    "刊发时间": "2024-12-20",
+    "引用量": "0",
+    "下载量": "17",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "于建",
+            "author_addresses": "河北民族师范学院物理与电子工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "70454318@qq.com"
+        },
+        {
+            "author_order": 2,
+            "author_name": "范浩阳",
+            "author_addresses": "河北民族师范学院物理与电子工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "程晨",
+            "author_addresses": "河北民族师范学院物理与电子工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "石红浩",
+            "author_addresses": "河北民族师范学院物理与电子工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "孙秋月",
+            "author_addresses": "河北民族师范学院物理与电子工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "刘可",
+            "author_addresses": "河北民族师范学院物理与电子工程学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "47 ",
+    "期(Issue)": "06",
+    "摘要": " 复数乘法器是快速傅里叶变换(Fast Fourier Transform, FFT)处理器重要的组成部分，用于完成旋转因子的复数乘法运算。由于正则有符号数(Canonical Signed Digit, CSD)复数乘法器结构简单且无需任何只读存储单元(Read Only Memory, ROM)对旋转因子系数进行存储，因此常被用于低硬件开销FFT处理器的实现。为了进一步减少CSD复数乘法器在FFT处理器硬件资源消耗中的占比，提出了一种优化设计方案。此方案通过添加必要的逻辑电路，提前计算系统时钟对CSD复数乘法器的控制逻辑，达到更加有效地控制其所消耗硬件资源的目的。QUARTUS PRIME平台的综合结果显示，在实现64点FFT处理器时，至少能够节约逻辑单元(Logic Elements, LEs)使用量26%,工作频率为30 MHz时，动态功耗仅为11.61 mW。",
+    "关键词": [
+        "快速傅里叶变换",
+        "CSD复数乘法器",
+        "硬件成本",
+        "控制逻辑",
+        "旋转因子"
+    ],
+    "基金资助": [
+        "河北省中央引导地方科技专项项目资助(246Z0203G)",
+        "承德市应用技术研究与开发暨可持续发展议程创新师范区专项科技计划项目(202305B092)",
+        "河北省大中学生科技创新能力培育专项项目(22E50278D)"
+    ],
+    "专辑": "信息科技",
+    "专题": "计算机硬件技术",
+    "分类号": "TP332.22",
+    "页码": "1473-1477",
+    "页数": "5",
+    "爬取时间": "2025-03-26 06:07:26",
+    "论文唯一代码": "DZQJ202406006"
+}
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "粤港澳大湾区2013—2022年对流层甲醛柱浓度时空演变特征",
+    "状态": "正常",
+    "发表期刊": "广州大学学报(自然科学版)",
+    "刊发时间": "2024-12-15",
+    "引用量": "0",
+    "下载量": "56",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王大康",
+            "author_addresses": [
+                "广州大学地理科学与遥感学院",
+                "广州大学空天遥感创新研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "夏慧",
+            "author_addresses": [
+                "广州大学地理科学与遥感学院",
+                "广州大学空天遥感创新研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "刘佳彬",
+            "author_addresses": [
+                "广州大学地理科学与遥感学院",
+                "广州大学空天遥感创新研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "宋兆龙",
+            "author_addresses": [
+                "广州大学地理科学与遥感学院",
+                "广州大学空天遥感创新研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "莫咏茹",
+            "author_addresses": [
+                "广州大学地理科学与遥感学院",
+                "广州大学空天遥感创新研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "郭宇",
+            "author_addresses": [
+                "重庆市地质矿产勘查开发局107地质队"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "王冶",
+            "author_addresses": [
+                "河北民族师范学院资源与环境科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "wangye1991@hbun.edu.cn"
+        },
+        {
+            "author_order": 8,
+            "author_name": "杨现坤",
+            "author_addresses": [
+                "广州大学地理科学与遥感学院",
+                "广州大学空天遥感创新研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 9,
+            "author_name": "王晋年",
+            "author_addresses": [
+                "广州大学地理科学与遥感学院",
+                "广州大学空天遥感创新研究院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "23 ",
+    "期(Issue)": "06",
+    "摘要": " 卫星观测的对流层甲醛（HCHO）垂直柱浓度（Vertical Column Densities, VCD）已成为研究区域挥发性有机物（Volatile Organic Compounds, VOCs）时空演变的重要手段。探索对流层HCHO VCD的时空演变对粤港澳大湾区乃至广东省PM<sub>2.5</sub>和O<sub>3</sub>污染协同控制具有重要意义。文章采用OMI（Ozone Monitoring Instrument）载荷的Level 2甲醛观测数据，通过自主开发的过采样算法实现2013—2022年粤港澳大湾区对流层HCHO VCD的公里级监测，并分别从自然源和人为源的角度分析大湾区对流层HCHO VCD的影响因素。研究发现，2013—2022年大湾区HCHO VCD总体呈升高趋势，2022年相比于2013年HCHO VCD增长了11.3%,低值主要分布在大湾区周边地势较高地区及沿海一带，高值主要分布在大湾区中部地区，以广州、佛山、东莞为高值中心区，还包括肇庆、惠州及江门部分地区；大湾区HCHO VCD均值表现出冬季&lt;春季&lt;秋季&lt;夏季的周期性规律。肇庆、东莞、广州和佛山表现出冬季&lt;春季&lt;秋季&lt;夏季，惠州表现出冬季&lt;秋季&lt;春季&lt;夏季，沿海城市包括江门、中山、深圳、香港和珠海表现出冬季&lt;春季&lt;夏季&lt;秋季；大湾区植被的增加对甲醛柱浓度的增长有正向贡献，但不太显著。夜间灯光辐射强度与对流层HCHO VCD的相关系数不高，而大湾区年度GDP与对流层HCHO VCD表现出显著的正相关关系，表明GDP的增长对对流层甲醛柱浓度的升高具有重要贡献。",
+    "关键词": [
+        "粤港澳大湾区",
+        "对流层甲醛",
+        "挥发性有机物",
+        "OMI",
+        "过采样"
+    ],
+    "基金资助": [
+        "国家重点研发资助项目(2021YFE0117300)",
+        "国家自然科学基金资助项目(42401435)"
+    ],
+    "专辑": "基础科学;工程科技Ⅰ辑",
+    "专题": "环境科学与资源利用",
+    "分类号": "X51",
+    "页码": "26-35",
+    "页数": "10",
+    "爬取时间": "2025-03-26 06:07:38",
+    "论文唯一代码": "GUDZ202406003"
+}
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "共建“一带一路”电影视听美学的数字动力、文化动能与美学愿景",
+    "状态": "正常",
+    "发表期刊": "电影评介",
+    "刊发时间": "2024-12-15",
+    "引用量": "0",
+    "下载量": "34",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "陈丽莉",
+            "author_addresses": "河北民族师范学院美术与设计学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "胡晓婧",
+            "author_addresses": "河北民族师范学院美术与设计学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "23",
+    "摘要": " 本文以“一带一路”倡议为背景，分析新语境下电影视听美学的数字动力，结合个性表达、互动交流等文化动能，积极探索电影视听美学的发展愿景。采用文献研究法和案例分析法，梳理“一带一路”倡议提出以来的电影作品，从受众、作者和传播等视角分析电影视听美学的数字动力，探寻共建“一带一路”电影视听美学的文化动能，并从共同体美学、电影工业美学和现实主义美学等角度，提出电影视听美学的未来愿景。我国电影艺术应聚焦受众审美期待，充分汲取数字美学，通过完善创作者与受众互动交流机制，创新电影视听审美呈现形式，将共同体美学、电影工业美学等更多美学理念投入电影创作中去，激活共建“一带一路”国家受众的审美体验，为中西方文化传播、交流提供鲜活素材。",
+    "关键词": [
+        "“一带一路”",
+        "视听美学",
+        "数字动力",
+        "文化动能",
+        "美学愿景"
+    ],
+    "基金资助": [
+        "“2021-2025年‘全国科普教育基地’建设”(编号：KPJD2022130040)阶段性成果"
+    ],
+    "专辑": "哲学与人文科学;信息科技",
+    "专题": "戏剧电影与电视艺术;文化;计算机软件及计算机应用",
+    "分类号": "J901;G125;TP399",
+    "页码": "60-65",
+    "页数": "6",
+    "爬取时间": "2025-03-26 06:07:46",
+    "论文唯一代码": "DYPJ202423010"
+}
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "基于OBE理念的化工分离工程课程教学改革实践",
+    "状态": "正常",
+    "发表期刊": "化纤与纺织技术",
+    "刊发时间": "2024-12-15",
+    "引用量": "0",
+    "下载量": "28",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李楠楠",
+            "author_addresses": "河北民族师范学院化学与化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "马闯",
+            "author_addresses": "河北民族师范学院化学与化工学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "53 ",
+    "期(Issue)": "12",
+    "摘要": " 随着新工科建设的全面深化，成果导向教育（outcomes-based education, OBE）理念已经成为高等教育改革的重要方向。文章针对化工分离工程教学过程中存在的问题，探讨基于OBE理念的课程教学改革实践路径，即通过做细学情分析、明确课程目标、优化课程的设计、更新课程实施方式、完善形成性评价与反馈机制，加强课程资源建设并进行持续改进，重视末端落实，旨在提升课程的教学质量，提高学生学习成效，助力培养符合时代发展需求的化工类专业人才。",
+    "关键词": [
+        "OBE理念",
+        "化工分离工程",
+        "形成性评价",
+        "教学改革"
+    ],
+    "基金资助": [
+        "2023-2024年度河北省高等教育教学改革研究与实践项目“产教融合视域下应用型专业人才培养模式的探索与实践”（2023GJJG532）"
+    ],
+    "专辑": "工程科技Ⅰ辑;工程科技Ⅱ辑;社会科学Ⅱ辑",
+    "专题": "有机化工;工业通用技术及设备;高等教育",
+    "分类号": "TQ028-4;G642",
+    "页码": "195-197",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:07:56",
+    "论文唯一代码": "GDHQ202412063"
+}
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "地方高校物理师范生核心素养培育路径研究——以河北民族师范学院为例",
+    "状态": "正常",
+    "发表期刊": "广西物理",
+    "刊发时间": "2024-12-15",
+    "引用量": "0",
+    "下载量": "20",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王慧",
+            "author_addresses": "河北民族师范学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "韩伟",
+            "author_addresses": "河北民族师范学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "hwly2006@163.com"
+        },
+        {
+            "author_order": 3,
+            "author_name": "王素新",
+            "author_addresses": "河北民族师范学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "郑文礼",
+            "author_addresses": "河北民族师范学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "45 ",
+    "期(Issue)": "04",
+    "摘要": " 在学科育人背景下，将科研素质综合实践纳入到物理学本科人才培养方案，遵循行动逻辑、依托科研平台建构了“四年一贯、理实兼修”的“四个一”实践教学模式，以期对物理学师范生物理观念的内化、科学思维的发展、科学探究能力的提升、科学态度及责任的养成等方面起到促进作用。",
+    "关键词": [
+        "科研平台",
+        "物理师范生",
+        "核心素养"
+    ],
+    "基金资助": [
+        "2023年度河北省教育科学研究“十四五”规划课题(2304316)",
+        "河北省高等教育教学改革研究与实践项目(2022GJJG525)",
+        "河北民族师范学院校级科研课题(JC2023002)"
+    ],
+    "专辑": "基础科学;社会科学Ⅱ辑",
+    "专题": "物理学;高等教育",
+    "分类号": "O4-4;G652",
+    "页码": "62-64",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:08:03",
+    "论文唯一代码": "GXWL202404018"
+}
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "β-环糊精改性壳聚糖复合材料的制备及吸附水中Cr(Ⅵ)的研究",
+    "状态": "正常",
+    "发表期刊": "山东化工",
+    "刊发时间": "2024-12-08",
+    "引用量": "0",
+    "下载量": "158",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "李云红",
+            "author_addresses": "河北民族师范学院资产与实验室管理中心",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "林雪梅",
+            "author_addresses": "河北民族师范学院资产与实验室管理中心",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "53 ",
+    "期(Issue)": "23",
+    "摘要": " 实验采用戊二醛交联法将β-环糊精与壳聚糖反应，成功制备了β-环糊精改性壳聚糖复合材料，并将其应用于吸附和去除水中六价铬的研究。研究结果表明：溶液pH值对β-环糊精改性壳聚糖复合材料吸附六价铬的效果呈现先增后减的趋势，当溶液pH值=5时，吸附效果最佳；随着吸附反应温度升高，吸附容量呈增加趋势，当温度达到40℃时，呈现最大值，之后趋于平衡；反应时间的延长可使吸附容量增加，300 min以后可达到90%;溶液初始质量浓度控制在400 mg/mL,吸附位点饱和，容量达到最大值。通过动力学研究发现：吸附反应在4 h以后基本平衡，符合二级动力学模型。通过热力学研究表明：吸附过程适合用Langmuir等温吸附模型描述和分析。另外研究复合材料的再生和循环利用性能，发现其具有良好的再生与循环利用性能，重复洗脱7次后对六价铬的吸附容量仍在90%以上。由此表明，复合材料不仅具有稳定性，还能够显著提升对水溶液中六价铬的吸附能力，因此将在重金属水处理领域有广阔的应用前景。",
+    "关键词": [
+        "β-环糊精",
+        "壳聚糖",
+        "吸附",
+        "回收"
+    ],
+    "基金资助": [
+        "承德市科技计划自筹经费项目(202303A106)"
+    ],
+    "专辑": "工程科技Ⅰ辑",
+    "专题": "有机化工;材料科学;环境科学与资源利用",
+    "分类号": "X703;TQ424;TB33",
+    "页码": "23-26",
+    "页数": "4",
+    "爬取时间": "2025-03-26 06:08:11",
+    "论文唯一代码": "SDHG202423007"
+}
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "古韵老腔唱新声 国家级非遗威县乱弹当代融创实践探索评析",
+    "状态": "正常",
+    "发表期刊": "中国戏剧",
+    "刊发时间": "2024-12-05",
+    "引用量": "0",
+    "下载量": "35",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "王欢",
+            "author_addresses": "河北民族师范学院音乐舞蹈学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "冀辰",
+            "author_addresses": "河北民族师范学院音乐舞蹈学院",
+            "author_addresses_note": [
+                "多个span标签下多个作者,一个单位：多个作者同样单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "12",
+    "摘要": " &lt;正&gt;威县乱弹是流行于河北省邢台市威县及周边地区的一个古老地方戏曲剧种，起源于明末清初，距今已有200多年的历史。其表演形式粗犷豪放，融合了昆腔、梆子腔、民间小调及多种曲牌的音乐元素，展现出丰富多元的艺术风貌，2008年被列入第二批国家非物质文化遗产名录。目前，威县冯庄乱弹剧团是威县乱弹唯一的传承剧团，该团在传承、保护、传播威县乱弹的道路上不辱使命，发挥着重要作用。",
+    "关键词": [],
+    "基金资助": [],
+    "专辑": "哲学与人文科学",
+    "专题": "戏剧电影与电视艺术",
+    "分类号": "J825",
+    "页码": "72-73",
+    "页数": "2",
+    "爬取时间": "2025-03-26 06:08:20",
+    "论文唯一代码": "XIJU202412030"
+}
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "脆弱生态环境下生态产品价值实现机制研究——基于扎根理论的秭归县案例分析",
+    "状态": "正常",
+    "发表期刊": "生态经济",
+    "刊发时间": "2024-12-04",
+    "引用量": "1",
+    "下载量": "1208",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "陈明叶",
+            "author_addresses": [
+                "河北民族师范学院资源与环境科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 2,
+            "author_name": "刘玉峰",
+            "author_addresses": [
+                "河北民族师范学院资源与环境科学学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 3,
+            "author_name": "周高峪",
+            "author_addresses": [
+                "秭归县林业局"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 4,
+            "author_name": "马德举",
+            "author_addresses": [
+                "秭归县林业局"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 5,
+            "author_name": "曾立雄",
+            "author_addresses": [
+                "中国林业科学研究院森林生态环境与自然保护研究所国家林业和草原局森林生态环境重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 6,
+            "author_name": "肖文发",
+            "author_addresses": [
+                "中国林业科学研究院森林生态环境与自然保护研究所国家林业和草原局森林生态环境重点实验室"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        },
+        {
+            "author_order": 7,
+            "author_name": "刘建泽",
+            "author_addresses": [
+                "北京航空航天大学经济管理学院"
+            ],
+            "author_addresses_note": [
+                "多个span标签下多个作者,有序（数字）的单位,根据sup值一一对应：多个作者多个单位，一一对应"
+            ],
+            "corresponding_author_label": "1",
+            "corresponding_author_email": "ljz89980@163.com"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "40 ",
+    "期(Issue)": "12",
+    "摘要": " 探究“两山”理念背景下生态产品价值的实现机制，以中部脆弱生态环境地区——秭归县为案例分析对象，对该县生态产品产业链相关利益主体进行实地调研，运用扎根理论构建生态产品价值实现机制模型。研究表明：生态产品价值准备阶段包括生态恢复系统化与恢复生态产业化，体现“绿水青山”向“金山银山”的过渡，为价值实现阶段提供必要物质资源及产业基础。价值实现阶段包括产业生态化与生态景观化，体现“金山银山”对“绿水青山”的反哺，为提升阶段提供良好生态基础；价值提升阶段包括景观产业化与产业融合发展，体现“绿水青山”向“金山银山”的进一步转化，推动生态产业高质量发展。据此，从政策保障与科技创新两方面提出优化生态产品价值实现的建议，以期为全面推进乡村振兴提供实践借鉴，为新时代生态文明建设提供理论参考。",
+    "关键词": [
+        "生态产品",
+        "价值实现",
+        "扎根理论",
+        "机制模型",
+        "“两山”理念",
+        "实现阶段"
+    ],
+    "基金资助": [
+        "承德市社会科学发展研究重点课题“‘两山’理论下承德生态产品价值实现机制及驱动因素研究”(20241001)",
+        "亚太森林恢复与可持续管理组织项目“中国县域尺度山水林田湖草一体化治理实践”(2021SP4-CHN-PA)",
+        "承德市应用技术研究与开发暨可持续发展议程创新示范区专项“承德生态资源数字化构建规范与价值核算模式研究”(202305B091)"
+    ],
+    "专辑": "经济与管理科学;农业科技;工程科技Ⅰ辑",
+    "专题": "环境科学与资源利用;经济体制改革",
+    "分类号": "F124.5;X22",
+    "页码": "210-219",
+    "页数": "10",
+    "爬取时间": "2025-03-26 06:08:33",
+    "论文唯一代码": "STJJ202412026"
+}
+{
+    "学校id": "4113010098",
+    "学校": "河北民族师范学院",
+    "论文类型": "期刊",
+    "论文题目": "社会主义核心价值观与承德地域非遗布糊画的融合策略研究",
+    "状态": "正常",
+    "发表期刊": "嘉应文学",
+    "刊发时间": "2024-12-01",
+    "引用量": "0",
+    "下载量": "32",
+    "作者信息": [
+        {
+            "author_order": 1,
+            "author_name": "孟子君",
+            "author_addresses": [
+                "河北民族师范学院美术与设计学院"
+            ],
+            "author_addresses_note": [
+                "单个a标签下单个单位：单个作者单个单位"
+            ],
+            "corresponding_author_label": "No or unknown",
+            "corresponding_author_email": "No record"
+        }
+    ],
+    "年份": "2024",
+    "卷(Volume)": "No record",
+    "期(Issue)": "23",
+    "摘要": " 承德布糊画是国家级非物质文化遗产（以下简称“非遗”）之一，而社会主义核心价值观是引领国家发展、引领社会进步的精神旗帜，是社会主义核心价值的集中体现。在当今时代发展背景下，将两者进行有效融合并进行传播具有重要的现实意义，也是一个非常值得深入探讨的具有时代意义的课题。近年来，对社会主义核心价值观的研究主要集中于理论以及如何践行等方面，对布糊画的研究主要集中于传承以及应用或艺术价值方面，鲜少有对布糊画与社会主义核心价值观相结合的深入研究。基于此，文章从融合策略的角度出发，对承德布糊画与社会主义核心价值观的有效融合策略进行深入探讨，试图将二者进行有机融合，为实现两者时代性与创新性的发展添砖加瓦。",
+    "关键词": [
+        "社会主义核心价值观",
+        "承德布糊画",
+        "非遗保护"
+    ],
+    "基金资助": [],
+    "专辑": "哲学与人文科学;社会科学Ⅰ辑",
+    "专题": "美术书法雕塑与摄影;思想政治教育",
+    "分类号": "D64;J205",
+    "页码": "127-129",
+    "页数": "3",
+    "爬取时间": "2025-03-26 06:08:39",
+    "论文唯一代码": "JYWX202423040"
+}
